@@ -67,7 +67,8 @@ def parse_date(item: ET.Element) -> dt.datetime | None:
         d = parsedate_to_datetime(raw)  # RFC 822 (RSS)
     except (TypeError, ValueError):
         try:
-            d = dt.datetime.fromisoformat(raw.replace("Z", "+00:00"))  # ISO 8601 (Atom)
+            # ISO 8601 (Atom)
+            d = dt.datetime.fromisoformat(raw.replace("Z", "+00:00"))
         except ValueError:
             return None
     if d.tzinfo is None:
@@ -99,11 +100,12 @@ def fetch_feed(url: str) -> list[dict]:
         title = find_text(it, "title")
         if not title:
             continue
+        published = parse_date(it) or dt.datetime.now(dt.timezone.utc)
         out.append({
             "title": title,
             "link": find_link(it),
             "source": source,
-            "published": (parse_date(it) or dt.datetime.now(dt.timezone.utc)).isoformat(),
+            "published": published.isoformat(),
             "summary": find_text(it, "description", "summary")[:500],
         })
     return out
@@ -129,9 +131,15 @@ def week_id(today: dt.date) -> tuple[str, str]:
     monday = today - dt.timedelta(days=today.weekday())
     sunday = monday + dt.timedelta(days=6)
     if monday.month == sunday.month:
-        span = f"{monday.strftime('%b')} {monday.day}-{sunday.day}, {sunday.year}"
+        span = (
+            f"{monday.strftime('%b')} {monday.day}-{sunday.day}, "
+            f"{sunday.year}"
+        )
     else:
-        span = f"{monday.strftime('%b')} {monday.day}-{sunday.strftime('%b')} {sunday.day}, {sunday.year}"
+        span = (
+            f"{monday.strftime('%b')} {monday.day}-"
+            f"{sunday.strftime('%b')} {sunday.day}, {sunday.year}"
+        )
     return f"{iso.year}-W{iso.week:02d}", f"Week of {span}"
 
 
@@ -170,7 +178,10 @@ def main(feeds_file: Path = FEEDS_FILE, out_path: Path | None = None) -> None:
         "count": len(all_items),
         "headlines": all_items,
     }
-    out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+    out_path.write_text(
+        json.dumps(payload, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
     try:
         shown = out_path.relative_to(ROOT)
     except ValueError:
@@ -182,10 +193,13 @@ def main(feeds_file: Path = FEEDS_FILE, out_path: Path | None = None) -> None:
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser(description="Fetch RSS headlines for World Patch Notes.")
-    parser.add_argument("--feeds", type=Path, default=FEEDS_FILE,
-                        help="Path to a feeds list (default: scripts/feeds.txt)")
-    parser.add_argument("--out", type=Path, default=None,
-                        help="Output JSON path (default: data/raw/<week-id>.json)")
+    parser = argparse.ArgumentParser(
+        description="Fetch RSS headlines for World Patch Notes.")
+    parser.add_argument(
+        "--feeds", type=Path, default=FEEDS_FILE,
+        help="Path to a feeds list (default: scripts/feeds.txt)")
+    parser.add_argument(
+        "--out", type=Path, default=None,
+        help="Output JSON path (default: data/raw/<week-id>.json)")
     cli = parser.parse_args()
     main(feeds_file=cli.feeds, out_path=cli.out)
