@@ -1,0 +1,13 @@
+# Raw fetched headlines are an intermediate artifact, not part of the published site.
+data/raw/
+
+# Local Claude Code settings (per-machine; not part of the project)
+.claude/settings.local.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+__pycache__/
+*.pyc

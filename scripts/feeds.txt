@@ -1,0 +1,93 @@
+# RSS feeds for World Patch Notes - one URL per line. Lines starting with '#' are ignored.
+# Broad, deep coverage. The fetcher skips any feed that fails, so it is safe to
+# over-include. Every feed below was validated as reachable; prune or add freely.
+
+# --- World / general wires ---
+https://feeds.bbci.co.uk/news/world/rss.xml
+https://www.aljazeera.com/xml/rss/all.xml
+https://feeds.npr.org/1004/rss.xml
+https://www.theguardian.com/world/rss
+https://rss.dw.com/rdf/rss-en-world
+https://www.france24.com/en/rss
+https://www.independent.co.uk/news/world/rss
+https://timesofindia.indiatimes.com/rssfeeds/296589292.cms
+
+# --- US / politics ---
+https://feeds.bbci.co.uk/news/rss.xml
+https://feeds.npr.org/1001/rss.xml
+https://www.theguardian.com/us-news/rss
+https://feeds.npr.org/1014/rss.xml
+https://thehill.com/news/feed/
+
+# --- Economy, trade & tariffs ---
+https://feeds.bbci.co.uk/news/business/rss.xml
+https://feeds.npr.org/1006/rss.xml
+https://www.theguardian.com/business/rss
+https://www.theguardian.com/business/economics/rss
+https://www.cnbc.com/id/20910258/device/rss/rss.html
+https://www.cnbc.com/id/100003114/device/rss/rss.html
+https://feeds.content.dowjones.io/public/rss/mw_topstories
+https://www.forbes.com/business/feed/
+
+# --- Markets ---
+https://www.cnbc.com/id/10000664/device/rss/rss.html
+https://www.cnbc.com/id/15839135/device/rss/rss.html
+
+# --- Science ---
+https://www.sciencedaily.com/rss/top/science.xml
+https://feeds.npr.org/1007/rss.xml
+https://phys.org/rss-feed/
+https://www.science.org/rss/news_current.xml
+https://www.newscientist.com/feed/home/
+https://www.livescience.com/feeds/all
+https://www.quantamagazine.org/feed/
+
+# --- Technology & inventions ---
+https://feeds.bbci.co.uk/news/technology/rss.xml
+https://www.theguardian.com/technology/rss
+https://feeds.arstechnica.com/arstechnica/index
+https://www.theverge.com/rss/index.xml
+https://techcrunch.com/feed/
+https://www.technologyreview.com/feed/
+https://www.wired.com/feed/rss
+https://www.engadget.com/rss.xml
+https://gizmodo.com/rss
+https://venturebeat.com/feed/
+https://www.zdnet.com/news/rss.xml
+https://www.theregister.com/headlines.atom
+https://spectrum.ieee.org/feeds/feed.rss
+
+# --- Cybersecurity ---
+https://krebsonsecurity.com/feed/
+https://www.bleepingcomputer.com/feed/
+https://feeds.feedburner.com/TheHackersNews
+https://www.darkreading.com/rss.xml
+https://www.securityweek.com/feed/
+
+# --- Space ---
+https://www.space.com/feeds/all
+https://www.nasa.gov/news-release/feed/
+https://spaceflightnow.com/feed/
+
+# --- Health & medicine ---
+https://feeds.bbci.co.uk/news/health/rss.xml
+https://www.theguardian.com/society/health/rss
+https://feeds.npr.org/1128/rss.xml
+https://www.statnews.com/feed/
+
+# --- Climate & environment ---
+https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+https://www.theguardian.com/environment/rss
+https://insideclimatenews.org/feed/
+https://e360.yale.edu/feed.xml
+https://grist.org/feed/
+
+# --- Sports (incl. football / World Cup) ---
+https://feeds.bbci.co.uk/sport/rss.xml
+https://feeds.bbci.co.uk/sport/football/rss.xml
+https://www.theguardian.com/sport/rss
+https://www.theguardian.com/football/rss
+https://www.espn.com/espn/rss/news
+https://www.espn.com/espn/rss/soccer/news
+https://www.skysports.com/rss/12040
+https://www.cbssports.com/rss/headlines/

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>World Patch Notes</title>
+  <meta name="description" content="The week's most important world events, written like software patch notes." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#">World Patch Notes</a>
+    <span class="tagline">the world, in release notes</span>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" aria-label="Available weeks">
+      <details class="legend">
+        <summary>How to read this (Legend)</summary>
+        <div class="legend-body">
+          <p class="legend-intro">World events as patch notes for a game called Earth. Each year is a <strong>season</strong>; each week is a patch.</p>
+          <dl class="legend-glossary">
+            <dt>Team</dt><dd>a country</dd>
+            <dt>Admins</dt><dd>a team's government, leaders, agencies, courts</dd>
+            <dt>Cross-server admins</dt><dd>international bodies (UN, WHO, NATO)</dd>
+            <dt>Mods</dt><dd>law enforcement (police, agents)</dd>
+            <dt>Players</dt><dd>people / the public</dd>
+            <dt>Origin</dt><dd>which team a player is from</dd>
+            <dt>Class / skill tree</dt><dd>a player's profession (legal, medic, research, combat, engineer, merchant, scout)</dd>
+            <dt>Guild</dt><dd>a company or organization</dd>
+            <dt>Whale</dt><dd>a billionaire or oligarch</dd>
+            <dt>Resource / build</dt><dd>infrastructure, energy, data centers</dd>
+            <dt>Gold / auction house</dt><dd>money / the stock market</dd>
+            <dt>Nerf / buff / patch</dt><dd>a law, tariff, or policy change</dd>
+            <dt>PvP</dt><dd>conflict or war between teams</dd>
+            <dt>Server vote</dt><dd>an election</dd>
+          </dl>
+          <div class="legend-tags">
+            <span class="tag tag-new">NEW</span>
+            <span class="tag tag-change">CHANGE</span>
+            <span class="tag tag-fix">FIX</span>
+            <span class="tag tag-buff">BUFF</span>
+            <span class="tag tag-nerf">NERF</span>
+            <span class="tag tag-deprecated">DEPRECATED</span>
+            <span class="tag tag-hotfix">HOTFIX</span>
+            <span class="tag tag-exploit">EXPLOIT</span>
+            <span class="tag tag-issue">KNOWN ISSUE</span>
+          </div>
+        </div>
+      </details>
+      <nav id="weekList" class="week-list">
+        <p class="loading">Loading weeks…</p>
+      </nav>
+    </aside>
+
+    <main id="content" class="content" aria-live="polite">
+      <p class="loading">Loading…</p>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
