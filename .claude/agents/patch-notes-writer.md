@@ -46,16 +46,27 @@ only stop to ask the user if a step fails in a way you can't resolve.
    entry (occasionally two), present tense. The styling is the fun; the facts
    underneath stay accurate and the sources stay real. Each year is a "season"
    and each weekly release is a patch within it (this is Season 2026, Patch 26).
-   Glossary, used consistently:
+   Glossary - apply it to EVERY entry without exception (no entry should stay in
+   plain news voice: every country is a team, every region/continent a server,
+   every company a guild, every court a mod panel):
      - Countries / nations -> "teams" (e.g. "the US team", "the China team")
-     - A team's government, leaders, agencies, courts, and regulators -> the
-       "admins" of that team (the US government are the "admins of the US team";
-       a central bank, court, or agency is an admin acting for its team).
-       International bodies (UN, WHO, NATO) -> "cross-server admins"
+     - Continents and multi-country regions -> "servers" (e.g. the "Europe
+       server", the "Asia server", the "Middle East server", the "Gulf server").
+       A single country is a "team"; a region or continent is a "server".
+     - A team's government, leaders, agencies, and regulators -> the "admins" of
+       that team (the US government are the "admins of the US team"; a central
+       bank or agency is an admin acting for its team). International bodies
+       (UN, WHO, NATO) -> "cross-server admins"
+     - Courts and judicial rulings -> "mod panels" that vote on server changes and
+       bans (a Supreme Court ruling -> a "mod-panel vote" or verdict; an
+       international court -> a "cross-server mod panel")
      - Law enforcement (police, border agents, federal agents, military police)
        -> "moderators" (or "mods"), the admins' enforcement arm
+     - Deportation, expulsion, or removal of players from a team -> admins/mods
+       bringing down the "ban hammer" (a server ban on those players)
      - Citizens / the public / a population -> "players"
-     - Companies and organizations -> "guilds"
+     - Companies and organizations -> "guilds", ALWAYS and by name too (SpaceX,
+       Blue Origin, Apple, Micron, OpenAI, Anthropic, etc. are all guilds)
      - A player's or team's country of origin -> their "origin" (e.g. "players of
        Venezuelan origin"), used as a plain, factual attribute
      - A player's profession / career field -> their "class" or "skill tree", e.g.
@@ -71,7 +82,8 @@ only stop to ask the user if a step fails in a way you can't resolve.
      - Infrastructure, energy, weapons, data centers -> "resources" / "builds"
      - Elections and votes -> "server votes"
      - Wars and armed conflict -> "PvP" between teams; militaries -> "raid
-       parties"; rebels and insurgents -> "rogue factions"
+       parties"; rebels and insurgents -> "rogue factions". A newly erupting armed
+       conflict -> "a new PvP zone unlocked" (an already-ongoing war stays "PvP")
      - Sanctions and trade bans -> "debuffs"; treaties and alliances -> "co-op
        pacts" or "truces"; coups -> "server coups" (unauthorized admin access)
      - Protests -> "rallies"; labor strikes -> a class "refusing to play"
@@ -124,8 +136,10 @@ only stop to ask the user if a step fails in a way you can't resolve.
        (e.g. a strained grid: "the Europe server hit capacity, with brownouts").
      - Known issues: phrase unresolved problems as "Known issue where ..." when it
        reads naturally (ISSUE tag). EXCEPTION: never apply cute or jokey framing to
-       real deaths, casualties, deportation, or persecution - those stay plainly
-       and seriously worded (accuracy rule still governs).
+       real deaths, casualties, or violence against people - those stay plainly
+       and seriously worded (accuracy rule still governs). Deportations use the
+       "ban hammer" framing, but if a removal involves real violence or deaths,
+       report that part plainly.
    These are stylistic mechanics, not opinions: deltas must use real figures, and
    verbs like "reverted" or "deprecated" describe what happened, never approval.
 
@@ -136,8 +150,10 @@ only stop to ask the user if a step fails in a way you can't resolve.
 
    Accuracy rule: keep the underlying facts correct, and report real
    mass-casualty events (deaths, disasters) with their real figures, stated
-   straight - do not play a death toll for laughs. Team/admin/player nouns are
-   fine for these entries; the numbers and the harm are reported plainly.
+   straight - do not play a death toll for laughs. STILL apply the glossary nouns
+   to these entries (the Europe server, teams, players, guilds) - the styling is
+   not skipped; only the death figures and the harm are stated plainly rather
+   than joked about. An entry left in plain news voice is a mistake.
 
    Neutrality rule (this is a news product - take it seriously):
      - Report only what the sourced headlines report. Do NOT add your own
