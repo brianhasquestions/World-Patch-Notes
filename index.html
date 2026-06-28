@@ -6,11 +6,23 @@
   <title>World Patch Notes</title>
   <meta name="description" content="The week's most important world events, written like software patch notes." />
   <link rel="stylesheet" href="styles.css" />
+  <script>
+    // Set the theme before paint (no flash): saved choice, else OS preference.
+    (function () {
+      try {
+        var saved = localStorage.getItem("theme");
+        var dark = saved ? saved === "dark"
+          : window.matchMedia("(prefers-color-scheme: dark)").matches;
+        document.documentElement.setAttribute("data-theme", dark ? "dark" : "light");
+      } catch (e) {}
+    })();
+  </script>
 </head>
 <body>
   <header class="topbar">
     <a class="brand" href="#">World Patch Notes</a>
     <span class="tagline">the world, in release notes</span>
+    <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle light or dark theme">Light</button>
   </header>
 
   <div class="layout">
@@ -31,9 +43,12 @@
             <dt>Whale</dt><dd>a billionaire or oligarch</dd>
             <dt>Resource / build</dt><dd>infrastructure, energy, data centers</dd>
             <dt>Gold / auction house</dt><dd>money / the stock market</dd>
+            <dt>In-game economy / mudflation</dt><dd>inflation (the server economy losing value)</dd>
+            <dt>Pipeline degradation</dt><dd>a falling birth rate</dd>
             <dt>Nerf / buff / patch</dt><dd>a law, tariff, or policy change</dd>
             <dt>PvP</dt><dd>conflict or war between teams</dd>
             <dt>Server vote</dt><dd>an election</dd>
+            <dt>FIFA / squad / card</dt><dd>football framed as the video game FIFA: a match, a team, a footballer</dd>
           </dl>
           <div class="legend-tags">
             <span class="tag tag-new">NEW</span>

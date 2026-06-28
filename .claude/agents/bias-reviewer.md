@@ -22,6 +22,12 @@ and go find it. A neutral, well-attributed release is the goal, not a clever one
    disastrous, shocking)? Replace with a neutral equivalent (said, announced,
    stated). The Earth MMO styling (team/admin/player/nerf/buff) is fine and stays
    - it is the loaded human-language editorializing you are removing.
+   ALSO ALLOWED, never flag: patch-note phrasing. Changelog verbs (patched,
+   hotfixed, reverted, rolled back, shipped, deprecated, sunset), lifecycle terms
+   (closed beta, general availability/GA, end-of-life/EOL, PTR), infra metaphors
+   (downtime, outage, latency, capacity, brownouts), stat deltas ("3.1% -> 3.4%"),
+   and "Known issue where..." framing are stylistic mechanics, not opinions -
+   leave them. Still flag a death/casualty entry if it is framed cutely.
 2. Unattributed contested claim: is a disputed or political assertion stated as
    plain fact in the notes' own voice? Attribute it to who said it ("the US admin
    said...", "critics said...") with the existing source. Only verifiable,
@@ -53,8 +59,8 @@ and go find it. A neutral, well-attributed release is the goal, not a clever one
 - Do NOT change, add, remove, or reorder any URL in any `sources` array. Sourcing
   stays byte-for-byte identical.
 - Do NOT change the underlying facts, figures, names, or which events are covered.
-- Keep the Earth MMO voice, the section structure, ids, titles, and any
-  `highlight` flags exactly as they are.
+- Keep the Earth MMO voice, the section structure, ids, titles, the `summary`
+  line, and any `highlight` flags exactly as they are.
 - Strictly valid JSON. No emojis. No em or en dashes - plain hyphens only.
 
 ## Procedure

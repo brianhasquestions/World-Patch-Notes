@@ -3,23 +3,30 @@
   "title": "Week of Jun 22-28, 2026",
   "version": "v2026.26",
   "released": "2026-06-28",
+  "summary": [
+    "US and Iran trade strikes then agree to halt again; Qatar to host Hormuz talks Tuesday",
+    "US admin threatens a 0% -> 100% tariff patch on EU digital taxes",
+    "In-game economy heats up (core PCE 3.1% -> 3.4%)",
+    "Europe server hits capacity in record heat",
+    "World Cup ships to the knockout round"
+  ],
   "sections": [
     {
       "category": "World & Conflict",
       "changes": [
         {
           "type": "HOTFIX",
-          "text": "The US and Iran teams traded fresh strikes days after a ceasefire memorandum, with each accusing the other of breaking the truce; the US admin said Iran 'will no longer exist' if attacks continue, while Iran's admins warned of retaliation, leaving the co-op pact in doubt.",
+          "text": "After the US and Iran teams traded fresh strikes that briefly reverted their ceasefire, both agreed to halt attacks again, with the Qatar team set to host Hormuz talks on Tuesday; the truce stayed fragile as Iran's admins threatened to halt talks and the US admin again warned Iran 'will no longer exist' if attacks continue.",
           "sources": [
-            "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
-            "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
-            "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html"
+            "https://timesofindia.indiatimes.com/world/us/us-iran-agree-to-halt-attacks-after-counter-strikes-qatar-to-host-hormuz-talks-on-tuesday/articleshow/132058740.cms",
+            "https://www.independent.co.uk/news/world/middle-east/iran-us-war-news-trump-hormuz-attack-strikes-b3004431.html",
+            "https://www.france24.com/en/middle-east/20260628-iran-threatens-to-halt-talks-after-fresh-us-strikes-attacks-bahrain-and-kuwait"
           ],
           "highlight": true
         },
         {
           "type": "ISSUE",
-          "text": "Iran's raid party launched drone and missile strikes toward the Bahrain and Kuwait teams; Bahrain's admins called it a 'flagrant threat' and the UAE admins condemned the attacks, with analysts describing the Gulf as caught in PvP driven by proxy forces.",
+          "text": "Known issue where Iran's raid party launched drone and missile strikes toward the Bahrain and Kuwait teams; Bahrain's admins called it a 'flagrant threat' and the UAE admins condemned the attacks, with analysts describing the Gulf as caught in PvP driven by proxy forces.",
           "sources": [
             "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east"
           ]
@@ -36,7 +43,7 @@
         },
         {
           "type": "CHANGE",
-          "text": "Ukraine's raid party intensified long-range drone strikes on Russian oil refineries and a weapons plant; Russia's admin acknowledged a 'difficult period' and warned of fuel shortages as the strikes hit resources thousands of kilometres behind the front.",
+          "text": "Ukraine's raid party intensified long-range drone strikes on Russian oil refineries and a weapons plant; Russia's admin acknowledged a 'difficult period' and warned of fuel shortages as the strikes hit resources thousands of kilometres behind the front, threatening refinery capacity and fuel-supply downtime.",
           "sources": [
             "https://www.france24.com/en/europe/20260628-ukraine-drone-assault-ignites-russian-oil-refinery-as-putin-acknowledges-difficult-period",
             "https://timesofindia.indiatimes.com/world/europe/ukraine-strikes-major-russian-oil-refinery-in-drone-barrage-two-killed/articleshow/132050217.cms",
@@ -113,7 +120,7 @@
         },
         {
           "type": "NERF",
-          "text": "Uganda's military chief ordered the shutdown of major media outlets, saying 'I do not believe in free press', constraining the scout class on the Uganda team.",
+          "text": "Uganda's military chief ordered the shutdown of major media outlets, saying 'I do not believe in free press', a debuff that constrains the scout class on the Uganda team.",
           "sources": [
             "https://timesofindia.indiatimes.com/world/rest-of-world/i-do-not-believe-in-free-press-uganda-military-chief-orders-media-shutdown-of-major-outlets/articleshow/132048074.cms",
             "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss"
@@ -135,7 +142,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "A Balochistan activist's life sentence raised fears of unrest on the Pakistan team, Deutsche Welle reported.",
+          "text": "Known issue where a Balochistan activist's life sentence raised fears of unrest on the Pakistan team, Deutsche Welle reported.",
           "sources": [
             "https://www.dw.com/en/balochistan-activist-s-life-sentence-raises-fear-of-unrest/a-77721686?maca=en-rss-en-world-4025-rdf"
           ]
@@ -154,7 +161,7 @@
       "changes": [
         {
           "type": "NERF",
-          "text": "The US admin threatened a 100% tariff patch on EU teams that impose a digital tax on tech guilds; the EU admins had not finalised a response, per Guardian and BBC reporting.",
+          "text": "The US admin threatened a 0% -> 100% tariff patch on EU teams that impose a digital tax on tech guilds; the EU admins had not finalised a response, per Guardian and BBC reporting.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
             "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss"
@@ -163,7 +170,7 @@
         },
         {
           "type": "NERF",
-          "text": "The UK admin said it will halve tariff-free steel imports to counter a glut of cheap Chinese metal, a debuff aimed at protecting the UK team's steel merchants.",
+          "text": "The UK admin said it will halve tariff-free steel imports, a 100% -> 50% quota cut to counter a glut of cheap Chinese metal, a debuff aimed at protecting the UK team's steel merchants.",
           "sources": [
             "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal"
           ]
@@ -177,14 +184,14 @@
         },
         {
           "type": "BUFF",
-          "text": "The US admin issued sweeping Iran oil sanctions waivers, unlocking billions in gold revenue for the Tehran admins as part of the peace deal, CNBC reported.",
+          "text": "The US admin issued sweeping Iran oil sanctions waivers, rolling back a debuff to unlock billions in gold revenue for the Tehran admins as part of the peace deal, CNBC reported.",
           "sources": [
             "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
           ]
         },
         {
           "type": "FIX",
-          "text": "Shipping rebounded in the Strait of Hormuz a week after the US-Iran deal, though a UN agency paused a ship-evacuation plan after a vessel was attacked and Iran warned ships not to transit without approval, CNBC reported.",
+          "text": "Shipping rebounded in the Strait of Hormuz a week after the US-Iran deal, recovering from the outage, though a UN agency paused a ship-evacuation plan after a vessel was attacked and Iran warned ships not to transit without approval, CNBC reported.",
           "sources": [
             "https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html",
             "https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html",
@@ -198,7 +205,7 @@
       "changes": [
         {
           "type": "CHANGE",
-          "text": "The economy-admin's preferred inflation gauge rose to a three-year high, with core PCE hitting 3.4% in May; the US admin eased pressure on Fed Chairman Kevin Warsh as inflation topped 4%, CNBC and the Guardian reported.",
+          "text": "The in-game economy ran hot, with mudflation at a three-year high: core PCE ticked 3.1% -> 3.4% in May and headline mudflation topped 4%, as the US admin eased pressure on Fed Chairman Kevin Warsh, CNBC and the Guardian reported.",
           "sources": [
             "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
             "https://www.theguardian.com/business/2026/jun/25/us-may-inflation-gauge-three-year-high",
@@ -208,7 +215,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "Economy-admins signalled the lending cooldown may tighten: Minneapolis Fed's Kashkari said he expects a rate hike this year, while Chicago Fed's Goolsbee said inflation is too high, CNBC reported.",
+          "text": "Economy-admins signalled the lending cooldown may tighten: Minneapolis Fed's Kashkari said he expects a rate hike this year, while Chicago Fed's Goolsbee said the in-game economy is running too hot (mudflation too high), CNBC reported.",
           "sources": [
             "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
             "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html"
@@ -240,14 +247,14 @@
         },
         {
           "type": "ISSUE",
-          "text": "Factory job cuts in June neared financial-crisis and Covid-era levels, S&P said, signalling strain on the US team's manufacturing class, CNBC reported.",
+          "text": "Known issue where factory job cuts in June neared financial-crisis and Covid-era levels, S&P said, signalling strain on the US team's manufacturing class, CNBC reported.",
           "sources": [
             "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
           ]
         },
         {
           "type": "CHANGE",
-          "text": "The oil price fell back to pre-Iran-war levels as more tankers exited the Strait of Hormuz, easing fuel costs, BBC reported.",
+          "text": "The oil price reverted to pre-Iran-war levels as more tankers exited the Strait of Hormuz, easing fuel costs, BBC reported.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cn8k4pek3gzo?at_medium=RSS&at_campaign=rss"
           ]
@@ -318,7 +325,7 @@
       "changes": [
         {
           "type": "NEW",
-          "text": "OpenAI unveiled its GPT-5.6 Sol, Terra and Luna models but limited access to a small group of trusted partners at the US admin's request; the company said such restrictions should not become the norm, VentureBeat and TechCrunch reported.",
+          "text": "OpenAI unveiled its GPT-5.6 Sol, Terra and Luna models but kept them in closed beta with a small group of trusted partners at the US admin's request; the company said such restrictions should not become the norm, VentureBeat and TechCrunch reported.",
           "sources": [
             "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
             "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
@@ -328,7 +335,7 @@
         },
         {
           "type": "NEW",
-          "text": "The US admin allowed the Anthropic guild to release its Mythos AI model to more than 100 US companies and government agencies, TechCrunch and CNBC reported.",
+          "text": "The US admin cleared the Anthropic guild to ship its Mythos AI model to general availability across more than 100 US companies and government agencies, TechCrunch and CNBC reported.",
           "sources": [
             "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
             "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html"
@@ -352,7 +359,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "A memory-chip shortage drove device price rises that tech guilds blamed on AI demand; CNBC called it an 'existential crisis' for smaller players and said it pressures laptop and smartphone retailers.",
+          "text": "Known issue where a memory-chip shortage drove device price rises that tech guilds blamed on AI demand; CNBC called it an 'existential crisis' for smaller players and said it pressures laptop and smartphone retailers.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
             "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
@@ -377,7 +384,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "The FBI warned that Russian intelligence hackers are targeting Signal backup recovery keys, and Ukraine said Russian intelligence used fake support texts to steal messaging credentials, BleepingComputer and The Hacker News reported.",
+          "text": "Known issue where the FBI warned that Russian intelligence hackers are targeting Signal backup recovery keys, and Ukraine said Russian intelligence used fake support texts to steal messaging credentials, BleepingComputer and The Hacker News reported.",
           "sources": [
             "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
             "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html"
@@ -431,7 +438,7 @@
         },
         {
           "type": "NEW",
-          "text": "The China team plans to double the size of its Tiangong space station as the ISS nears its end, expanding its orbital zone, Space.com reported.",
+          "text": "The China team plans to double the size of its Tiangong space station as the ISS nears its end-of-life (EOL), expanding its orbital zone, Space.com reported.",
           "sources": [
             "https://www.space.com/space-exploration/launches-spacecraft/china-plans-to-double-the-size-of-its-tiangong-space-station-while-the-iss-nears-its-end"
           ]
@@ -446,7 +453,7 @@
         },
         {
           "type": "CHANGE",
-          "text": "Blue Origin said it plans to fly its New Glenn rocket again this year despite a massive explosion, working to repair the damaged pad, Space.com reported.",
+          "text": "Blue Origin said it plans to fly its New Glenn rocket again this year despite a massive explosion, working around the clock to repair the damaged pad after the outage, Space.com reported.",
           "sources": [
             "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video"
           ]
@@ -458,7 +465,7 @@
       "changes": [
         {
           "type": "NEW",
-          "text": "The NHS made available the first drug to delay the onset of type 1 diabetes, a new recipe for the medic tree, the BBC reported.",
+          "text": "The NHS shipped the first drug to delay the onset of type 1 diabetes, a new recipe for the medic tree, the BBC reported.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss"
           ]
@@ -472,7 +479,7 @@
         },
         {
           "type": "CHANGE",
-          "text": "The US admin ordered health programs to move away from overdose prevention, and the FDA said it would discuss easing restrictions on peptides despite safety concerns, the Guardian reported.",
+          "text": "The US admin deprecated health programs aimed at overdose prevention, ordering a move away from them, and the FDA said it would discuss easing restrictions on peptides despite safety concerns, the Guardian reported.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/jun/26/trump-administration-overdose-prevention-health-program",
             "https://www.theguardian.com/us-news/2026/jun/26/fda-peptide-restrictions"
@@ -516,7 +523,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "Europe's extreme heat strained the power grid and shut down some power plants, MIT Technology Review reported.",
+          "text": "Known issue where Europe's extreme heat pushed the power grid to capacity and forced some power plants into downtime, MIT Technology Review reported.",
           "sources": [
             "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
             "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/"
@@ -548,7 +555,7 @@
         },
         {
           "type": "CHANGE",
-          "text": "A US appeals court rejected the Trump EPA's bid to abandon a rule restricting deadly soot pollution, while California's landmark anti-plastics law drew anger as 17 states moved to sue, the Guardian reported.",
+          "text": "A US appeals court rejected the Trump EPA's bid to roll back a rule restricting deadly soot pollution, while California's landmark anti-plastics law drew anger as 17 states moved to sue, the Guardian reported.",
           "sources": [
             "https://www.theguardian.com/environment/2026/jun/27/trump-epa-court-ruling-soot-pollution",
             "https://www.theguardian.com/environment/2026/jun/26/california-single-use-plastic-law"
@@ -582,7 +589,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "Wired reported that an Ivanka Trump and Jared Kushner-linked island resort plan could bring down Albania's prime minister, as 'Flamingo Revolution' protests grew, Wired and Deutsche Welle reported.",
+          "text": "Known issue where Wired reported that an Ivanka Trump and Jared Kushner-linked island resort plan could bring down Albania's prime minister, as 'Flamingo Revolution' protests grew, Wired and Deutsche Welle reported.",
           "sources": [
             "https://www.wired.com/story/ivanka-and-jareds-island-resort-could-bring-down-albanias-prime-minister/",
             "https://www.dw.com/en/albania-s-flamingo-revolution-what-s-behind-the-protests/a-77710991?maca=en-rss-en-world-4025-rdf"
@@ -595,7 +602,7 @@
       "changes": [
         {
           "type": "CHANGE",
-          "text": "The 48-team World Cup ranked tournament moved into the knockout round of 32 after a record-breaking group stage that produced 215 goals; France ranked No. 1 in power rankings as underdogs advanced, France 24 and CBS Sports reported.",
+          "text": "Players grinding FIFA's 48-squad World Cup mode shipped to the knockout round of 32 after a record-breaking group stage that produced 215 goals; the France squad ranked No. 1 in power rankings as underdog squads advanced, France 24 and CBS Sports reported.",
           "sources": [
             "https://www.france24.com/en/tv-shows/world-cup-debrief/20260628-world-cup-2026-215-goals-in-record-breaking-group-stage",
             "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
@@ -604,7 +611,7 @@
         },
         {
           "type": "BUFF",
-          "text": "Lionel Messi scored again to keep Argentina perfect through the group stage, breaking another record as the guild advanced, ESPN and BBC reported.",
+          "text": "The Argentina squad's Lionel Messi card kept popping off, scoring again to finish the group stage perfect and break another record as the squad advanced in FIFA's World Cup mode, ESPN and BBC reported.",
           "sources": [
             "https://www.espn.com/soccer/story/_/id/49203555/lionel-messi-scores-again-seal-perfect-group-stage-argentina-world-cup",
             "https://www.bbc.co.uk/sport/football/videos/c621584j680o?at_medium=RSS&at_campaign=rss"
@@ -612,14 +619,14 @@
         },
         {
           "type": "BUFF",
-          "text": "Harry Kane became England's all-time top World Cup scorer as the England guild beat Panama to top its group and set up a last-32 tie with DR Congo, who advanced via a comeback win over Uzbekistan, BBC reported.",
+          "text": "England's Harry Kane card became the squad's all-time top World Cup scorer as the England squad beat the Panama squad to top its group and set up a last-32 tie with DR Congo, whose squad advanced via a comeback win over Uzbekistan, BBC reported.",
           "sources": [
             "https://www.bbc.co.uk/sport/football/articles/cly9kp827ndo?at_medium=RSS&at_campaign=rss"
           ]
         },
         {
           "type": "CHANGE",
-          "text": "Croatia, led by Luka Modric, beat Ghana to reach the knockout round, while Belgium advanced and New Zealand were sent packing from the tournament, CBS Sports and Guardian reported.",
+          "text": "The Croatia squad, carried by its Luka Modric card, beat the Ghana squad to reach the knockout round, while the Belgium squad advanced and the New Zealand squad was knocked out of FIFA's World Cup mode, CBS Sports and Guardian reported.",
           "sources": [
             "https://www.cbssports.com/soccer/news/croatia-luka-modric-world-cup-win-ghana/",
             "https://www.theguardian.com/football/2026/jun/27/new-zealand-belgium-world-cup-group-g-match-report"
@@ -627,7 +634,7 @@
         },
         {
           "type": "BUFF",
-          "text": "US Soccer offered head coach Mauricio Pochettino a contract renewal through the 2030 World Cup, a roster move locking in the USMNT's leadership, the Guardian reported.",
+          "text": "US Soccer offered the player on the controller, head coach Mauricio Pochettino, a contract renewal through the 2030 World Cup, a roster move locking in the USMNT squad's leadership, the Guardian reported.",
           "sources": [
             "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-extension-us-soccer-world-cup"
           ]

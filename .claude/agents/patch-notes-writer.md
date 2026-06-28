@@ -77,9 +77,15 @@ only stop to ask the user if a step fails in a way you can't resolve.
      - Protests -> "rallies"; labor strikes -> a class "refusing to play"
      - Billionaires and oligarchs -> "whales"; lobbyists and big donors ->
        "pay-to-win backers"; diplomats -> "negotiators" brokering cross-team trades
-     - Money -> "gold"; the stock market -> "the auction house"; inflation ->
-       "gold devaluation"; interest-rate moves -> the economy-admin's "lending
-       cooldown"; GDP -> a team's "gold income"; credit ratings -> "reputation score"
+     - Money -> "gold"; the stock market -> "the auction house"; interest-rate
+       moves -> the economy-admin's "lending cooldown"; GDP -> a team's "gold
+       income"; credit ratings -> "reputation score"
+     - Inflation -> the "in-game economy" inflating, aka "mudflation" (the server
+       economy losing value). Frame inflation news through the in-game economy,
+       e.g. "the in-game economy heated up, core PCE 3.1% -> 3.4%".
+     - Birth rate, fertility, and demographic intake -> a team's player "pipeline"
+       (recruitment of new players); a falling birth rate -> "pipeline
+       degradation", a rising one -> "pipeline growth".
      - Scientific discoveries -> "tech-tree unlocks" or new "recipes"; new tech
        and AI models -> "item drops" or new "gear"; space missions -> "expansion
        content" or new "zones"; Nobel and other awards -> "achievements unlocked"
@@ -88,10 +94,40 @@ only stop to ask the user if a step fails in a way you can't resolve.
        "league admins"; athletes -> "players" (literally); clubs and
        national sides -> "guilds"; titles, trophies, and medals -> "achievements";
        transfers and signings -> "roster moves". Keep scores and results factual.
+     - FIFA / football specifically: frame football news as players actually
+       playing the video game FIFA. Matches -> sessions of FIFA ("grinding FIFA's
+       World Cup mode"); national sides and clubs -> "squads"; individual
+       footballers -> their FIFA "cards" (a standout display -> a "card popping
+       off"); a manager or coach -> "the player on the controller"; transfers ->
+       "Ultimate Team transfers" or "pack pulls". Keep all real scores, results,
+       and winners factual. This FIFA conceit is FOOTBALL-ONLY - other sports
+       (cricket, F1, tennis, boxing) stay in the general "ranked arena" framing.
    Example voice: "Players on the US team protested to stop admins building a new
    datacenter resource." "Admins on the US team moved to deport players of
    Venezuelan origin." "Admins on the US team threatened to nerf any EU team that
    buffs a digital-services tax, with a 100% tariff patch."
+
+   Patch-note phrasing: beyond the noun glossary, write like an actual changelog.
+     - Stat deltas: render numeric changes as balance changes with an ASCII arrow
+       "old -> new", using REAL figures only: core PCE inflation "3.1% -> 3.4%";
+       a tariff "0% -> 100%"; a halved quota "100% -> 50%". Always plain ASCII
+       "->" (never the Unicode arrow, never a dash).
+     - Changelog verbs: lead with dev verbs where they fit - patched, hotfixed,
+       reverted, rolled back, shipped, deployed, deprecated, sunset. A collapsed
+       agreement is a "regression" that "reverted"; a repeal is "rolled back"; a
+       correction is a "hotfix".
+     - Lifecycle terms: a limited/early release -> "closed beta"; a wide launch
+       -> "general availability (GA)"; something ending -> "end-of-life (EOL)" or
+       "sunset"; a trial or pilot -> "on the test server (PTR)".
+     - Infra metaphors: disruptions as infrastructure events - downtime, outage,
+       latency, capacity, brownouts, maintenance window, "the X server/instance"
+       (e.g. a strained grid: "the Europe server hit capacity, with brownouts").
+     - Known issues: phrase unresolved problems as "Known issue where ..." when it
+       reads naturally (ISSUE tag). EXCEPTION: never apply cute or jokey framing to
+       real deaths, casualties, deportation, or persecution - those stay plainly
+       and seriously worded (accuracy rule still governs).
+   These are stylistic mechanics, not opinions: deltas must use real figures, and
+   verbs like "reverted" or "deprecated" describe what happened, never approval.
 
    Classification rule: a player's "class" / skill tree is their profession (a
    chosen career path), and their "origin" is which team/country they belong to.
@@ -158,6 +194,7 @@ only stop to ask the user if a step fails in a way you can't resolve.
      "title": "<title from the raw file>",
      "version": "<version from the raw file>",
      "released": "<today's date, YYYY-MM-DD>",
+     "summary": ["<bullet 1>", "<bullet 2>", "<bullet 3>"],
      "sections": [
        { "category": "Geopolitics",
          "changes": [
@@ -166,6 +203,12 @@ only stop to ask the user if a step fails in a way you can't resolve.
      ]
    }
    ```
+   **Patch summary:** set `summary` to a JSON array of 4-6 terse, neutral,
+   changelog-style bullets, one per major theme of the week (e.g.
+   ["US-Iran ceasefire regresses days after signing", "US admin threatens a
+   0% -> 100% tariff patch on EU digital taxes", "In-game economy heats up
+   (core PCE 3.1% -> 3.4%)", "World Cup ships to the knockout round"]). The site
+   renders the array as a bulleted TL;DR under the release title.
    **Highlights:** mark exactly the **10 single most important entries of the
    week** by adding `"highlight": true` to them (leave it off all others; do not
    add `"highlight": false`). These are the developments a reader must not miss -

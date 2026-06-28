@@ -18,6 +18,22 @@ const els = {
   content: document.getElementById("content"),
 };
 
+// Theme toggle: flip data-theme on <html> and remember the choice.
+// The initial theme is set by an inline script in <head> (before paint).
+const themeToggle = document.getElementById("themeToggle");
+function syncThemeButton() {
+  const dark = document.documentElement.getAttribute("data-theme") === "dark";
+  themeToggle.textContent = dark ? "Light" : "Dark"; // label shows the target mode
+}
+themeToggle.addEventListener("click", () => {
+  const dark = document.documentElement.getAttribute("data-theme") === "dark";
+  const next = dark ? "light" : "dark";
+  document.documentElement.setAttribute("data-theme", next);
+  try { localStorage.setItem("theme", next); } catch (e) { /* ignore */ }
+  syncThemeButton();
+});
+syncThemeButton();
+
 let weeks = []; // from data/index.json, newest first
 
 async function fetchJSON(url) {
@@ -94,6 +110,16 @@ function renderRelease(week) {
       `</section>`
     : "";
 
+  // Patch summary: an array renders as a bullet list; a string as one line.
+  let summaryHTML = "";
+  if (Array.isArray(week.summary) && week.summary.length) {
+    summaryHTML = `<ul class="patch-summary">` +
+      week.summary.map((s) => `<li>${escapeHTML(s)}</li>`).join("") +
+      `</ul>`;
+  } else if (typeof week.summary === "string" && week.summary) {
+    summaryHTML = `<p class="patch-summary">${escapeHTML(week.summary)}</p>`;
+  }
+
   els.content.innerHTML =
     `<div class="release-head">` +
       `<h1>${escapeHTML(week.title || week.id)}</h1>` +
@@ -101,6 +127,7 @@ function renderRelease(week) {
         `<span class="ver">${escapeHTML(week.version || "")}</span>` +
         (week.released ? ` · released ${escapeHTML(week.released)}` : "") +
       `</div>` +
+      summaryHTML +
       (week.note ? `<p class="release-note">${escapeHTML(week.note)}</p>` : "") +
     `</div>` +
     highlightsHTML +
