@@ -143,6 +143,24 @@ only stop to ask the user if a step fails in a way you can't resolve.
    These are stylistic mechanics, not opinions: deltas must use real figures, and
    verbs like "reverted" or "deprecated" describe what happened, never approval.
 
+   Patch-note structure (write each entry like a changelog line, not a news
+   blurb - this is what makes it read like real patch notes):
+     - Drop outlet attributions. Do NOT end entries with "BBC reported", "per
+       Guardian and Reuters", "CNBC and the Guardian reported", etc. The sources
+       array (rendered as [1][2][3] links) already cites the outlets, so naming
+       them in the text is redundant and reads as news. KEEP actor attribution
+       for contested claims ("the US admin said...", "Iran's admins threatened
+       ...") - that is who MADE the claim, not who reported it, and is still
+       required.
+     - Lead with the change. Start each entry with its subject or the dev verb,
+       clipped and declarative; drop filler articles where it still reads cleanly
+       (e.g. "Europe server: capacity exceeded by a record heat wave." not "A
+       record-breaking heat wave swept Europe").
+     - Colon + stat structure. Use "Subject: outcome (stat -> stat)" with
+       parenthetical numbers, like a balance note. Keep deltas in ASCII "->".
+   Plain text only - no markdown bold/asterisks (the site renders text verbatim).
+   Stay terse but keep each entry understandable on its own.
+
    Classification rule: a player's "class" / skill tree is their profession (a
    chosen career path), and their "origin" is which team/country they belong to.
    Both are allowed as neutral attributes. Do NOT classify or label players by
@@ -169,9 +187,10 @@ only stop to ask the user if a step fails in a way you can't resolve.
        response or position if it appears in the sources. Never present one
        team's framing as the truth.
      - Corroboration: prefer developments reported by two or more independent
-       outlets, and when feasible cite outlets of differing leanings for the
-       same entry. When sources genuinely conflict, say so rather than choosing
-       a side. Strip each outlet's spin and keep the shared, factual core.
+       outlets, and when feasible include outlets of differing leanings in the
+       entry's `sources` (the [1][2][3] links - NOT named inline in the text).
+       When sources genuinely conflict, say so rather than choosing a side.
+       Strip each outlet's spin and keep the shared, factual core.
      - Even-handedness: expressive tags are good and encouraged - BUFF, NERF, and
        FIX are not biased in themselves. The rule is consistency, not avoidance.
        A tag names the concrete mechanical effect on the party most directly

@@ -16,7 +16,7 @@
       "changes": [
         {
           "type": "HOTFIX",
-          "text": "After the US and Iran teams traded fresh strikes that briefly reverted their ceasefire, both agreed to halt attacks again, with the Qatar team set to host Hormuz talks on Tuesday; the truce stayed fragile as Iran's admins threatened to halt talks and the US admin again warned Iran 'will no longer exist' if attacks continue.",
+          "text": "US-Iran ceasefire reverted then re-patched: both teams traded fresh strikes, then agreed to halt attacks again, with the Qatar team set to host Hormuz talks Tuesday. Truce stayed fragile as Iran's admins threatened to halt talks and the US admin again warned Iran 'will no longer exist' if attacks continue.",
           "sources": [
             "https://timesofindia.indiatimes.com/world/us/us-iran-agree-to-halt-attacks-after-counter-strikes-qatar-to-host-hormuz-talks-on-tuesday/articleshow/132058740.cms",
             "https://www.independent.co.uk/news/world/middle-east/iran-us-war-news-trump-hormuz-attack-strikes-b3004431.html",
@@ -26,14 +26,14 @@
         },
         {
           "type": "ISSUE",
-          "text": "Known issue where Iran's raid party launched drone and missile strikes toward the Bahrain and Kuwait teams; Bahrain's admins called it a 'flagrant threat' and the UAE admins condemned the attacks, with analysts describing the Gulf server as caught in PvP driven by proxy forces.",
+          "text": "Known issue where Iran's raid party launched drone and missile strikes toward the Bahrain and Kuwait teams. Bahrain's admins called it a 'flagrant threat' and the UAE admins condemned the attacks; analysts described the Gulf server as caught in PvP driven by proxy forces.",
           "sources": [
             "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east"
           ]
         },
         {
           "type": "ISSUE",
-          "text": "Venezuela's death toll from twin earthquakes rose past 1,430 players as rescuers searched rubble for survivors; scientists said the quakes struck faults they had previously flagged, and the interim admin pledged to save 'as many as possible'.",
+          "text": "Venezuela twin earthquakes: death toll rose past 1,430 players as rescuers searched rubble for survivors. Scientists said the quakes struck faults they had previously flagged, and the interim admin pledged to save 'as many as possible'.",
           "sources": [
             "https://www.france24.com/en/venezuela-death-toll-reaches-1-430",
             "https://www.science.org/content/article/venezuela-s-double-earthquake-struck-faults-scientists-had-flagged",
@@ -43,7 +43,7 @@
         },
         {
           "type": "CHANGE",
-          "text": "Ukraine's raid party intensified long-range drone strikes on Russian oil refineries and a weapons plant; Russia's admin acknowledged a 'difficult period' and warned of fuel shortages as the strikes hit resources thousands of kilometres behind the front, threatening refinery capacity and fuel-supply downtime.",
+          "text": "Ukraine's raid party intensified long-range drone strikes on Russian oil refineries and a weapons plant. Russia's admin acknowledged a 'difficult period' and warned of fuel shortages as the strikes hit resources thousands of kilometres behind the front, threatening refinery capacity and fuel-supply downtime.",
           "sources": [
             "https://www.france24.com/en/europe/20260628-ukraine-drone-assault-ignites-russian-oil-refinery-as-putin-acknowledges-difficult-period",
             "https://timesofindia.indiatimes.com/world/europe/ukraine-strikes-major-russian-oil-refinery-in-drone-barrage-two-killed/articleshow/132050217.cms",
@@ -53,7 +53,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "Israel's raid party struck southern Lebanon, testing a days-old peace deal; Hezbollah condemned the strikes and a framework agreement signed with the Israel team spurred protest and criticism inside Lebanon.",
+          "text": "Israel's raid party struck southern Lebanon, testing a days-old peace deal. Hezbollah condemned the strikes, and a framework agreement signed with the Israel team spurred protest and criticism inside Lebanon.",
           "sources": [
             "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
             "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss"
@@ -61,7 +61,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "Israel's raid party killed Palestinian players, including siblings, in attacks on tent camps in Gaza and bulldozed olive groves in the occupied West Bank, per Al Jazeera and Independent reporting.",
+          "text": "Israel's raid party killed Palestinian players, including siblings, in attacks on tent camps in Gaza, and bulldozed olive groves in the occupied West Bank.",
           "sources": [
             "https://www.independent.co.uk/news/world/middle-east/gaza-israel-attacks-palestinian-children-killed-b3004437.html",
             "https://www.aljazeera.com/video/newsfeed/2026/6/28/israeli-forces-bulldoze-olive-groves-in-the-occupied-west-bank?traffic_source=rss"
@@ -69,14 +69,14 @@
         },
         {
           "type": "CHANGE",
-          "text": "The Pakistan team's mods carried out 'calibrated strikes' near the Afghanistan border, saying 29 fighters from a rogue faction were killed.",
+          "text": "Pakistan team's mods carried out 'calibrated strikes' near the Afghanistan border, saying 29 fighters from a rogue faction were killed.",
           "sources": [
             "https://timesofindia.indiatimes.com/world/pakistan/pakistan-carries-out-calibrated-strikes-near-afghanistan-border-29-militants-killed/articleshow/132058492.cms"
           ]
         },
         {
           "type": "ISSUE",
-          "text": "A Saudi Aramco helicopter crashed, killing all 14 players aboard, the guild and admins confirmed.",
+          "text": "Saudi Aramco helicopter crashed, killing all 14 players aboard, the guild and admins confirmed.",
           "sources": [
             "https://www.dw.com/en/saudi-aramco-helicopter-crashes-all-14-passengers-killed/a-77744020?maca=en-rss-en-world-4025-rdf",
             "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
@@ -84,7 +84,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "A skydiving plane crashed near Nancy in eastern France, killing all 11 players on board.",
+          "text": "Skydiving plane crashed near Nancy in eastern France, killing all 11 players on board.",
           "sources": [
             "https://www.france24.com/en/france/20260628-skydiving-plane-crashes-in-france-killing-all-11-people-on-board"
           ]
@@ -96,7 +96,7 @@
       "changes": [
         {
           "type": "CHANGE",
-          "text": "Anti-independence parties led provisional results in New Caledonia's first provincial server vote since 2019 riots, a key test of the French Pacific territory's future, France 24 reported.",
+          "text": "New Caledonia provincial server vote: anti-independence parties led provisional results in the first such vote since 2019 riots, a key test of the French Pacific territory's future.",
           "sources": [
             "https://www.france24.com/en/new-caledonia-provisional-results-show-anti-independence-parties-lead",
             "https://www.france24.com/en/video/20260628-new-caledonia-votes-high-stakes-in-france-s-pacific-territory"
@@ -104,7 +104,7 @@
         },
         {
           "type": "CHANGE",
-          "text": "Serbia's admin Vucic said he would step aside and open a path to early server votes; protesters pressed on, saying they doubt his resignation will bring change.",
+          "text": "Serbia's admin Vucic said he would step aside and open a path to early server votes. Protesters pressed on, saying they doubt his resignation will bring change.",
           "sources": [
             "https://www.france24.com/en/video/20260628-serbia-s-vu%C4%8Di%C4%87-to-resign-opening-path-to-early-elections-amid-political-tensions",
             "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss"
@@ -112,7 +112,7 @@
         },
         {
           "type": "EXPLOIT",
-          "text": "Iraq's mods raided Baghdad's Green Zone and arrested senior officials and lawmakers in an anti-corruption crackdown, state and Al Jazeera reports said.",
+          "text": "Iraq's mods raided Baghdad's Green Zone and arrested senior officials and lawmakers in an anti-corruption crackdown.",
           "sources": [
             "https://timesofindia.indiatimes.com/world/middle-east/iraqi-security-forces-raid-baghdad-green-zone-arrest-mps-and-senior-officials-in-anti-corruption-crackdown/articleshow/132048592.cms",
             "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss"
@@ -128,28 +128,28 @@
         },
         {
           "type": "CHANGE",
-          "text": "Zimbabwe's senate approved extending the admin's presidential term, a move critics called a 'constitutional coup', the Guardian reported.",
+          "text": "Zimbabwe's senate approved extending the admin's presidential term, a move critics called a 'constitutional coup'.",
           "sources": [
             "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term"
           ]
         },
         {
           "type": "ISSUE",
-          "text": "A player of Somali origin was jailed for three years after criticising the Somali admin online, drawing outrage from rights groups, the Guardian reported.",
+          "text": "A player of Somali origin was jailed for three years after criticising the Somali admin online, drawing outrage from rights groups.",
           "sources": [
             "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement"
           ]
         },
         {
           "type": "ISSUE",
-          "text": "Known issue where a Balochistan activist's life sentence raised fears of unrest on the Pakistan team, Deutsche Welle reported.",
+          "text": "Known issue where a Balochistan activist's life sentence raised fears of unrest on the Pakistan team.",
           "sources": [
             "https://www.dw.com/en/balochistan-activist-s-life-sentence-raises-fear-of-unrest/a-77721686?maca=en-rss-en-world-4025-rdf"
           ]
         },
         {
           "type": "ISSUE",
-          "text": "Cross-server admins at the EU faced criticism over plans to host Taliban representatives in Brussels, the Guardian reported.",
+          "text": "Cross-server admins at the EU faced criticism over plans to host Taliban representatives in Brussels.",
           "sources": [
             "https://www.theguardian.com/world/2026/jun/23/eu-faces-fierce-criticism-plans-host-taliban-brussels"
           ]
@@ -161,7 +161,7 @@
       "changes": [
         {
           "type": "NERF",
-          "text": "The US admin threatened a 0% -> 100% tariff patch on EU teams that impose a digital tax on tech guilds; the EU admins had not finalised a response, per Guardian and BBC reporting.",
+          "text": "US admin threatened a 0% -> 100% tariff patch on EU teams that impose a digital tax on tech guilds; the EU admins had not finalised a response.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
             "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss"
@@ -170,28 +170,28 @@
         },
         {
           "type": "NERF",
-          "text": "The UK admin said it will halve tariff-free steel imports, a 100% -> 50% quota cut to counter a glut of cheap Chinese metal, a debuff aimed at protecting the UK team's steel merchants.",
+          "text": "UK admin said it will halve tariff-free steel imports, a 100% -> 50% quota cut to counter a glut of cheap Chinese metal, a debuff aimed at protecting the UK team's steel merchants.",
           "sources": [
             "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal"
           ]
         },
         {
           "type": "CHANGE",
-          "text": "The US team competed with the Brazil team for China's giant soybean market as trade tensions reshaped global crop flows, CNBC reported.",
+          "text": "US team competed with the Brazil team for China's giant soybean market as trade tensions reshaped global crop flows.",
           "sources": [
             "https://www.cnbc.com/2026/06/23/us-fights-with-brazil-for-chinas-giant-soybean-market.html"
           ]
         },
         {
           "type": "BUFF",
-          "text": "The US admin issued sweeping Iran oil sanctions waivers, rolling back a debuff to unlock billions in gold revenue for the Tehran admins as part of the peace deal, CNBC reported.",
+          "text": "US admin issued sweeping Iran oil sanctions waivers, rolling back a debuff to unlock billions in gold revenue for the Tehran admins as part of the peace deal.",
           "sources": [
             "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
           ]
         },
         {
           "type": "FIX",
-          "text": "Shipping rebounded in the Strait of Hormuz a week after the US-Iran deal, recovering from the outage, though a UN agency paused a ship-evacuation plan after a vessel was attacked and Iran warned ships not to transit without approval, CNBC reported.",
+          "text": "Strait of Hormuz shipping rebounded a week after the US-Iran deal, recovering from the outage, though a UN agency paused a ship-evacuation plan after a vessel was attacked and Iran warned ships not to transit without approval.",
           "sources": [
             "https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html",
             "https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html",
@@ -205,7 +205,7 @@
       "changes": [
         {
           "type": "CHANGE",
-          "text": "The in-game economy ran hot, with mudflation at a three-year high: core PCE ticked 3.1% -> 3.4% in May and headline mudflation topped 4%, as the US admin eased pressure on Fed Chairman Kevin Warsh, CNBC and the Guardian reported.",
+          "text": "In-game economy ran hot, with mudflation at a three-year high: core PCE 3.1% -> 3.4% in May and headline mudflation topped 4%, as the US admin eased pressure on Fed Chairman Kevin Warsh.",
           "sources": [
             "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
             "https://www.theguardian.com/business/2026/jun/25/us-may-inflation-gauge-three-year-high",
@@ -215,7 +215,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "Economy-admins signalled the lending cooldown may tighten: Minneapolis Fed's Kashkari said he expects a rate hike this year, while Chicago Fed's Goolsbee said the in-game economy is running too hot (mudflation too high), CNBC reported.",
+          "text": "Lending cooldown may tighten: Minneapolis Fed's Kashkari said he expects a rate hike this year, while Chicago Fed's Goolsbee said the in-game economy is running too hot (mudflation too high).",
           "sources": [
             "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
             "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html"
@@ -223,7 +223,7 @@
         },
         {
           "type": "DEPRECATED",
-          "text": "Alan Greenspan, the former Federal Reserve chair who long set the US team's lending cooldown, died at age 100, CNBC and NPR reported.",
+          "text": "Alan Greenspan, the former Federal Reserve chair who long set the US team's lending cooldown, died at age 100.",
           "sources": [
             "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html",
             "https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies"
@@ -231,7 +231,7 @@
         },
         {
           "type": "BUFF",
-          "text": "Memory-chip guild Micron's revenue quadrupled as AI-driven prices soared, with its stock jumping and margins overtaking Nvidia and Meta, CNBC reported.",
+          "text": "Memory-chip guild Micron: revenue quadrupled as AI-driven prices soared, with its stock jumping and margins overtaking Nvidia and Meta.",
           "sources": [
             "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
             "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html"
@@ -239,7 +239,7 @@
         },
         {
           "type": "BUFF",
-          "text": "Cross-team banks cleared the Fed's stress test, which found US banks could withstand $708 billion in losses; JPMorgan unveiled a $50 billion buyback and Goldman Sachs raised its dividend, CNBC reported.",
+          "text": "Cross-team banks cleared the Fed's stress test, which found US banks could withstand $708 billion in losses; JPMorgan unveiled a $50 billion buyback and Goldman Sachs raised its dividend.",
           "sources": [
             "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
             "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html"
@@ -247,21 +247,21 @@
         },
         {
           "type": "ISSUE",
-          "text": "Known issue where factory job cuts in June neared financial-crisis and Covid-era levels, S&P said, signalling strain on the US team's manufacturing class, CNBC reported.",
+          "text": "Known issue where June factory job cuts neared financial-crisis and Covid-era levels, S&P said, signalling strain on the US team's manufacturing class.",
           "sources": [
             "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
           ]
         },
         {
           "type": "CHANGE",
-          "text": "The oil price reverted to pre-Iran-war levels as more tankers exited the Strait of Hormuz, easing fuel costs, BBC reported.",
+          "text": "Oil price reverted to pre-Iran-war levels as more tankers exited the Strait of Hormuz, easing fuel costs.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cn8k4pek3gzo?at_medium=RSS&at_campaign=rss"
           ]
         },
         {
           "type": "ISSUE",
-          "text": "Jeremy Grantham said the auction house is 'the most expensive market in American history', warning of stretched valuations amid the AI boom, CNBC reported.",
+          "text": "Jeremy Grantham said the auction house is 'the most expensive market in American history', warning of stretched valuations amid the AI boom.",
           "sources": [
             "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html"
           ]
@@ -273,7 +273,7 @@
       "changes": [
         {
           "type": "NEW",
-          "text": "NASA's Perseverance rover found a record-breaking trove of complex organic molecules in Mars rocks, which researchers said are possible signs of ancient life, Live Science and Space.com reported.",
+          "text": "NASA's Perseverance rover found a record-breaking trove of complex organic molecules in Mars rocks, which researchers said are possible signs of ancient life.",
           "sources": [
             "https://www.livescience.com/space/mars/nasa-rover-finds-record-breaking-trove-of-complex-organic-molecules-on-mars",
             "https://www.space.com/astronomy/mars/did-nasa-just-find-evidence-of-ancient-life-on-mars-perseverance-rover-spots-complex-carbon-in-red-planet-rocks"
@@ -282,21 +282,21 @@
         },
         {
           "type": "NEW",
-          "text": "IBM unveiled a sub-1nm chip cramming 100 billion transistors onto a fingernail-sized space, a tech-tree unlock the guild said could extend Moore's Law another decade, Live Science reported.",
+          "text": "IBM unveiled a sub-1nm chip cramming 100 billion transistors onto a fingernail-sized space, a tech-tree unlock the guild said could extend Moore's Law another decade.",
           "sources": [
             "https://www.livescience.com/technology/computing/ibm-creates-first-sub-1-nm-computer-chip-100-billion-transistors"
           ]
         },
         {
           "type": "NEW",
-          "text": "The Euclid space telescope captured the most detailed image yet of the Milky Way's centre, showing over 60 million stars and 50 exoplanet systems, Space.com reported.",
+          "text": "Euclid space telescope captured the most detailed image yet of the Milky Way's centre, showing over 60 million stars and 50 exoplanet systems.",
           "sources": [
             "https://www.space.com/astronomy/galaxies/this-is-the-largest-and-most-detailed-image-of-our-milky-way-with-over-60-million-stars-and-50-exoplanet-systems"
           ]
         },
         {
           "type": "NEW",
-          "text": "Astronomers discovered two 'super-puff' exoplanets lighter than cotton candy, the lightest gas giants ever found, while the James Webb telescope caught six galaxies merging into one of the largest galaxies known, Space.com reported.",
+          "text": "Astronomers discovered two 'super-puff' exoplanets lighter than cotton candy, the lightest gas giants ever found, while the James Webb telescope caught six galaxies merging into one of the largest galaxies known.",
           "sources": [
             "https://www.space.com/astronomy/exoplanets/two-super-puff-cotton-candy-exoplanets-are-the-lightest-gas-giants-ever-discovered",
             "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-catches-6-galaxies-merging-into-one-of-the-largest-galaxies-in-the-universe"
@@ -304,7 +304,7 @@
         },
         {
           "type": "NEW",
-          "text": "Researchers identified the first dinosaur fossil from Antarctica, and a separate study found ancient human DNA on cave art for the first time, BBC and New Scientist reported.",
+          "text": "Researchers identified the first dinosaur fossil from Antarctica, and a separate study found ancient human DNA on cave art for the first time.",
           "sources": [
             "https://www.bbc.co.uk/news/videos/c8r2074l0rmo?at_medium=RSS&at_campaign=rss",
             "https://www.newscientist.com/article/2532130-ancient-human-dna-found-on-cave-art-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
@@ -312,7 +312,7 @@
         },
         {
           "type": "CHANGE",
-          "text": "New clues suggested early Homo sapiens may have lived in rainforests, while researchers found some of the last surviving Neanderthals were remarkably genetically diverse, Live Science reported.",
+          "text": "New clues suggested early Homo sapiens may have lived in rainforests, while researchers found some of the last surviving Neanderthals were remarkably genetically diverse.",
           "sources": [
             "https://www.livescience.com/archaeology/human-evolution/early-homo-sapiens-may-have-lived-in-rainforests-new-clues-suggest-and-it-could-overturn-our-understanding-of-human-evolution",
             "https://www.livescience.com/archaeology/neanderthals/some-of-the-last-surviving-neanderthals-were-remarkably-diverse-suggesting-inbreeding-didnt-doom-them"
@@ -325,7 +325,7 @@
       "changes": [
         {
           "type": "NEW",
-          "text": "OpenAI unveiled its GPT-5.6 Sol, Terra and Luna models but kept them in closed beta with a small group of trusted partners at the US admin's request; the company said such restrictions should not become the norm, VentureBeat and TechCrunch reported.",
+          "text": "OpenAI unveiled its GPT-5.6 Sol, Terra and Luna models but kept them in closed beta with a small group of trusted partners at the US admin's request; the company said such restrictions should not become the norm.",
           "sources": [
             "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
             "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
@@ -335,7 +335,7 @@
         },
         {
           "type": "NEW",
-          "text": "The US admin cleared the Anthropic guild to ship its Mythos AI model to general availability across more than 100 US companies and government agencies, TechCrunch and CNBC reported.",
+          "text": "US admin cleared the Anthropic guild to ship its Mythos AI model to general availability across more than 100 US companies and government agencies.",
           "sources": [
             "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
             "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html"
@@ -343,7 +343,7 @@
         },
         {
           "type": "EXPLOIT",
-          "text": "Anthropic accused the Alibaba guild of the largest Claude cloning attack, saying the China-team rival illicitly extracted AI capabilities and should be punished, Ars Technica and BBC reported.",
+          "text": "Anthropic accused the Alibaba guild of the largest Claude cloning attack, saying the China-team rival illicitly extracted AI capabilities and should be punished.",
           "sources": [
             "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
             "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss"
@@ -351,7 +351,7 @@
         },
         {
           "type": "NERF",
-          "text": "Apple raised iPad and MacBook prices by up to nearly 20%, blaming chip costs amid the AI boom, and posted its worst stock day in over a year; Xbox also raised console prices, CNBC and BBC reported.",
+          "text": "Apple raised iPad and MacBook prices by up to nearly 20%, blaming chip costs amid the AI boom, and posted its worst stock day in over a year; Xbox also raised console prices.",
           "sources": [
             "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
             "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss"
@@ -359,7 +359,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "Known issue where a memory-chip shortage drove device price rises that tech guilds blamed on AI demand; CNBC called it an 'existential crisis' for smaller players and said it pressures laptop and smartphone retailers.",
+          "text": "Known issue where a memory-chip shortage drove device price rises that tech guilds blamed on AI demand; analysts called it an 'existential crisis' for smaller players and said it pressures laptop and smartphone retailers.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
             "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
@@ -368,7 +368,7 @@
         },
         {
           "type": "BUFF",
-          "text": "The China team claimed the world's fastest supercomputer, building the resource despite US restrictions, Wired and The Verge reported.",
+          "text": "China team claimed the world's fastest supercomputer, building the resource despite US restrictions.",
           "sources": [
             "https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/",
             "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer"
@@ -376,7 +376,7 @@
         },
         {
           "type": "EXPLOIT",
-          "text": "A data breach exposed up to 14.2 million email logins across six ISPs, while a supply-chain attack drained $3 million from Polymarket customers, BleepingComputer reported.",
+          "text": "Data breach exposed up to 14.2 million email logins across six ISPs, while a supply-chain attack drained $3 million from Polymarket customers.",
           "sources": [
             "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
             "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/"
@@ -384,7 +384,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "Known issue where the FBI warned that Russian intelligence hackers are targeting Signal backup recovery keys, and Ukraine said Russian intelligence used fake support texts to steal messaging credentials, BleepingComputer and The Hacker News reported.",
+          "text": "Known issue where the FBI warned that Russian intelligence hackers are targeting Signal backup recovery keys, and Ukraine said Russian intelligence used fake support texts to steal messaging credentials.",
           "sources": [
             "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
             "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html"
@@ -392,7 +392,7 @@
         },
         {
           "type": "EXPLOIT",
-          "text": "Russian hackers were behind a $2.5 billion hack of the Jaguar Land Rover guild, and Scattered Spider hackers pleaded guilty on the first day of their trial, TechCrunch and Krebs on Security reported.",
+          "text": "Russian hackers were behind a $2.5 billion hack of the Jaguar Land Rover guild, and Scattered Spider hackers pleaded guilty on the first day of their trial.",
           "sources": [
             "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
             "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/"
@@ -400,7 +400,7 @@
         },
         {
           "type": "NERF",
-          "text": "Australia's admin doubled the maximum penalty for platforms that breach its social media ban, as age bans spread globally and big tech guilds faced a reckoning, Engadget and Guardian reported.",
+          "text": "Australia's admin doubled the maximum penalty for platforms that breach its social media ban, as age bans spread globally and big tech guilds faced a reckoning.",
           "sources": [
             "https://www.engadget.com/2203358/australia-doubles-maximum-penalty-social-media-ban/",
             "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
@@ -409,7 +409,7 @@
         },
         {
           "type": "NEW",
-          "text": "Grand Theft Auto VI pre-orders opened with the Rockstar guild confirming a download-only launch with no disc and a roughly 70-pound price; Valve's Steam Machine launched at 879 pounds, citing component costs, Guardian and BBC reported.",
+          "text": "Grand Theft Auto VI pre-orders opened with the Rockstar guild confirming a download-only launch with no disc and a roughly 70-pound price; Valve's Steam Machine launched at 879 pounds, citing component costs.",
           "sources": [
             "https://www.theguardian.com/games/2026/jun/25/grand-theft-auto-vi-pre-orders-open",
             "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
@@ -423,7 +423,7 @@
       "changes": [
         {
           "type": "NEW",
-          "text": "The SpaceX guild named its AI megaconstellation 'Starmind' and plans to launch Starlink mobile service in the US, expanding its orbital builds, Space.com and Ars Technica reported.",
+          "text": "SpaceX guild named its AI megaconstellation 'Starmind' and plans to launch Starlink mobile service in the US, expanding its orbital builds.",
           "sources": [
             "https://www.space.com/space-exploration/launches-spacecraft/another-star-is-born-spacex-names-ai-megaconstellation-starmind",
             "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/"
@@ -431,21 +431,21 @@
         },
         {
           "type": "ISSUE",
-          "text": "A NASA audit found canceled Artemis hardware contracts reached $5.9 billion in builds the team may never use, Space.com reported.",
+          "text": "NASA audit found canceled Artemis hardware contracts reached $5.9 billion in builds the team may never use.",
           "sources": [
             "https://www.space.com/space-exploration/artemis/nasa-spent-usd5-9-billion-on-artemis-program-hardware-it-may-never-use"
           ]
         },
         {
           "type": "NEW",
-          "text": "The China team plans to double the size of its Tiangong space station as the ISS nears its end-of-life (EOL), expanding its orbital zone, Space.com reported.",
+          "text": "China team plans to double the size of its Tiangong space station as the ISS nears its end-of-life (EOL), expanding its orbital zone.",
           "sources": [
             "https://www.space.com/space-exploration/launches-spacecraft/china-plans-to-double-the-size-of-its-tiangong-space-station-while-the-iss-nears-its-end"
           ]
         },
         {
           "type": "NEW",
-          "text": "Next-generation crewed Moon rovers are being readied for deployment ahead of the Artemis 4 crew, and NASA's Nancy Grace Roman Space Telescope arrived in Florida ahead of launch, Spaceflight Now reported.",
+          "text": "Next-generation crewed Moon rovers are being readied for deployment ahead of the Artemis 4 crew, and NASA's Nancy Grace Roman Space Telescope arrived in Florida ahead of launch.",
           "sources": [
             "https://spaceflightnow.com/2026/06/26/next-gen-astronaut-moon-rovers-aim-for-deployment-ahead-of-artemis-4-crew-arrival/",
             "https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/"
@@ -453,7 +453,7 @@
         },
         {
           "type": "CHANGE",
-          "text": "The Blue Origin guild said it plans to fly its New Glenn rocket again this year despite a massive explosion, working around the clock to repair the damaged pad after the outage, Space.com reported.",
+          "text": "Blue Origin guild said it plans to fly its New Glenn rocket again this year despite a massive explosion, working around the clock to repair the damaged pad after the outage.",
           "sources": [
             "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video"
           ]
@@ -465,21 +465,21 @@
       "changes": [
         {
           "type": "NEW",
-          "text": "The NHS shipped the first drug to delay the onset of type 1 diabetes, a new recipe for the medic tree, the BBC reported.",
+          "text": "NHS shipped the first drug to delay the onset of type 1 diabetes, a new recipe for the medic tree.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss"
           ]
         },
         {
           "type": "CHANGE",
-          "text": "Consultants and specialist doctors in England took strike action over pay, a medic class refusing to play, the BBC reported.",
+          "text": "Consultants and specialist doctors in England took strike action over pay, a medic class refusing to play.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/c14y72vkv3yo?at_medium=RSS&at_campaign=rss"
           ]
         },
         {
           "type": "CHANGE",
-          "text": "The US admin deprecated health programs aimed at overdose prevention, ordering a move away from them, and the FDA said it would discuss easing restrictions on peptides despite safety concerns, the Guardian reported.",
+          "text": "US admin deprecated health programs aimed at overdose prevention, ordering a move away from them, and the FDA said it would discuss easing restrictions on peptides despite safety concerns.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/jun/26/trump-administration-overdose-prevention-health-program",
             "https://www.theguardian.com/us-news/2026/jun/26/fda-peptide-restrictions"
@@ -487,21 +487,21 @@
         },
         {
           "type": "ISSUE",
-          "text": "New evidence cast doubt on testimony that admin RFK Jr gave before the Senate, the Guardian reported.",
+          "text": "New evidence cast doubt on testimony that admin RFK Jr gave before the Senate.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/jun/25/rfk-jr-senate-testimony-samoa-visit"
           ]
         },
         {
           "type": "NEW",
-          "text": "Researchers pinpointed one underlying cause of inflammatory bowel disease in a new study, a tech-tree unlock for the medic class, Live Science reported.",
+          "text": "Researchers pinpointed one underlying cause of inflammatory bowel disease in a new study, a tech-tree unlock for the medic class.",
           "sources": [
             "https://www.livescience.com/health/immune-system/one-underlying-cause-of-inflammatory-bowel-disease-pinpointed-in-new-study"
           ]
         },
         {
           "type": "ISSUE",
-          "text": "A leading conservationist of Lebanese origin died after an Israel team airstrike on her home, NPR reported.",
+          "text": "A leading conservationist of Lebanese origin died after an Israel team airstrike on her home.",
           "sources": [
             "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike"
           ]
@@ -513,7 +513,7 @@
       "changes": [
         {
           "type": "ISSUE",
-          "text": "A record-breaking heat wave pushed the Europe server past capacity and was linked to more than 1,300 excess deaths, with the Germany team hitting 41.7C and the France team reporting around 1,000 deaths in a week; researchers in the research tree attributed the intensity to climate change, BBC, France 24 and Phys.org reported.",
+          "text": "Europe server: capacity exceeded by a record-breaking heat wave, linked to more than 1,300 excess deaths. Germany team hit 41.7C and the France team reported around 1,000 deaths in a week; researchers in the research tree attributed the intensity to climate change.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
             "https://www.france24.com/en/europe/20260628-more-than-1-300-excess-deaths-linked-to-record-breaking-europe-heatwave-who-says",
@@ -523,7 +523,7 @@
         },
         {
           "type": "ISSUE",
-          "text": "Known issue where the Europe server's extreme heat pushed the power grid to capacity and forced some power plants into downtime, MIT Technology Review reported.",
+          "text": "Known issue where the Europe server's extreme heat pushed the power grid to capacity and forced some power plants into downtime.",
           "sources": [
             "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
             "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/"
@@ -531,7 +531,7 @@
         },
         {
           "type": "BUFF",
-          "text": "The US team's top mod panel voted in favor of the Roundup maker, blocking thousands of cancer lawsuits over the weedkiller's warning labels, a favorable verdict for the Bayer-Monsanto guild, STAT and Guardian reported.",
+          "text": "US team's top mod panel voted in favor of the Roundup maker, blocking thousands of cancer lawsuits over the weedkiller's warning labels, a favorable verdict for the Bayer-Monsanto guild.",
           "sources": [
             "https://www.statnews.com/2026/06/26/health-news-supreme-court-rules-in-weedkiller-roundup-cancer-case/?utm_campaign=rss",
             "https://www.theguardian.com/business/2026/jun/25/monsanto-supreme-court-pesticide-case"
@@ -540,14 +540,14 @@
         },
         {
           "type": "FIX",
-          "text": "The US admin said chemical giant Chemours will pay $450 million to settle a 'forever chemicals' case over PFAS contamination, the Guardian reported.",
+          "text": "US admin said chemical giant Chemours will pay $450 million to settle a 'forever chemicals' case over PFAS contamination.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/jun/24/chemours-settlement-forever-chemicals"
           ]
         },
         {
           "type": "CHANGE",
-          "text": "A Paris mod panel ruled a French oil major failed to fulfill its 'vigilance' duty on climate, while the city of Paris won a partial victory over TotalEnergies in a climate-risks case, Inside Climate News and Guardian reported.",
+          "text": "Paris mod panel ruled a French oil major failed to fulfill its 'vigilance' duty on climate, while the city of Paris won a partial victory over TotalEnergies in a climate-risks case.",
           "sources": [
             "https://insideclimatenews.org/news/26062026/french-oil-major-failed-to-fulfill-vigilance-duty-on-climate-paris-court-rules/",
             "https://www.theguardian.com/world/2026/jun/25/paris-partial-victory-totalenergies-climate-risks-case"
@@ -555,7 +555,7 @@
         },
         {
           "type": "CHANGE",
-          "text": "A US appeals mod panel rejected the Trump EPA's bid to roll back a rule restricting deadly soot pollution, while California's landmark anti-plastics law drew anger as 17 teams moved to sue, the Guardian reported.",
+          "text": "US appeals mod panel rejected the Trump EPA's bid to roll back a rule restricting deadly soot pollution, while California's landmark anti-plastics law drew anger as 17 teams moved to sue.",
           "sources": [
             "https://www.theguardian.com/environment/2026/jun/27/trump-epa-court-ruling-soot-pollution",
             "https://www.theguardian.com/environment/2026/jun/26/california-single-use-plastic-law"
@@ -568,28 +568,28 @@
       "changes": [
         {
           "type": "ISSUE",
-          "text": "A US scout urged the team's top mod panel to halt a ruling forcing her to reveal sources or pay an $800-a-day fine, the Guardian reported.",
+          "text": "A US scout urged the team's top mod panel to halt a ruling forcing her to reveal sources or pay an $800-a-day fine.",
           "sources": [
             "https://www.theguardian.com/media/2026/jun/26/us-reporter-supreme-court-sources-fine"
           ]
         },
         {
           "type": "EXPLOIT",
-          "text": "Whistleblower Sarah Wynn-Williams sued the Meta guild over what she said were attempts to 'silence' her, the Guardian reported.",
+          "text": "Whistleblower Sarah Wynn-Williams sued the Meta guild over what she said were attempts to 'silence' her.",
           "sources": [
             "https://www.theguardian.com/technology/2026/jun/25/whistleblower-sarah-wynn-williams-sues-meta-attempts-to-silence-her-careless-people"
           ]
         },
         {
           "type": "CHANGE",
-          "text": "The US admin added the admin's face to select US passports for the team's 250th birthday, the BBC reported.",
+          "text": "US admin added the admin's face to select US passports for the team's 250th birthday.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss"
           ]
         },
         {
           "type": "ISSUE",
-          "text": "Known issue where Wired reported that an Ivanka Trump and Jared Kushner-linked island resort plan could bring down Albania's prime minister, as 'Flamingo Revolution' protests grew, Wired and Deutsche Welle reported.",
+          "text": "Known issue where an Ivanka Trump and Jared Kushner-linked island resort plan could bring down Albania's prime minister, as 'Flamingo Revolution' protests grew.",
           "sources": [
             "https://www.wired.com/story/ivanka-and-jareds-island-resort-could-bring-down-albanias-prime-minister/",
             "https://www.dw.com/en/albania-s-flamingo-revolution-what-s-behind-the-protests/a-77710991?maca=en-rss-en-world-4025-rdf"
@@ -602,7 +602,7 @@
       "changes": [
         {
           "type": "CHANGE",
-          "text": "Players grinding FIFA's 48-squad World Cup mode shipped to the knockout round of 32 after a record-breaking group stage that produced 215 goals; the France squad ranked No. 1 in power rankings as underdog squads advanced, France 24 and CBS Sports reported.",
+          "text": "World Cup shipped to the knockout round of 32 after a record-breaking group stage that produced 215 goals, with players grinding FIFA's 48-squad World Cup mode. France squad ranked No. 1 in power rankings as underdog squads advanced.",
           "sources": [
             "https://www.france24.com/en/tv-shows/world-cup-debrief/20260628-world-cup-2026-215-goals-in-record-breaking-group-stage",
             "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
@@ -611,7 +611,7 @@
         },
         {
           "type": "BUFF",
-          "text": "The Argentina squad's Lionel Messi card kept popping off, scoring again to finish the group stage perfect and break another record as the squad advanced in FIFA's World Cup mode, ESPN and BBC reported.",
+          "text": "Argentina squad's Lionel Messi card kept popping off, scoring again to finish the group stage perfect and break another record as the squad advanced in FIFA's World Cup mode.",
           "sources": [
             "https://www.espn.com/soccer/story/_/id/49203555/lionel-messi-scores-again-seal-perfect-group-stage-argentina-world-cup",
             "https://www.bbc.co.uk/sport/football/videos/c621584j680o?at_medium=RSS&at_campaign=rss"
@@ -619,14 +619,14 @@
         },
         {
           "type": "BUFF",
-          "text": "England's Harry Kane card became the squad's all-time top World Cup scorer as the England squad beat the Panama squad to top its group and set up a last-32 tie with DR Congo, whose squad advanced via a comeback win over Uzbekistan, BBC reported.",
+          "text": "England's Harry Kane card became the squad's all-time top World Cup scorer as the England squad beat the Panama squad to top its group and set up a last-32 tie with DR Congo, whose squad advanced via a comeback win over Uzbekistan.",
           "sources": [
             "https://www.bbc.co.uk/sport/football/articles/cly9kp827ndo?at_medium=RSS&at_campaign=rss"
           ]
         },
         {
           "type": "CHANGE",
-          "text": "The Croatia squad, carried by its Luka Modric card, beat the Ghana squad to reach the knockout round, while the Belgium squad advanced and the New Zealand squad was knocked out of FIFA's World Cup mode, CBS Sports and Guardian reported.",
+          "text": "Croatia squad, carried by its Luka Modric card, beat the Ghana squad to reach the knockout round, while the Belgium squad advanced and the New Zealand squad was knocked out of FIFA's World Cup mode.",
           "sources": [
             "https://www.cbssports.com/soccer/news/croatia-luka-modric-world-cup-win-ghana/",
             "https://www.theguardian.com/football/2026/jun/27/new-zealand-belgium-world-cup-group-g-match-report"
@@ -634,21 +634,21 @@
         },
         {
           "type": "BUFF",
-          "text": "US Soccer offered the player on the controller, head coach Mauricio Pochettino, a contract renewal through the 2030 World Cup, a roster move locking in the USMNT squad's leadership, the Guardian reported.",
+          "text": "US Soccer offered the player on the controller, head coach Mauricio Pochettino, a contract renewal through the 2030 World Cup, a roster move locking in the USMNT squad's leadership.",
           "sources": [
             "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-extension-us-soccer-world-cup"
           ]
         },
         {
           "type": "DEPRECATED",
-          "text": "England Test captain Ben Stokes announced his retirement from international cricket, calling it the 'best thing' for him, as New Zealand closed on a series win, BBC reported.",
+          "text": "England Test captain Ben Stokes announced his retirement from international cricket, calling it the 'best thing' for him, as New Zealand closed on a series win.",
           "sources": [
             "https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss"
           ]
         },
         {
           "type": "BUFF",
-          "text": "George Russell held off Max Verstappen to win the Austrian Grand Prix, his second victory of the season, boosting his F1 title hopes, ESPN and Sky Sports reported.",
+          "text": "George Russell held off Max Verstappen to win the Austrian Grand Prix, his second victory of the season, boosting his F1 title hopes.",
           "sources": [
             "https://www.espn.com/f1/story/_/id/49173953/austrian-grand-prix-formula-1-george-russell-holds-dicey-max-verstappen-take-victory",
             "https://www.skysports.com/f1/news/12040/13558494/austrian-gp-george-russell-holds-off-max-verstappen-to-end-winless-streak-and-reinvigorate-title-bid"
@@ -656,14 +656,14 @@
         },
         {
           "type": "BUFF",
-          "text": "Jaron 'Boots' Ennis survived a scare to stop Xander Zayas and unify the 154-pound titles in what the Guardian called an instant classic, an achievement unlocked, the Guardian reported.",
+          "text": "Jaron 'Boots' Ennis survived a scare to stop Xander Zayas and unify the 154-pound titles, an achievement unlocked in what was called an instant classic.",
           "sources": [
             "https://www.theguardian.com/sport/2026/jun/28/jaron-ennis-xander-zayas-fight-boxing-result"
           ]
         },
         {
           "type": "NEW",
-          "text": "Wimbledon began with the Williams sisters returning and Andy Murray taking a new role, while players were reported to be split over prize-money protests, BBC reported.",
+          "text": "Wimbledon began with the Williams sisters returning and Andy Murray taking a new role, while players were reported to be split over prize-money protests.",
           "sources": [
             "https://www.bbc.co.uk/sport/tennis/articles/c0qypk51v7do?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/sport/tennis/articles/c5yzjjkxy59o?at_medium=RSS&at_campaign=rss"
@@ -671,7 +671,7 @@
         },
         {
           "type": "FIX",
-          "text": "A Court of Arbitration for Sport mod panel ruled Lazio Women must pay compensation in a pregnancy-discrimination case, a settlement for the affected player, the Guardian and BBC reported.",
+          "text": "Court of Arbitration for Sport mod panel ruled Lazio Women must pay compensation in a pregnancy-discrimination case, a settlement for the affected player.",
           "sources": [
             "https://www.theguardian.com/football/2026/jun/24/lazio-women-cas-pregnancy-discrimination-ruling-maja-gothberg",
             "https://www.bbc.co.uk/sport/football/articles/cwyewx9l7j0o?at_medium=RSS&at_campaign=rss"
@@ -679,7 +679,7 @@
         },
         {
           "type": "CHANGE",
-          "text": "Novak Djokovic took a new job as an advisor to private-equity firm General Atlantic, a roster move off the court, TechCrunch reported.",
+          "text": "Novak Djokovic took a new job as an advisor to private-equity firm General Atlantic, a roster move off the court.",
           "sources": [
             "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/"
           ]

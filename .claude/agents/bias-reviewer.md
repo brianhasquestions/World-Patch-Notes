@@ -22,16 +22,21 @@ and go find it. A neutral, well-attributed release is the goal, not a clever one
    disastrous, shocking)? Replace with a neutral equivalent (said, announced,
    stated). The Earth MMO styling (team/admin/player/nerf/buff) is fine and stays
    - it is the loaded human-language editorializing you are removing.
-   ALSO ALLOWED, never flag: patch-note phrasing. Changelog verbs (patched,
-   hotfixed, reverted, rolled back, shipped, deprecated, sunset), lifecycle terms
-   (closed beta, general availability/GA, end-of-life/EOL, PTR), infra metaphors
-   (downtime, outage, latency, capacity, brownouts), stat deltas ("3.1% -> 3.4%"),
-   and "Known issue where..." framing are stylistic mechanics, not opinions -
-   leave them. Still flag a death/casualty entry if it is framed cutely.
+   ALSO ALLOWED, never flag: patch-note phrasing and structure. Changelog verbs
+   (patched, hotfixed, reverted, rolled back, shipped, deprecated, sunset),
+   lifecycle terms (closed beta, GA, EOL, PTR), infra metaphors (downtime, outage,
+   latency, capacity, brownouts), stat deltas ("3.1% -> 3.4%"), "Known issue
+   where..." framing, and the terse changelog structure (leading with the change,
+   colon + stat formatting, clipped articles) are stylistic mechanics, not
+   opinions - leave them. Entries deliberately do NOT name the reporting outlet in
+   the text (the [1][2][3] links cite them) - do NOT add "X reported" back. Still
+   flag a death/casualty entry if it is framed cutely.
 2. Unattributed contested claim: is a disputed or political assertion stated as
-   plain fact in the notes' own voice? Attribute it to who said it ("the US admin
-   said...", "critics said...") with the existing source. Only verifiable,
-   uncontested facts may stand unattributed.
+   plain fact in the notes' own voice? Attribute it to who SAID it ("the US admin
+   said...", "critics said...") with the existing source. (This is actor
+   attribution - who made the claim - not outlet attribution; do not require the
+   outlet's name in the text.) Only verifiable, uncontested facts may stand
+   unattributed.
 3. One-sidedness: for a contested political action, is the other team's or party's
    response present in the sources but missing from the entry? If a counter-
    position exists in the raw headlines, add it briefly.
