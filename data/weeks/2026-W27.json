@@ -1,0 +1,604 @@
+{
+  "id": "2026-W27",
+  "title": "Week of Jun 29-Jul 5, 2026",
+  "version": "v2026.27",
+  "released": "2026-07-05",
+  "summary": [
+    "Iran's admins hold six-day funeral for slain Supreme Leader Khamenei as successor Mojtaba stays out of sight",
+    "Venezuela quake death toll nears 3,000 as rescue operations wind down",
+    "US admin lets the USMCA co-op pact lapse without long-term renewal",
+    "US team's payroll growth cools to 57,000 in June, labor-pipeline participation lowest in 50 years outside Covid",
+    "Google loses final appeal on record 4.1bn euro EU antitrust fine",
+    "World Cup grinds into the quarterfinals with France, Morocco, Argentina and Egypt through"
+  ],
+  "sections": [
+    {
+      "category": "World & Conflict",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "Iran's admins opened a six-day funeral for slain Supreme Leader Ali Khamenei, drawing huge crowds in Tehran along with Hezbollah, Hamas and Houthi delegations; successor Mojtaba Khamenei stayed absent from the ceremony despite his brothers attending, and Iran's admins said calls for killing the US admin at the event show 'people can be killed but ideals can't'.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent",
+            "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
+            "https://www.dw.com/en/iran-turns-khamenei-funeral-into-show-of-power/a-77805433?maca=en-rss-en-world-4025-rdf"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Venezuela earthquake death toll climbed toward 3,000 as rescue teams wound down search operations and tens of thousands remained reported missing; families continued identifying victims at makeshift morgues more than a week after the strongest tremor in a century.",
+          "sources": [
+            "https://www.france24.com/en/rescue-teams-wind-down-operations-as-death-toll-nears-3-000",
+            "https://www.cnbc.com/2026/07/03/venezuela-earthquakes-death-toll-rises-rescue-efforts-continue.html",
+            "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "Ukraine's raid party hit a major oil terminal and port near St Petersburg with long-range drones, extending strikes deep into Russian territory; the US admin said it offered to help end the war in a 90-minute call with Russia's and Ukraine's admins ahead of a NATO summit in Turkey.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
+            "https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says?traffic_source=rss",
+            "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-world-4025-rdf"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Known issue where an unidentified cargo vessel reported coming under attack in the Red Sea, with the UK maritime body and British military confirming a fresh assault by unknown armed assailants off Yemen; separately at least 15 Yemeni government raid-party troops were killed in fighting in Hodeidah.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
+            "https://www.aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting?traffic_source=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "South Africa server saw a wave of deadly anti-migrant rallies; Nigeria's admins said two of its players were killed in the attacks, adding strain to the country's post-apartheid 'rainbow nation' framing.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/africa/south-africa-anti-migrant-protest-mandela-b3008475.html",
+            "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Mali server saw renewed coordinated attacks by rogue factions across multiple towns, while aid workers described the Sudan team's El Obeid as pummelled by drone strikes amid the country's ongoing PvP; UN peacekeepers also began leaving Lebanon as that team spirals toward what observers called a tailspin of death and destruction between Israel's raid party and Hezbollah's rogue faction.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/7/5/what-to-know-about-the-renewed-coordinated-attacks-across-mali?traffic_source=rss",
+            "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+            "https://www.independent.co.uk/news/world/middle-east/lebanon-unifil-peacekeepers-israel-hezbollah-b2993358.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Papua separatists killed a US-origin pilot in what the rogue faction called a message to the US and Indonesia teams; Indonesia's army later recovered the pilot's body. Separately, Pakistan's mods carried out airstrikes that killed dozens on the Afghanistan team's side of the border.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/02/papua-separatists-kill-american-pilot-yahukimo",
+            "https://www.theguardian.com/world/2026/jun/29/pakistan-deadly-airstrikes-afghanistan-border"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Politics & Elections",
+      "changes": [
+        {
+          "type": "CHANGE",
+          "text": "A Paris mod panel weighed an appeal verdict that could bar Marine Le Pen from France's 2027 presidential server vote, a ruling described as a moment of destiny for the far-right leader's career.",
+          "sources": [
+            "https://www.france24.com/en/paris-appeals-court-ruling-could-upend-marine-le-pen-s-2027-presidential-bid",
+            "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "FIX",
+          "text": "Keiko Fujimori was declared winner of Peru's presidential server vote, weeks after the ballot was cast.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "EXPLOIT",
+          "text": "Reform UK's Nigel Farage did not declare gifts and funds from a crypto entrepreneur convicted of fraud, Reform UK confirmed, though the party denied any rules were broken; Celtic nation admins in Scotland, Wales and Ireland separately began contingency planning for a possible breakup of the UK server should Reform UK win a future election.",
+          "sources": [
+            "https://www.theguardian.com/politics/2026/jul/05/nigel-farage-did-not-declare-gifts-from-crypto-entrepreneur-george-cottrell-says-reform-uk",
+            "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "German riot mods clashed with rallying players trying to block a far-right AfD party conference.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "DOGE, the US admin's cost-cutting task force, officially ended on July 4 as agencies moved to rehire for jobs cut under Elon Musk's earlier overhaul; House Democrats separately accused the admin of diverting the team's 250th-birthday celebration fund to a Trump-backed group instead of the official bipartisan effort.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/americas/us-politics/doge-end-elon-musk-end-trump-b3009083.html",
+            "https://www.npr.org/2026/07/02/nx-s1-5879162/freedom-250-report-house-democrats-controversy"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Known issue where infighting among Democrat-tree players, including wins by further-left candidates, is complicating Hakeem Jeffries' effort to retake the US House; Jeffries said the bigger issue remains the admin party in power.",
+          "sources": [
+            "https://www.npr.org/2026/07/03/nx-s1-5879393/could-infighting-derail-democrats-hopes-to-win-back-house",
+            "https://www.npr.org/2026/07/03/nx-s1-5879082/hakeem-jeffries-democratic-party-divisions-trump-midterms"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Known issue where a mariachi-band player detained by ICE performed the national anthem from inside detention on July 4, with fellow mariachi players demanding his release from the Texas facility.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/americas/us-politics/ice-detention-mariachi-fourth-of-july-texas-b3008995.html"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Trade & Tariffs",
+      "changes": [
+        {
+          "type": "DEPRECATED",
+          "text": "US admin declined to renew the USMCA co-op pact long-term, blocking a multi-year extension of the North America trade truce it once championed with Canada and Mexico.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+            "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "EU admins opened three months of talks with China's team over a 360 billion euro trade deficit, even as the Europe server keeps relying on Chinese-made air conditioners through the heat wave.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
+            "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "A new Canada-Alberta pipeline build will proceed after admins pledged C$150 billion to ease concerns from British Columbia and First Nations players.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Known issue where the EU's new border-check system risked 'queue chaos' at airports, prompting calls to suspend the rollout during peak holiday travel.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Economy & Markets",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "US team's June payroll growth cooled to just 57,000 (unemployment 4.2%), well below expectations despite an estimated World Cup hiring boost; private payrolls also undershot forecasts at 98,000.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
+            "https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html",
+            "https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Known issue where the US team's labor-pipeline participation rate fell to its lowest level in 50 years outside the Covid era, as more job seekers gave up looking for work.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Google guild lost its final appeal against a record EU antitrust fine, confirmed at roughly 4.1-4.7 billion euros (about $4.7 billion) for using Android to block rival guilds.",
+          "sources": [
+            "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
+            "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "EXPLOIT",
+          "text": "US admin's 2025 financial disclosure showed 327 stock purchases just before a tariff-pause announcement sent the auction house higher, and confirmed the admin earned more than $1 billion from crypto ventures in the first year back in office; separately, egg producer guilds settled with the US admin and states over a price-fixing complaint, agreeing to donate 53 million eggs after making an estimated $1.22 billion while players paid over $6 a dozen.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/americas/us-politics/trump-2025-financial-disclosure-tariffs-b3008654.html",
+            "https://www.npr.org/2026/07/02/nx-s1-5878411/trump-earned-more-than-1-billion-from-crypto-but-his-investors-didnt-fare-so-well",
+            "https://www.npr.org/2026/07/05/nx-s1-5876239-e1/egg-producers-settle-with-doj-states-over-price-fixing-complaint"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "US team's Supreme Court mod panel cemented the admin's power to fire the heads of agencies long considered independent, a ruling critics said further concentrates power with the presidency.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-trump-agency-firings-slaughter-ftc",
+            "https://www.npr.org/2026/06/29/nx-s1-5816232/supreme-court-ftc-independent-agencies-humphreys-executor"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "SpaceX guild is set to join the Nasdaq-100 index in a fast-tracked process expected to drive large ETF buying demand, following its record IPO, while Tesla guild's Q2 sales rose about 25% as backlash against whale Elon Musk appeared to cool.",
+          "sources": [
+            "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
+            "https://www.theguardian.com/technology/2026/jul/02/tesla-sales-second-quarter"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Known issue where the AI-driven auction-house rally shows signs of strain: Cleveland Fed's Hammack warned AI spending could fuel mudflation and require rate hikes, while investor Michael Burry disclosed a short position against Caterpillar after its AI-rally run-up.",
+          "sources": [
+            "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
+            "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "Research guilds built a synthetic 'SpudCell' from scratch that can grow and divide through several rounds of cell division, a tech-tree unlock described as a stunning step toward building life artificially.",
+          "sources": [
+            "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+            "https://www.science.org/content/article/lab-created-spudcell-marks-major-step-toward-building-life-scratch",
+            "https://www.npr.org/2026/07/02/nx-s1-5877819/researchers-have-created-a-synthetic-cell-that-can-adapt-and-learn-survival-skills"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "Ancient-DNA analysis solved a 500-year-old mystery of what killed two Medici brothers, while separate teeth found in Siberia pushed back the plague's known timeline to over 5,500 years ago.",
+          "sources": [
+            "https://www.livescience.com/archaeology/ancient-dna-analysis-solves-500-year-old-mystery-of-what-killed-2-medici-brothers",
+            "https://phys.org/news/2026-06-ancient-teeth-siberia-rewrite-plague.html"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Researchers found evidence suggesting scientists may have solved the black hole information paradox, alongside a separate discovery of 390 new gravitational-wave detections revealing a hidden population of black holes.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/06/260624025506.htm",
+            "https://www.sciencedaily.com/releases/2026/06/260625060203.htm"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Antarctica's first confirmed dinosaur fossil, found tucked away in a museum drawer, belonged to a group of the largest land animals ever known.",
+          "sources": [
+            "https://phys.org/news/2026-06-rare-dinosaur-fossil-antarctica-tucked.html",
+            "https://www.livescience.com/animals/dinosaurs/antarcticas-first-dinosaur-fossil-belonged-to-a-group-of-the-largest-animals-ever"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Scientists discovered a deep-sleep brain circuit linked to building muscle, burning fat and boosting cognition, and separately identified brains that appear to resist Alzheimer's disease.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/06/260626030433.htm",
+            "https://www.sciencedaily.com/releases/2026/06/260626125709.htm"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Technology",
+      "changes": [
+        {
+          "type": "FIX",
+          "text": "US admin lifted export-control restrictions on Anthropic's Claude models after a cybersecurity alarm had triggered them, with the guild restoring Claude Fable 5 access globally; Alibaba nonetheless kept a ban on staff using Claude Code.",
+          "sources": [
+            "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
+            "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+            "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "OpenAI guild offered the US admin a 5% equity stake, a smaller cut than lawmaker Bernie Sanders had sought, as governments from Macron's France to Modi's India roll out red-carpet treatment for AI guilds building resources on their soil.",
+          "sources": [
+            "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+            "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Known issue where US residents near proposed Pennsylvania data-center builds are mobilizing in protest, and a bipartisan Ratepayer Protection Act was said by critics to fail to shield players from the resource's true power costs.",
+          "sources": [
+            "https://www.npr.org/2026/07/05/nx-s1-5804732/proposed-data-centers-in-pennsylvania-are-leading-strangers-to-mobilize-in-protest",
+            "https://www.theguardian.com/us-news/2026/jul/05/ratepayer-protection-act-datacenters"
+          ]
+        },
+        {
+          "type": "EXPLOIT",
+          "text": "Google and the FBI disrupted the NetNut residential proxy network, cutting off roughly 2 million infected devices that powered a botnet, while Medtronic guild said hackers linked to the ShinyHunters group had accessed data on 3.8 million pacemaker and device patients.",
+          "sources": [
+            "https://www.theregister.com/security/2026/07/03/netnut-cracked-as-google-and-fbi-target-2-million-device-botnet/5266414",
+            "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+            "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/"
+          ]
+        },
+        {
+          "type": "DEPRECATED",
+          "text": "Sony guild confirmed PlayStation will end disc-based game releases in 2028, moving to a fully digital-download model, part of a broader shift as the guild repurposes its Austrian disc factory.",
+          "sources": [
+            "https://www.theguardian.com/games/2026/jul/01/sony-playstation-digital-downloads",
+            "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+            "https://www.engadget.com/2207546/sony-repurposing-austrian-playstation-disc-factory/"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "A UN report warned the rapid spread of AI resources may worsen global inequality between teams and servers, as cross-server admins separately called for global governance to avoid what they termed an AI-pocalypse.",
+          "sources": [
+            "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+            "https://www.theregister.com/ai-and-ml/2026/07/02/un-warns-of-need-for-global-governance-to-avoid-an-ai-pocalypse/5265188"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Space",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "NASA launched an emergency boost mission to stop its Swift Observatory from an uncontrolled crash back to Earth, using a private spacecraft to rendezvous with the falling telescope.",
+          "sources": [
+            "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+            "https://www.engadget.com/2207959/nasa-boost-mission-rescue-falling-swift-observatory-launched/",
+            "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "The Vera C. Rubin Observatory began filming its planned 10-year 'cosmic movie' of the universe, a new expansion of astronomy's tech tree its chief scientist said would 'blow our minds'.",
+          "sources": [
+            "https://www.newscientist.com/article/2532167-the-most-detailed-survey-of-the-universe-ever-conducted-starts-now/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "https://www.livescience.com/space/astronomy/its-more-than-a-hope-its-a-guarantee-the-vera-c-rubin-observatorys-10-year-movie-of-the-universe-is-about-to-blow-our-minds-chief-scientist-tony-tyson-says"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Known issue where researchers warned that planned fleets of up to 1.7 million satellites could be devastating for astronomy and might make ground telescopes obsolete; separately mysterious debris that washed up on Australian beaches is being probed as possible toxic space junk.",
+          "sources": [
+            "https://phys.org/news/2026-07-million-satellites-devastating-astronomy.html",
+            "https://www.space.com/astronomy/the-growing-number-of-satellites-in-orbit-could-soon-make-telescopes-obsolete-for-astronomy-this-would-obviously-be-catastrophic",
+            "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Astronauts on the space station spacewalked to repair the station's Canadarm2 robotic arm, and Amazon's Leo broadband constellation neared 400 satellites, with the guild saying it has deployed enough hardware to launch service later this year.",
+          "sources": [
+            "https://www.space.com/space-exploration/international-space-station/just-in-time-for-canada-day-spacewalking-astronauts-repair-space-stations-huge-canadarm2",
+            "https://www.theregister.com/networks/2026/07/03/amazon-leo-constellation-nears-400-satellites-as-broadband-launch-looms/5266588",
+            "https://www.cnbc.com/2026/07/02/amazon-has-deployed-enough-satellites-to-launch-leo-service-this-year.html"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Astronomers reported a potentially habitable planet just 25 light-years away, calling the find exciting, alongside continuing James Webb telescope observations of a mysterious never-before-seen substance on Pluto and Titan.",
+          "sources": [
+            "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-potentially-habitable-planet-just-25-light-years-away-this-one-is-exciting",
+            "https://www.livescience.com/space/astronomy/james-webb-telescope-may-have-discovered-a-mysterious-never-before-seen-substance-on-pluto-and-titan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Health & Medicine",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "Africa CDC confirmed a Marburg case in Uganda even as an Ebola outbreak continues in the region, while a first-ever treatment trial for Ebola Bundibugyo began in the Congo.",
+          "sources": [
+            "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
+            "https://www.science.org/content/article/first-ever-treatment-trial-ebola-bundibugyo-kicks-congo"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "England's resident doctors accepted a pay deal and ended strike action, a medic-tree class returning to play after a pay dispute; separately the British Medical Association guild said it could cut up to a third of its staff amid a cash crisis.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cwy01n5z48qo?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/society/2026/jul/04/british-medical-association-union-could-axe-staff-cash-crisis"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "UK research found women from minority backgrounds are less likely to receive epidurals during childbirth, part of a documented ethnicity pain gap in maternity care.",
+          "sources": [
+            "https://www.theguardian.com/society/2026/jul/02/women-from-minority-backgrounds-in-uk-less-likely-to-receive-epidurals-research-finds",
+            "https://www.theguardian.com/society/2026/jul/02/from-birth-until-death-how-the-ethnicity-pain-gap-follows-people-through-life"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "A device that revives eyeballs from deceased donors could make eye transplants possible, researchers said, describing early progress toward restoring vision.",
+          "sources": [
+            "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "An 11-year-old boy in Canada died of rabies after waking up with a bat on his face, health officials confirmed.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
+            "https://www.livescience.com/health/viruses-infections-disease/11-year-old-boy-in-canada-dies-from-rabies-after-waking-up-with-a-bat-on-his-face"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Climate & Energy",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "Europe server's June heat wave was linked to roughly 20,000 excess deaths in a new study; France's team alone recorded 2,025 excess deaths at the peak, a 30% surge in mortality during the hottest week, as England logged its warmest June on record.",
+          "sources": [
+            "https://www.newscientist.com/article/2532825-june-heatwave-may-have-killed-around-20000-people-in-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+            "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/world/2026/jul/03/deaths-france-surged-hottest-week-record-heatwave-june"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "A dangerous heat wave and El Nino conditions roasted the US team's 250th-birthday holiday weekend, forcing Washington DC to cancel its July 4 parade over soaring temperatures and threatening power grids during travel-heavy days.",
+          "sources": [
+            "https://phys.org/news/2026-07-dangerous-roasts-america-big-birthday.html",
+            "https://www.theguardian.com/us-news/2026/jul/04/washington-dc-fourth-of-july-parade-canceled-extreme-heat",
+            "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Record-high ocean temperatures were confirmed for June as an El Nino strengthens its grip, with UN forecasters warning the pattern is set to be 'strong'.",
+          "sources": [
+            "https://www.livescience.com/planet-earth/climate-change/uncharted-territory-record-high-ocean-temperatures-confirmed-for-june-as-el-nino-strengthens-its-grip",
+            "https://phys.org/news/2026-07-el-nino-strong.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Known issue where fast-moving wildfires forced evacuations near Greece's second-largest city, Thessaloniki, as fire crews also raced to control blazes across southern France.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/europe/thessaloniki-greece-fires-evacuation-b3009154.html",
+            "https://www.theguardian.com/world/gallery/2026/jul/03/wildfires-sweep-across-france-in-pictures"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "A new model found Greenland meltwater is adding to a weakening of the AMOC ocean current, though researchers said there is no tipping point yet in sight; a separate study suggested rising seas are making once-rare coastal floods 12 times more likely.",
+          "sources": [
+            "https://phys.org/news/2026-07-greenland-meltwater-amoc-weakening-sight.html",
+            "https://phys.org/news/2026-06-seas-rare-coastal.html"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Law & Society",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "A neo-fascist group calling itself Patriot Front marched through Washington DC on the Fourth of July, carrying a Confederate flag and wearing masks during the rally; the White House also deleted thousands of web pages about energy conservation in the middle of a heat wave.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/jul/04/neo-fascist-patriot-front-washington-dc",
+            "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "A federal mod panel denied the US admin's last-ditch effort to delay a $5.8 million payout owed to E Jean Carroll over a sexual-abuse case, rejecting a bid for more time.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/americas/us-politics/trump-e-jean-carroll-payout-defeat-b3009070.html",
+            "https://timesofindia.indiatimes.com/world/us/donald-trump-seeks-more-time-for-5-million-sexual-abuse-payout-to-e-jean-carroll-latter-senses-conspiracy/articleshow/132189787.cms"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "US admin issued 11 pardons on the eve of the country's 250th birthday, including to Clean Air Act violators.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/jul/04/trump-pardons-11-people-fourth-of-july",
+            "https://www.dw.com/en/us-president-trump-pardons-11-people-including-clean-air-act-violators/a-77829438?maca=en-rss-en-world-4025-rdf"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "At least nine monks were killed in Thailand after a boy drove a truck into a religious procession, and a roof collapse at a tutoring centre in Lahore, Pakistan killed 14 children.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
+            "https://www.theguardian.com/world/2026/jul/01/pakistan-roof-collapse-lahore-tutoring-learning-centre"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Pope Leo visited Lampedusa to spotlight missing migrants and, in a Fourth of July letter, urged the US team's admins to welcome and protect players of immigrant origin.",
+          "sources": [
+            "https://www.npr.org/2026/07/04/nx-s1-5879160/pope-leo-visits-lampedusa-to-spotlight-missing-migrants",
+            "https://www.independent.co.uk/news/world/americas/us-politics/pope-leo-july-4-letter-immigrants-lampedusa-b3008974.html"
+          ]
+        },
+        {
+          "type": "EXPLOIT",
+          "text": "A European Parliament member who had been investigating Pegasus spyware abuses discovered his own phone had been hacked with the same Pegasus spyware.",
+          "sources": [
+            "https://thehackernews.com/2026/07/european-parliament-member.html",
+            "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "changes": [
+        {
+          "type": "CHANGE",
+          "text": "World Cup ships to the quarterfinals: France squad beat Paraguay 1-0 on a Kylian Mbappe penalty despite calling the opponent's tactics 'ugly', Morocco swept co-host Canada 3-0 behind an Azzedine Ounahi brace to end the co-hosts' run, and Argentina survived a scare from Cape Verde in extra time.",
+          "sources": [
+            "https://www.espn.com/soccer/story/_/id/49271796/kylian-mbappe-penalty-leads-france-paraguay-world-cup-quarterfinals",
+            "https://www.espn.com/soccer/story/_/id/49270266/morocco-defeat-co-hosts-canada-first-team-world-cup-quarterfinals-azzedine-ounahi-soufiane-rahimi",
+            "https://www.theguardian.com/football/2026/jul/04/argentina-cape-verde-world-cup-2026-last-32-match-report"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "Egypt's squad advanced on penalties over Australia after the opposing keeper's shootout gamble backfired, and Colombia's squad beat Ghana on a Jhon Arias strike to reach the last 16; Switzerland's squad cruised past Algeria behind a Manzambi card popping off.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/jul/03/australia-egypt-world-cup-2026-last-32-match-report",
+            "https://www.theguardian.com/football/2026/jul/04/colombia-ghana-world-cup-2026-last-32-match-report",
+            "https://www.theguardian.com/football/2026/jul/03/manzambi-switzerland-world-cup-algeria-match-report"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "USMNT squad advanced despite striker Folarin Balogun's red card, with the team gearing up to face Belgium's squad in the round of 16.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/jul/01/folarin-balogun-red-card-goal-usmnt-world-cup-birthright-citizenship",
+            "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "England's squad prepared to face Mexico's squad at Estadio Azteca in the round of 16, with manager Thomas Tuchel urging players to stay calm amid a hostile reception in Mexico City and heavy security around the team hotel.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/jul/05/world-cup-last-16-england-thomas-tuchel-mexico-city-azteca",
+            "https://www.skysports.com/watch/video/13560553/england-vs-mexico-tuchel-not-concerned-about-expected-stormy-weather-in-mexico"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Women's T20 Cricket World Cup reached its final between England and Australia at Lord's, capping the tournament's knockout run.",
+          "sources": [
+            "https://www.theguardian.com/sport/live/2026/jul/05/england-v-australia-womens-t20-cricket-world-cup-final-live",
+            "https://www.skysports.com/cricket/live-blog/12040/13560606/womens-t20-world-cup-final-australia-vs-england-live-latest-cricket-score-updates-video-and-analysis-from-lords"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Jonas Vingegaard denied Tadej Pogacar to take the yellow jersey as the Tour de France began in Barcelona.",
+          "sources": [
+            "https://www.france24.com/en/vingegaard-takes-yellow-jersey-as-tour-de-france-begins-in-barcelona",
+            "https://www.bbc.co.uk/sport/cycling/articles/cvgjzdvx3v2o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "DEPRECATED",
+          "text": "Wimbledon defending champion Iga Swiatek crashed out in the fourth round, while Naomi Osaka prepared to renew her rivalry with Aryna Sabalenka.",
+          "sources": [
+            "https://www.skysports.com/watch/video/13560549/wimbledon-day-6-wrap-defending-champ-swiatek-crashes-out-whilst-fritz-tiafoe-dimitrov-advance",
+            "https://www.bbc.co.uk/sport/tennis/articles/cg53p7mn85mo?at_medium=RSS&at_campaign=rss"
+          ]
+        }
+      ]
+    }
+  ]
+}
