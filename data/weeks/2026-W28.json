@@ -1,0 +1,636 @@
+{
+  "id": "2026-W28",
+  "title": "Week of Jul 6-12, 2026",
+  "version": "v2026.28",
+  "released": "2026-07-12",
+  "summary": [
+    "US-Iran ceasefire regresses into fresh Strait of Hormuz strikes, with Iran's admins under a new supreme leader",
+    "UK admins swap out: Starmer exits, Burnham takes over as PM",
+    "US Senator Lindsey Graham dies suddenly at 71, triggering a scramble for his seat",
+    "Venezuela earthquake death toll passes 4,300 as DRC's Ebola outbreak tops 600 deaths",
+    "Apple sues guild OpenAI over alleged trade-secret theft",
+    "China lands a reusable rocket during an orbital launch for the first time",
+    "Europe server hits capacity in a deadly heatwave; nearly 100 drown in Germany alone",
+    "World Cup ships to the semifinals: England v Argentina, France v Spain"
+  ],
+  "sections": [
+    {
+      "category": "World & Conflict",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "US-Iran ceasefire regresses: both teams exchanged fresh missile and drone strikes after Iran's admins said they'd closed the Strait of Hormuz for a second time, with the US team saying it struck 140 targets overnight and insisting the strait stays open. Iran's Ali Khamenei was succeeded as supreme leader by his son Mojtaba after a funeral that drew public calls for killing Trump, who said 1,000 missiles are locked and loaded if Iran acts on the threat.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss",
+            "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+            "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Venezuela's earthquake doublet death toll passes 4,300, with nearly 17,000 players injured and thousands still missing; the team's admins and cross-server admins at the UN have appealed for financial aid as recovery strains under years of disaster-preparedness cuts.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+            "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
+            "https://insideclimatenews.org/news/11072026/venezuela-earthquakes-expose-disaster-preparedness-issues/"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "HOTFIX",
+          "text": "Iran-US PvP escalates further: after CENTCOM said it launched additional strikes aimed at degrading Iran's military, Iran's admins hit the Gulf-server teams Bahrain, Kuwait and Jordan in retaliation, and said diplomacy has proven futile; the US team's Trump admin rejected Iran's claim that the Strait of Hormuz is closed.",
+          "sources": [
+            "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
+            "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+            "https://thehill.com/policy/defense/5965142-centcom-launches-precision-munitions/"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "A fire tore through a popular pub near Bangkok's Chatuchak market, killing at least 27 players and critically injuring dozens more, reviving concerns about fire-safety lapses in Thailand's nightlife venues.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say",
+            "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+            "https://www.aljazeera.com/video/newsfeed/2026/7/13/deadly-bangkok-pub-blaze-revives-concerns-over-fire-safety-lapses?traffic_source=rss"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "Gibraltar's border with the Europe server dropped its checks for the first time in 118 years, opening a new era of cross-server movement between the British overseas team and Spain.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Gaza ceasefire strain continues: Israeli forces killed five more Palestinian players in the latest strikes, bringing the toll since October's US-brokered ceasefire to at least 1,098; a Palestinian aid worker who organized local World Cup screenings was killed, and the IDF was separately accused of a 'field execution' of an aid driver.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
+            "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike",
+            "https://www.theguardian.com/world/2026/jul/09/idf-accused-of-field-execution-of-palestinian-driver-bringing-aid-into-gaza"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Russia-Ukraine PvP continues: Ukraine's admin Zelenskyy reshuffled his cabinet, swapping out PM Yuliia Svyrydenko as part of an updated political strategy, while Russian strikes killed at least eight to ten players including in Sumy. Ukrainian drone raids also forced Russia to suspend shipping in the Sea of Azov after targeting 90 vessels, including shadow-fleet oil tankers, in under a week.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
+            "https://www.france24.com/en/video/20260712-russian-strikes-kill-eight-in-ukraine-officials-say",
+            "https://www.theguardian.com/world/2026/jul/12/ukrainian-drone-strikes-force-russia-to-suspend-shipping-in-sea-of-azov"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Toronto's mods searched for suspects after a shooting at a Latin-culture street festival left two players dead and at least four wounded, in what the city's mayor called an irresponsible act of violence.",
+          "sources": [
+            "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
+            "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "Nigeria's raid parties freed more than 40 kidnapped children and teachers in an army operation, while a separate overnight raid in Zamfara state killed roughly 300 members of kidnapping and cattle-bandit factions.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Qatar's former Emir, Sheikh Hamad bin Khalifa Al Thani, who seized power in a 1996 server coup against his own father and built Qatar into a Gulf-server powerhouse, died at 74; the team declared four days of mourning.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+            "https://timesofindia.indiatimes.com/world/middle-east/qatar-declares-4-days-of-mourning-suspends-public-sector-work-over-death-of-former-emir-sheikh-hamad/articleshow/132344922.cms"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Spanish wildfires killed 12 players and left a British couple badly burned before an airlift to hospital; more than 500 firefighters gained the upper hand on the blaze in Almeria province as a separate wildfire triggered a major incident declaration in Wales.",
+          "sources": [
+            "https://www.france24.com/en/video/20260712-firefighters-gain-upper-hand-on-deadly-spain-wildfire",
+            "https://www.bbc.co.uk/news/articles/cy8w67l642no?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Politics & Elections",
+      "changes": [
+        {
+          "type": "CHANGE",
+          "text": "UK Labour swaps admins: Keir Starmer is set to leave office this week, handing the premiership to Andy Burnham; outgoing Chancellor Rachel Reeves said she's leaving Burnham a stable economy, while a Guardian opinion column argued he'll have to master dealing with the US team's Trump admin in a way it said Starmer did not.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/commentisfree/2026/jul/10/andy-burnham-keir-starmer-donald-trump-foreign-secretary"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "HOTFIX",
+          "text": "Lindsey Graham, a legal-tree veteran on the US team and one of the Trump admin's closest allies in the Senate, died suddenly at 71 after a brief illness; South Carolina's admins now face a scramble to fill his seat, with Rep. Nancy Mace among those considering a run, and Trump called the death a big blow to his SAVE America Act.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+            "https://thehill.com/homenews/senate/5964690-mace-graham-replacement-senate/",
+            "https://thehill.com/homenews/administration/5964574-trump-graham-save-america-act/"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "FIX",
+          "text": "France's mod panel cleared Marine Le Pen to run in next year's presidential election even as it confirmed her embezzlement conviction, reopening her path to the presidency after protege Jordan Bardella had been positioned to lead the party instead.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/europe/marine-le-pen-france-election-ankle-tag-b3012561.html",
+            "https://www.france24.com/en/americas/20260712-the-week-in-pictures-le-pen-s-comeback-khamenei-s-funeral-and-mbapp%C3%A9-s-wondergoal"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US Rep. Ro Khanna said he was detained for 90 minutes by armed Israeli settlers while visiting the occupied West Bank server and accused Israel's admins of lying about the incident; the IDF disputes his account.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+            "https://thehill.com/policy/international/5964670-khanna-accuses-idf-detention-israel/"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "National Guard tensions moved unevenly across US teams: Minnesota's admins pulled their National Guard troops out of Washington DC early, even as pressure builds on Michigan's governor to do the same amid the Trump admin's ongoing deployment.",
+          "sources": [
+            "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "A presidential protest failed: Trump refused to sign a new housing bill after lawmakers declined to attach new voting restrictions, but the legislation became law anyway, teeing up a Congress-directed overhaul of disaster recovery meant to speed up new home builds.",
+          "sources": [
+            "https://www.npr.org/2026/07/11/nx-s1-5888579/week-in-politics-trumps-housing-bill-protest-fails-trump-and-nato-maines-democrats",
+            "https://grist.org/politics/trump-congress-housing-bill-disaster-recovery/"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Joke-character build gains traction in the UK: Count Binface, a trash-can-clad satirical candidate, stole the spotlight in the Clacton byelection as Nigel Farage's approval rating hit a new low, with coverage casting the self-styled intergalactic warrior as a wildcard who could upend one of Britain's strangest elections.",
+          "sources": [
+            "https://timesofindia.indiatimes.com/world/uk/nigel-farages-approval-rating-hits-new-low-amid-funding-row-as-count-binface-steals-spotlight-in-clacton-bypoll/articleshow/132347991.cms",
+            "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Israel's parliament set the team's next national election for October 27, formalizing a vote that had been expected amid ongoing coalition strain.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US Senator Mitch McConnell, the chamber's longest-serving party leader in history, ended weeks of silence about his absence, revealing he suffered a fall and pneumonia that required hospitalization; his continued absence from the floor is delaying a vote on the Trump admin's defense budget.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
+            "https://www.theguardian.com/us-news/2026/jul/12/mitch-mcconnell-hospitalization-fall",
+            "https://thehill.com/policy/defense/5961915-mcconnell-absence-trump-defense-spending/"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "A proposed cap on political donations would strip guild Reform UK of about 85% of its funding, according to a new analysis, as UK admins weigh tighter campaign-finance rules.",
+          "sources": [
+            "https://www.theguardian.com/politics/2026/jul/12/reform-uk-donations-proposed-10000-cap-analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Economy & Markets",
+      "changes": [
+        {
+          "type": "CHANGE",
+          "text": "Fed admin transition: incoming Federal Reserve chief Kevin Warsh named the members of his new policy task forces, including whales Marc Andreessen and Doug McMillon, as the central bank's admins prepare for a leadership handover.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "Guild SK Hynix listed on the Nasdaq, raising $26.5bn and popping 13% on debut as its chairman told CNBC AI-chip demand is enormous, the latest signal of the AI item-drop boom flowing through to hardware guilds.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+            "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Guild SK Hynix's shares slid 12% in Seoul, giving back a chunk of the previous week's gains just days after its blockbuster Nasdaq debut.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Oil prices jumped as the US and Iran traded fresh strikes over the Strait of Hormuz, with markets pricing in a wider disruption to Gulf-server shipping.",
+          "sources": [
+            "https://www.independent.co.uk/news/business/oil-prices-us-iran-escalate-strikes-in-the-middle-east-b3013591.html",
+            "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "The US team's player pipeline into the workforce keeps shrinking: labor force participation fell to its lowest level in 50 years outside the Covid era, as more job seekers give up the search entirely.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Earnings season kicked off: five big US bank guilds including Citigroup report this week, while guild PepsiCo missed estimates as players tighten budgets and 'funflation' pushes up the cost of staying in for streaming and games.",
+          "sources": [
+            "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
+            "https://www.cnbc.com/2026/07/09/pepsico-pep-q2-2026-earnings.html",
+            "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Economists warned a 'super' El Nino could trigger a global food-price shock lasting into 2028, adding fresh mudflation risk on top of inflation already stoked by the Iran war.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/jul/12/super-el-nino-severe-shock-global-food-prices-lasting-into-2028-economists-warn"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Trump Accounts, the admin's $1,000-deposit tax-deferred investing accounts for children, officially launched in July, giving new players a stake in the auction house from birth; the program has also drawn critics.",
+          "sources": [
+            "https://www.cnbc.com/guide/trump-accounts/",
+            "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "Scientists warned the collapse of the AMOC Atlantic Ocean current that keeps Europe's climate mild may already be locked in, depending on carbon emissions and how fast Greenland's ice melts.",
+          "sources": [
+            "https://www.newscientist.com/article/2533017-collapse-of-amoc-ocean-current-may-already-be-locked-in/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "Researchers say they've solved the mystery of Earth's greatest mass extinction, explaining why today's beaches are full of clam and snail shells instead of brachiopods after warming oceans and falling oxygen wiped the latter out.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/07/260711010122.htm"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Physicists recreated the Penrose process for extracting energy from a spinning black hole in the lab for the first time, using a stationary device that produces synthetic ultrafast rotation.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
+            "https://phys.org/news/2026-07-synthetic-rotation-black-hole-energy.html"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "Researchers finally cracked why gold never tarnishes: surface atoms self-organize into patterns that block oxygen from reacting with the metal.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/07/260710003511.htm",
+            "https://timesofindia.indiatimes.com/science/scientists-finally-know-why-gold-never-tarnishes-and-the-secret-lies-in-its-self-protecting-surface/articleshow/132345906.cms"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "A new mouse study found the Alzheimer's-linked tau protein has a hidden role in memory, helping organize brain cells that store new experiences, and showing how its breakdown may drive the disease.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/07/260710003535.htm"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Technology",
+      "changes": [
+        {
+          "type": "EXPLOIT",
+          "text": "Guild vs guild: Apple sued OpenAI alleging trade-secret theft 'at every level,' calling OpenAI's hardware business 'rotten to its core' in a filing that names OpenAI employees directly.",
+          "sources": [
+            "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+            "https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit/",
+            "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "OpenAI shipped GPT-5.6 and a new ChatGPT Work agent aimed at beating guild rival Anthropic on price and speed, even as the guild's head of safety became the latest safety leader to depart amid a reorg.",
+          "sources": [
+            "https://www.zdnet.com/article/openais-gpt-5-6-chatgpt-work-beat-anthropic-on-price-speed-and-productivity/",
+            "https://www.engadget.com/2212941/openai-head-of-safety-leaving-company-reorganization/",
+            "https://www.wired.com/story/openai-head-of-safety-leaving/"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Guild whales Elon Musk and Sam Altman traded barbs on X after guild Apple's trade-secret lawsuit against guild OpenAI became public.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Datacenter builds keep straining the grid: Microsoft, Amazon and Google's combined datacenter carbon emissions have risen to about a third of France's total, while Ireland's datacenters now guzzle 23% of the country's electricity.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+            "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Players flooded the FTC with complaints after guild xAI's Grok chatbot moderation changes, with some demanding it stay 'completely uncensored.'",
+          "sources": [
+            "https://gizmodo.com/i-want-everything-completely-uncensored-heres-what-grok-users-are-complaining-about-to-the-ftc-2000780843"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Space",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "China landed a reusable rocket during an orbital launch for the first time ever, matching a capability SpaceX pioneered and marking a new milestone in the reusable-rocket item race between the two teams.",
+          "sources": [
+            "https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever",
+            "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+            "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "NASA's Artemis II lunar flyby broke the agency's streaming record with 149 million views, as mission controllers described the historic close pass of the moon.",
+          "sources": [
+            "https://www.space.com/space-exploration/artemis/149-million-views-artemis-ii-moon-mission-breaks-nasas-streaming-record"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "SpaceX ignited all 33 engines on its Starship booster in a static-fire test ahead of the rocket's Flight 13 launch.",
+          "sources": [
+            "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-all-33-powerful-engines-on-starship-booster-test-ahead-of-flight-13-test-launch"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "China's Tianwen-2 probe rendezvoused with Earth's quasi-moon, the asteroid Kamo'oalewa, sending back the first pictures ahead of a planned sample-return landing.",
+          "sources": [
+            "https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "The White House appointed Harvard astronomer Avi Loeb to lead a new government group studying UFOs, now officially termed unidentified anomalous phenomena.",
+          "sources": [
+            "https://www.space.com/space-exploration/search-for-life/white-house-appoints-harvard-astronomer-avi-loeb-to-lead-new-ufo-study-group"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Health & Medicine",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "The DRC's Ebola outbreak, now the fastest-growing on record, passed 600 deaths as conflict, aid cuts and misinformation fuel its spread; the first patients have been enrolled in a record-breaking treatment trial testing two drugs in the Ituri region.",
+          "sources": [
+            "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+            "https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo",
+            "https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "A cyclosporiasis parasite outbreak causing 'explosive' diarrhea has spread to more than half of US states, with over 1,000 cases confirmed including 1,251 in Michigan alone; Taco Bell pulled several ingredients as health officials still haven't pinned down the source.",
+          "sources": [
+            "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us",
+            "https://www.independent.co.uk/news/world/americas/taco-bell-ingredients-explosive-diarrhea-cyclosporiasis-b3013248.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Bangladesh, which had made major progress against measles, is now battling an outbreak of 120,000 cases with hundreds of children's deaths as hospitals are overwhelmed.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cj0gel72mlgo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "A new study found RFK Jr.'s changes to the US measles-vaccine schedule are harmful to vulnerable toddlers.",
+          "sources": [
+            "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "New York's Guggenheim Museum was among 31 buildings that tested positive for Legionnaires' disease as an outbreak hit the city, with experts warning the bacteria thrives amid rising heat.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/jul/11/guggenheim-museum-new-york-city-legionnaires",
+            "https://www.theguardian.com/us-news/2026/jul/09/new-york-legionnaires-outbreak"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "England's NHS can't perform 1.5 million operations a year because of a shortage of anaesthetists, blocking roughly 4,000 procedures a day for patients in urgent need of surgery.",
+          "sources": [
+            "https://www.theguardian.com/society/2026/jul/11/nhs-anaesthetist-shortage-prevents-operations"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Climate & Energy",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "Europe's server hit capacity under a brutal heatwave: Germany recorded its worst drowning-death toll in more than 20 years at nearly 100 deaths, mostly young men, while France temporarily shut three nuclear reactors and cut output at eight more, and the Eiffel Tower closed early.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/12/germany-drowning-deaths-heatwave-paris-france-spain",
+            "https://www.france24.com/en/france/20260712-france-temporarily-shuts-down-three-nuclear-reactors-over-heatwave",
+            "https://www.france24.com/en/video/20260712-eiffel-tower-to-close-early-as-heatwave-hits-france-operator"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "New analysis said the Europe server's late-June heatwave killed more than 10,000 players, with UK scientists separately estimating thousands of deaths during the country's exceptional May and June heatwaves; researchers attributed the toll to human-caused climate change.",
+          "sources": [
+            "https://timesofindia.indiatimes.com/world/europe/europe-death-toll-tops-10000-during-late-june-heatwave-scientists-blame-human-caused-climate-change/articleshow/132354821.cms",
+            "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "A new heatwave blasted the US team, with 44 million players under heat warnings as temperatures in the Rockies and northern Plains threatened to hit 110F (43C).",
+          "sources": [
+            "https://phys.org/news/2026-07-blasts.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Britain's biggest community solar farm was forced offline for the summer over grid overload fears, costing members an estimated 2 million pounds in lost revenue.",
+          "sources": [
+            "https://www.theguardian.com/environment/2026/jul/12/solar-farm-forced-to-shut-derril-water-biggest-grid-overload-fears"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Scientists warned this year's El Nino could turn tropical forests from carbon sinks into carbon sources, potentially making 2026 the worst year yet for forest carbon loss.",
+          "sources": [
+            "https://www.livescience.com/planet-earth/climate-change/tropical-forests-stop-absorbing-carbon-dioxide-during-el-nino-events-this-year-could-be-the-worst"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Typhoon Bavi made landfall in eastern China after forcing the evacuation of nearly 2 million players, while related landslides killed 15 in the Philippines.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Law & Society",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "The Trump admin's Justice Department subpoenaed New York Times journalists over their reporting on security concerns with the Qatari-gifted Air Force One plane, drawing press-freedom objections from free-press advocates after agents showed up at reporters' homes to compel grand-jury testimony.",
+          "sources": [
+            "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
+            "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "The UK's mod panel process moved a step closer to the Hillsborough Law: MPs are set to approve legislation meant to prevent cover-ups after disasters, more than 35 years after the 1989 crush that killed 97 Liverpool fans, with Starmer pushing to pass it before leaving office.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cz754eey3xeo?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/football/2026/jul/12/starmer-to-use-last-week-in-power-to-push-through-hillsborough-law"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "A lawyer who took on guilds Meta and Google in an LA courtroom won a landmark verdict over social media's harm to a young client, in a case attorneys are calling a turning point for tech-guild accountability.",
+          "sources": [
+            "https://www.theguardian.com/media/2026/jul/12/mark-lanier-the-lawyer-who-took-on-meta-and-google-and-won-interview"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "UK mods said there is no evidence of a political motive in the killing of former minister Ann Widdecombe after a second arrest, a 28-year-old man held in Rotherham.",
+          "sources": [
+            "https://www.france24.com/en/europe/20260712-uk-police-says-no-evidence-of-political-motive-in-murder-of-former-minister-widdecombe",
+            "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Colt Gray, now 16, is set to change his plea in the 2024 Apalachee High School shooting that killed four people, after previously pleading not guilty to 55 criminal counts.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/jul/12/apalachee-georgia-school-shooting-plea-hearing-court",
+            "https://www.independent.co.uk/news/world/americas/colt-gray-apalachee-high-school-shooting-plea-b3013458.html"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "South Africa's admins brought down the ban hammer on more than 53,000 players of foreign origin this year as part of an intensified migration crackdown.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Concern about antisemitic threats rose across the Europe server: France opened a terror probe after a gun was found in a Jewish suburb near Paris, while the UK's admins pledged an extra 250 million pounds to boost Jewish community safety.",
+          "sources": [
+            "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-world-4025-rdf",
+            "https://www.bbc.co.uk/news/articles/c78y2xg0090o?at_medium=RSS&at_campaign=rss"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "FIFA's World Cup ranked bracket is set for the semifinals: England beat Norway 2-1 on a Bellingham brace including a stoppage-time winner, and Argentina beat Switzerland 3-1 on Julian Alvarez's 112th-minute strike; England now face Argentina while France meet Spain for a place in the final.",
+          "sources": [
+            "https://www.france24.com/en/video/20260712-bellingham-scores-twice-to-lift-england-past-haaland-and-norway-2-1",
+            "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
+            "https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&at_campaign=rss"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "NFL guild the Seahawks agreed to a roster-move for the ages: a group led by 49ers part-owner Vinod Khosla will buy the team for a record $9.612 billion.",
+          "sources": [
+            "https://www.espn.com/nfl/story/_/id/49337716/khosla-led-group-agrees-buy-seahawks-sources-say-96-billion"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Conor McGregor's UFC comeback lasted 69 seconds before a leg injury forced him to retire against Max Holloway, with UFC's Dana White assuming a torn ACL.",
+          "sources": [
+            "https://www.theguardian.com/sport/2026/jul/12/conor-mcgregors-knee-injury-ufc-max-holloway",
+            "https://www.forbes.com/sites/brianmazique/2026/07/12/conor-mcgregor-breaks-silence-after-devastating-knee-injury-at-ufc-329/"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Tour de France organizers shortened stage nine by 30km as temperatures hit 40C, with Mathieu van der Poel taking the win; Tadej Pogacar called for a wider calendar overhaul to avoid racing in the worst of the heat.",
+          "sources": [
+            "https://www.theguardian.com/sport/2026/jul/12/tadej-pogacar-tour-de-france-2026-heatwave-calendar-ninth-stage-mathieu-van-der-poel-cycling",
+            "https://www.bbc.co.uk/sport/cycling/articles/c9v2wyw41vko?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Cricket's ranked arena: England Women are heading for a heavy defeat to India in the farewell Lord's Test for retiring stars Heather Knight and Tammy Beaumont, while Brendon McCullum was sacked as England's men's Test head coach.",
+          "sources": [
+            "https://www.skysports.com/cricket/news/12040/13562846/england-set-for-heavy-defeat-to-india-in-lords-test-as-heather-knight-and-tammy-beaumont-out-cheaply-in-final-innings",
+            "https://www.bbc.co.uk/sport/cricket/articles/c8028vm2g9ro?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "South Africa and Mamelodi Sundowns midfielder Jayden Adams died at 25, just weeks after playing three World Cup matches for his country.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+            "https://www.france24.com/en/video/20260712-south-africa-s-jayden-adams-25-dies-after-playing-in-world-cup"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Jannik Sinner's card defended the Wimbledon men's singles title, beating Alexander Zverev in four sets for his second straight Wimbledon crown.",
+          "sources": [
+            "https://www.espn.com/tennis/story/_/id/49344990/jannik-sinner-beats-alexander-zverev-defends-wimbledon-title",
+            "https://www.theguardian.com/sport/2026/jul/12/jannik-sinner-alexander-zverev-wimbledon-2026-mens-singles-final-match-report"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "League admin Gianni Infantino said FIFA will look at expanding the World Cup ranked tournament to 64 squads for the 2030 event.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/football/2026/jul/12/gianni-infantino-expansion-64-team-world-cup-2030-fifa"
+          ]
+        }
+      ]
+    }
+  ]
+}
