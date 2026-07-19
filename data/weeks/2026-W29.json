@@ -17,11 +17,11 @@
       "changes": [
         {
           "type": "HOTFIX",
-          "text": "US-Iran PvP entered its second week: the US team struck Iran for a seventh straight night, Iran's raid parties hit US allies on the Gulf server (sparking a fire at a Kuwaiti power resource), and two US soldiers were killed and one went missing in separate Iranian strikes in Jordan.",
+          "text": "US-Iran PvP entered its second week: the US team struck Iran for a seventh straight night, Iran's raid parties hit US allies on the Gulf server (sparking a fire at a Kuwaiti power resource), and two US soldiers were killed and one went missing in Iranian strikes in Jordan; a day later a third US soldier was killed and another wounded in Iraq during a controlled detonation of a downed Iranian drone, and the US military said it found unidentified remains at the Jordan attack site.",
           "sources": [
-            "https://www.theguardian.com/world/2026/jul/17/us-launches-seventh-night-of-iran-strikes-as-hormuz-conflict-escalates",
-            "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
-            "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict"
+            "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict",
+            "https://www.forbes.com/sites/saradorn/2026/07/19/us-service-member-killed-in-iraq-after-2-deaths-in-jordan/",
+            "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss"
           ],
           "highlight": true
         },
@@ -37,6 +37,13 @@
         },
         {
           "type": "ISSUE",
+          "text": "Ukraine's disinformation-countering officials said Russia's raid parties are preparing to mobilize 500,000 recruits this autumn, with plans to send some conscripts to the front within weeks of training.",
+          "sources": [
+            "https://timesofindia.indiatimes.com/world/europe/thrown-into-battle-in-two-weeks-russia-plans-500000-strong-mobilisation-ukraine-claims/articleshow/132499289.cms"
+          ]
+        },
+        {
+          "type": "ISSUE",
           "text": "Mali: a rogue jihadist faction killed at least 50 of the country's raid-party soldiers in an attack.",
           "sources": [
             "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack"
@@ -44,11 +51,11 @@
         },
         {
           "type": "ISSUE",
-          "text": "Disasters this week: cross-server admins (the UN) say more than 500 players are feared dead after two suspected shipwrecks off Myanmar; two earthquakes killed at least six players and injured 21 in Peru's Andes region; and a ferry capsized off Guyana with more than 100 aboard, with over 50 rescued.",
+          "text": "Disasters this week: cross-server admins (the UN) say more than 500 players are feared dead after two suspected shipwrecks off Myanmar; two earthquakes killed at least six players and injured 21 in Peru's Andes region; and a ferry carrying 116 players sank off Guyana, with 67 rescued and dozens still missing in what officials called one of the country's worst maritime disasters.",
           "sources": [
             "https://www.theguardian.com/world/2026/jul/16/hundreds-of-refugees-feared-dead-after-two-suspected-shipwrecks-off-myanmar-un",
             "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
-            "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+            "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana"
           ],
           "highlight": true
         },
@@ -165,6 +172,14 @@
             "https://www.dw.com/en/china-firm-seeks-damages-over-state-control-of-british-steel/a-78024119?maca=en-rss-en-world-4025-rdf"
           ],
           "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Thames Water's lenders are preparing a legal challenge and seeking talks with Burnham's admins as a possible nationalization of the guild looms over its multi-billion-pound debts.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/business/2026/jul/19/thames-water-creditors-prepare-legal-fight-nationalisation"
+          ]
         },
         {
           "type": "CHANGE",
