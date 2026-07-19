@@ -1,0 +1,517 @@
+{
+  "id": "2026-W29",
+  "title": "Week of Jul 13-19, 2026",
+  "version": "v2026.29",
+  "released": "2026-07-19",
+  "summary": [
+    "US and Iran trade strikes across the Gulf server as the war enters a second week, killing US troops in Jordan",
+    "Andy Burnham succeeds Starmer as UK PM, scraps the Digital ID plan, and inherits a British Steel dispute with China",
+    "US in-game economy cools to 3.5%, new Fed chief Warsh vows an inflation 'regime change'",
+    "Astronomers detect the first atmosphere on a rocky, Earth-like exoplanet sitting in the habitable zone",
+    "Count Binface polls ahead of Farage in the Clacton by-election race",
+    "World Cup send-off: Messi's Argentina face Spain in Sunday's final after England's record-setting third-place classic"
+  ],
+  "sections": [
+    {
+      "category": "World & Conflict",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "US-Iran PvP entered its second week: the US team struck Iran for a seventh straight night, Iran's raid parties hit US allies on the Gulf server (sparking a fire at a Kuwaiti power resource), and two US soldiers were killed and one went missing in separate Iranian strikes in Jordan.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/17/us-launches-seventh-night-of-iran-strikes-as-hormuz-conflict-escalates",
+            "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
+            "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Russia's raid parties fired one of the war's largest ballistic-missile barrages at Kyiv, pounding Ukraine's capital for five hours and hitting oil depots; a retaliatory Ukrainian drone strike on Russian regions killed 8 and wounded more than 60, while rallies broke out in Ukraine over admins' removal of official Fedorov.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
+            "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
+            "https://www.france24.com/en/ukraine-thousands-take-to-the-streets-to-protest-against-fedorov-removal"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Mali: a rogue jihadist faction killed at least 50 of the country's raid-party soldiers in an attack.",
+          "sources": [
+            "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Disasters this week: cross-server admins (the UN) say more than 500 players are feared dead after two suspected shipwrecks off Myanmar; two earthquakes killed at least six players and injured 21 in Peru's Andes region; and a ferry capsized off Guyana with more than 100 aboard, with over 50 rescued.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/16/hundreds-of-refugees-feared-dead-after-two-suspected-shipwrecks-off-myanmar-un",
+            "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
+            "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Gaza: child players are being forced into hard labor to avoid starvation, Israeli settlers torched homes and a mosque in Masafer Yatta, and Israel's admins passed legislation that critics say restricts Palestinian access to education in East Jerusalem.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/middle-east/gaza-child-labour-palestine-israel-b3012576.html",
+            "https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss",
+            "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem?traffic_source=rss"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Elsewhere: Cuba edged toward a wider breakdown as power cuts and continued US pressure squeezed the country (dissident player Luis Manuel Otero Alcantara went into exile in the US after five years in prison), and Hungary's president agreed to stand down after parliament backed his removal under a rule change that ended his term early.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
+            "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
+            "https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Politics & Elections",
+      "changes": [
+        {
+          "type": "CHANGE",
+          "text": "UK team: Andy Burnham was sworn in as the new admin-in-chief, succeeding Keir Starmer; he promised players 'more breathing room' and said the UK must be honest about the challenges ahead.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss",
+            "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "Burnham's opening policy patch: he scrapped the previous admin's Digital ID plan, is plotting an Ed Miliband-led Foreign Office reshuffle, and is weighing Shabana Mahmood for chancellor, a pick that puzzled business and Labour figures.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
+            "https://www.independent.co.uk/news/uk/politics/andy-burnham-labour-ed-miliband-foreign-office-pm-b3017445.html",
+            "https://www.theguardian.com/politics/2026/jul/16/shabana-mahmood-future-chancellor"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "Clacton by-election: Nigel Farage resigned his seat to force a re-vote after scrutiny over an undisclosed gift from a crypto whale and undeclared support from a fraud-convicted aide, claims he denies breaching any rules; with the main parties standing aside, satirical candidate Count Binface has become the headline challenger, and an Ipsos poll conducted 8-9 July found 33% of players would rather see him win the seat than Farage (21%), a 12-point lead, with 32% backing neither.",
+          "sources": [
+            "https://www.ipsos.com/en-uk/british-public-more-likely-prefer-count-binface-wins-clacton-election-nigel-farage",
+            "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election",
+            "https://www.theguardian.com/politics/2026/jul/11/unstoppable-rise-of-count-binface-clacton-farage"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Germany: the CDU's parliamentary leader Jens Spahn resigned amid a surrogacy controversy.",
+          "sources": [
+            "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238?maca=en-rss-en-world-4025-rdf"
+          ]
+        },
+        {
+          "type": "HOTFIX",
+          "text": "US team: Andrew and Tristan Tate were arrested by US Marshals in Miami on UK charges of rape and sex trafficking, taking the total charges against them to 59; their lawyer says they are innocent.",
+          "sources": [
+            "https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami",
+            "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+            "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "US admin roundup: Trump's primetime speech repeated election-fraud claims that experts say lack evidence, while separately the FBI reportedly will no longer investigate mods' (ICE's) conduct, which DHS and DOJ denied, ICE mods will start wearing body cameras during vehicle stops, and the Justice Department activated the untested 'Alien Terrorist Removal Court' for the first time in 30 years.",
+          "sources": [
+            "https://www.npr.org/2026/07/17/nx-s1-5897446/trump-promised-evidence-of-election-fraud-experts-say-there-was-none",
+            "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+            "https://www.independent.co.uk/news/world/americas/us-politics/alien-terrorist-removal-court-doj-trump-deportations-b3017702.html"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Trade & Tariffs",
+      "changes": [
+        {
+          "type": "FIX",
+          "text": "US admins were ordered to refund billions of gold in tariffs after a ruling against the levies.",
+          "sources": [
+            "https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Tariff threats: Brazil's admins say they will retaliate if the US team goes ahead with a tariff patch of up to 25% on some Brazilian exports, and the US team threatened a new tariff nerf on Canada over wildfire smoke crossing the border, which admins called 'filthy' air; Canada's Carney says both teams share responsibility for fighting the climate change worsening the fires.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
+            "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "Guild TSMC pledged another $100bn build in Arizona after Q2 profit soared 77%.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
+            "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "British Steel's nationalization triggered a trade dispute: the China team said it is 'strongly dissatisfied,' and former owner guild Jingye is seeking damages over the takeover.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied",
+            "https://www.dw.com/en/china-firm-seeks-damages-over-state-control-of-british-steel/a-78024119?maca=en-rss-en-world-4025-rdf"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "China trade roundup: admins signaled a possible return of US trade privileges for the Hong Kong server, as Chinese car-export guilds shipped a monthly record of more than 1 million vehicles.",
+          "sources": [
+            "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
+            "https://www.theguardian.com/business/2026/jul/14/china-car-exports-june-trade-us-eu-trump-tariffs"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Economy & Markets",
+      "changes": [
+        {
+          "type": "CHANGE",
+          "text": "In-game economy update: US inflation cooled to 3.5% annually in June as energy costs eased during a brief Iran ceasefire window; the US economy-admin's new chief Kevin Warsh pledged a policy 'regime change' to end the inflation 'tax,' while regional economy-admin voices split, with Dallas's Logan wanting modestly higher lending-cooldown rates and New York's Williams saying inflation has peaked.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html",
+            "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
+            "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "BUFF",
+          "text": "UK team's gold income returned to growth, up 0.1% in May, despite the drag from the Iran war.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c8xnllq944go?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Guild IBM's stock crashed 25% in a single session, its worst day on record, after a Q2 earnings warning.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "Markets roundup: guilds Goldman Sachs, JPMorgan and Morgan Stanley posted booming quarters powered by the SpaceX IPO and Iran-war volatility, even as SpaceX's own stock slid back below its IPO price on short-seller pressure; guild Apple reclaimed the title of world's most valuable guild from Nvidia, and guild Anthropic moved closer to a mega-IPO.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+            "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
+            "https://www.theguardian.com/technology/2026/jul/17/apple-nvidia-most-valuable-company"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "China's gold income grew just 4.3% in Q2, its slowest pace since late 2022, as investment slumped.",
+          "sources": [
+            "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
+            "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "Tech-tree unlock: astronomers detected the first atmosphere around a rocky, Earth-like exoplanet sitting in its star's habitable zone.",
+          "sources": [
+            "https://www.livescience.com/space/exoplanets/its-absolutely-exciting-astronomers-discover-an-atmosphere-around-an-earth-like-planet-in-the-habitable-zone-for-first-time-ever",
+            "https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo?at_medium=RSS&at_campaign=rss",
+            "https://www.space.com/astronomy/exoplanets/astronomers-discover-1st-atmosphere-around-a-rocky-earth-like-planet-in-the-habitable-zone"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "FIX",
+          "text": "Research trees resolved a 66-million-year mystery, identifying the rare meteorite type responsible for the mass extinction that killed the dinosaurs.",
+          "sources": [
+            "https://timesofindia.indiatimes.com/science/scientists-identify-rare-oddball-meteorite-behind-mass-extinction-of-dinosaurs-66-million-years-ago/articleshow/132493815.cms",
+            "https://www.sciencedaily.com/releases/2026/07/260718010142.htm"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "A new monkey species, with an orange-lipped, roaring call, was described from the Congo rainforest.",
+          "sources": [
+            "https://www.livescience.com/animals/primates/orange-lipped-monkey-that-roars-and-snorts-deep-in-congo-rainforest-is-new-species-to-science",
+            "https://e360.yale.edu/digest/colobus-congoensis-discovery"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "A Nobel-winning physicist's research team used guild Anthropic's Claude to help solve a decades-old math puzzle.",
+          "sources": [
+            "https://www.livescience.com/physics-mathematics/mathematics/nobel-prize-winning-physicist-and-team-use-claude-ai-to-solve-decades-old-math-puzzle"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "Medic-tree gains: a new Alzheimer's drug was shown to repair DNA damage and cut brain inflammation, while a separate next-generation Alzheimer's therapy cuts the risk of serious brain bleeds.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/07/260711010118.htm",
+            "https://www.newscientist.com/article/2580025-next-generation-alzheimers-drug-reduces-risk-of-serious-brain-bleeds/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Technology",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "Guild Moonshot AI shipped Kimi K3, billed as the largest open-source item drop yet, rivaling top US gear and reportedly beating guild Anthropic's Fable 5 on one benchmark.",
+          "sources": [
+            "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+            "https://www.zdnet.com/article/ai-model-release-tracker/"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Cross-server mod panel: the EU's top court ruled against guild YouTube's intermediary defense over reviewed content, and the bloc confirmed guild Google must open Android's mic, camera and search data to rival AI assistants.",
+          "sources": [
+            "https://www.theregister.com/off-prem/2026/07/17/top-eu-court-clips-youtubes-intermediary-defense-over-reviewed-content/5274299",
+            "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "A billing bug at guild Amazon's AWS hit some customers with fake bills spiking from a few cents to billions of gold.",
+          "sources": [
+            "https://www.wired.com/story/amazon-web-services-glitch-oh-no/"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "Security and accountability roundup: guild Microsoft shipped a record Patch Tuesday fixing 622 flaws including two zero-days already under active attack, a ransomware hit on guild Coca-Cola's Fairlife dairy line halted US production, and guild HP was fined 1.4 billion rupees in India for cartelizing ink-cartridge, toner and PC pricing.",
+          "sources": [
+            "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+            "https://www.theregister.com/cyber-crime/2026/07/17/ransomware-curdles-production-at-coca-colas-fairlife-dairy-biz/5274157",
+            "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Space",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "Guild SpaceX's Starship Flight 13 test aborted at the last second after a post-ignition anomaly, with a retry planned for July 20.",
+          "sources": [
+            "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-flight-13-test-launch-aborts-at-last-second-video",
+            "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Guild Skyroot Aerospace launched Vikram-1, India's first private orbital rocket, on a successful debut.",
+          "sources": [
+            "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
+            "https://phys.org/news/2026-07-india-successfully-private-orbital-rocket.html"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "NASA selected four new Moon-mission builds meant to establish a permanent lunar base.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/07/260713084853.htm"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "A fresh ISS crew launched from Kazakhstan aboard a Soyuz rocket.",
+          "sources": [
+            "https://www.bbc.co.uk/news/videos/ckg4gjwz20qo?at_medium=RSS&at_campaign=rss"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Health & Medicine",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "Outbreaks roundup: a cyclosporiasis outbreak tied to Taco Bell iceberg lettuce spread across five US states (salad-chain guilds reported falling foot traffic), a second player died in New York City's Legionnaires' disease outbreak, and cross-server admins (the WHO) said Uganda's admins have gone silent on updates after disclosing a Marburg virus outbreak.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html",
+            "https://www.theguardian.com/us-news/2026/jul/19/legionnaires-disease-deaths-new-york-city",
+            "https://www.statnews.com/2026/07/16/world-health-organization-wants-marburg-virus-update-from-uganda/?utm_campaign=rss"
+          ]
+        },
+        {
+          "type": "EXPLOIT",
+          "text": "The UK's Covid inquiry found admins wasted 10 billion pounds of gold on PPE resources that still left medic-tree players poorly protected.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US defense admin Pete Hegseth's plan for annual testosterone screening of raid-party members divided medic-tree experts.",
+          "sources": [
+            "https://www.statnews.com/2026/07/16/hegseth-testosterone-testing-proposal-reactions-range-promising-crazy/?utm_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "More than 2,700 excess deaths are estimated in England and Wales during the May-June heatwaves.",
+          "sources": [
+            "https://phys.org/news/2026-07-excess-deaths-england-wales-june.html"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Climate & Energy",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "Wildfire smoke drifting from Canada blanketed US cities, with Toronto, New York and Washington topping the list of the world's most polluted cities this week.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Europe saw a spike in deaths during a brutal June heatwave, per new analysis.",
+          "sources": [
+            "https://e360.yale.edu/digest/europe-june-2026-heat-wave-excess-deaths"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "The UK team's heatwave hit a two-week mark, with parts of England posting their longest dry spell in 30 years.",
+          "sources": [
+            "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Climate policy roundup: the Bank of England will stop accepting coal-linked bonds as collateral for key lending-cooldown loans, the EU proposed slowing its carbon-cut patch timeline for businesses, and US admins shrank the Bears Ears and Grand Staircase-Escalante National Monument resources again.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/jul/19/bank-of-england-bonds-coal-loans-assets",
+            "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+            "https://grist.org/politics/trump-again-shrinks-bears-ears-and-grand-staircase-escalante-national-monuments/"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Texas floods killed at least two more players in the same area hit by a deadly camp flood earlier this month.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Law & Society",
+      "changes": [
+        {
+          "type": "FIX",
+          "text": "Two 'Scattered Spider' hackers were sentenced to 5.5 years each in the UK over a 29-million-pound hack on Transport for London.",
+          "sources": [
+            "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "Italy's Genoa bridge-disaster mod-panel trial concluded, years after the collapse.",
+          "sources": [
+            "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Guild New York Times filed a motion to quash US Justice Department subpoenas.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/jul/15/new-york-times-subpoenas-air-force-one"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Victoria server (Australia) admins proposed new social-media 'demasking' powers for accounts accused of vilification.",
+          "sources": [
+            "https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "UK admins proposed a midnight social-media curfew for 16- and 17-year-old players.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "Ranked arena finale: Spain's and Argentina's squads grind out FIFA's World Cup final session on Sunday with Trump in the crowd, as league admins are set to announce a record $15bn tournament haul.",
+          "sources": [
+            "https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates",
+            "https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue",
+            "https://www.bbc.co.uk/sport/football/articles/c304p73m3zgo?at_medium=RSS&at_campaign=rss"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "Third-place session: England's squad topped France 6-4 in a thriller as Saka's card popped off with a hat-trick, Bellingham's card broke England's World Cup goals record, and Mbappe's card broke Messi's all-time World Cup goals record.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report",
+            "https://www.bbc.co.uk/sport/football/articles/c0qvzqlp4pdo?at_medium=RSS&at_campaign=rss",
+            "https://www.espn.com/soccer/story/_/id/49257085/kylian-mbappe-lionel-messi-all-world-cup-goals-record"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "Guild Chelsea agreed a club-record Ultimate Team transfer, paying 117 million pounds for Aston Villa's Morgan Rogers.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/jul/18/chelsea-morgan-rogers-aston-villa-117m",
+            "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena: Ryan Fox won The Open Championship at Royal Birkdale by one stroke over Cameron Young on a closing birdie.",
+          "sources": [
+            "https://www.theguardian.com/sport/live/2026/jul/19/the-open-golf-2026-fourth-and-final-round-at-royal-birkdale-live",
+            "https://www.forbes.com/sites/break80/2026/07/19/ryan-fox-claims-open-championship-with-clutch-birdie-at-18/"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Tour de France: Jonas Vingegaard crashed out of Stage 15 after a spectator collision; Remco Evenepoel won the stage.",
+          "sources": [
+            "https://www.theguardian.com/sport/2026/jul/19/jonas-vingegaard-crashes-out-tour-de-france-remco-evenepoel-wins-stage-15"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Other results: Kimi Antonelli won the Belgian Grand Prix to extend his F1 championship lead after a Russell-Hamilton collision took Russell out, Britain's Josh Kerr shattered a 27-year-old world record in the mile, and Conor McGregor confirmed he tore his ACL and meniscus in his UFC 329 return against Max Holloway.",
+          "sources": [
+            "https://www.aljazeera.com/sports/2026/7/19/kimi-antonelli-wins-belgian-grand-prix-to-extend-f1-championship-lead?traffic_source=rss",
+            "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
+            "https://www.cbssports.com/ufc/news/conor-mcgregor-injury-irish-acl-meniscus-ufc-329-max-holloway/"
+          ]
+        }
+      ]
+    }
+  ]
+}
