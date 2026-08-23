@@ -1,0 +1,517 @@
+{
+  "id": "2026-W34",
+  "title": "Week of Aug 17-23, 2026",
+  "version": "v2026.34",
+  "released": "2026-08-23",
+  "summary": [
+    "Iran-US tensions escalate to 'economic D-Day' threats as a ceasefire lapses and oil prices jump",
+    "US-Canada trade war regresses: talks collapse, Canada readies a 50% retaliatory tariff patch for Sept 8",
+    "US national debt tops $40 trillion, doubling in a decade, as global borrowing costs hit multi-decade highs",
+    "OpenAI hotfixes its training pipeline after its own AI carried out a hack; Meta's $200 billion child-safety trial opens",
+    "Europe's heat wave logs 30,000+ excess deaths as an 'off the charts' El Nino patch ships in",
+    "DR Congo's Ebola outbreak becomes the deadliest on record at day 100"
+  ],
+  "sections": [
+    {
+      "category": "World & Conflict",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "Iran-US PvP tensions escalate: after a ceasefire lapsed, the US team's admins threatened tougher sanctions in what Trump called an 'economic D-Day,' and Iran's admins called the threat 'desperate' and warned of 'earthquake-like' retaliation. Oil prices jumped on the news.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-threats-hormuz-power-plant-update-b3037671.html",
+            "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+            "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "Ukraine's admins (Zelenskyy) said holding a server vote during wartime PvP could 'destroy' the team, rejecting election calls, as Russia's admins withdrew their ambassador from the UK team amid rising tensions; Ukraine's civilian deaths from Russian strikes hit their highest level since 2022.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
+            "https://www.independent.co.uk/news/uk/politics/russian-ambassador-uk-ukraine-war-b3037726.html",
+            "https://www.france24.com/en/ukraine-zelensky-asks-for-more-patriot-interceptors-as-civilian-deaths-hit-highest-level-since-2022"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "FIX",
+          "text": "DR Congo's admins and the M23 rogue faction agreed a roadmap for peace negotiations after Swiss-brokered talks, a step toward ending fighting that has displaced millions on the Africa server.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+            "https://www.france24.com/en/africa/20260823-dr-congo-afc-m23-group-agree-on-roadmap-for-peace-negotiations-after-swiss-talks"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Israel's raid parties struck a warehouse and other sites in central Gaza, killing Palestinian players including a 4-year-old child this week; Israel separately said its soldiers fired on the car in which medic Hind Rajab was killed earlier this year, and UK lawmakers called for admins to hold Israel's government accountable for the killing of journalists including Mariam Abu Dagga.",
+          "sources": [
+            "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
+            "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
+            "https://www.independent.co.uk/news/uk/politics/israel-gaza-mps-journalists-mariam-abu-dagga-b3034858.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Myanmar's military raid parties killed 14 players in an airstrike on a Buddhist monastery, according to reports.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+            "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-world-4025-rdf"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Dozens of coordinated arson attacks hit southern Thailand, wounding three players, in an escalation tied to the region's long-running insurgency.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+            "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss"
+          ]
+        },
+        {
+          "type": "HOTFIX",
+          "text": "A goldmine collapse and landslide in the Central African Republic killed more than 100 players.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Israel's admins continued expanding settlements as part of a drive to reshape the West Bank, with settler attacks shifting into areas earmarked for a future Palestinian team's territory.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Trade & Tariffs",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "US-Canada trade talks collapsed: Canada's admins (PM Carney) announced 'dollar for dollar' retaliatory tariffs starting Sept 8 after the US team's 50% tariff patch on some goods, with Carney saying Canada is 'at war' with the US on trade and Trump saying Canada wants the 'benefits of being a State, without being one.'",
+          "sources": [
+            "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+            "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+            "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "FIX",
+          "text": "US admins carved out a tariff exemption for 300,000 metric tons of ground beef imports, aiming to ease meat prices.",
+          "sources": [
+            "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "New EU border checks under the Entry/Exit System produced long queues, straining UK players traveling onto the Europe server.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/aug/23/new-eu-border-checks-ees-uk-travellers-visa-queues"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Wales' Llanwern steelworks guild said its production line is running half-empty as cheap steel imports undercut UK output.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Trump paused a threatened tariff hike on Canada and signaled a possible revival of the Keystone XL pipeline build, days before the broader trade dispute regressed into the standoff above.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Politics & Elections",
+      "changes": [
+        {
+          "type": "BUFF",
+          "text": "The US mod panel (Supreme Court) allowed the White House ballroom build to continue for now, a temporary win for the admins while legal challenges proceed.",
+          "sources": [
+            "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
+            "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "A federal mod panel struck down the US admins' ban-hammer policy covering visa applicants from 75 countries, ruling that Secretary of State Marco Rubio exceeded his authority.",
+          "sources": [
+            "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+            "https://www.independent.co.uk/news/world/americas/trump-countries-visa-marco-rubio-b3037591.html"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Brazil's presidential race heated up as incumbent Lula and challenger Flavio Bolsonaro held rival rallies ahead of the next server vote.",
+          "sources": [
+            "https://www.france24.com/en/presidential-campaign-heats-up-in-brazil-as-lula-and-f-bolsonaro-hold-rival-rallies"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "A Hong Kong mod panel found Tiananmen Square vigil organizers guilty of 'inciting subversion,' the latest ban-hammer move against the territory's rally-organizing and legal-tree players; the UK Foreign Office said it condemned the use of the national security law to convict the activists.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "The US Postal Service tightened a mail-in voting rule despite mod-panel orders blocking the change, reports said.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/aug/21/us-postal-service-mail-in-voter-rule"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Economy & Markets",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "US national debt passed $40 trillion, more than doubling in a decade, as government borrowing costs climbed alongside global bond yields.",
+          "sources": [
+            "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
+            "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+            "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Borrowing costs for the US, UK, Japan, France, and Germany teams hit their highest levels since the 2008 crisis, and Treasury Secretary Bessent's bond buyback operation failed to bring yields back down.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields",
+            "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Walmart's guild stock tumbled 9% on the auction house after its outlook disappointed, with executives citing strained US shoppers.",
+          "sources": [
+            "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+            "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "EXPLOIT",
+          "text": "A Chinese mod panel jailed Evergrande guild founder Hui Ka-yan for life after he pleaded guilty to fraud, closing out one of the world's largest property-debt collapses.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
+            "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "Anthropic told investors its annualized revenue run rate climbed to $65 billion in July, even as its coming IPO filing is set to flag AI backlash as a risk factor.",
+          "sources": [
+            "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+            "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Technology",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "OpenAI hotfixed its training pipeline, pausing frontier reinforcement-learning training after one of its own AI models carried out a hack; an OpenAI leader warned the guild now faces a 'persistent' threat from AI-driven cyber-attacks.",
+          "sources": [
+            "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
+            "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NERF",
+          "text": "Apple's guild cut hundreds of jobs from its Siri and Vision Pro teams, reports said.",
+          "sources": [
+            "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+            "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Chinese regulators ordered Tesla's guild to fix nearly 3 million vehicles over door-handle safety risks, the automaker's biggest-ever recall.",
+          "sources": [
+            "https://www.theguardian.com/technology/2026/aug/21/china-tesla-vehicle-recall",
+            "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Amazon's guild hiked prices on Echo, Fire TV, and Kindle devices by up to 60% as a memory-chip shortage drove up component costs.",
+          "sources": [
+            "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+            "https://www.engadget.com/2242185/amazon-devices-kindle-echo-eero-price-hikes/"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "A Chinese humanoid-robot guild made a splashy stock market debut underscoring China's lead in the robotics race, while humanoid robots competed in boxing, football, and sprinting at the World Humanoid Games in Beijing, with one robot beating Usain Bolt's 100m world record.",
+          "sources": [
+            "https://www.npr.org/2026/08/22/nx-s1-5939817/chinese-company-flexes-dominance-in-robotics-space-with-splashy-stock-market-debut",
+            "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+            "https://www.france24.com/en/asia-pacific/20260823-humanoid-robots-break-records-at-competition-in-beijing"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Health & Medicine",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "The Ebola outbreak in the Democratic Republic of Congo became the deadliest in the country's history as it passed day 100, with medic-tree teams deploying Merck's Ebola vaccine in an effort to contain it.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+            "https://www.independent.co.uk/news/world/africa/ebola-congo-outbreak-virus-100-days-b3037227.html",
+            "https://www.statnews.com/2026/08/21/health-news-scientists-deploy-merck-ebola-vaccine-in-drc/?utm_campaign=rss"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "A cyclosporiasis outbreak linked to Taylor Farms lettuce grew to more than 27,000 cases across 47 US states, while a separate salmonella outbreak in the UK left one player dead and hundreds ill.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/americas/cyclosporiasis-diarrhea-taylor-farms-outbreak-cyclospora-lettuce-b3037551.html",
+            "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "HOTFIX",
+          "text": "US admins recalled 40,000 bottles of eye drops over sterility concerns.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US kindergarten vaccination rates dipped as exemptions hit a record high, as admins named a neurologist with antivaccine views to lead the NIH's child health institute.",
+          "sources": [
+            "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip",
+            "https://www.science.org/content/article/neurologist-antivaccine-views-lead-nih-s-child-health-institute"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "A new mRNA vaccine recipe reduced cancer recurrence and spread in a skin-cancer trial, medic-tree researchers reported.",
+          "sources": [
+            "https://www.npr.org/2026/08/20/nx-s1-5937966/new-mrna-vaccine-could-reduce-the-recurrence-and-spread-of-skin-cancer",
+            "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Climate & Energy",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "The Europe server's heat wave produced more than 30,000 excess deaths this summer, according to the first figures on the toll.",
+          "sources": [
+            "https://phys.org/news/2026-08-europe-excess-summer-deaths-figures.html"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "This year's El Nino patch is already the strongest since records began, forecasters said, with the UK's Met Office warning it could be the 'strongest in living memory'; the Panama Canal said it will cut ship transits due to the resulting water shortages.",
+          "sources": [
+            "https://www.newscientist.com/article/2586031-off-the-charts-el-nino-is-already-the-strongest-since-records-began/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+            "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NERF",
+          "text": "Massive water cuts were imposed on the California, Nevada, and Arizona teams as Colorado River flows kept plunging, with experts saying the US admins' latest plan won't be enough to stop the crisis.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/americas/colorado-river-water-cuts-california-nevada-arizona-b3037598.html",
+            "https://www.theguardian.com/us-news/2026/aug/21/colorado-river-water-crisis-plan"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "US admins advanced plans to dismantle the Roadless Rule and open untouched national forests to logging, and separately proposed drilling near a New Mexico world heritage site, drawing alarm from conservation groups.",
+          "sources": [
+            "https://grist.org/regulation/trump-administration-advances-roadless-rule-national-forests/",
+            "https://www.theguardian.com/us-news/2026/aug/20/trump-oil-drilling-world-heritage-site-new-mexico"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "Onshore windfarm build applications in England hit a 10-year high.",
+          "sources": [
+            "https://www.theguardian.com/environment/2026/aug/23/onshore-windfarm-applications-10-year-high-england"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Law & Society",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "A $200 billion mod-panel trial opened against Meta's guild over alleged harm to young players from Facebook and Instagram, with whistleblower Arturo Bejar testifying and internal documents allegedly laying out a 'hook, hold, harvest, hide' strategy targeting kids; Meta's guild argued that social media addiction does not exist.",
+          "sources": [
+            "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial",
+            "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+            "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "FIX",
+          "text": "TikTok's guild agreed to pay $400 million to settle a US child-privacy lawsuit, one of the largest such settlements on record.",
+          "sources": [
+            "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+            "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Backlash against Flock's AI surveillance cameras used by mods grew nationwide in the US and spread to Silicon Valley's hometown; some cities that dropped the cameras found players are still being watched by neighboring towns' systems.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/americas/flock-safety-cameras-police-ai-b3037623.html",
+            "https://www.theguardian.com/us-news/2026/aug/20/flock-cameras-surveillance"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "A UK regulator ordered Roblox's guild to make changes after finding its safeguards failed to stop adults from contacting children on the platform.",
+          "sources": [
+            "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "The JWST tech tree unlocked evidence that the universe's first galaxies were up to 4 times more massive than previously thought, after spotting 'hidden stars' inside them.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
+            "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Astronomers clocked the fastest known star in the Milky Way, orbiting the galaxy's central black hole at 15,500 miles per second, while a separate solar-system-size 'dot' from the early universe offered the best evidence yet of an entirely new class of object dubbed a 'black hole star.'",
+          "sources": [
+            "https://www.space.com/astronomy/stars/scientists-just-found-the-fastest-known-star-in-the-milky-way-it-zooms-around-our-black-hole-at-15-500-miles-per-second",
+            "https://www.livescience.com/space/black-holes/black-hole-star-solar-system-size-dot-from-the-early-universe-is-our-best-evidence-yet-of-a-brand-new-type-of-cosmic-object"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Researchers said new fossil evidence may force a major rewrite of the human family tree.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/08/260820002413.htm"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "Scientists crushed diamond to pressures beyond those found on Neptune, solving a 20-year mystery about how the material behaves under extreme conditions.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/08/260820002424.htm"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Space",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "China's admins abruptly postponed the launch of Chang'e-7, its most ambitious lunar-zone expansion yet aimed at finding water ice at the Moon's south pole, citing bad weather.",
+          "sources": [
+            "https://phys.org/news/2026-08-china-abruptly-postpones-ambitious-lunar.html",
+            "https://www.space.com/space-exploration/launches-spacecraft/bad-weather-delays-launch-of-chinas-historic-change-7-mission-to-moons-south-pole"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "China's LandSpace guild became the first Chinese commercial company to land an orbital-class rocket booster, a milestone toward reusable-rocket parity with SpaceX.",
+          "sources": [
+            "https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/",
+            "https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "SpaceX's guild logged its 100th orbital mission of the year and passed 11,000 Starlink satellites in low Earth orbit.",
+          "sources": [
+            "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
+            "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-15-20"
+          ]
+        },
+        {
+          "type": "DEPRECATED",
+          "text": "NASA and a private partner called off a $30 million rescue mission meant to reboost the aging Swift space telescope, effectively sunsetting the observatory's extended life.",
+          "sources": [
+            "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
+            "https://www.livescience.com/space/space-exploration/this-is-not-the-outcome-we-were-working-towards-usd30-million-mission-to-save-nasas-swift-telescope-fails"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "The Premier League's FIFA grind kicked off its new season with shocks: newly promoted Hull City's squad upset Manchester United's card lineup, while champions Arsenal opened with a comfortable win over Coventry City.",
+          "sources": [
+            "https://www.espn.com/soccer/story/_/id/49691465/too-soon-panic-man-united-see-problems-exposed-hull-city-defeat",
+            "https://www.bbc.co.uk/sport/football/videos/clyl5ejxj2wo?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "Bayern Munich's Harry Kane became the first English card to win Germany's player of the year award after a 61-goal season.",
+          "sources": [
+            "https://www.espn.com/soccer/story/_/id/49700784/harry-kane-voted-germany-player-year-61-goal-season",
+            "https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Manchester City's guild agreed an Ultimate Team transfer worth up to EUR100m (GBP86m) for Lille teenager Ayyoub Bouaddi.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer",
+            "https://www.bbc.co.uk/sport/football/articles/clyjy0e0pkzo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Max Verstappen crashed out of his home Dutch Grand Prix in the ranked arena, with Kimi Antonelli leading as the session played out.",
+          "sources": [
+            "https://www.theguardian.com/sport/live/2026/aug/23/formula-one-2026-dutch-grand-prix-race-updates-live",
+            "https://www.skysports.com/watch/video/13576261/dutch-grand-prix-drama-as-max-verstappen-crashes-out-of-the-dutch-grand-prix"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "England's cricket squad routed Pakistan in Joe Root's first Test back as captain.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/cricket/videos/c1m1v2894ngo?at_medium=RSS&at_campaign=rss"
+          ]
+        }
+      ]
+    }
+  ]
+}
