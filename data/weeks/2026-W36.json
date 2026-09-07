@@ -27,11 +27,13 @@
         },
         {
           "type": "CHANGE",
-          "text": "Ukraine PvP: US negotiators Steve Witkoff and Jared Kushner shuttle from Moscow to Kyiv to discuss 'next steps' toward ending the war with Putin and Zelensky, even as Russia hits a Ukrainian security headquarters with a drone strike and a Zelensky adviser warns that continued fighting risks 'mutual destruction.'",
+          "text": "Ukraine PvP: US negotiators Steve Witkoff and Jared Kushner shuttle from Moscow to Kyiv to discuss 'next steps' toward ending the war with Putin and Zelensky, even as Russia hits a Ukrainian security headquarters with a drone strike and a Zelensky adviser warns that continued fighting risks 'mutual destruction.' Witkoff says the US team is 'confident' in a 'good resolution' to the trilateral talks after the envoys' first Kyiv visit since meeting Putin in Moscow, though analysts note fundamental differences between Russia's and Ukraine's teams remain unresolved.",
           "sources": [
             "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
             "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-            "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia"
+            "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
+            "https://thehill.com/homenews/administration/6074505-witkoff-kushner-confident-ukraine-war-talks/",
+            "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss"
           ],
           "highlight": true
         },
@@ -76,6 +78,15 @@
             "https://www.theguardian.com/world/2026/sep/04/nepal-tunnel-found-alive-flood-two-workers-hydropower-rescue",
             "https://www.theguardian.com/world/2026/sep/03/nepal-floods-rasuwagadhi-hydropower-hydro-tunnel-trapped-workers-search-rescue",
             "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Miami International Airport: an Amazon guild-operated cargo plane crashes after overshooting the runway on landing, killing five players aboard.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/americas/miami-airport-amazon-plane-crash-b3045603.html",
+            "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+            "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport"
           ]
         }
       ]
@@ -133,6 +144,20 @@
           "sources": [
             "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
             "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail"
+          ]
+        },
+        {
+          "type": "HOTFIX",
+          "text": "Ohio server vote: an armed assailant lunges at Democratic gubernatorial candidate Amy Acton during a campaign stop at the Canfield Fair, injuring several players before being arrested; local Democratic party officials said the suspect was found with weapons.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/sep/06/amy-acton-ohio-governor-candidate-attack"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "Texas server: a MAGA-aligned pay-to-win backer PAC linked to admin-in-chief Trump commits $10M to support attorney general Ken Paxton's campaign.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/americas/us-politics/trump-ken-paxton-texas-pac-b3045628.html"
           ]
         }
       ]
@@ -216,6 +241,21 @@
             "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
             "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss"
           ]
+        },
+        {
+          "type": "BUFF",
+          "text": "China guild-banking sector: admins inject $54bn into state banks and insurers to replenish cash reserves and bolster stock-market investment amid sluggish growth.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US bond market: Treasury yields approach 4.8% as fiscal-risk concerns build, with Treasury admin Scott Bessent facing questions on whether the strain will spill into other assets.",
+          "sources": [
+            "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html"
+          ]
         }
       ]
     },
@@ -287,11 +327,12 @@
         },
         {
           "type": "NEW",
-          "text": "OpenAI guild: ships its GPT-6 Astra model, calling it the start of a 'new era of artificial general intelligence'; the launch coincided with simultaneous outages across ChatGPT, Claude and Grok.",
+          "text": "OpenAI guild: ships its GPT-6 Astra model, calling it the start of a 'new era of artificial general intelligence'; the launch coincided with simultaneous outages across ChatGPT, Claude and Grok. ChatGPT Astra reaches general availability (GA) for $20 Plus subscribers days later, though free-tier players still await access.",
           "sources": [
             "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
             "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-            "https://www.theregister.com/ai-and-ml/2026/09/03/chatgpt-claude-and-grok-all-had-outages-at-the-same-time/5294322"
+            "https://www.theregister.com/ai-and-ml/2026/09/03/chatgpt-claude-and-grok-all-had-outages-at-the-same-time/5294322",
+            "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/"
           ]
         },
         {
@@ -316,6 +357,28 @@
           "text": "xAI guild: a child sexual abuse survivor sues after alleging the guild's Grok chatbot used her photos to generate new illegal images.",
           "sources": [
             "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Seattle Times and Newsday guilds: sue OpenAI and Microsoft for copyright infringement, joining a growing line of news publishers alleging their journalism trained AI models without permission.",
+          "sources": [
+            "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+            "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Australia server: admins plan legislation letting players switch off the recommendation algorithms on social-media guilds' apps, with a minister saying guilds like Meta, Google and TikTok should face 'substantial' penalties if they don't offer the option.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Thailand server: admins pause approval of all new datacenter builds, adding to the week's bipartisan pushback against datacenter resource expansion elsewhere.",
+          "sources": [
+            "https://www.theregister.com/off-prem/2026/09/07/thailand-pauses-all-datacenter-builds-and-approvals/5294688"
           ]
         }
       ]
@@ -417,11 +480,12 @@
         },
         {
           "type": "ISSUE",
-          "text": "Indonesia server: the Anak Krakatau volcano erupts, stranding 150,000 air passengers, while toxic haze from El Nino-fueled wildfires spreads across Southeast Asia.",
+          "text": "Indonesia server: the Anak Krakatau volcano erupts, stranding 150,000 air passengers, while toxic haze from El Nino-fueled wildfires spreads across Southeast Asia. The eruption grounds hundreds of flights at Jakarta's airport - the region's second-busiest - and seven other Indonesian airports.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
-            "https://phys.org/news/2026-09-haze-indonesian-impacts-southeast-asia.html"
+            "https://phys.org/news/2026-09-haze-indonesian-impacts-southeast-asia.html",
+            "https://www.cnbc.com/2026/09/07/flights-canceled-jakarta-airport-anak-krakatau-eruption-disrupts-regional-travel-volcano.html"
           ]
         },
         {
@@ -472,6 +536,13 @@
           "sources": [
             "https://www.theguardian.com/commentisfree/2026/sep/04/tennessee-executes-first-woman-since-1819"
           ]
+        },
+        {
+          "type": "NEW",
+          "text": "Austria server: a ban on headscarves for under-14 players in schools takes effect as the new term begins; admins say the rule protects young players' rights, while critics say it fuels anti-Muslim sentiment.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss"
+          ]
         }
       ]
     },
@@ -516,6 +587,36 @@
           "sources": [
             "https://www.cnbc.com/2026/09/04/wbna-commissioner-cathy-engelbert-to-retire-at-the-end-of-2026-.html",
             "https://www.espn.com/wnba/story/_/id/49826985/wnba-commissioner-cathy-engelbert-retire-legacy-successor-replacement-whats-next"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "FIFA La Liga session: Barcelona's Lamine Yamal card pops off with a double as the squad routs Valencia 5-0, opening a three-point lead atop the table on a 100% start.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milan"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "F1 ranked arena: Kimi Antonelli wins the Italian GP at Monza after the Ferrari guild's session effectively ends within three laps.",
+          "sources": [
+            "https://www.espn.com/racing/f1/story/_/id/49850758/ferrari-vintage-disasterclass-paves-way-kimi-antonelli-take-home-italian-gp-win-monza",
+            "https://www.bbc.co.uk/sport/formula1/articles/cm2my2z365lo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Darts ranked arena: Luke Littler beats defending champion Luke Humphries to win the Czech Open on the European Tour.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/darts/articles/ce87z1pmq8vo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "US Open ranked arena: Carlos Alcaraz beats Tommy Paul to reach the quarterfinals as he continues his comeback from injury, while two-time defending champion Aryna Sabalenka beats Taylor Townsend to reach a sixth straight quarterfinal.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/tennis/articles/cn4kge7gl99o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss"
           ]
         }
       ]
