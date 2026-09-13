@@ -1,0 +1,516 @@
+{
+  "id": "2026-W37",
+  "title": "Week of Sep 7-13, 2026",
+  "version": "v2026.37",
+  "released": "2026-09-13",
+  "summary": [
+    "Iran-US PvP widens to the Strait of Hormuz and Bab al-Mandab as Houthis seize a Red Sea island and oil tops $100-105 a barrel",
+    "Sweden votes with the far right in line for its first government role, a week after Germany's AfD breakthrough",
+    "US-Canada trade war escalates with new import bans and CA$27.6bn in Canadian retaliation",
+    "Anthropic, OpenAI and Elon Musk all call for AI development to slow down as safety warnings mount",
+    "US Alien Terrorist Removal Court hands down its first-ever deportation, sending a lawful resident to Afghanistan",
+    "August 2026 confirmed as the hottest month ever measured globally, with the UN warning the 1.5C limit is nearly exceeded"
+  ],
+  "sections": [
+    {
+      "category": "World & Conflict",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "Middle East server: the Iran-US PvP widens on two fronts as Houthi rogue factions seize Mayun Island in the Bab al-Mandab strait and Saudi Arabia's admins shut a major oil pipeline after a drone strike launched from Iraq, while a separate strike hits an Iranian-flagged ship near the Strait of Hormuz. Iran's admin-in-chief Pezeshkian says Tehran 'won't surrender' to the US team and is 'not at war' with Saudi Arabia's team, as nearly 50,000 Yemeni players flee the fighting, including 1,400 to Djibouti in a single day.",
+          "sources": [
+            "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
+            "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
+            "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "Ukraine-Russia PvP: the first-ever naval drone battle takes place in the Black Sea as fresh strikes kill 12, Russia's drone raids spread into Moldova's and Romania's airspace, and Ukraine's admin-in-chief Zelensky offers to meet Putin at the G20 summit in Miami.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-naval-drone-battle-dayana-yastremska-b3049332.html",
+            "https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-world-4025-rdf",
+            "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-world-4025-rdf"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Indonesia server: a ferry sailing between Java and Borneo capsizes in bad weather, killing at least six players with about 130 still missing.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather",
+            "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+            "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "Pacific server: a ferry sinks in rough seas off Vanuatu, killing one player with more than 30 missing, while the death toll from a ferry fire in the Philippines climbs to 76 players as officials warn it will keep rising.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss",
+            "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas",
+            "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Chile server: a fire at a nursing home kills 16 residents, while in France police investigate a train derailment that injured 44 players as a possible act of sabotage.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+            "https://www.independent.co.uk/news/world/europe/france-train-derailment-police-sabotage-b3049138.html",
+            "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "West Bank: video shows an Israeli mod shooting a Palestinian player in the leg amid a settler standoff, as a separate Israeli strike in Gaza kills two Palestinian players.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/12/idf-soldier-filmed-shooting-palestinian-in-leg-amid-west-bank-settler-standoff",
+            "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Politics & Elections",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "Sweden server vote: polls open with the far-right Sweden Democrats in line to enter government for the first time, a week after Germany's AfD won its first outright state election in Saxony-Anhalt.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government",
+            "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
+            "https://www.independent.co.uk/news/world/europe/sweden-election-democrats-far-right-polls-b3048403.html"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "UK server: Reform UK's Nigel Farage and Robert Jenrick say the guild-linked party's 72m-pound foreign donations are 'entirely in line with law,' but admin Angela Rayner suggests new legislation could apply to the donations retrospectively.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/politics/live/2026/sep/13/reform-uk-nigel-farage-robert-jenrick-christopher-harborne-ben-delo-donations-funding-anthropic-ai-uk-politics-latest-news-updates",
+            "https://www.theguardian.com/politics/2026/sep/13/reform-uk-donations-new-bill-retrospective-effect-angela-rayner"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US team: Republican players at the midterm convention cast Muslim Democratic lawmakers as 'chief enemies,' and calls for Democratic players to be shot go unchallenged at the event, as critics say admin-in-chief Trump is leading a wave of Islamophobic rhetoric ahead of the midterm server vote.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats",
+            "https://thehill.com/homenews/campaign/6085055-gop-cruz-muslim-democrats-midterms/",
+            "https://www.theguardian.com/us-news/2026/sep/12/democrats-republican-midterm-convention"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "BRICS cross-server summit in New Delhi: China's admin-in-chief Xi gets a red-carpet welcome amid a thaw in India-China relations and urges the bloc to foster AI cooperation and Middle East peace, while India's Modi calls for border peace with China; observers say the Iran and Ukraine PvPs expose divisions inside the bloc.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations",
+            "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+            "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "Ireland server: admin-in-chief Trump visits and says he'd 'love to see' a united Ireland, prompting the UK's Reform UK to push back over the remarks.",
+          "sources": [
+            "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss",
+            "https://www.dw.com/en/trump-visits-ireland-says-unification-would-be-fantastic/a-79244685?maca=en-rss-en-world-4025-rdf",
+            "https://www.independent.co.uk/news/world/europe/trump-ireland-reunification-reform-jenrick-b3049314.html"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "US team: one year after Charlie Kirk's killing, the divide over his death persists - conspiracy theories have deepened, players who posted about it have lost jobs, and one report describes 'neighbor turned on neighbor.'",
+          "sources": [
+            "https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/",
+            "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
+            "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Trade & Tariffs",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "US-Canada trade war: admins on the US team ban imports of a range of Canadian goods including alcohol, dairy and motorbikes, and Canada's admins bring in CA$27.6bn in retaliatory tariffs.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+            "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+            "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "Europe server: EU admins unveil 'buy European' public-procurement rules meant to curb reliance on Chinese guilds.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/09/eu-buy-european-public-procurement-rules-china-goods-services"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US-Canada border: towns and auto-parts guilds on both sides of the line report growing strain as the trade war bites.",
+          "sources": [
+            "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
+            "https://www.theguardian.com/us-news/2026/sep/12/us-canada-border-tariffs-trade-war"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Economy & Markets",
+      "changes": [
+        {
+          "type": "CHANGE",
+          "text": "US in-game economy: August prices come in hot, keeping Fed rate-hike bets alive - headline CPI seen rising 0.4% for the month (core +0.2%) - while wage growth (3.1%) keeps trailing price growth (3.4%) year-on-year, and consumer sentiment plunges to an index of 47.8 (down 7.5% from August, off 13.2% from a year ago).",
+          "sources": [
+            "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+            "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html",
+            "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Europe server: the ECB raises interest rates to 2.5% and warns that Iran-war-driven inflation pressure will be 'longer lasting than we had anticipated.'",
+          "sources": [
+            "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Global energy: Brent and WTI crude both push back above $100-105 a barrel, the highest since spring, as the Iran PvP and Houthi Red Sea attacks squeeze supply, while US diesel prices soar past $6 a gallon.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
+            "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
+            "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "US team: existing-home sales fall to their slowest pace in more than a year as mortgage rates and prices climb.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "Guild earnings: Oracle's cloud gold income more than doubles even as its debt hits $125bn, and TSMC's August revenue surges 53% on AI-chip demand.",
+          "sources": [
+            "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
+            "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Japan's admins see foreign reserves drop a record $80bn in August after a yen-defense intervention ($1.287tn -> $1.207tn), while the UK team's economy grows an unexpected 0.4% in July, credited partly to AI-driven services growth.",
+          "sources": [
+            "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
+            "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "Research tree: OpenAI's guild says its model cracked a $1m Millennium Prize Problem (the Navier-Stokes equations) in 88 hours, but mathematicians call the claim 'immature playground boasting' and question how it was reached; OpenAI has stopped sponsoring Caltech's 'Mathathon' amid the dispute.",
+          "sources": [
+            "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+            "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
+            "https://gizmodo.com/openai-is-beefing-with-mathematicians-will-no-longer-sponsor-caltech-mathathon-2000810868"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "Paleontology unlock: fossil tracks show a T. rex walked, rather than ran, across North America 66.5 million years ago, while a separate find shows a bird feather preserved inside 66-million-year-old dinosaur droppings, hinting at why some birds survived the asteroid extinction.",
+          "sources": [
+            "https://timesofindia.indiatimes.com/science/archaeology/66-5-million-years-ago-a-t-rex-crossed-north-america-fossil-footprints-now-show-the-giant-dinosaur-walked-not-ran/articleshow/134194811.cms",
+            "https://timesofindia.indiatimes.com/science/wildlife/a-66-million-year-old-feather-was-found-inside-dinosaur-poop-it-may-explain-how-birds-survived-the-asteroid-that-killed-the-dinosaurs/articleshow/134192826.cms"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Physics tech-tree: CERN's ALICE experiment finds gluons behaving unexpectedly deep inside atomic nuclei, and a separate team directly observes a predicted quantum-gravity effect for the first time using ultracold atoms.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
+            "https://www.sciencedaily.com/releases/2026/09/260907201552.htm"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Medicine tech-tree unlock: scientists show human heart-muscle cells can regrow after a heart attack for the first time, overturning the assumption that damaged heart tissue cannot regenerate.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/09/260909231754.htm"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Climate research: East Antarctica gained a record 695 billion tons of ice between 2021 and 2023, with researchers tracing the temporary gain to shifts in tropical Pacific atmospheric circulation.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/09/260906170128.htm"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Technology",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "AI slowdown: Anthropic's Dario Amodei calls for guilds to 'pace the frontier' and slow AI development over safety risks, OpenAI's Sam Altman confirms the guild won't IPO in 2026 calling it 'ill-advised' amid the same concerns, and whale Elon Musk backs the call; an ex-Anthropic researcher tells the BBC AI staff are 'genuinely frightened' for humanity's future, while another Anthropic researcher puts the odds AI 'could kill all humans' above 10%.",
+          "sources": [
+            "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
+            "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+            "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "EXPLOIT",
+          "text": "Anthropic guild discloses a fourth AI-hacking incident involving Claude Opus 4.6, and says users in Houthi-held Yemen tried and failed to build a guided-rocket weapon with Claude's help.",
+          "sources": [
+            "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+            "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US agencies and Anthropic separately accuse seven China-based AI labs, including Alibaba, Moonshot, DeepSeek, Z.ai and MiniMax, of running industrial-scale attacks to distill the capabilities of Claude, GPT, Gemini and Grok alike.",
+          "sources": [
+            "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+            "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Apple guild: new CEO John Ternus unveils the foldable iPhone Duo ($1,999) at his first showcase since replacing Tim Cook.",
+          "sources": [
+            "https://www.theguardian.com/technology/2026/sep/09/apple-product-showcase-ceo-john-ternus",
+            "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Huawei guild's US trial opens with prosecutors branding the China-based guild a 'criminal enterprise' that stole from US companies; the defense says the case is 'about competition, not conspiracy.'",
+          "sources": [
+            "https://www.theguardian.com/technology/2026/sep/10/china-huawei-trial-us"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "Grindr guild agrees to pay 26m pounds to settle UK claims it shared players' HIV status with third parties, as Australia's admins separately plan legislation letting players opt out of social-media recommendation algorithms.",
+          "sources": [
+            "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+            "https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Space",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "Rocket Lab guild files a protest against NASA's decision to award Blue Origin a $700m Mars-orbiter build contract.",
+          "sources": [
+            "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Stoke Space guild raises $1bn to fund its fully reusable Nova rockets, targeting a first launch in early 2027.",
+          "sources": [
+            "https://www.space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "China's Tianwen-3 Mars sample-return build stays on track for a 2028 launch, which some call a potential 'Sputnik moment' if it beats similar US efforts.",
+          "sources": [
+            "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Europe's space guild presses ahead solo on a Venus mission build after NASA pulls a promised radar instrument.",
+          "sources": [
+            "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Health & Medicine",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "US team: the CDC's new director draws scrutiny for staying silent a month into her tenure as the worst measles epidemic in more than 30 years continues.",
+          "sources": [
+            "https://thehill.com/policy/healthcare/6085687-cdc-erica-schwartz-measles-virus-vaccines/"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "Scholar Rock guild's Isembyld wins FDA approval, the first drug approved to target muscle loss in players with spinal muscular atrophy.",
+          "sources": [
+            "https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "New York City: a Legionnaires' disease outbreak in the South Bronx kills one player and sickens four more.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/sep/11/legionnaires-disease-outbreak-south-bronx"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Research tree: human embryo base-editing can now reach every cell but still causes unpredictable genetic changes, researchers find.",
+          "sources": [
+            "https://phys.org/news/2026-09-human-embryo-base-cells-unpredictable.html"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Climate & Energy",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "Climate: August 2026 is confirmed as the hottest month ever measured globally, driven mainly by human-caused warming and boosted by a strengthening El Nino, as the UN warns the planet is about to exceed the 1.5C warming limit.",
+          "sources": [
+            "https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/",
+            "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
+            "https://www.space.com/science/climate-change/were-about-to-exceed-1-5-degree-global-warming-limit-according-to-the-un"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "FIX",
+          "text": "A US appeals court rules 3-0 that Trump's admins exceeded their authority in ordering a Michigan coal plant to keep running under an 'emergency' the mod panel found had no basis in fact.",
+          "sources": [
+            "https://insideclimatenews.org/news/11092026/court-rules-against-trump-order-to-keep-costly-michigan-coal-plant-running/"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US team: admins move to fast-track Arctic drilling with reduced environmental review and formally repeal the Roadless Rule, which conservationists say threatens Midwest wilderness.",
+          "sources": [
+            "https://insideclimatenews.org/news/11092026/the-trump-administration-wants-to-fast-track-arctic-drilling/",
+            "https://insideclimatenews.org/news/12092026/roadless-rule-repeal-threatens-midwest-wilderness/"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "Chemours, DuPont and Corteva guilds reach a $455m settlement with North Carolina over 'forever chemicals' (PFAS) contamination claims.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/sep/10/pfas-chemical-companies-north-carolina"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Research tree: the breakdown of natural systems like tundra, wetlands and forests could add 20% to 30% more global warming this century than direct emissions alone, a new study finds.",
+          "sources": [
+            "https://www.theguardian.com/environment/2026/sep/10/climate-feedback-loops-global-warming-study",
+            "https://www.newscientist.com/article/2588740-natural-feedbacks-will-add-20-per-cent-extra-global-warming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Law & Society",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "US team: the Alien Terrorist Removal Court hands down its first-ever ruling, and mods bring down the ban hammer on lawful permanent resident Nazira Haji Zada, sending her to Afghanistan over alleged family terrorism links though she was never charged with a crime.",
+          "sources": [
+            "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
+            "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "FIX",
+          "text": "A federal judge rules that Trump's admins broke the law in trying to halve FEMA's workforce.",
+          "sources": [
+            "https://thehill.com/regulation/court-battles/6086363-trump-fema-cuts-illegal-federal-judge/"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "A Trump-appointed judge rules players have no constitutional right to safe drinking water or to truthful information about contaminated tap water.",
+          "sources": [
+            "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "An immigration judge in San Francisco says she was fired 48 hours after questioning ICE mods' treatment of a teenage asylum-seeking player.",
+          "sources": [
+            "https://www.independent.co.uk/news/world/americas/us-politics/san-francisco-judge-ice-lawsuit-asylum-b3048972.html"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "Ranked arena - tennis: Elena Rybakina beats Aryna Sabalenka to win her first US Open title and rise to world No.1, denying Sabalenka a three-peat.",
+          "sources": [
+            "https://www.theguardian.com/sport/2026/sep/13/elena-rybakina-beats-aryna-sabalenka-us-open-title-tennis",
+            "https://www.cbssports.com/tennis/news/2026-us-open-results-elena-rybakina-aryna-sabalenka-womens-final/"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena - boxing: Ryan Garcia stops Conor Benn in two rounds to retain his WBC welterweight title.",
+          "sources": [
+            "https://www.theguardian.com/sport/2026/sep/13/ryan-garcia-conor-benn-fight-result-wbc-welterweight-boxing",
+            "https://www.skysports.com/boxing/news/12040/13584754/ryan-garcia-finishes-conor-benn-in-just-two-rounds-to-defend-wbc-welterweight-world-championship-in-las-vegas"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena - college football: Texas completes a 20-point comeback to stun No.1 Ohio State.",
+          "sources": [
+            "https://www.theguardian.com/sport/2026/sep/13/arch-manning-leads-texas-back-from-20-points-down-in-fourth-quarter-to-shock-no-1-ohio-state"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Ranked arena - rugby union: South Africa's squad beats New Zealand 43-28 to close out their Test series before a record Baltimore crowd.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/rugby-union/articles/c07lmxpmvr9o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Ranked arena - golf: Team Europe make a fast start in the Solheim Cup's final day of singles against Team USA.",
+          "sources": [
+            "https://www.theguardian.com/sport/live/2026/sep/13/solheim-cup-golf-2026-final-day-live",
+            "https://www.skysports.com/golf/live-blog/12040/13585250/solheim-cup-live-latest-scores-updates-highlights-from-sunday-singles-as-team-europe-face-team-usa-on-rainy-final-day"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "FIFA: the French squad's federation accuses league admin Gianni Infantino of 'seriously damaging' football and withdraws its support, joining criticism of his ties to admin-in-chief Trump.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/sep/10/gianni-infantino-accused-seriously-damaging-football-french-fa-withdraws-support-fifa"
+          ]
+        }
+      ]
+    }
+  ]
+}
