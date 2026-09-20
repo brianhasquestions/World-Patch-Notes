@@ -1,0 +1,520 @@
+{
+  "id": "2026-W38",
+  "title": "Week of Sep 14-20, 2026",
+  "version": "v2026.38",
+  "released": "2026-09-20",
+  "summary": [
+    "Iran-US PvP escalates: Houthis strike Riyadh, Trump asks about 'blowing up' Iran, and a Pentagon probe ties AI overreliance to a strike that killed 123 Iranian children",
+    "Ukraine fires its largest-ever drone raid at Moscow as Russia holds a parliamentary vote across seized Ukrainian territory",
+    "Trump's admins bar CNN, MS NOW and Politico from the White House and speed the ban hammer against migrant children",
+    "US-EU trade rift widens as Trump threatens to halt EU trade over a 'laughable' Canada membership offer",
+    "The Fed hikes rates for the first time in three years, defying Trump, as Warren Buffett steps down at Berkshire",
+    "AI politics intensify (Trump's 'AI Force,' King Charles and Obama warnings) alongside a widening US measles emergency and new ice-loss climate data"
+  ],
+  "sections": [
+    {
+      "category": "World & Conflict",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "Middle East server: Houthi rogue factions say they fired ballistic missiles at Saudi Arabia's capital, with thick smoke reported near Riyadh's airport, as Saudi Arabia's admins say the Houthis attempted the strike. Trump asks of Iran's team, 'my question is, if and when do I blow the entire nation up?', while Iran's admins say there will be 'no limits' in retaliation if the US team attacks and lay out conditions to end the PvP.",
+          "sources": [
+            "https://thehill.com/homenews/administration/6100347-trump-speculates-iran-war/",
+            "https://timesofindia.indiatimes.com/world/middle-east/path-of-deception-closed-iran-warns-us-of-no-limitations-in-retaliation-if-attacked/articleshow/134369591.cms",
+            "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "A Pentagon investigation finds that overreliance on Palantir guild's AI tech contributed to a raid-party strike that killed 123 Iranian children. Separately, a false AI intel read nearly led US forces to board a Chinese-flagged ship, an incident one official said 'almost started a war.'",
+          "sources": [
+            "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+            "https://gizmodo.com/almost-started-a-war-us-military-nearly-boarded-a-chinese-ship-based-on-bad-intel-from-ai-2000814290"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "HOTFIX",
+          "text": "Ukraine-Russia PvP: Ukraine's raid parties launch the war's largest-ever drone raid, firing more than 1,000 drones at Russia including hundreds at Moscow that hit an oil refinery, timed to the final day of a Russian parliamentary server vote held partly across Ukrainian territory Russia's admins seized.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
+            "https://timesofindia.indiatimes.com/world/europe/largest-ever-attack-on-moscow-ukraine-sends-over-1000-drones-into-russia-overnight/articleshow/134366997.cms",
+            "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "West Bank and Jerusalem: Israeli mods kill a Palestinian player near Jenin in the occupied West Bank; separately, after an Israeli man is shot dead near a West Bank settlement, Netanyahu orders demolition of the alleged shooter's home, and Israeli settlers storm the Al-Aqsa Mosque compound as Netanyahu tours tunnels beneath it.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss",
+            "https://timesofindia.indiatimes.com/world/middle-east/israeli-man-shot-dead-near-west-bank-settlement-netanyahu-orders-demolition-of-terrorist-home/articleshow/134370537.cms",
+            "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Gaza: children return to school in tents after years of disruption from Israeli attacks, as Israel's president pardons a combat medic who shot dead a wounded Palestinian attacker.",
+          "sources": [
+            "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
+            "https://www.theguardian.com/world/2026/sep/19/israel-president-pardon-elor-azaria-wounded-palestinian-attacker"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Nigeria: at least 37 players died of suffocation packed into an overcrowded prison cell, survivors say, while separately almost 50 players died after drinking alcohol suspected to contain methanol.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
+            "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "South Africa: players hold 'enough is enough' rallies after a string of murders of women near Johannesburg, while on Australia's NSW server three men are charged with domestic-violence-related killings after three women were killed in separate incidents.",
+          "sources": [
+            "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/australia-news/2026/sep/20/bondi-stabbing-90-year-old-woman-nsw-alleged-domestic-violence-killings-ntwnfb"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Politics & Elections",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "US team: Trump's admins bring down a ban on White House access for CNN, MS NOW and Politico's scout-class journalists. The outlets say their reporters have been denied entry, Maryland admin Wes Moore says Trump treats the Constitution 'like a suggestion box,' while national security adviser Mike Waltz says Trump is 'absolutely within his rights' to bar reporters 'not behaving' in good faith.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house",
+            "https://thehill.com/homenews/media/6100320-wes-moore-trump-press-ban/",
+            "https://thehill.com/homenews/administration/6100318-waltz-defends-white-house-media-ban/"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "Germany server vote: elections in two German states go to the polls, with the outcome seen as deciding the fate of Chancellor Merz's coalition a week after the AfD's breakthrough win.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Russia server vote: players cast ballots in a parliamentary election that included seats representing Ukrainian territory Russia's admins seized, in a vote described as taking place in a 'war-fatigued and anxious' Russia.",
+          "sources": [
+            "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
+            "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-world-4025-rdf"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Greenland: Trump's admins strike a deal with Denmark to build a 'large military presence' in Greenland, which Trump says gives the US 'permanent security control.' NATO's cross-server admins welcome the deal, though one analysis calls it a 'triumph of optics.'",
+          "sources": [
+            "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
+            "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "https://www.aljazeera.com/opinions/2026/9/20/trumps-greenland-deal-a-triumph-of-optics?traffic_source=rss"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US team: Trump ally Stephen Miller leads a sweeping push to speed the ban hammer against migrant children, as lawyers say men deported from the US were bound and beaten in a detention hotel in Equatorial Guinea.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/sep/19/stephen-miller-trump-migrant-children",
+            "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "South Korea's admins say they will not send raid-party support to the US team's Iran PvP, defying pressure from Trump's admins.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Trade & Tariffs",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "US-EU-Canada trade: Trump threatens to halt trade with the Europe server over what he calls a 'laughable' offer of associate membership to Canada, as EU chief Ursula von der Leyen backs the membership plan and Canada's admin-in-chief Mark Carney pursues a 'unique security and economic alliance' with the EU amid the US trade dispute.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
+            "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Europe server: a hopeful rare-earth supplier to the EU says China's guild-dominated stranglehold on rare earths 'must be ended.'",
+          "sources": [
+            "https://www.theguardian.com/environment/2026/sep/20/china-stranglehold-rare-earths-hopeful-supplier-eu-viridis"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Economy & Markets",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "US in-game economy: the Fed's new admin-in-chief Kevin Warsh delivers the first US lending-cooldown hike in three years (3.50%-3.75% -> 3.75%-4%), defying Trump's push for cuts and signaling one more hike this year. Consumers face an estimated extra $1,700 per household from the combined hit of oil prices and interest rates tied to the Iran PvP.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates",
+            "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
+            "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NERF",
+          "text": "Global rates: Japan's admins raise interest rates to a 31-year high (1% -> 1.25%) to curb rising prices, and the UK's Bank of England holds rates at 3.75% for a sixth straight time but warns of a future rise if energy prices stay high, as UK inflation jumps (2.9% -> 3.1%).",
+          "sources": [
+            "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
+            "https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation",
+            "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Global energy: diesel and fuel prices hit fresh records, squeezing transport guilds and household budgets as the Iran PvP disrupts oil supply routes.",
+          "sources": [
+            "https://www.forbes.com/sites/rrapier/2026/09/20/why-record-diesel-prices-dont-equal-price-gouging/",
+            "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "Guild leadership: whale investor Warren Buffett steps down as chairman of Berkshire Hathaway after more than six decades running the guild, saying 'Father Time always wins.'",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/business/2026/sep/18/warren-buffett-steps-down-berkshire-hathaway",
+            "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Guild earnings: Amazon raises its starting pay to $20 an hour and adds a Whole Foods discount for players, J.B. Hunt's stock drops 13% on a third-quarter earnings warning, and Salesforce issues a $63bn revenue target for fiscal 2030 that beat estimates.",
+          "sources": [
+            "https://www.theguardian.com/technology/2026/sep/16/amazon-minimum-wage-whole-foods-benefit",
+            "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+            "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "China's August retail sales miss forecasts and its investment slump deepens, piling pressure on Beijing's admins, as prediction-market traders now see the US Senate as a 'toss-up' for the midterm server vote with Democrats holding a slight edge.",
+          "sources": [
+            "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+            "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "Paleontology tech-tree unlock: new studies find T. rex ran hot - its teeth suggest a body temperature as warm as an elephant's, and a separate tooth study finds it ran nearly as warm as a human, upending assumptions about dinosaur metabolism.",
+          "sources": [
+            "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+            "https://www.sciencedaily.com/releases/2026/09/260919031020.htm",
+            "https://www.livescience.com/animals/dinosaurs/scientists-finally-figured-out-the-temperature-of-t-rexs-blood-and-it-was-as-hot-as-ours"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Medicine tech-tree unlock: scientists grow mice whose brain cortex is built from human neurons, a new tool for studying neurodevelopmental disease that also raises fresh ethics questions about 'part-human' brains.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
+            "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Research tree: scientists solve a 50-year mystery and identify a new human blood group.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/09/260918024828.htm"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Research tree dispute deepens: mathematicians call OpenAI's claim to have solved a Millennium Prize Problem 'predatory behavior,' with one report describing an 'existential crisis' gripping the math community.",
+          "sources": [
+            "https://www.livescience.com/physics-mathematics/mathematics/predatory-behavior-elite-mathematicians-clash-over-openais-solution-to-million-dollar-math-problem",
+            "https://www.science.org/content/article/openai-breakthrough-triggers-existential-crisis-math"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Paleontology unlock: a new wild cat species is identified in Bolivia, the first named in more than a century, while a Diplodocus fossil is found in Europe for the first time, hinting the giant dinosaur reached the continent via a land bridge.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+            "https://www.livescience.com/animals/dinosaurs/fossils-of-iconic-long-necked-dinosaur-diplodocus-found-in-europe-for-first-time-and-it-may-have-traveled-there-via-land-bridge"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Physics and archaeology unlocks: Einstein's 'spooky action' (quantum entanglement) survives one of the most extreme tests yet, and ancient DNA reveals the Black Death's plague pathogen kept resurfacing for 400 years after the initial pandemic.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
+            "https://www.sciencedaily.com/releases/2026/09/260919031025.htm"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Technology",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "AI politics: Trump says he is forming a government 'AI Force' and appointing an AI tsar while floating a rebrand of the term 'AI,' King Charles warns of the 'existential danger' of AI falling into the wrong hands, and former admin-in-chief Obama criticizes the admin's AI policy amid 'doomsday' warnings.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+            "https://thehill.com/policy/technology/6100229-obama-slams-trump-ai-regulation/"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "EXPLOIT",
+          "text": "Google's Gemini gear breached three companies' systems during a security test the guild did not disclose for months, while Anthropic's Claude Opus 5 helped researchers take over OpenAI staff accounts via chained flaws in a sanctioned red-team test.",
+          "sources": [
+            "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+            "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+            "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Anthropic guild picks Accenture as its first outside AI-safety evaluator to help implement CEO Dario Amodei's 'pace the frontier' slowdown plan, and merges its Claude chat and Cowork products into one.",
+          "sources": [
+            "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/",
+            "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "China's admins push back on US AI-safety warnings, calling the guild CEOs' slowdown calls 'fear mongering,' even as OpenAI and Anthropic's combined revenue is reported at ten times that of all Chinese AI guilds combined.",
+          "sources": [
+            "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+            "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "UK infrastructure: a 'millisecond' software defect is blamed for mass flight-cancellation chaos that disrupted travel for hundreds of thousands of players.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/world/2026/sep/18/flight-chaos-affecting-hundreds-of-thousands-caused-in-millisecond-by-software-error-uk"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Space",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "SpaceX guild targets September 28 for Starship's first full orbital test flight, having just launched its 700th Falcon rocket and won a fresh $950m NASA contract for three more crewed ISS flights.",
+          "sources": [
+            "https://www.engadget.com/2263238/spacex-targets-september-28-for-the-starships-first-orbital-flight/",
+            "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/",
+            "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "A space arms race warning grows as the US team confirms it has weapons stationed in Earth orbit.",
+          "sources": [
+            "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "NASA's Roman Space Telescope beams back its first test images, showing stars in neon green, while the New Horizons probe finds signs of liquid nitrogen flowing on Pluto.",
+          "sources": [
+            "https://www.livescience.com/space/astronomy/we-are-on-our-way-to-groundbreaking-science-stars-turn-neon-green-in-first-test-image-from-nasas-roman-telescope-space-photo-of-the-week",
+            "https://www.sciencedaily.com/releases/2026/09/260916232525.htm"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Health & Medicine",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "US team: Pennsylvania's admins ask the CDC for emergency help as a measles outbreak spreads and a Republican senator blames Trump admin policies for the state's measles deaths, while California warns of exposure across six counties from an unvaccinated train and bus passenger.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/sep/17/pennsylvania-cdc-help-measles",
+            "https://www.theguardian.com/us-news/2026/sep/16/republican-senator-bill-cassidy-blames-trump-administration-measles-deaths-pennsylvania",
+            "https://www.theguardian.com/us-news/2026/sep/19/california-officials-measles-infected-bus-and-train-passenger"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "RFK Jr renews attacks on vaccines at a conference and names new members to an influential preventive-medicine task force, as Trump's surgeon-general pick faces Senate questions on vaccines and vaping.",
+          "sources": [
+            "https://www.statnews.com/2026/09/17/rfk-jr-anti-vaccination-activism-childrens-health-defense-conference/?utm_campaign=rss",
+            "https://www.npr.org/2026/09/17/nx-s1-5971469/trumps-surgeon-general-pick-faces-questions-on-vaccines-and-vaping-at-senate-hearing"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "England's NHS approves a new life-extending drug for players with incurable breast cancer, even as a separate report finds 20 women had breasts removed unnecessarily during NHS cancer care.",
+          "sources": [
+            "https://www.theguardian.com/society/2026/sep/17/women-england-incurable-breast-cancer-life-extending-drug-enhertu-nhs",
+            "https://www.theguardian.com/society/2026/sep/18/women-breasts-removed-unnecessarily-cancer-treatment-county-durham-darlington-nhs-trust"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "FDA approves a new gene therapy for Sanfilippo syndrome, an ultra-rare disease.",
+          "sources": [
+            "https://www.statnews.com/2026/09/17/sanfilippo-syndrome-treatment-ultragenyx-approval/?utm_campaign=rss"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Climate & Energy",
+      "changes": [
+        {
+          "type": "HOTFIX",
+          "text": "Climate: satellites show Earth lost more than 12 trillion tons of ice from Greenland and Antarctica over 47 years, as a new study finds the climate crisis probably weakened the glacier behind the deadly Nepal-Tibet floods.",
+          "sources": [
+            "https://phys.org/news/2026-09-satellites-earth-lost-trillion-tons.html",
+            "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Marine ecosystems: a 'mind-blowing' mass mortality event tied to a South Australian algal bloom decimates sea dragon populations along the coast.",
+          "sources": [
+            "https://www.theguardian.com/environment/2026/sep/20/sea-dragon-populations-decimated-mind-blowing-mass-mortality-event-south-australia-algal-bloom"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US climate rollback: environmental and public-health guilds sue over the Trump EPA's latest move to bolster fossil fuels at power plants, as former EPA officials say admins are letting data-center resource builds make players sick.",
+          "sources": [
+            "https://insideclimatenews.org/news/18092026/environmental-and-public-health-groups-sue-trump-epa-over-power-plant-fossil-fuels/",
+            "https://grist.org/health/former-epa-officials-trump-is-letting-data-centers-make-people-sick/"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "At least 124 environmental-defender players were killed worldwide last year, a new report finds, with Colombia and Brazil the deadliest countries for the class.",
+          "sources": [
+            "https://e360.yale.edu/digest/environmental-defenders-killed-2025",
+            "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Law & Society",
+      "changes": [
+        {
+          "type": "FIX",
+          "text": "Meta guild is ordered to remove UK deepfakes after a mod panel's oversight board found its safeguards 'inadequate.'",
+          "sources": [
+            "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "UK: a public inquiry into the Lucy Letby case finds failings across the hospital system, with a doctor who oversaw care calling the findings 'grim reading' and saying he wishes staff 'had been brave enough to follow suspicions.'",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "A member of the rogue IS faction is sentenced to 20 years in prison for a role in the 2021 Kabul airport bombing, which killed scores of players including US troops.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/17/is-member-sentenced-kabul-airport-bombing"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Pakistan: former PM Imran Khan's sister is arrested ahead of a planned march by his party, as Khan's sons accuse Pakistan's army chief of a vendetta against their imprisoned father.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss",
+            "https://www.theguardian.com/world/2026/sep/15/imran-khan-sons-accuse-pakistan-army-chief-vendetta-asim-munir"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "Ranked arena - FIFA: Brighton's card pops off with a 3-0 win that ends Arsenal's unbeaten Premier League start, Man City edge an eight-goal thriller 5-3 past Sunderland despite a Brobbey hat-trick for the away squad, and Liverpool stay unbeaten as Isak seals a 1-0 win at Bournemouth.",
+          "sources": [
+            "https://www.espn.com/soccer/story/_/id/49978067/arsenal-aura-premier-league-champions-evaporates-brighton-thrash-3-0",
+            "https://www.bbc.co.uk/sport/football/articles/ckvgyzx4jqwwo?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena - FIFA: Rangers beat Celtic 1-0 in the Old Firm session, cutting the Scottish Premiership gap to two points.",
+          "sources": [
+            "https://www.skysports.com/football/celtic-vs-rangers/report/558374"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena - FIFA: Mohamed Salah's card pops off with a hat-trick as Trabzonspor beat Galatasaray in the Turkish league, while Kylian Mbappe leaves the Nike guild to sign a new boot deal with On.",
+          "sources": [
+            "https://www.aljazeera.com/sports/2026/9/20/salah-scores-hat-trick-as-trabzonspor-beat-galatasaray-in-turkish-league?traffic_source=rss",
+            "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena: Rory McIlroy stays in contention at the BMW PGA Championship after an eagle on the 18th, and UFC 331 sees Joshua Van retain his flyweight title over Pantoja as Arman Tsarukyan becomes the top lightweight contender.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/golf/videos/c3dx0djnp085o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cw770mpl53ezo?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena - rugby: the USA stuns Ireland with a comeback WXV win in Dublin, and Wales beat South Africa 50-19 in the WXV Global Series.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/articles/c5j9xplp19m1o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/sport/rugby-union/videos/cvp8d473en03o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena - Asian Games: Iran's squad wins basketball bronze amid emotional scenes tied to the ongoing PvP back home, and Smriti Mandhana breaks a T20 record as India beats Bangladesh in cricket.",
+          "sources": [
+            "https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss",
+            "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh?traffic_source=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena - college football: Vanderbilt stuns NC State with a last-second fumble-recovery win, and Lane Kiffin's Ole Miss squad earns a 'cathartic' win in his return.",
+          "sources": [
+            "https://www.theguardian.com/sport/2026/sep/19/vanderbilt-nc-state-fumble-music-city-miscue-college-football",
+            "https://www.espn.com/college-football/story/_/id/49986867/lane-kiffin-return-ole-miss-grove-win"
+          ]
+        }
+      ]
+    }
+  ]
+}
