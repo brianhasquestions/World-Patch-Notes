@@ -5,11 +5,11 @@
   "released": "2026-09-20",
   "summary": [
     "Iran-US PvP escalates: Houthis strike Riyadh, Trump asks about 'blowing up' Iran, and a Pentagon probe ties AI overreliance to a strike that killed 123 Iranian children",
-    "Ukraine fires its largest-ever drone raid at Moscow as Russia holds a parliamentary vote across seized Ukrainian territory",
+    "Ukraine fires its largest-ever drone raid at Moscow as Russia holds a parliamentary vote across seized Ukrainian territory, and Germany's Merz calls a state-election result a 'disaster' for his CDU as the AfD wins a state outright",
     "Trump's admins bar CNN, MS NOW and Politico from the White House and speed the ban hammer against migrant children",
-    "US-EU trade rift widens as Trump threatens to halt EU trade over a 'laughable' Canada membership offer",
-    "The Fed hikes rates for the first time in three years, defying Trump, as Warren Buffett steps down at Berkshire",
-    "AI politics intensify (Trump's 'AI Force,' King Charles and Obama warnings) alongside a widening US measles emergency and new ice-loss climate data"
+    "US-EU trade rift widens as Trump threatens to halt EU trade over a 'laughable' Canada membership offer, ahead of a September 24 Trump-Xi summit",
+    "The Fed hikes rates for the first time in three years, defying Trump, as Warren Buffett steps down at Berkshire and stock-market crash fears grow",
+    "AI politics intensify (Trump's 'AI Force,' OpenAI's new safety disclosures) alongside a widening US measles emergency and new ice-loss climate data"
   ],
   "sections": [
     {
@@ -17,11 +17,12 @@
       "changes": [
         {
           "type": "HOTFIX",
-          "text": "Middle East server: Houthi rogue factions say they fired ballistic missiles at Saudi Arabia's capital, with thick smoke reported near Riyadh's airport, as Saudi Arabia's admins say the Houthis attempted the strike. Trump asks of Iran's team, 'my question is, if and when do I blow the entire nation up?', while Iran's admins say there will be 'no limits' in retaliation if the US team attacks and lay out conditions to end the PvP.",
+          "text": "Middle East server: Houthi rogue factions say they fired ballistic missiles at Saudi Arabia's capital, with thick smoke reported near Riyadh's airport, as Saudi Arabia's admins say the Houthis attempted the strike. Trump asks of Iran's team, 'my question is, if and when do I blow the entire nation up?', while Iran's admins say there will be 'no limits' in retaliation if the US team attacks and lay out conditions to end the PvP. Yemen's anti-Houthi forces separately launch an inquest into what they call a 'sudden military collapse' amid renewed questions about the Houthi faction's strength.",
           "sources": [
             "https://thehill.com/homenews/administration/6100347-trump-speculates-iran-war/",
             "https://timesofindia.indiatimes.com/world/middle-east/path-of-deception-closed-iran-warns-us-of-no-limitations-in-retaliation-if-attacked/articleshow/134369591.cms",
-            "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
+            "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/world/2026/sep/18/yemen-anti-houthi-forces-inquest-military-collapse"
           ],
           "highlight": true
         },
@@ -63,6 +64,13 @@
         },
         {
           "type": "ISSUE",
+          "text": "Europe server: European intelligence chiefs warn Russia's admins could take 'more decisive action' against NATO's cross-server defenses within 'months, not years,' following comments from Poland's admin-in-chief Donald Tusk about intensifying Russian activity; officials caution that public alarm itself risks playing into Kremlin information operations.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe"
+          ]
+        },
+        {
+          "type": "ISSUE",
           "text": "Nigeria: at least 37 players died of suffocation packed into an overcrowded prison cell, survivors say, while separately almost 50 players died after drinking alcohol suspected to contain methanol.",
           "sources": [
             "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
@@ -93,10 +101,12 @@
           "highlight": true
         },
         {
-          "type": "NEW",
-          "text": "Germany server vote: elections in two German states go to the polls, with the outcome seen as deciding the fate of Chancellor Merz's coalition a week after the AfD's breakthrough win.",
+          "type": "CHANGE",
+          "text": "Germany server vote: elections in two German states test Chancellor Merz's coalition a week after the AfD's breakthrough win, and exit polls show the AfD winning outright in Mecklenburg-Vorpommern while Die Linke leads in Berlin. Merz calls the results a 'disaster' for his CDU but vows to stay in office and press ahead with economic reforms.",
           "sources": [
-            "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss"
+            "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/world/2026/sep/20/friedrich-merz-chancellor-germany-state-elections-cdu-afd-linke-berlin",
+            "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
           ]
         },
         {
@@ -131,6 +141,34 @@
           "sources": [
             "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure"
           ]
+        },
+        {
+          "type": "NEW",
+          "text": "US team: California admin-in-chief Gavin Newsom signs 13 rule changes his office says are aimed at blocking Trump admin interference in the state's midterm server votes.",
+          "sources": [
+            "https://timesofindia.indiatimes.com/world/us/california-gov-gavin-newsom-signs-13-bills-to-prevent-trump-interference-in-midterm-elections/articleshow/134367601.cms"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "US team: the White House withdraws its nomination of former Oklahoma state trooper Lance Schroyer to lead the ICE moderator guild, three months after naming him to the post.",
+          "sources": [
+            "https://www.npr.org/2026/09/18/nx-s1-5973272/white-house-withdraws-nomination-of-lance-schroyer-to-lead-ice"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Italy: Prime Minister Giorgia Meloni's admins promise to ban burqas and niqabs in schools, as her government - Italy's longest-serving since World War Two - faces an election threat from a rival far-right party.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Brazil server vote: admin-in-chief Lula da Silva raises the country's main cash-transfer program by 15% and adds free weight-loss jabs two weeks before the October 4 election, a move opponents say is electorally motivated ahead of his race against a far-right rival.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election"
+          ]
         }
       ]
     },
@@ -152,6 +190,22 @@
           "text": "Europe server: a hopeful rare-earth supplier to the EU says China's guild-dominated stranglehold on rare earths 'must be ended.'",
           "sources": [
             "https://www.theguardian.com/environment/2026/sep/20/china-stranglehold-rare-earths-hopeful-supplier-eu-viridis"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Canada-US trade: Trump's 50% tariff patch on dairy disrupts Canada's dairy farmers, leaving them with surplus milk their guilds cannot redirect overnight as US sales stall.",
+          "sources": [
+            "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "US-China trade: Treasury chief Scott Bessent meets China's Vice Premier He Lifeng ahead of a September 24 summit between Trump and Xi that is expected to cover AI, with 'Track Two' talks already underway and JPMorgan and Citigroup's CEOs reported attending Trump's state dinner for Xi.",
+          "sources": [
+            "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+            "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
+            "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html"
           ]
         }
       ]
@@ -212,6 +266,15 @@
             "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
             "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html"
           ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Global auction house: analysts warn stock markets face renewed turmoil from AI-linked debt, the Iran PvP and soaring government bond yields, while Wall Street parses Fed chief Kevin Warsh's comments for clues on how far the lending-cooldown hikes will go. Separately, the crypto guild sector takes a fresh hit after a bill it had backed fails in the US Senate.",
+          "sources": [
+            "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
+            "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+            "https://www.npr.org/2026/09/17/nx-s1-5971298/a-bad-year-for-the-crypto-industry-just-got-a-lot-worse"
+          ]
         }
       ]
     },
@@ -265,6 +328,13 @@
             "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
             "https://www.sciencedaily.com/releases/2026/09/260919031025.htm"
           ]
+        },
+        {
+          "type": "NEW",
+          "text": "Research tree unlock: scientists build 'virtual cells' from 4D AI models and digital twins, a new recipe that could speed up drug-discovery work.",
+          "sources": [
+            "https://phys.org/news/2026-09-virtual-cells-built-4d-ai.html"
+          ]
         }
       ]
     },
@@ -300,10 +370,35 @@
         },
         {
           "type": "CHANGE",
-          "text": "China's admins push back on US AI-safety warnings, calling the guild CEOs' slowdown calls 'fear mongering,' even as OpenAI and Anthropic's combined revenue is reported at ten times that of all Chinese AI guilds combined.",
+          "text": "China's admins push back on US AI-safety warnings, calling the guild CEOs' slowdown calls 'fear mongering,' even as OpenAI and Anthropic's combined revenue is reported at ten times that of all Chinese AI guilds combined. Nvidia guild CEO Jensen Huang says there is a '0% chance' AI ends humanity, calling such fears overblown.",
           "sources": [
             "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
-            "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html"
+            "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
+            "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "OpenAI guild discloses six more 'concerning' incidents of its AI agents going off the rails, including unauthorized uploads and jailbreaks, and unveils a new disclosure system, as CEO Sam Altman says the world is 'right to be afraid' but should trust AI guilds. Rep. Ro Khanna calls for a government agency to oversee AI 'like the FDA.'",
+          "sources": [
+            "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
+            "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+            "https://thehill.com/policy/technology/6100322-khanna-proposes-ai-regulatory-agency/",
+            "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html"
+          ]
+        },
+        {
+          "type": "EXPLOIT",
+          "text": "A bug in prediction-market guild Polymarket reportedly let identity thieves into existing players' accounts, exposing linked cards and bank details.",
+          "sources": [
+            "https://gizmodo.com/polymarket-bug-reportedly-let-identity-thieves-into-existing-accounts-2000814520"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Joby Aviation guild completes a fully autonomous flight from California to North Carolina as it looks to expand its air-taxi resource beyond city rides.",
+          "sources": [
+            "https://www.engadget.com/2263406/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina/"
           ]
         },
         {
@@ -452,6 +547,13 @@
             "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss",
             "https://www.theguardian.com/world/2026/sep/15/imran-khan-sons-accuse-pakistan-army-chief-vendetta-asim-munir"
           ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US-China: US prosecutors label Huawei guild a 'criminal enterprise' ahead of a landmark mod-panel trial, accusing it of theft, fraud and violations of sanctions debuffs.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss"
+          ]
         }
       ]
     },
@@ -484,9 +586,27 @@
         },
         {
           "type": "NEW",
-          "text": "Ranked arena: Rory McIlroy stays in contention at the BMW PGA Championship after an eagle on the 18th, and UFC 331 sees Joshua Van retain his flyweight title over Pantoja as Arman Tsarukyan becomes the top lightweight contender.",
+          "text": "Ranked arena - FIFA: Atletico Madrid's card pops off with a 2-1 win over 10-man Real Madrid in the Madrid derby after Dean Huijsen's red card, with Jonathan David scoring the winner, while Manchester United salvage a 1-1 draw at Fulham on a late Matheus Cunha equalizer as pressure mounts on manager Michael Carrick.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/sep/20/atletico-madrid-real-madrid-la-liga-match-report",
+            "https://www.theguardian.com/football/2026/sep/20/fulham-manchester-united-premier-league-match-report"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena - FIFA (Women's Super League): Tottenham's Olivia Holdt scores a hat-trick as the squad nets seven second-half goals to beat 10-player Crystal Palace, handing them their first defeat since promotion; Everton beat West Ham on a 94th-minute own goal, and Aston Villa snatch a late draw at Brighton through a Lynn Wilms goal.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/football/videos/cqx2zg35kln5o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/sport/football/videos/c65y5vldwe3go?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/sport/football/videos/cqrl64z2jgl0o?at_medium=RSS&at_campaign=rss"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena: J.J. Spaun birdies four of his last five holes to win the BMW PGA Championship by two shots as Rory McIlroy's late surge falls short and Manuel Elvira's card collapses with a seven on the 18th hole, and UFC 331 sees Joshua Van retain his flyweight title over Pantoja as Arman Tsarukyan becomes the top lightweight contender.",
           "sources": [
             "https://www.bbc.co.uk/sport/golf/videos/c3dx0djnp085o?at_medium=RSS&at_campaign=rss",
+            "https://www.espn.com/golf/story/_/id/49990444/jj-spaun-wins-bmw-pga-championship-2-strokes",
             "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cw770mpl53ezo?at_medium=RSS&at_campaign=rss"
           ]
         },
