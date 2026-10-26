@@ -4,11 +4,11 @@
   "version": "v2026.43",
   "released": "2026-10-25",
   "summary": [
-    "Brazil run-off between Lula and Flavio Bolsonaro under way today; no result reported at release time",
-    "France rallies hit a second straight weekend (estimated 410,000 players; arrest counts differ by report) and bond yields reach a 24-year high",
-    "Middle East PvP risk rises: Brent passes $117, Houthi-Saudi exchanges continue, Israel's West Bank operation runs ahead of the Oct 27 server vote",
-    "PHP2Shell flaws put sites at risk of going offline worldwide; OpenAI moves frontier model training off the live internet",
-    "AI stocks sell off (Meta shares down nearly 7%) as a New Mexico mod panel orders Meta to pay $25 billion",
+    "Brazil run-off: Lula wins a fourth term (51.7% to 48.2%, official results) and Flavio Bolsonaro says it is 'impossible to concede'; Serbia's Vucic concedes to the student-led Student List",
+    "France rallies hit a second straight weekend (estimated 410,000 players; arrest counts differ by report), bond yields reach a 24-year high, and Le Pen launches her presidential campaign",
+    "Middle East PvP risk rises: Brent passes $117, Houthi-Saudi exchanges continue, Trump rules out Iran strikes 'today', Netanyahu pledges a West Bank operation ahead of the Oct 27 server vote",
+    "PHP2Shell flaws put sites at risk of going offline worldwide; OpenAI says it will move frontier model training off the live internet",
+    "AI stocks sell off (Meta shares down nearly 7%); a New Mexico mod panel orders Meta to pay $25 billion",
     "Moderna-Merck melanoma vaccine cuts recurrence or death by 42%, the guilds say; Ebola reaches Nigeria and a second Kenya death is reported; Japan's MMX ships"
   ],
   "sections": [
@@ -17,44 +17,68 @@
       "changes": [
         {
           "type": "ISSUE",
-          "text": "France team: rallies over inequality, living costs and school funding draw an estimated 410,000 players for a second straight weekend, with clashes in several cities, and reports differ on arrests (almost 1,000 on Saturday in one report, more than 1,300 in another).",
+          "text": "France team: rallies over inequality, living costs and school funding draw an estimated 410,000 players for a second straight weekend, with clashes in several cities, and reports differ on arrests (almost 1,000 on Saturday in one report; more than 1,300 in another, where police put the nationwide count at 1,314) and on Paris turnout (110,000 players in one report); France's interior admin Laurent Nunez says members of 'ultra-left' groups threw projectiles and fireworks at mods.",
           "sources": [
             "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
             "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
             "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-            "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence"
+            "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
+            "https://www.france24.com/en/france-1-314-arrested-during-protests-across-the-country",
+            "https://www.france24.com/en/france-110-000-protesters-in-paris"
           ],
+          "places": [
+            "FR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
           "type": "ISSUE",
-          "text": "Europe server: rallies over living costs and corruption spread to more teams, with soldiers guarding central Milan, mods clearing a Lisbon housing-protest camp overnight and arresting 25 players, and mods in Tirana filmed beating a protester lying on the ground.",
+          "text": "Europe server: rallies over living costs and corruption spread to more teams, with soldiers guarding central Milan, mods clearing a Lisbon housing-protest camp overnight and arresting 25 players, and footage reportedly shows mods in Tirana beating a protester lying on the ground.",
           "sources": [
             "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
             "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
             "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
             "https://timesofindia.indiatimes.com/world/europe/europe-spring-protests-engulf-continent-as-people-take-to-streets-in-france-albania-italy-spain-portugal/articleshow/135185017.cms"
-          ]
+          ],
+          "places": [
+            "EU",
+            "IT",
+            "PT"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
-          "text": "Iran PvP: Brent crude passes $117 a barrel, its highest in over six months, after Iran's admins threaten retaliatory attacks on Gulf refineries and datacentres amid fears the US team renews strikes; reports say CENTCOM has drawn up strike plans for after the midterm polls, and a memo from DNI director Jay Clayton says Iran is in the 'advanced stages' of planning attacks against Americans, with US embassies tightening security.",
+          "text": "Iran PvP: Brent crude passes $117 a barrel, its highest in over six months, after Iran's admins threaten retaliatory attacks on Gulf refineries and datacentres amid fears the US team renews strikes; reports say CENTCOM has drawn up strike plans for after the midterm polls, and a memo from DNI director Jay Clayton says Iran is in the 'advanced stages' of planning attacks against Americans, with US embassies tightening security; on Sunday, Trump rules out strikes 'today', while Iran's admins say renewed US-Israeli attacks 'will achieve no different outcome'.",
           "sources": [
             "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
             "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
             "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-            "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss"
+            "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+            "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
           ],
+          "places": [
+            "IR",
+            "US-DC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
           "type": "ISSUE",
-          "text": "Yemen PvP: Saudi raid parties report intercepting Houthi missiles and drones, with Saudi Civil Defence saying intercepted ballistic missiles caused two injuries in the south, while the Houthis claim attacks on airports and energy sites; in Taiz, drinking water supplies are reported to be dwindling as Houthi forces tighten their encirclement.",
+          "text": "Yemen PvP: Saudi raid parties report intercepting Houthi missiles and drones, with Saudi Civil Defence saying intercepted ballistic missiles caused two injuries in the south, while the Houthis claim attacks on airports and energy sites; Riyadh's King Khalid International Airport partially reopens after Saudi forces intercept a Houthi ballistic missile and drones, with a Houthi military spokesman describing the airport as unsafe for travellers and staff; in Taiz, drinking water supplies are reported to be dwindling as Houthi forces tighten their encirclement.",
           "sources": [
             "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
             "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
-            "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+            "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+            "https://timesofindia.indiatimes.com/world/middle-east/riyadh-airport-partially-reopens-saudi-arabia-intercepts-houthi-ballistic-missile-drones/articleshow/135200598.cms"
           ],
+          "places": [
+            "YE",
+            "SA"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -65,6 +89,12 @@
             "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack",
             "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "WB",
+            "IL",
+            "PS"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -74,16 +104,30 @@
             "https://timesofindia.indiatimes.com/world/middle-east/ukraine-drone-attacks-kill-three-injure-14-in-russias-belgorod-region/articleshow/135186534.cms",
             "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf",
             "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "UA",
+            "RU"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
-          "text": "Ukraine team: Starlink and Starshield access returns to normal speeds after about 10 days of restrictions, the Ukrainian admins say; Elon Musk, CEO of the SpaceX guild, says Ukraine's military violated Starlink terms of service by using it for offensive drone strikes and that the loophole was closed, and Ukraine signs a letter of intent with the Nokia and ICEYE guilds to explore its own satellite network.",
+          "text": "Ukraine team: Starlink and Starshield access returns to normal speeds after about 10 days of restrictions, the Ukrainian admins say; Elon Musk, CEO of the SpaceX guild, says Ukraine's military violated Starlink terms of service by using it for offensive drone strikes and that the loophole was closed, while Ukraine's admins dispute the claim, arguing that commercial Starlink limits prevented medium- and long-range strike use; Ukraine also signs a letter of intent with the Nokia and ICEYE guilds to explore its own satellite network.",
           "sources": [
             "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
             "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/",
             "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia",
-            "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions"
+            "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+            "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html"
+          ],
+          "places": [
+            "UA",
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX",
+            "NOKIA"
           ]
         },
         {
@@ -93,7 +137,13 @@
             "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
             "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
             "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "GR",
+            "JO",
+            "NG"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -101,13 +151,47 @@
           "sources": [
             "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
             "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
-          ]
+          ],
+          "places": [
+            "CN",
+            "TW"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Kenya team: a bus crash on the Nairobi-Mombasa Highway kills at least 24 church mourners, weeks after another crash killed 17 people; the Kenyan admins say they will crack down on road safety.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss"
+          ],
+          "places": [
+            "KE"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Sudan team: a BBC investigation finds evidence that paramilitary rogue factions systematically destroyed el-Fasher's healthcare system, with doctors describing the targeting of hospitals.",
           "sources": [
             "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "SD"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Korean Peninsula: North Korea's admins tell the UN in a letter that Seoul 'fabricated' the September landmine blast, calling the incident a 'sinister obstructive move', while South Korea's admins blame Pyongyang for the blast.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss"
+          ],
+          "places": [
+            "KP",
+            "KR"
+          ],
+          "guilds": [
+            "UN"
           ]
         }
       ]
@@ -117,59 +201,153 @@
       "changes": [
         {
           "type": "HOTFIX",
-          "text": "Brazil team server vote: the presidential run-off is under way today between incumbent Luiz Inacio Lula da Silva, seeking a fourth term, and Senator Flavio Bolsonaro, son of Brazil's imprisoned ex-president, who won the first round; nearly 159 million players are set to vote in a run-off the Guardian calls highly unpredictable, and a reported crowd of more than one million Lula supporters rallied in Rio on the eve of the vote. No count, exit poll or result is reported in the sources at release time.",
+          "text": "Brazil team server vote: incumbent Luiz Inacio Lula da Silva wins the presidential run-off for a fourth term with 51.7% to 48.2% for Senator Flavio Bolsonaro, son of Brazil's imprisoned ex-president, according to official results, in what reports describe as the first time since the return of democracy that a candidate who lost the first round wins the run-off; Lula thanks voters, while Bolsonaro says it is 'impossible to concede' and does not recognize the results. Nearly 159 million players were set to vote, and a reported crowd of more than one million Lula supporters rallied in Rio on the eve of the vote.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-            "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro"
+            "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+            "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
+            "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
+            "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
           ],
+          "places": [
+            "BR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
           "type": "HOTFIX",
-          "text": "Europe server votes: Serbia holds a parliamentary election as the student-led Student List, which emerged from almost two years of anti-corruption protests, challenges leader Aleksandar Vucic in a race reported as neck-and-neck, with allegations of irregularities and fears of a post-election crisis; Bulgaria votes for a largely ceremonial president, seen as a test of PM Rumen Radev's popularity. No results are reported yet.",
+          "text": "Europe server votes: Serbia's leader Aleksandar Vucic concedes defeat in a snap parliamentary election, saying it is 'clear' his party has lost to the student-led Student List, which emerged from almost two years of anti-corruption protests; turnout is near 70% in one. Bulgaria's presidential vote, seen as a test of PM Rumen Radev's popularity, goes to a Nov 1 run-off between President Iliana Yotova and former caretaker PM Andrey Gyurov after record low turnout.",
           "sources": [
-            "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-            "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-world-4025-rdf",
-            "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf"
-          ]
+            "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
+            "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+            "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
+            "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+            "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
+            "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
+            "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "EU",
+            "RS",
+            "BG"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
-          "text": "Israel team server vote: players go to the polls Tuesday, Oct 27, with PM Benjamin Netanyahu facing rivals including a former army chief, two ex-PMs and an Arab party leader, and Gadi Eisenkot named as a primary challenger.",
+          "text": "Venezuela team: opposition leader and Nobel Peace Prize winner Maria Corina Machado returns after more than 10 months in exile, writing on social media 'I am here. With you.'",
+          "sources": [
+            "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+            "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+            "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+          ],
+          "places": [
+            "VE"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "France team: Marine Le Pen launches her presidential campaign in Orleans before some 10,000 supporters, with polls cited at up to 38% six months before the election; separately, trade unions accuse Macron of trying to curb the right to protest as the admins fast-track a bill making protesters pay for damage at street demonstrations even if they did not cause it, what critics call a 'vandal's law'.",
+          "sources": [
+            "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+            "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
+            "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
+            "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss"
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Czechia team: thousands rally in Prague against proposed public media funding reforms, with demonstrators alleging that the reforms from PM Andrej Babis and his coalition threaten press freedom.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss"
+          ],
+          "places": [
+            "CZ"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "Israel team server vote: players go to the polls Tuesday, Oct 27, with PM Benjamin Netanyahu facing rivals including a former army chief, two ex-PMs and an Arab party leader, and Gadi Eisenkot named as a primary challenger; Eisenkot holds his final rally on Sunday, Trump urges Israelis to re-elect Netanyahu, calling him an 'outstanding warrior', Netanyahu warns Iran could attack Israel to disrupt the vote, and Israeli media report IDF chief Eyal Zamir has pushed back on a Netanyahu order over Iran and demanded written authorisation, which Netanyahu denies.",
           "sources": [
             "https://timesofindia.indiatimes.com/world/middle-east/israel-elections-can-benjamin-netanyahu-turn-security-gains-into-a-political-victory/articleshow/135190120.cms",
-            "https://timesofindia.indiatimes.com/world/middle-east/a-former-army-chief-2-ex-pms-and-an-arab-party-leader-meet-netanyahus-main-rivals-as-israel-heads-to-polls/articleshow/135188375.cms"
-          ]
+            "https://timesofindia.indiatimes.com/world/middle-east/a-former-army-chief-2-ex-pms-and-an-arab-party-leader-meet-netanyahus-main-rivals-as-israel-heads-to-polls/articleshow/135188375.cms",
+            "https://timesofindia.indiatimes.com/world/us/vote-for-netanyahu-trump-urges-israelis-to-re-elect-outstanding-warrior-pm-to-finish-job-in-iran/articleshow/135200797.cms",
+            "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+            "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order"
+          ],
+          "places": [
+            "IL"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
-          "text": "UK team: PM Andy Burnham says he wants an 'honest discussion' on returning to free movement with the EU ahead of a November summit, and cabinet ministers including Angela Rayner back the call as 'pragmatism', though reports say it risks concern among some red wall MPs; separately, Chancellor John Healey's Wednesday budget is to include 1bn GBP for social and affordable housing, taking the 10-year programme above 40bn GBP.",
+          "text": "UK team: PM Andy Burnham says he wants an 'honest discussion' on returning to free movement with the EU ahead of a November summit, and cabinet ministers including Angela Rayner back the call as 'pragmatism', though reports say it risks concern among some red wall MPs; separately, Chancellor John Healey's Wednesday budget is to include 1bn GBP for social and affordable housing, taking the 10-year programme above 40bn GBP, and a further 432m GBP for ending rough sleeping, doubling that spending to almost 900m GBP by the end of the current parliament as Burnham steps up efforts to get rough sleepers off the streets by Christmas.",
           "sources": [
             "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
             "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
             "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
-            "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
-          ]
+            "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham"
+          ],
+          "places": [
+            "UK",
+            "EU"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
-          "text": "US admins: the DOJ sues to block certification of Alaska's Senate election over two candidates named Dan Sullivan, saying the duplicate name could help Democratic nominee Mary Peltola, Trump says he ordered the suit, and Common Cause, represented by the ACLU, moves to intervene; separately, California AG Rob Bonta says a DOJ directive to verify 20,000 ballots over alleged noncitizen voting is 'politicizing and weaponizing the law'.",
+          "text": "UK team: the Board of Deputies of British Jews votes to declare the Green Party a racist party, in response to the Green Party passing a 'Zionism is racism' policy motion.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "US admins: the DOJ sues to block certification of Alaska's Senate election over two candidates named Dan Sullivan, saying the duplicate name could help Democratic nominee Mary Peltola, Trump says he ordered the suit to block certification if a Republican loses, and Common Cause, represented by the ACLU, moves to intervene; Attorney General Todd Blanche defends the suit in an interview, and the DOJ has faced criticism that it is aimed at blocking a Democratic victory; separately, California AG Rob Bonta says a DOJ directive to verify 20,000 ballots over alleged noncitizen voting is 'politicizing and weaponizing the law', and an appeals mod panel appears unlikely to immediately agree to the DOJ's bid to segregate the 20,000 ballots, with Circuit Judge Mark Bennett saying 'I don't see how we have jurisdiction'.",
           "sources": [
             "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
             "https://thehill.com/regulation/court-battles/6170458-common-cause-aclu-intervene-alaska-election/",
-            "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration"
-          ]
+            "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
+            "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+            "https://thehill.com/regulation/court-battles/6171263-appeals-court-denies-emergency-california-hearing/"
+          ],
+          "places": [
+            "US-DC",
+            "US-AK",
+            "US-CA"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
-          "text": "US midterms: a CNBC survey finds 8 in 10 players rate the economy fair or poor, with Trump's approval on the economy at an all-time low in the survey; Obama campaigns in Ohio and Michigan, saying the election is 'the last best chance to at least rein in some of the foolishness of this administration', and Elon Musk adds another $76 million, bringing his giving to Republican groups this cycle above $445 million.",
+          "text": "US midterms: a CNBC survey finds 8 in 10 players rate the economy fair or poor, with Trump's approval on the economy at an all-time low in the survey; Obama campaigns in Ohio and Michigan, saying the election is 'the last best chance to at least rein in some of the foolishness of this administration', and at an Ohio rally says Americans face higher costs because of administration decisions, including what he describes as 'an unnecessary war that nobody asked for and nobody voted for'; Elon Musk adds another $76 million, bringing his giving to Republican groups this cycle above $445 million.",
           "sources": [
             "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
             "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-            "https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/"
-          ]
+            "https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/",
+            "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1"
+          ],
+          "places": [
+            "US-DC",
+            "US-OH",
+            "US-MI"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -177,14 +355,37 @@
           "sources": [
             "https://timesofindia.indiatimes.com/world/us/we-got-them-both-donald-trump-claims-us-has-secured-greenland-venezuela-in-greatest-real-estate-deal/articleshow/135186054.cms",
             "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "GL",
+            "VE"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "US admins: Trump confirms on Truth Social that he is considering moving the White House press corps from its historic location, in a post that also says he is not building a swimming pool in the Briefing Room.",
+          "sources": [
+            "https://thehill.com/homenews/administration/6171484-donald-trump-considering-moving-white-house-press-corps/"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "US admins: relatives and advocates say gravely ill detainees at two Florida immigration jails face removal to third African countries where they have no ties, with flights scheduled as early as Wednesday, as mods line up ban-hammer removals.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-FL",
+            "AFR"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -198,7 +399,12 @@
             "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
             "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "CA"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -206,14 +412,29 @@
           "sources": [
             "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
             "https://thehill.com/homenews/state-watch/6170630-trump-announces-audi-factory-georgia/"
+          ],
+          "places": [
+            "GE",
+            "US-DC"
+          ],
+          "guilds": [
+            "VOLKSWAGEN"
           ]
         },
         {
           "type": "NERF",
-          "text": "Debuffs on China-linked tech: the US Treasury proposes restrictions on US investment in Chinese biotechs while still allowing licensing deals, and DHS orders federal civilian agencies to remove DeepSeek products and bans new purchases.",
+          "text": "Debuffs on China-linked tech: the US Treasury proposes restrictions on US investment in Chinese biotechs while still allowing licensing deals, and DHS orders federal civilian agencies to remove DeepSeek products and bans new purchases; separately, the China team's admins reportedly allow the DeepSeek guild to keep selling after threatening AI export bans.",
           "sources": [
             "https://www.statnews.com/2026/10/23/new-china-biotech-limits-coins-act-proposal-us-pharma-reaction/?utm_campaign=rss",
-            "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html"
+            "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+            "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267"
+          ],
+          "places": [
+            "CN",
+            "US-DC"
+          ],
+          "guilds": [
+            "DEEPSEEK"
           ]
         }
       ]
@@ -229,15 +450,27 @@
             "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
             "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "META"
+          ],
           "highlight": true
         },
         {
           "type": "ISSUE",
-          "text": "France team economy: Moody's holds the team's reputation score at Aa3, but unrest after the rallies pushes bond yields to a 24-year high, and the Carrefour guild cuts its full-year 2026 forecasts citing social unrest and security conditions, with shares falling 14%.",
+          "text": "France team economy: Moody's holds the team's reputation score at Aa3, but unrest after the rallies coincides with bond yields reaching a 24-year high, and the Carrefour guild cuts its full-year 2026 forecasts citing social unrest and security conditions, with shares falling 14%.",
           "sources": [
             "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
             "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
             "https://www.cnbc.com/2026/10/21/carrefour-french-protests-guidance-cut.html"
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": [
+            "CARREFOUR"
           ]
         },
         {
@@ -247,7 +480,11 @@
             "https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
             "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
             "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -256,14 +493,27 @@
             "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
             "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
             "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
-          "text": "Tesla and SpaceX guilds: Elon Musk confirms both have formed special committees to consider a merger, which would require approval from 50% of shareholders.",
+          "text": "Tesla and SpaceX guilds: Elon Musk confirms both have formed special committees to consider a merger, which would require approval from 50% of shareholders; separately, Musk says in an X post that SpaceX has closed $40 billion in debt financing to buy GPUs.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-            "https://www.npr.org/2026/10/22/nx-s1-6010634/elon-musk-says-space-x-and-tesla-are-considering-a-merger"
+            "https://www.npr.org/2026/10/22/nx-s1-6010634/elon-musk-says-space-x-and-tesla-are-considering-a-merger",
+            "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
+          ],
+          "places": [
+            "US-TX",
+            "STARBASE"
+          ],
+          "guilds": [
+            "TESLA",
+            "SPACEX"
           ]
         },
         {
@@ -271,7 +521,11 @@
           "text": "China team gold income: third-quarter GDP grows 4.5% year on year (4.3% -> 4.5% from the second quarter), above forecasts, as AI-driven electronics demand lifts exports.",
           "sources": [
             "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports"
-          ]
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -279,6 +533,14 @@
           "sources": [
             "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
             "https://www.npr.org/2026/10/25/nx-s1-6009274/netflix-lays-off-6-of-workforce-amidst-slowing-growth"
+          ],
+          "places": [
+            "UK",
+            "US-CA"
+          ],
+          "guilds": [
+            "BARCLAYS",
+            "NETFLIX"
           ]
         }
       ]
@@ -288,11 +550,19 @@
       "changes": [
         {
           "type": "ISSUE",
-          "text": "PHP2Shell: PHP ships emergency patches on Oct 21 for two critical flaws that let attackers seize full control of servers, with reports that nearly 70% of websites need to update and exploits already circulating; many sites go offline, UK admins report 32 government services unavailable and four partly disrupted with no confirmed compromise, and Amazon says attempts began four days before the patches while Cloudflare reports millions of exploit attempts.",
+          "text": "PHP2Shell: PHP ships emergency patches on Oct 21 for two critical flaws that let attackers seize full control of servers, with reports that nearly 70% of websites need to update and exploits already circulating; many sites are at risk of going offline, UK admins report 32 government services unavailable and four partly disrupted with no confirmed compromise, and Amazon says attempts began four days before the patches while Cloudflare reports millions of exploit attempts; researchers separately report exploitation hitting a government entity in Europe, where attackers accessed password hashes within two hours of initial exploitation, and threat actors using agentic AI platforms for post-exploitation activity.",
           "sources": [
             "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
             "https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840",
-            "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749"
+            "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749",
+            "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
+          ],
+          "places": [
+            "UK",
+            "SEA"
+          ],
+          "guilds": [
+            "AMAZON"
           ],
           "highlight": true
         },
@@ -304,6 +574,13 @@
             "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
             "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI",
+            "ANTHROPIC"
+          ],
           "highlight": true
         },
         {
@@ -313,6 +590,13 @@
             "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
             "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/",
             "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI",
+            "HUGGINGFACE"
           ]
         },
         {
@@ -321,6 +605,13 @@
           "sources": [
             "https://www.wired.com/gallery/iphone-buying-guide/",
             "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html"
+          ],
+          "places": [
+            "SFBAY",
+            "CN"
+          ],
+          "guilds": [
+            "APPLE"
           ]
         },
         {
@@ -329,6 +620,13 @@
           "sources": [
             "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
             "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/"
+          ],
+          "places": [
+            "JP"
+          ],
+          "guilds": [
+            "CAPCOM",
+            "QUEST"
           ]
         },
         {
@@ -336,6 +634,14 @@
           "text": "Google guild: a power issue causes a major Cloud outage in its London region on Oct 20, hitting banks, Revolut and court video cameras; Google apologises, problems are fixed for most customers, and regulators push for details.",
           "sources": [
             "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates"
+          ],
+          "places": [
+            "SFBAY",
+            "UK"
+          ],
+          "guilds": [
+            "GOOGLE",
+            "REVOLUT"
           ]
         }
       ]
@@ -348,21 +654,27 @@
           "text": "Tech-tree unlock: astronomers report evidence of what may be the first moon found beyond our Solar System, an object at least as massive as Jupiter that orbits a brown dwarf, which itself circles a star, leaving scientists unsure what to call it.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/10/261023023736.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Research recipe: scientists trap an antimatter particle for months, a method that paves the way for tests of differences between matter and antimatter.",
           "sources": [
             "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Tech-tree unlock: analysis of 2,884 exploding stars finds new evidence that dark energy, the force accelerating the universe's expansion, may change over time, challenging a cornerstone of cosmology.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/10/261021231244.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -376,6 +688,12 @@
             "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
             "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
             "https://www.theregister.com/science/2026/10/22/veteran-esa-probe-rolls-out-welcome-mat-for-japans-phobos-mission/5304684"
+          ],
+          "places": [
+            "JP"
+          ],
+          "guilds": [
+            "ESA"
           ]
         },
         {
@@ -385,6 +703,16 @@
             "https://www.space.com/space-exploration/artemis/nasa-lays-out-plan-for-artemis-3-moon-lander-test-flight-but-when-will-it-launch",
             "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
             "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/"
+          ],
+          "places": [
+            "US-DC",
+            "SEA",
+            "STARBASE"
+          ],
+          "guilds": [
+            "NASA",
+            "BLUEORIGIN",
+            "SPACEX"
           ]
         },
         {
@@ -394,6 +722,12 @@
             "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
             "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
             "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data"
+          ],
+          "places": [
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         }
       ]
@@ -409,6 +743,14 @@
             "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&at_campaign=rss",
             "https://www.newscientist.com/article/2595599-personalised-cancer-vaccine-expected-to-be-approved-next-year/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
           ],
+          "places": [
+            "US-MA",
+            "US-NJ"
+          ],
+          "guilds": [
+            "MODERNA",
+            "MERCK"
+          ],
           "highlight": true
         },
         {
@@ -418,14 +760,25 @@
             "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
             "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "NG",
+            "UG",
+            "CH"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
-          "text": "US team measles: CDC reports 178 more cases, bringing the total to 4,588, more than double the 2025 tally, across at least 43 outbreaks, as experts criticize the agency over transparency.",
+          "text": "US team measles: CDC reports 178 more cases, bringing the total to 4,588, more than double the 2025 tally, across at least 43 outbreaks, as experts criticize the agency over transparency; Pennsylvania is the worst-hit state, with at least 1,338 cases in 44 counties this year, according to its health department.",
           "sources": [
-            "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting"
-          ]
+            "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
+            "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -434,7 +787,11 @@
             "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
             "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
             "https://www.science.org/content/article/first-human-death-linked-recently-discovered-livestock-virus-europe"
-          ]
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -443,6 +800,16 @@
             "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
             "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
             "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/?utm_campaign=rss"
+          ],
+          "places": [
+            "US-CA",
+            "UK"
+          ],
+          "guilds": [
+            "AMGEN",
+            "ASTRAZENECA",
+            "TANGO",
+            "BMS"
           ]
         },
         {
@@ -452,7 +819,11 @@
             "https://www.science.org/content/article/kennedy-select-maha-aligned-researcher-head-mental-health-institute-overruling-nih",
             "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
             "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -460,7 +831,12 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
             "https://www.theguardian.com/us-news/2026/oct/25/bird-flu-utah-mink-farm-trump-administration"
-          ]
+          ],
+          "places": [
+            "US-TX",
+            "US-UT"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -473,7 +849,13 @@
           "sources": [
             "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
             "https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas"
-          ]
+          ],
+          "places": [
+            "EU",
+            "MT",
+            "IT"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -481,24 +863,40 @@
           "sources": [
             "https://e360.yale.edu/digest/emissions-gap-2026",
             "https://www.newscientist.com/article/2595378-all-tropical-coral-reefs-could-collapse-within-50-years/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+          ],
+          "places": [],
+          "guilds": [
+            "UN"
           ]
         },
         {
           "type": "CHANGE",
-          "text": "UK team: energy secretary Miatta Fahnbulleh approves gas production at the Jackdaw gasfield; PM Andy Burnham says approval is part of a plan to meet net zero, while climate campaigners condemn the decision.",
+          "text": "UK team: energy secretary Miatta Fahnbulleh approves gas production at the Jackdaw gasfield; PM Andy Burnham says approval is part of a plan to meet net zero, while climate campaigners condemn the decision; separately, a cabinet split emerges over the Rosebank oilfield, with Chancellor John Healey in favour of the North Sea project and Fahnbulleh, who is in charge of the decision, saying she is leaning towards rejecting it.",
           "sources": [
             "https://www.theguardian.com/commentisfree/2026/oct/22/net-zero-transition-britain-jackdaw-gasfield-jobs-energy-security-labour",
-            "https://www.theguardian.com/news/video/2026/oct/21/how-bad-is-jackdaw-gasfield-approval-for-the-climate-the-latest"
-          ]
+            "https://www.theguardian.com/news/video/2026/oct/21/how-bad-is-jackdaw-gasfield-approval-for-the-climate-the-latest",
+            "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
-          "text": "UK team: Storm Boelo follows Storm Austen, leaving more than 82,000 properties without power with gusts up to 84mph and amber wind warnings across Scotland, Northern Ireland and northern England, plus flooding, fallen trees and travel and flight disruption.",
+          "text": "UK team: Storm Boelo follows Storm Austen, leaving 90,000 properties without power (more than 82,000 in an earlier report) with gusts up to 84mph and amber wind warnings across Scotland, Northern Ireland and northern England, plus flooding, fallen trees and travel and flight disruption; one report says two men were killed by falling trees, while another says the storms killed a man in Scotland and, together, cut power to more than 150,000 homes across northern Europe, including the UK, France and Germany.",
           "sources": [
             "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
             "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
-            "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss"
-          ]
+            "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+            "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss"
+          ],
+          "places": [
+            "UK",
+            "IE"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -513,7 +911,29 @@
             "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
             "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/"
           ],
+          "places": [
+            "SFBAY",
+            "US-NM",
+            "UK"
+          ],
+          "guilds": [
+            "META"
+          ],
           "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "Anthropic guild: sued by Authentic Brands Group, owner of Elvis Presley's music catalogue, which alleges the AI guild used 274 Presley songs to train its models without permission.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "ANTHROPIC",
+            "AUTHENTIC"
+          ]
         },
         {
           "type": "FIX",
@@ -521,21 +941,56 @@
           "sources": [
             "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
             "https://timesofindia.indiatimes.com/world/us/in-2019-new-york-changed-the-law-to-let-survivors-pursue-decades-old-abuse-claims-seven-years-later-about-1300-people-have-agreed-to-an-800-million-settlement-with-the-catholic-archdiocese-pending-signatures/articleshow/135192523.cms"
-          ]
+          ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "US team: 11 players sustain gunshot wounds and another is injured near Florida A&M University in Tallahassee after an altercation at a homecoming party escalates, police say, with six adults and six juveniles among the injured.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university"
-          ]
+          ],
+          "places": [
+            "US-FL"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
           "text": "India team: admins cut prices of 137 cancer drugs from next month after a mod-panel case filed in 2022 by a retired bank clerk, with the court ruling the mark-ups were 'extortion'.",
           "sources": [
             "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs"
-          ]
+          ],
+          "places": [
+            "IN"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "FIX",
+          "text": "Gabon team: admins say access to social media is restored after an eight-month ban, which they justified by saying online content was fuelling conflict and which the opposition condemned as an abuse of power.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "GA"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Australia team: as parliament pauses, tributes are paid to MP Helen Haines after an alleged attack, with Anthony Albanese leading them and Haines's first words after waking reported as concern for staff and bystanders; Victoria's emergency services minister Paul Edbrooke separately says he believes he is being followed and fears for his family's safety after a bullet inscribed 'RAT' is left on his car, amid heightened concerns for MPs.",
+          "sources": [
+            "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
+            "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb"
+          ],
+          "places": [
+            "AU"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -548,6 +1003,14 @@
           "sources": [
             "https://www.theguardian.com/sport/2026/oct/25/milwaukee-brewers-tampa-bay-rays-world-series-game-two-comeback",
             "https://www.theguardian.com/sport/2026/oct/23/brewers-rays-world-series-game-one-christian-yelich"
+          ],
+          "places": [
+            "US-WI",
+            "US-FL"
+          ],
+          "guilds": [
+            "MLB",
+            "BREWERS"
           ]
         },
         {
@@ -557,23 +1020,67 @@
             "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "PREMIERLEAGUE",
+            "MANCITY",
+            "ARSENAL",
+            "TOTTENHAM",
+            "CHELSEA"
           ]
         },
         {
           "type": "CHANGE",
-          "text": "Roster moves: the Manchester United squad leaves captain Bruno Fernandes out of the XI against Bournemouth after his public criticism of the player on the controller, Michael Carrick; Burnley sack Nicky Hayen after 14 games, of which he won one; and Sheffield Wednesday sack Henrik Pedersen after about 15 months.",
+          "text": "FIFA La Liga mode: the Real Madrid squad wins 2-1 at Barcelona's Camp Nou in El Clasico, Kylian Mbappe's card popping off for two goals after a Raphinha equaliser, ending Barcelona's perfect start to the league season, with Jose Mourinho as the player on the controller for Madrid.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report",
+            "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+            "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "ES"
+          ],
+          "guilds": [
+            "REALMADRID",
+            "BARCELONA"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Roster moves: the Manchester United squad leaves captain Bruno Fernandes out of the XI against Bournemouth after his public criticism of the player on the controller, Michael Carrick, and loses 3-0 at home, extending a winless run to eight matches, with the board reportedly holding crisis talks over Carrick's future; Burnley sack Nicky Hayen after 14 games, of which he won one; and Sheffield Wednesday sack Henrik Pedersen after about 15 months.",
           "sources": [
             "https://www.espn.com/soccer/story/_/id/50276044/bruno-fernandes-left-man-united-bournemouth",
             "https://www.theguardian.com/football/2026/oct/24/burnley-sack-nicky-hayen-lincoln-rout-championship",
-            "https://www.bbc.co.uk/sport/football/articles/cq4g15392p4ro?at_medium=RSS&at_campaign=rss"
+            "https://www.bbc.co.uk/sport/football/articles/cq4g15392p4ro?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/football/2026/oct/25/manchester-united-board-crisis-talks-michael-carrick-eddie-howe-bournemouth-premier-league"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "MANUTD"
           ]
         },
         {
           "type": "CHANGE",
-          "text": "Ranked arena: Kimi Antonelli takes pole for the US Grand Prix and leads George Russell by 102 points, needing a 125-point lead after Sunday's race to clinch his first F1 title; rain cancels the final MotoGP race at Phillip Island, with the Australian race moving to a Melbourne street circuit next year.",
+          "text": "Ranked arena: Kimi Antonelli wins the US Grand Prix after taking pole, ahead of Charles Leclerc and Max Verstappen, and needs only two more points to clinch his first F1 title; rain cancels the final MotoGP race at Phillip Island, with the Australian race moving to a Melbourne street circuit next year.",
           "sources": [
             "https://www.theguardian.com/sport/2026/oct/24/kimi-antonelli-seizes-f1-us-gp-pole-and-chance-to-seal-first-world-title",
-            "https://www.theguardian.com/sport/2026/oct/25/final-motogp-race-phillip-island-rain-cancellation-marc-marquez"
+            "https://www.theguardian.com/sport/2026/oct/25/final-motogp-race-phillip-island-rain-cancellation-marc-marquez",
+            "https://www.theguardian.com/sport/2026/oct/25/kimi-antonelli-storms-to-us-f1-gp-victory-but-is-made-to-wait-for-title-glory",
+            "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "US",
+            "AU"
+          ],
+          "guilds": [
+            "MOONSHOT",
+            "F1"
           ]
         },
         {
@@ -583,6 +1090,42 @@
             "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss",
             "https://www.skysports.com/boxing/news/12040/13603457/oshaquie-foster-drops-emanuel-navarrete-twice-to-unify-three-world-titles-in-texas-undisputed-thats-my-dream",
             "https://www.bbc.co.uk/sport/boxing/articles/cqn73k05xjx6o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "US",
+            "AE"
+          ],
+          "guilds": [
+            "UFC"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Ranked arena (cricket): Pakistan beat England by one wicket in a one-day international in Lahore, with Shadab Khan's unbeaten 113 and a last-wicket stand overturning what looked like an unbeatable position for England.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
+            "https://www.skysports.com/watch/video/13603659/pakistan-v-england-odi-highlights-shadab-khans-unbeaten-113-seals-dramatic-one-wicket-victory"
+          ],
+          "places": [
+            "PK",
+            "UK"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena (NFL): the Pittsburgh Steelers guild beat the New Orleans Saints 16-10 in the first NFL regular-season game held in France, at the Stade de France in Paris.",
+          "sources": [
+            "https://www.theguardian.com/sport/live/2026/oct/25/nfl-week-seven-jets-v-dolphins-vikings-v-colts-and-more",
+            "https://www.france24.com/en/video/20261025-france-football-fans-take-over-paris-as-nfl-comes-to-country-for-the-first-time"
+          ],
+          "places": [
+            "FR",
+            "US-PA"
+          ],
+          "guilds": [
+            "NFL",
+            "STEELERS"
           ]
         }
       ]
