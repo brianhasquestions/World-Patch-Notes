@@ -23,6 +23,12 @@
             "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
             "https://www.independent.co.uk/news/world/americas/us-politics/pentagon-general-europe-israel-defense-b3025902.html"
           ],
+          "places": [
+            "IL",
+            "US-DC",
+            "IR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -33,6 +39,12 @@
             "https://www.france24.com/en/gaza-overnight-israeli-strikes-kill-at-least-8",
             "https://www.theguardian.com/news/audio/2026/jul/31/hamas-agrees-trump-plan-disarm-gaza-the-latest"
           ],
+          "places": [
+            "PS",
+            "US-DC",
+            "IL"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -42,6 +54,13 @@
             "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
             "https://timesofindia.indiatimes.com/world/rest-of-world/cruel-terrorist-act-moscow-mayor-on-restaurant-blast-that-killed-3-injured-21/articleshow/132808972.cms",
             "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes"
+          ],
+          "places": [
+            "UA",
+            "RU"
+          ],
+          "guilds": [
+            "WILDBERRIES"
           ]
         },
         {
@@ -52,6 +71,12 @@
             "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
             "https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss"
           ],
+          "places": [
+            "EU",
+            "MA",
+            "ES"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -62,6 +87,10 @@
             "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates",
             "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises"
           ],
+          "places": [
+            "JP"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -71,7 +100,13 @@
             "https://www.independent.co.uk/news/world/europe/greece-helicopter-crash-wildfires-athens-latest-b3026028.html",
             "https://www.france24.com/en/gironde-megafire-contained-nearly-3-000-firefighters-remain-deployed",
             "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "EU",
+            "GR",
+            "FR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -80,7 +115,11 @@
             "https://www.independent.co.uk/news/world/americas/peru-plane-crash-nazca-lines-deaths-b3025948.html",
             "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
             "https://www.france24.com/en/peru-tourist-plane-crashes-killing-all-13-people-aboard"
-          ]
+          ],
+          "places": [
+            "PE"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -88,7 +127,11 @@
           "sources": [
             "https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss",
             "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "ID"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -96,7 +139,11 @@
           "sources": [
             "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
             "https://www.theguardian.com/world/2026/aug/01/top-mountaineer-nirmal-purja-confirmed-dead-after-11-hit-by-avalanche-in-pakistan"
-          ]
+          ],
+          "places": [
+            "PK"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -109,7 +156,12 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/aug/02/michigan-primary-democrats",
             "https://www.npr.org/2026/08/01/nx-s1-5912035/week-in-politics-todd-blanche-nomination-michigans-democratic-senate-shakeup"
-          ]
+          ],
+          "places": [
+            "US-MI",
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
@@ -118,6 +170,12 @@
             "https://www.cnbc.com/2026/08/01/trump-medias-new-data-service-gives-faster-access-to-trumps-posts.html",
             "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
             "https://www.theguardian.com/us-news/2026/aug/01/trump-truth-social-early-access"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "TRUMPMEDIA"
           ]
         },
         {
@@ -127,7 +185,11 @@
             "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
             "https://www.independent.co.uk/news/world/americas/donald-trump-justice-department-washington-national-park-service-interior-department-b3025886.html",
             "https://www.theguardian.com/us-news/2026/jul/31/reflecting-pool-damage-olympian"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -136,14 +198,23 @@
             "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin",
             "https://thehill.com/homenews/state-watch/6004201-louisiana-investigates-dr-fauci/",
             "https://www.science.org/content/article/under-fire-republican-senators-fauci-takes-fifth-covid-19-hearing"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-LA"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
           "text": "California team: admins announced a minimum-wage increase, with the governor framing the move as a contrast to the US admin's policies.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/aug/01/california-minimum-wage-increase"
-          ]
+          ],
+          "places": [
+            "US-CA"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -156,7 +227,12 @@
           "sources": [
             "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
             "https://www.dw.com/en/humanoid-robots-trump-s-latest-china-trade-battle/a-78181288?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "US",
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
@@ -164,13 +240,24 @@
           "sources": [
             "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html",
             "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html"
-          ]
+          ],
+          "places": [
+            "CN",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "Guild Amazon is splitting a $600 million tariff refund with US players after import-cost overcharges.",
           "sources": [
             "https://www.zdnet.com/article/amazon-600-million-tariff-refund-with-customers/"
+          ],
+          "places": [
+            "SEA"
+          ],
+          "guilds": [
+            "AMAZON"
           ]
         },
         {
@@ -178,6 +265,13 @@
           "text": "US team: players are barred from buying Chinese-made EVs directly, but Alphabet's Waymo guild is importing thousands of them to build its robotaxi fleet.",
           "sources": [
             "https://www.forbes.com/sites/alanohnsman/2026/08/02/americans-cant-buy-chinese-evs-waymo-is-importing-thousands/"
+          ],
+          "places": [
+            "CN",
+            "SFBAY"
+          ],
+          "guilds": [
+            "GOOGLE"
           ]
         }
       ]
@@ -193,6 +287,10 @@
             "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
             "https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter"
           ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -202,7 +300,13 @@
             "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
             "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation"
-          ]
+          ],
+          "places": [
+            "UK",
+            "ME",
+            "IR"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -211,6 +315,13 @@
             "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
             "https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html",
             "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "IR"
+          ],
+          "guilds": [
+            "EXXON",
+            "CHEVRON"
           ]
         },
         {
@@ -221,6 +332,16 @@
             "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
             "https://www.cnbc.com/2026/07/29/metas-reality-labs-lost-over-4point6-billion-in-second-quarter.html"
           ],
+          "places": [
+            "SFBAY",
+            "SEA"
+          ],
+          "guilds": [
+            "GOOGLE",
+            "AMAZON",
+            "MICROSOFT",
+            "META"
+          ],
           "highlight": true
         },
         {
@@ -229,6 +350,14 @@
           "sources": [
             "https://www.theregister.com/systems/2026/07/30/samsung-warns-memory-crunch-will-last-through-2028-as-profit-rises-19-fold/5281142",
             "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html"
+          ],
+          "places": [
+            "KR",
+            "SEA"
+          ],
+          "guilds": [
+            "SAMSUNG",
+            "AMAZON"
           ]
         },
         {
@@ -238,6 +367,13 @@
             "https://www.engadget.com/2228160/new-york-alleges-kalshi-is-running-an-illegal-gambling-operation-in-new-lawsuit/",
             "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
             "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html"
+          ],
+          "places": [
+            "US-NYC",
+            "US-DC"
+          ],
+          "guilds": [
+            "KALSHI"
           ]
         }
       ]
@@ -250,7 +386,9 @@
           "text": "Research tree: mathematicians proved that a perfectly fair voting system is mathematically impossible to construct under standard fairness criteria.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -259,7 +397,11 @@
             "https://www.sciencedaily.com/releases/2026/07/260731034139.htm",
             "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
             "https://www.livescience.com/archaeology/human-evolution/scientists-discover-2-new-ghost-lineages-that-contributed-dna-to-modern-humans"
-          ]
+          ],
+          "places": [
+            "AFR"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -267,7 +409,11 @@
           "sources": [
             "https://www.livescience.com/archaeology/americas/500-year-old-inca-mummies-prove-that-european-colonists-brought-devastating-smallpox-to-the-americas",
             "https://www.science.org/content/article/ancient-dna-confirms-historical-accounts-how-smallpox-got-americas"
-          ]
+          ],
+          "places": [
+            "EU"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -275,6 +421,12 @@
           "sources": [
             "https://www.livescience.com/technology/quantum/ibm-scientists-claim-theyve-achieved-quantum-advantage-and-theyve-dared-others-to-prove-them-wrong",
             "https://phys.org/news/2026-07-quantum-task-classical-simulations.html"
+          ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": [
+            "IBM"
           ]
         }
       ]
@@ -290,6 +442,13 @@
             "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
             "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "ANTHROPIC",
+            "OPENAI"
+          ],
           "highlight": true
         },
         {
@@ -298,6 +457,13 @@
           "sources": [
             "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
             "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI",
+            "HUGGINGFACE"
           ]
         },
         {
@@ -307,6 +473,12 @@
             "https://www.independent.co.uk/tech/google-earth-ai-tool-canceled-b3025848.html",
             "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
             "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "GOOGLE"
           ]
         },
         {
@@ -316,7 +488,12 @@
             "https://www.engadget.com/2228441/cyberattacks-water-facilities-seven-states-across-the-us/",
             "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
             "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/"
-          ]
+          ],
+          "places": [
+            "US",
+            "IR"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -324,7 +501,12 @@
           "sources": [
             "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
             "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/"
-          ]
+          ],
+          "places": [
+            "EU",
+            "BE"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -337,6 +519,12 @@
           "sources": [
             "https://thehill.com/opinion/technology/6002879-spacex-starship-test-flight-success/",
             "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026"
+          ],
+          "places": [
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         },
         {
@@ -345,6 +533,12 @@
           "sources": [
             "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
             "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-next-week-and-scientists-arent-sure-what-to-expect"
+          ],
+          "places": [
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         },
         {
@@ -353,6 +547,12 @@
           "sources": [
             "https://www.space.com/astronomy/its-going-to-do-things-that-currently-are-impossible-the-roman-space-telescope-nasas-next-great-observatory-is-ready-to-launch-aug-30",
             "https://www.space.com/astronomy/nasa-fuels-its-next-gen-roman-space-telescope-for-august-launch"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -361,6 +561,12 @@
           "sources": [
             "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
             "https://www.livescience.com/space/space-exploration/we-are-not-giving-up-yet-private-mission-to-rescue-nasas-swift-telescope-is-spinning-out-of-control-and-engineers-are-racing-to-fix-it"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         }
       ]
@@ -375,6 +581,10 @@
             "https://www.theguardian.com/us-news/2026/aug/02/us-measles-cases-outbreak",
             "https://www.independent.co.uk/news/health/measles-cases-us-vaccine-vaccination-rfk-jr-b3024012.html"
           ],
+          "places": [
+            "US"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -384,6 +594,12 @@
             "https://www.npr.org/2026/07/31/nx-s1-5910699/whats-it-like-to-be-on-the-frontlines-of-the-cyclosporiasis-outbreak",
             "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
             "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": [
+            "YUM"
           ]
         },
         {
@@ -391,13 +607,23 @@
           "text": "A drug-resistant fungal superbug was confirmed spreading across 23 US states.",
           "sources": [
             "https://thehill.com/policy/healthcare/6000841-superbug-confirmed-in-23-states-where-is-the-deadly-fungus-spreading-in-2026/"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "The American Red Cross guild declared only its second-ever national blood supply crisis.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/jul/30/american-red-cross-blood-supply-crisis"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": [
+            "ICRC"
           ]
         },
         {
@@ -407,7 +633,12 @@
             "https://www.statnews.com/2026/07/30/health-news-ebola-outbreak-nears-milestone-but-vaccine-close/?utm_campaign=rss",
             "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
             "https://www.science.org/content/article/exclusive-congo-s-ebola-epidemic-started-least-4-months-it-was-detected"
-          ]
+          ],
+          "places": [
+            "CD",
+            "UG"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -422,6 +653,10 @@
             "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
             "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-world-4025-rdf"
           ],
+          "places": [
+            "HU"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -431,7 +666,11 @@
             "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/environment/2026/aug/02/britain-food-shortages-drought-continues-farmers"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -440,21 +679,33 @@
             "https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss",
             "https://www.theguardian.com/environment/2026/jul/30/excess-deaths-caused-by-heatwaves-in-england-almost-double-so-far-this-year",
             "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "KR",
+            "UK",
+            "IT"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Scientists reported detecting a sharp acceleration in global warming this year.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260801093239.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "The EU server's admins are considering weakening the bloc's landmark climate law, described by analysts as the world's 'most impactful.'",
           "sources": [
             "https://grist.org/international/the-eu-might-weaken-its-landmark-climate-law-the-most-impactful-in-the-world/"
-          ]
+          ],
+          "places": [
+            "EU"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -468,6 +719,14 @@
             "https://www.theguardian.com/world/2026/jul/28/pakistan-accused-firing-unarmed-protesters-kashmir-killings",
             "https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss",
             "https://timesofindia.indiatimes.com/world/pakistan/double-standards-pakistan-rejects-un-report-on-civilian-casualties-in-afghanistan-strikes/articleshow/132806553.cms"
+          ],
+          "places": [
+            "PK",
+            "IN",
+            "AF"
+          ],
+          "guilds": [
+            "UN"
           ]
         },
         {
@@ -475,6 +734,12 @@
           "text": "US admins (FTC) sued telehealth guild Hims & Hers, alleging it shared players' health data with big tech guilds and hid the cancel button.",
           "sources": [
             "https://www.theregister.com/legal/2026/07/30/ftc-sues-hims-hers-for-sharing-health-data-with-big-tech/5281092"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "HIMS"
           ]
         },
         {
@@ -483,6 +748,13 @@
           "sources": [
             "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
             "https://www.engadget.com/2228460/judge-refuses-xai-request-to-stop-minnesota-law-banning-nudify-apps/"
+          ],
+          "places": [
+            "US-MN",
+            "US-TX"
+          ],
+          "guilds": [
+            "XAI"
           ]
         },
         {
@@ -491,7 +763,11 @@
           "sources": [
             "https://www.france24.com/en/americas/20260802-capital-one-cites-anti-money-laundering-probe-justify-closure-trump-organization-bank-accounts",
             "https://www.theguardian.com/us-news/2026/aug/01/capital-one-trump-organization-money-laundering"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -506,6 +782,11 @@
             "https://www.theguardian.com/football/2026/aug/01/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel",
             "https://www.espn.com/soccer/story/_/id/49511728/why-fifa-president-infantino-plans-sell-world-cup-made-no-sense"
           ],
+          "places": [],
+          "guilds": [
+            "FIFA",
+            "UEFA"
+          ],
           "highlight": true
         },
         {
@@ -514,6 +795,13 @@
           "sources": [
             "https://www.cbssports.com/mlb/news/tarik-skubal-dodgers-trade-tigers/",
             "https://www.espn.com/mlb/story/_/id/49509987/sources-dodgers-finalizing-trade-acquire-tarik-skubal"
+          ],
+          "places": [
+            "US-CA"
+          ],
+          "guilds": [
+            "MLB",
+            "DODGERS"
           ]
         },
         {
@@ -522,14 +810,22 @@
           "sources": [
             "https://www.theguardian.com/sport/2026/aug/02/commonwealth-games-australia-athletics-womens-mile-mens-relay-gold-medals",
             "https://www.bbc.co.uk/sport/cycling/articles/cy8mrkpd27lo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "AU"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Lorena Wiebes won the opening stage of the Tour de France Femmes 2026 ranked tournament, taking the first yellow jersey.",
           "sources": [
             "https://www.theguardian.com/sport/2026/aug/01/lorena-wiebes-tour-de-france-femmes-2026-cycling-demi-vollering-kim-le-court"
-          ]
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
         }
       ]
     }

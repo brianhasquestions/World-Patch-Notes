@@ -23,6 +23,14 @@
             "https://www.aljazeera.com/gallery/2026/8/30/photos-nepal-issues-fresh-flood-alerts-as-regional-death-toll-hits-750?traffic_source=rss",
             "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "HIM",
+            "NP",
+            "CN"
+          ],
+          "guilds": [
+            "ICRC"
+          ],
           "highlight": true
         },
         {
@@ -33,6 +41,10 @@
             "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
             "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss"
           ],
+          "places": [
+            "CY"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -42,7 +54,13 @@
             "https://www.france24.com/en/africa/20260830-niger-junta-aided-by-russian-paramilitary-forces-regains-control-after-mutiny",
             "https://www.aljazeera.com/video/newsfeed/2026/8/30/dozens-of-soldiers-arrested-after-apparent-coup-attempt-in-nigers-capital?traffic_source=rss",
             "https://www.aljazeera.com/news/2026/8/30/nigers-military-led-government-says-it-contained-mutiny-what-next?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "NE",
+            "RU",
+            "AFR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -51,7 +69,12 @@
             "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
             "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss",
             "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv"
-          ]
+          ],
+          "places": [
+            "UA",
+            "RU"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -60,14 +83,22 @@
             "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland",
             "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
             "https://www.france24.com/en/gunman-kills-one-at-swiss-rave-party"
-          ]
+          ],
+          "places": [
+            "CH"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Sudan server: players fleeing the civil war face 'dire and deteriorating' conditions in the refuge city of El Obeid, with aid groups reporting shockingly overcrowded camps.",
           "sources": [
             "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid"
-          ]
+          ],
+          "places": [
+            "SD"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -76,14 +107,26 @@
             "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
             "https://www.france24.com/en/netanyahu-condemns-violence-in-west-bank",
             "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "WB",
+            "PS",
+            "IL"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Gulf of Aden: Somali piracy surges as fallout from the US-Iran PvP ripples outward, with two ships seized within four days pushing the tally to at least 13 attacks since January.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "SO",
+            "US",
+            "IR"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -98,6 +141,12 @@
             "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
             "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html"
           ],
+          "places": [
+            "IS",
+            "EU",
+            "US"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -107,7 +156,13 @@
             "https://www.independent.co.uk/news/world/americas/us-politics/milo-yiannopoulos-deported-ice-laura-loomer-b3041603.html",
             "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
             "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/"
-          ]
+          ],
+          "places": [
+            "UK",
+            "US-DC",
+            "US-LA"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -115,7 +170,11 @@
           "sources": [
             "https://www.france24.com/en/france-far-right-and-far-left-lead-polls",
             "https://www.france24.com/en/french-presidential-campaign-heats-up"
-          ]
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -124,7 +183,11 @@
             "https://www.independent.co.uk/news/world/europe/king-harald-v-norway-death-mourning-b3041611.html",
             "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "NO"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -139,6 +202,11 @@
             "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
             "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake"
           ],
+          "places": [
+            "US",
+            "VE"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -149,6 +217,11 @@
             "https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods",
             "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada"
           ],
+          "places": [
+            "CA",
+            "US-DC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -158,7 +231,13 @@
             "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
             "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
             "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html"
-          ]
+          ],
+          "places": [
+            "IR",
+            "US",
+            "EG"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -166,6 +245,12 @@
           "sources": [
             "https://www.npr.org/2026/08/28/nx-s1-5946782/businesses-getting-tariff-refunds-why-arent-consumers-getting-their-cut",
             "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "WALMART"
           ]
         }
       ]
@@ -181,6 +266,10 @@
             "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
             "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html"
           ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -191,6 +280,12 @@
             "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
             "https://www.cnbc.com/2026/08/26/nvidia-wows-wall-street-with-a-strong-quarter-eye-popping-sales-forecast.html"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "NVIDIA"
+          ],
           "highlight": true
         },
         {
@@ -198,7 +293,11 @@
           "text": "In-game economy: the Fed's preferred gauge, core PCE, holds at 3.3% year-on-year in July, still running hot enough to keep rate-hike bets alive.",
           "sources": [
             "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -206,14 +305,22 @@
           "sources": [
             "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
             "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "US players: consumer confidence slips (90.2 -> 89.4) in August, as gas prices hold above $4 a gallon after five years of elevated in-game economy inflation.",
           "sources": [
             "https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -221,6 +328,13 @@
           "sources": [
             "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
             "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "SALESFORCE",
+            "ANTHROPIC"
           ]
         }
       ]
@@ -233,35 +347,47 @@
           "text": "Research tree unlock: 1.4-million-year-old footprints in Kenya reveal eight Paranthropus boisei individuals traveling together, with some members surprisingly large for the species.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260829035221.htm"
-          ]
+          ],
+          "places": [
+            "KE"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "Cosmology tech tree: a major new analysis pushes back on recent claims that the universe's expansion is slowing, finding the evidence for cosmic acceleration still holds.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260828082325.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Astronomy unlock: astronomers capture the clearest image yet of Betelgeuse's long-suspected companion star, potentially closing a search that has run for about a century.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260827010514.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Milky Way center: astronomers clock a newly found star, S301, as the fastest ever observed and the closest yet to the galaxy's supermassive black hole, opening new tests of relativity.",
           "sources": [
             "https://www.newscientist.com/article/2586889-fastest-star-ever-spotted-at-the-centre-of-our-galaxy/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "Physics tech tree: a massive test of gravity across galaxy clusters hundreds of millions of light-years apart finds it still behaves almost exactly as Newton and Einstein predicted 300 years ago.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260823015019.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -276,6 +402,13 @@
             "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
             "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/"
           ],
+          "places": [
+            "SFBAY",
+            "US-DC"
+          ],
+          "guilds": [
+            "ANTHROPIC"
+          ],
           "highlight": true
         },
         {
@@ -284,6 +417,15 @@
           "sources": [
             "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
             "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+          ],
+          "places": [
+            "SFBAY",
+            "JP",
+            "US-DC"
+          ],
+          "guilds": [
+            "ANTHROPIC",
+            "SONY"
           ]
         },
         {
@@ -293,6 +435,13 @@
             "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
             "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
             "https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/5292780"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI",
+            "HUGGINGFACE"
           ]
         },
         {
@@ -300,6 +449,13 @@
           "text": "Nvidia guild: reportedly moves to acquire AI model repository Hugging Face for $13bn, scooping up open-model infrastructure as interest in the space grows.",
           "sources": [
             "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "NVIDIA",
+            "HUGGINGFACE"
           ]
         },
         {
@@ -310,6 +466,14 @@
             "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
             "https://www.npr.org/2026/08/26/nx-s1-5945010/meta-agrees-to-17-billion-settlement-and-new-protections-for-teens"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "META",
+            "BYTEDANCE",
+            "GOOGLE"
+          ],
           "highlight": true
         },
         {
@@ -318,7 +482,12 @@
           "sources": [
             "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
             "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race"
-          ]
+          ],
+          "places": [
+            "CN",
+            "US"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -333,6 +502,14 @@
             "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman",
             "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video"
           ],
+          "places": [
+            "US-DC",
+            "STARBASE"
+          ],
+          "guilds": [
+            "NASA",
+            "SPACEX"
+          ],
           "highlight": true
         },
         {
@@ -340,6 +517,12 @@
           "text": "SpaceX guild: fires all 33 engines of a Super Heavy booster in a test ahead of Starship's next test flight, Flight 14.",
           "sources": [
             "https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-super-heavy-booster-ahead-of-key-test-flight"
+          ],
+          "places": [
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         },
         {
@@ -347,6 +530,13 @@
           "text": "SpaceX guild: announces a $100bn Starbase Louisiana build on the Gulf Coast, with 10 launch pads planned to support thousands of Starship launches a year.",
           "sources": [
             "https://www.space.com/space-exploration/private-spaceflight/spacex-announces-enormous-usd100-billion-starbase-louisiana-starship-launch-site"
+          ],
+          "places": [
+            "STARBASE",
+            "US-LA"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         },
         {
@@ -354,6 +544,13 @@
           "text": "Artemis Accords: Turkey signs on as the 71st team to join NASA's Moon-exploration co-op pact.",
           "sources": [
             "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+          ],
+          "places": [
+            "TR",
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         }
       ]
@@ -368,35 +565,52 @@
             "https://www.independent.co.uk/news/world/americas/us-politics/rfk-jr-measles-vaccine-pennsylvania-b3041627.html",
             "https://www.theguardian.com/us-news/2026/aug/27/rfk-jr-confirmation-hearing-investigation",
             "https://www.livescience.com/health/viruses-infections-disease/2-people-die-of-measles-in-pennsylvania-as-vaccination-rates-drop-across-the-nation"
-          ]
+          ],
+          "places": [
+            "US-PA",
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Medic tree unlock: the FDA approves a landmark pancreatic cancer drug from Revolution Medicines shown to improve survival by blocking a genetic driver of the disease.",
           "sources": [
             "https://www.npr.org/2026/08/27/g-s1-140410/fda-approves-landmark-pancreatic-cancer-drug"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "Medic tree patch: the FDA approves updated Covid-19 vaccines targeting the dominant XFG variant, clearing guilds to ship new doses, though insurance coverage remains unclear for players.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/aug/27/fda-approves-updated-covid-19-vaccines"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Research tree unlock: CAR T-cell therapy puts severe rheumatoid arthritis into remission for six players whose disease had resisted every other treatment tried.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260828082330.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Medic tree finding: a 15-year study finds statins cut dementia risk by up to 15%, with the earliest starters seeing the biggest benefit.",
           "sources": [
             "https://www.theguardian.com/society/2026/aug/30/statins-reduce-dementia-alzheimers-risk-study"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -409,14 +623,21 @@
           "sources": [
             "https://www.newscientist.com/article/2586758-galapagos-corals-suggest-climate-change-drives-stronger-el-ninos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
             "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Europe server: gas storage falls to its lowest level in 13 years heading into winter, with the UK team seen as especially exposed to price swings as one of the region's biggest gas consumers.",
           "sources": [
             "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price"
-          ]
+          ],
+          "places": [
+            "EU",
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -424,14 +645,25 @@
           "sources": [
             "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas",
             "https://grist.org/extreme-weather/how-rising-temperatures-likely-contributed-to-nepals-deadly-flood/"
-          ]
+          ],
+          "places": [
+            "HIM",
+            "NP",
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Greenland server: a Manhattan-sized ice island calves off the Petermann Glacier after years of growing fractures weakened its floating ice tongue.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260826055503.htm"
-          ]
+          ],
+          "places": [
+            "GL",
+            "US-NYC"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -445,14 +677,23 @@
             "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
             "https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157",
             "https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/"
-          ]
+          ],
+          "places": [
+            "AU",
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "Cross-server mods: an eight-month Interpol operation, Jackal IV, targeting West African crime-as-a-service networks results in 58 arrests and 263 suspects identified worldwide.",
           "sources": [
             "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html"
-          ]
+          ],
+          "places": [
+            "AFR"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
@@ -460,6 +701,12 @@
           "sources": [
             "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
             "https://www.theregister.com/security/2026/08/27/cybercrooks-jet-off-with-manchester-airports-group-customer-data/5292943"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "MANAIRPORTS"
           ]
         },
         {
@@ -467,7 +714,11 @@
           "text": "Iran's admins move to criminalize all player contact with foreign scout-tree journalists after a photojournalist was sentenced to 15 years; rights groups called the crackdown 'chilling.'",
           "sources": [
             "https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown"
-          ]
+          ],
+          "places": [
+            "IR"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -481,7 +732,11 @@
             "https://www.espn.com/boxing/story/_/id/49760277/moses-itauma-filip-hrgovic-boxing-live-updates-results-analysis-heavyweight-title-bout",
             "https://www.bbc.co.uk/sport/boxing/videos/cgjq6p9yzj9o?at_medium=RSS&at_campaign=rss",
             "https://www.cbssports.com/boxing/news/moses-itauma-vs-filip-hrgovic-fight-results-highlights-winner-knockout/"
-          ]
+          ],
+          "places": [
+            "HR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -489,7 +744,11 @@
           "sources": [
             "https://www.bbc.co.uk/sport/cycling/articles/c0qx0ndg373o?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/sport/2026/aug/30/tadej-pogacar-vuelta-a-espana-cycling-crash-hospital-stage-nine"
-          ]
+          ],
+          "places": [
+            "ES"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -498,7 +757,11 @@
             "https://www.bbc.co.uk/sport/tennis/articles/c986dyn1l7wo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/sport/2026/aug/29/novak-djokovic-in-good-shape-as-he-aims-for-25th-grand-slam-title-in-new-york",
             "https://www.theguardian.com/sport/2026/aug/30/us-open-ticket-prices-usta-resale-affordability"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -507,6 +770,16 @@
             "https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-aston-villa-exit-move-chelsea",
             "https://www.skysports.com/football/news/12040/13579021/gabriel-jesus-barcelona-agree-8-6m-deal-in-principle-to-sign-arsenal-and-brazil-forward",
             "https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UK",
+            "ES"
+          ],
+          "guilds": [
+            "PREMIERLEAGUE",
+            "CHELSEA",
+            "ARSENAL",
+            "TOTTENHAM"
           ]
         }
       ]

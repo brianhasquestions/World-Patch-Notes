@@ -11,3 +11,6 @@ Thumbs.db
 .vscode/
 __pycache__/
 *.pyc
+
+# Local experiments and prototypes, not part of the published site
+mockup/

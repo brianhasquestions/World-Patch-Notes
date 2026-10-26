@@ -23,6 +23,11 @@
             "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
             "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump"
           ],
+          "places": [
+            "IR",
+            "US-DC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -33,6 +38,12 @@
             "https://www.independent.co.uk/news/uk/politics/russian-ambassador-uk-ukraine-war-b3037726.html",
             "https://www.france24.com/en/ukraine-zelensky-asks-for-more-patriot-interceptors-as-civilian-deaths-hit-highest-level-since-2022"
           ],
+          "places": [
+            "UA",
+            "RU",
+            "UK"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -42,6 +53,12 @@
             "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
             "https://www.france24.com/en/africa/20260823-dr-congo-afc-m23-group-agree-on-roadmap-for-peace-negotiations-after-swiss-talks"
           ],
+          "places": [
+            "CD",
+            "CH",
+            "AFR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -51,7 +68,13 @@
             "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
             "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
             "https://www.independent.co.uk/news/uk/politics/israel-gaza-mps-journalists-mariam-abu-dagga-b3034858.html"
-          ]
+          ],
+          "places": [
+            "IL",
+            "PS",
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -59,7 +82,11 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
             "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "MM"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -67,14 +94,23 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
             "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "TH"
+          ],
+          "guilds": []
         },
         {
           "type": "HOTFIX",
           "text": "A goldmine collapse and landslide in the Central African Republic killed more than 100 players.",
           "sources": [
             "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic"
-          ]
+          ],
+          "places": [
+            "CF",
+            "AFR"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -82,7 +118,13 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state"
-          ]
+          ],
+          "places": [
+            "IL",
+            "WB",
+            "PS"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -97,6 +139,11 @@
             "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
             "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
           ],
+          "places": [
+            "CA",
+            "US-DC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -104,28 +151,46 @@
           "text": "US admins carved out a tariff exemption for 300,000 metric tons of ground beef imports, aiming to ease meat prices.",
           "sources": [
             "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "New EU border checks under the Entry/Exit System produced long queues, straining UK players traveling onto the Europe server.",
           "sources": [
             "https://www.theguardian.com/business/2026/aug/23/new-eu-border-checks-ees-uk-travellers-visa-queues"
-          ]
+          ],
+          "places": [
+            "EU",
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "Wales' Llanwern steelworks guild said its production line is running half-empty as cheap steel imports undercut UK output.",
           "sources": [
             "https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Trump paused a threatened tariff hike on Canada and signaled a possible revival of the Keystone XL pipeline build, days before the broader trade dispute regressed into the standoff above.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "CA"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -138,7 +203,11 @@
           "sources": [
             "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
             "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
@@ -146,28 +215,45 @@
           "sources": [
             "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
             "https://www.independent.co.uk/news/world/americas/trump-countries-visa-marco-rubio-b3037591.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Brazil's presidential race heated up as incumbent Lula and challenger Flavio Bolsonaro held rival rallies ahead of the next server vote.",
           "sources": [
             "https://www.france24.com/en/presidential-campaign-heats-up-in-brazil-as-lula-and-f-bolsonaro-hold-rival-rallies"
-          ]
+          ],
+          "places": [
+            "BR"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "A Hong Kong mod panel found Tiananmen Square vigil organizers guilty of 'inciting subversion,' the latest ban-hammer move against the territory's rally-organizing and legal-tree players; the UK Foreign Office said it condemned the use of the national security law to convict the activists.",
           "sources": [
             "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung"
-          ]
+          ],
+          "places": [
+            "HK",
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "The US Postal Service tightened a mail-in voting rule despite mod-panel orders blocking the change, reports said.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/aug/21/us-postal-service-mail-in-voter-rule"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -182,6 +268,10 @@
             "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
             "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt"
           ],
+          "places": [
+            "US"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -190,7 +280,13 @@
           "sources": [
             "https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields",
             "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK",
+            "JP",
+            "FR"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
@@ -198,6 +294,12 @@
           "sources": [
             "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
             "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": [
+            "WALMART"
           ]
         },
         {
@@ -206,7 +308,11 @@
           "sources": [
             "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
             "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande"
-          ]
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -214,6 +320,12 @@
           "sources": [
             "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
             "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "ANTHROPIC"
           ]
         }
       ]
@@ -229,6 +341,12 @@
             "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI"
+          ],
           "highlight": true
         },
         {
@@ -237,6 +355,12 @@
           "sources": [
             "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
             "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "APPLE"
           ]
         },
         {
@@ -245,6 +369,13 @@
           "sources": [
             "https://www.theguardian.com/technology/2026/aug/21/china-tesla-vehicle-recall",
             "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html"
+          ],
+          "places": [
+            "CN",
+            "US-TX"
+          ],
+          "guilds": [
+            "TESLA"
           ]
         },
         {
@@ -253,6 +384,12 @@
           "sources": [
             "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
             "https://www.engadget.com/2242185/amazon-devices-kindle-echo-eero-price-hikes/"
+          ],
+          "places": [
+            "SEA"
+          ],
+          "guilds": [
+            "AMAZON"
           ]
         },
         {
@@ -262,7 +399,11 @@
             "https://www.npr.org/2026/08/22/nx-s1-5939817/chinese-company-flexes-dominance-in-robotics-space-with-splashy-stock-market-debut",
             "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
             "https://www.france24.com/en/asia-pacific/20260823-humanoid-robots-break-records-at-competition-in-beijing"
-          ]
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -277,6 +418,13 @@
             "https://www.independent.co.uk/news/world/africa/ebola-congo-outbreak-virus-100-days-b3037227.html",
             "https://www.statnews.com/2026/08/21/health-news-scientists-deploy-merck-ebola-vaccine-in-drc/?utm_campaign=rss"
           ],
+          "places": [
+            "CD",
+            "US-NJ"
+          ],
+          "guilds": [
+            "MERCK"
+          ],
           "highlight": true
         },
         {
@@ -285,14 +433,23 @@
           "sources": [
             "https://www.independent.co.uk/news/world/americas/cyclosporiasis-diarrhea-taylor-farms-outbreak-cyclospora-lettuce-b3037551.html",
             "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US",
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "HOTFIX",
           "text": "US admins recalled 40,000 bottles of eye drops over sterility concerns.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -300,7 +457,11 @@
           "sources": [
             "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip",
             "https://www.science.org/content/article/neurologist-antivaccine-views-lead-nih-s-child-health-institute"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -308,7 +469,9 @@
           "sources": [
             "https://www.npr.org/2026/08/20/nx-s1-5937966/new-mrna-vaccine-could-reduce-the-recurrence-and-spread-of-skin-cancer",
             "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -321,6 +484,10 @@
           "sources": [
             "https://phys.org/news/2026-08-europe-excess-summer-deaths-figures.html"
           ],
+          "places": [
+            "EU"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -331,6 +498,11 @@
             "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "UK",
+            "PA"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -339,7 +511,13 @@
           "sources": [
             "https://www.independent.co.uk/news/world/americas/colorado-river-water-cuts-california-nevada-arizona-b3037598.html",
             "https://www.theguardian.com/us-news/2026/aug/21/colorado-river-water-crisis-plan"
-          ]
+          ],
+          "places": [
+            "US-CA",
+            "US-NV",
+            "US-AZ"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -347,14 +525,23 @@
           "sources": [
             "https://grist.org/regulation/trump-administration-advances-roadless-rule-national-forests/",
             "https://www.theguardian.com/us-news/2026/aug/20/trump-oil-drilling-world-heritage-site-new-mexico"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-NM"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
           "text": "Onshore windfarm build applications in England hit a 10-year high.",
           "sources": [
             "https://www.theguardian.com/environment/2026/aug/23/onshore-windfarm-applications-10-year-high-england"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -369,6 +556,12 @@
             "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
             "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "META"
+          ],
           "highlight": true
         },
         {
@@ -377,6 +570,12 @@
           "sources": [
             "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
             "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": [
+            "BYTEDANCE"
           ]
         },
         {
@@ -385,14 +584,22 @@
           "sources": [
             "https://www.independent.co.uk/news/world/americas/flock-safety-cameras-police-ai-b3037623.html",
             "https://www.theguardian.com/us-news/2026/aug/20/flock-cameras-surveillance"
-          ]
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "A UK regulator ordered Roblox's guild to make changes after finding its safeguards failed to stop adults from contacting children on the platform.",
           "sources": [
             "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -405,6 +612,10 @@
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
             "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies"
+          ],
+          "places": [],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -413,21 +624,27 @@
           "sources": [
             "https://www.space.com/astronomy/stars/scientists-just-found-the-fastest-known-star-in-the-milky-way-it-zooms-around-our-black-hole-at-15-500-miles-per-second",
             "https://www.livescience.com/space/black-holes/black-hole-star-solar-system-size-dot-from-the-early-universe-is-our-best-evidence-yet-of-a-brand-new-type-of-cosmic-object"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Researchers said new fossil evidence may force a major rewrite of the human family tree.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260820002413.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "Scientists crushed diamond to pressures beyond those found on Neptune, solving a 20-year mystery about how the material behaves under extreme conditions.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260820002424.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -440,7 +657,11 @@
           "sources": [
             "https://phys.org/news/2026-08-china-abruptly-postpones-ambitious-lunar.html",
             "https://www.space.com/space-exploration/launches-spacecraft/bad-weather-delays-launch-of-chinas-historic-change-7-mission-to-moons-south-pole"
-          ]
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -448,6 +669,14 @@
           "sources": [
             "https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/",
             "https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight"
+          ],
+          "places": [
+            "CN",
+            "STARBASE"
+          ],
+          "guilds": [
+            "LANDSPACE",
+            "SPACEX"
           ]
         },
         {
@@ -456,6 +685,12 @@
           "sources": [
             "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
             "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-15-20"
+          ],
+          "places": [
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         },
         {
@@ -464,6 +699,12 @@
           "sources": [
             "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
             "https://www.livescience.com/space/space-exploration/this-is-not-the-outcome-we-were-working-towards-usd30-million-mission-to-save-nasas-swift-telescope-fails"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         }
       ]
@@ -478,6 +719,14 @@
             "https://www.espn.com/soccer/story/_/id/49691465/too-soon-panic-man-united-see-problems-exposed-hull-city-defeat",
             "https://www.bbc.co.uk/sport/football/videos/clyl5ejxj2wo?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "PREMIERLEAGUE",
+            "MANUTD",
+            "ARSENAL"
           ]
         },
         {
@@ -486,7 +735,12 @@
           "sources": [
             "https://www.espn.com/soccer/story/_/id/49700784/harry-kane-voted-germany-player-year-61-goal-season",
             "https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane"
-          ]
+          ],
+          "places": [
+            "DE",
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -494,6 +748,13 @@
           "sources": [
             "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer",
             "https://www.bbc.co.uk/sport/football/articles/clyjy0e0pkzo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UK",
+            "FR"
+          ],
+          "guilds": [
+            "MANCITY"
           ]
         },
         {
@@ -502,6 +763,12 @@
           "sources": [
             "https://www.theguardian.com/sport/live/2026/aug/23/formula-one-2026-dutch-grand-prix-race-updates-live",
             "https://www.skysports.com/watch/video/13576261/dutch-grand-prix-drama-as-max-verstappen-crashes-out-of-the-dutch-grand-prix"
+          ],
+          "places": [
+            "NL"
+          ],
+          "guilds": [
+            "MOONSHOT"
           ]
         },
         {
@@ -509,7 +776,12 @@
           "text": "England's cricket squad routed Pakistan in Joe Root's first Test back as captain.",
           "sources": [
             "https://www.bbc.co.uk/sport/cricket/videos/c1m1v2894ngo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK",
+            "PK"
+          ],
+          "guilds": []
         }
       ]
     }

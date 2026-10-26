@@ -1,0 +1,709 @@
+{
+  "source": "Natural Earth 10m admin-1 (public domain), simplified per country. Crimea and Sevastopol are filed under Ukraine. Area is computed from the full-resolution outline.",
+  "countries": {
+    "AE": {
+      "regions": 9,
+      "kb": 10
+    },
+    "AF": {
+      "regions": 34,
+      "kb": 50
+    },
+    "AL": {
+      "regions": 12,
+      "kb": 12
+    },
+    "AM": {
+      "regions": 11,
+      "kb": 10
+    },
+    "AO": {
+      "regions": 18,
+      "kb": 38
+    },
+    "AQ": {
+      "regions": 2,
+      "kb": 93
+    },
+    "AR": {
+      "regions": 24,
+      "kb": 62
+    },
+    "AT": {
+      "regions": 9,
+      "kb": 14
+    },
+    "AU": {
+      "regions": 12,
+      "kb": 62
+    },
+    "AZ": {
+      "regions": 78,
+      "kb": 52
+    },
+    "BA": {
+      "regions": 18,
+      "kb": 16
+    },
+    "BD": {
+      "regions": 7,
+      "kb": 18
+    },
+    "BE": {
+      "regions": 11,
+      "kb": 16
+    },
+    "BF": {
+      "regions": 45,
+      "kb": 43
+    },
+    "BG": {
+      "regions": 28,
+      "kb": 31
+    },
+    "BH": {
+      "regions": 5,
+      "kb": 3
+    },
+    "BI": {
+      "regions": 17,
+      "kb": 12
+    },
+    "BJ": {
+      "regions": 12,
+      "kb": 9
+    },
+    "BN": {
+      "regions": 4,
+      "kb": 3
+    },
+    "BO": {
+      "regions": 9,
+      "kb": 24
+    },
+    "BR": {
+      "regions": 27,
+      "kb": 105
+    },
+    "BS": {
+      "regions": 30,
+      "kb": 19
+    },
+    "BT": {
+      "regions": 20,
+      "kb": 16
+    },
+    "BW": {
+      "regions": 15,
+      "kb": 13
+    },
+    "BY": {
+      "regions": 7,
+      "kb": 21
+    },
+    "BZ": {
+      "regions": 6,
+      "kb": 6
+    },
+    "CA": {
+      "regions": 13,
+      "kb": 218
+    },
+    "CD": {
+      "regions": 11,
+      "kb": 37
+    },
+    "CF": {
+      "regions": 17,
+      "kb": 30
+    },
+    "CG": {
+      "regions": 12,
+      "kb": 20
+    },
+    "CH": {
+      "regions": 26,
+      "kb": 24
+    },
+    "CI": {
+      "regions": 19,
+      "kb": 30
+    },
+    "CL": {
+      "regions": 16,
+      "kb": 62
+    },
+    "CM": {
+      "regions": 10,
+      "kb": 19
+    },
+    "CN": {
+      "regions": 32,
+      "kb": 157
+    },
+    "CO": {
+      "regions": 34,
+      "kb": 70
+    },
+    "CR": {
+      "regions": 7,
+      "kb": 11
+    },
+    "CU": {
+      "regions": 16,
+      "kb": 30
+    },
+    "CY": {
+      "regions": 5,
+      "kb": 4
+    },
+    "CZ": {
+      "regions": 14,
+      "kb": 19
+    },
+    "DE": {
+      "regions": 16,
+      "kb": 46
+    },
+    "DJ": {
+      "regions": 6,
+      "kb": 4
+    },
+    "DK": {
+      "regions": 5,
+      "kb": 15
+    },
+    "DO": {
+      "regions": 32,
+      "kb": 23
+    },
+    "DZ": {
+      "regions": 48,
+      "kb": 39
+    },
+    "EC": {
+      "regions": 24,
+      "kb": 32
+    },
+    "EE": {
+      "regions": 15,
+      "kb": 18
+    },
+    "EG": {
+      "regions": 27,
+      "kb": 29
+    },
+    "EH": {
+      "regions": 1,
+      "kb": 2
+    },
+    "ER": {
+      "regions": 6,
+      "kb": 8
+    },
+    "ES": {
+      "regions": 52,
+      "kb": 84
+    },
+    "ET": {
+      "regions": 11,
+      "kb": 29
+    },
+    "FI": {
+      "regions": 18,
+      "kb": 48
+    },
+    "FJ": {
+      "regions": 5,
+      "kb": 6
+    },
+    "FR": {
+      "regions": 101,
+      "kb": 130
+    },
+    "GA": {
+      "regions": 9,
+      "kb": 15
+    },
+    "GE": {
+      "regions": 12,
+      "kb": 13
+    },
+    "GH": {
+      "regions": 10,
+      "kb": 17
+    },
+    "GL": {
+      "regions": 6,
+      "kb": 66
+    },
+    "GM": {
+      "regions": 6,
+      "kb": 4
+    },
+    "GN": {
+      "regions": 34,
+      "kb": 33
+    },
+    "GQ": {
+      "regions": 7,
+      "kb": 5
+    },
+    "GR": {
+      "regions": 14,
+      "kb": 40
+    },
+    "GT": {
+      "regions": 22,
+      "kb": 20
+    },
+    "GW": {
+      "regions": 9,
+      "kb": 12
+    },
+    "GY": {
+      "regions": 10,
+      "kb": 14
+    },
+    "HK": {
+      "regions": 18,
+      "kb": 7
+    },
+    "HN": {
+      "regions": 18,
+      "kb": 22
+    },
+    "HR": {
+      "regions": 21,
+      "kb": 28
+    },
+    "HT": {
+      "regions": 10,
+      "kb": 10
+    },
+    "HU": {
+      "regions": 43,
+      "kb": 37
+    },
+    "ID": {
+      "regions": 33,
+      "kb": 139
+    },
+    "IE": {
+      "regions": 34,
+      "kb": 38
+    },
+    "IL": {
+      "regions": 6,
+      "kb": 5
+    },
+    "IN": {
+      "regions": 36,
+      "kb": 140
+    },
+    "IQ": {
+      "regions": 18,
+      "kb": 24
+    },
+    "IR": {
+      "regions": 31,
+      "kb": 55
+    },
+    "IS": {
+      "regions": 9,
+      "kb": 24
+    },
+    "IT": {
+      "regions": 110,
+      "kb": 111
+    },
+    "JM": {
+      "regions": 14,
+      "kb": 8
+    },
+    "JO": {
+      "regions": 12,
+      "kb": 8
+    },
+    "JP": {
+      "regions": 47,
+      "kb": 60
+    },
+    "KE": {
+      "regions": 8,
+      "kb": 17
+    },
+    "KG": {
+      "regions": 8,
+      "kb": 17
+    },
+    "KH": {
+      "regions": 24,
+      "kb": 26
+    },
+    "KP": {
+      "regions": 11,
+      "kb": 22
+    },
+    "KR": {
+      "regions": 17,
+      "kb": 31
+    },
+    "KW": {
+      "regions": 6,
+      "kb": 4
+    },
+    "KZ": {
+      "regions": 16,
+      "kb": 41
+    },
+    "LA": {
+      "regions": 17,
+      "kb": 27
+    },
+    "LB": {
+      "regions": 6,
+      "kb": 5
+    },
+    "LK": {
+      "regions": 25,
+      "kb": 22
+    },
+    "LR": {
+      "regions": 15,
+      "kb": 15
+    },
+    "LS": {
+      "regions": 10,
+      "kb": 11
+    },
+    "LT": {
+      "regions": 10,
+      "kb": 16
+    },
+    "LU": {
+      "regions": 3,
+      "kb": 2
+    },
+    "LV": {
+      "regions": 119,
+      "kb": 78
+    },
+    "LY": {
+      "regions": 22,
+      "kb": 20
+    },
+    "MA": {
+      "regions": 16,
+      "kb": 23
+    },
+    "MD": {
+      "regions": 40,
+      "kb": 29
+    },
+    "MG": {
+      "regions": 22,
+      "kb": 35
+    },
+    "MK": {
+      "regions": 84,
+      "kb": 46
+    },
+    "ML": {
+      "regions": 9,
+      "kb": 19
+    },
+    "MM": {
+      "regions": 14,
+      "kb": 47
+    },
+    "MN": {
+      "regions": 22,
+      "kb": 41
+    },
+    "MR": {
+      "regions": 13,
+      "kb": 14
+    },
+    "MT": {
+      "regions": 68,
+      "kb": 22
+    },
+    "MW": {
+      "regions": 28,
+      "kb": 20
+    },
+    "MX": {
+      "regions": 33,
+      "kb": 98
+    },
+    "MY": {
+      "regions": 16,
+      "kb": 26
+    },
+    "MZ": {
+      "regions": 11,
+      "kb": 29
+    },
+    "NA": {
+      "regions": 13,
+      "kb": 22
+    },
+    "NE": {
+      "regions": 8,
+      "kb": 11
+    },
+    "NG": {
+      "regions": 37,
+      "kb": 54
+    },
+    "NI": {
+      "regions": 17,
+      "kb": 18
+    },
+    "NL": {
+      "regions": 15,
+      "kb": 15
+    },
+    "NO": {
+      "regions": 21,
+      "kb": 83
+    },
+    "NP": {
+      "regions": 14,
+      "kb": 18
+    },
+    "NZ": {
+      "regions": 23,
+      "kb": 46
+    },
+    "OM": {
+      "regions": 11,
+      "kb": 11
+    },
+    "PA": {
+      "regions": 12,
+      "kb": 20
+    },
+    "PE": {
+      "regions": 26,
+      "kb": 53
+    },
+    "PG": {
+      "regions": 20,
+      "kb": 39
+    },
+    "PH": {
+      "regions": 118,
+      "kb": 101
+    },
+    "PK": {
+      "regions": 8,
+      "kb": 27
+    },
+    "PL": {
+      "regions": 16,
+      "kb": 29
+    },
+    "PR": {
+      "regions": 1,
+      "kb": 2
+    },
+    "PS": {
+      "regions": 2,
+      "kb": 2
+    },
+    "PT": {
+      "regions": 20,
+      "kb": 25
+    },
+    "PY": {
+      "regions": 18,
+      "kb": 24
+    },
+    "QA": {
+      "regions": 7,
+      "kb": 5
+    },
+    "RO": {
+      "regions": 42,
+      "kb": 46
+    },
+    "RS": {
+      "regions": 25,
+      "kb": 29
+    },
+    "RU": {
+      "regions": 84,
+      "kb": 301
+    },
+    "RW": {
+      "regions": 5,
+      "kb": 5
+    },
+    "SA": {
+      "regions": 13,
+      "kb": 22
+    },
+    "SB": {
+      "regions": 10,
+      "kb": 15
+    },
+    "SD": {
+      "regions": 17,
+      "kb": 22
+    },
+    "SE": {
+      "regions": 21,
+      "kb": 49
+    },
+    "SG": {
+      "regions": 5,
+      "kb": 2
+    },
+    "SI": {
+      "regions": 193,
+      "kb": 85
+    },
+    "SK": {
+      "regions": 8,
+      "kb": 12
+    },
+    "SL": {
+      "regions": 4,
+      "kb": 7
+    },
+    "SN": {
+      "regions": 14,
+      "kb": 20
+    },
+    "SO": {
+      "regions": 13,
+      "kb": 9
+    },
+    "SR": {
+      "regions": 10,
+      "kb": 10
+    },
+    "SS": {
+      "regions": 10,
+      "kb": 15
+    },
+    "SV": {
+      "regions": 14,
+      "kb": 11
+    },
+    "SY": {
+      "regions": 15,
+      "kb": 15
+    },
+    "SZ": {
+      "regions": 4,
+      "kb": 4
+    },
+    "TD": {
+      "regions": 22,
+      "kb": 26
+    },
+    "TG": {
+      "regions": 5,
+      "kb": 5
+    },
+    "TH": {
+      "regions": 77,
+      "kb": 94
+    },
+    "TJ": {
+      "regions": 5,
+      "kb": 12
+    },
+    "TL": {
+      "regions": 13,
+      "kb": 9
+    },
+    "TM": {
+      "regions": 5,
+      "kb": 14
+    },
+    "TN": {
+      "regions": 23,
+      "kb": 21
+    },
+    "TR": {
+      "regions": 81,
+      "kb": 92
+    },
+    "TT": {
+      "regions": 16,
+      "kb": 7
+    },
+    "TW": {
+      "regions": 21,
+      "kb": 17
+    },
+    "TZ": {
+      "regions": 30,
+      "kb": 46
+    },
+    "UA": {
+      "regions": 27,
+      "kb": 70
+    },
+    "UG": {
+      "regions": 112,
+      "kb": 69
+    },
+    "UK": {
+      "regions": 232,
+      "kb": 179
+    },
+    "US": {
+      "regions": 51,
+      "kb": 139
+    },
+    "UY": {
+      "regions": 19,
+      "kb": 22
+    },
+    "UZ": {
+      "regions": 14,
+      "kb": 21
+    },
+    "VA": {
+      "regions": 1,
+      "kb": 0
+    },
+    "VE": {
+      "regions": 26,
+      "kb": 49
+    },
+    "VN": {
+      "regions": 63,
+      "kb": 67
+    },
+    "VU": {
+      "regions": 6,
+      "kb": 8
+    },
+    "XK": {
+      "regions": 30,
+      "kb": 14
+    },
+    "YE": {
+      "regions": 21,
+      "kb": 24
+    },
+    "ZA": {
+      "regions": 9,
+      "kb": 27
+    },
+    "ZM": {
+      "regions": 10,
+      "kb": 26
+    },
+    "ZW": {
+      "regions": 10,
+      "kb": 21
+    }
+  }
+}

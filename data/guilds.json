@@ -1,0 +1,1592 @@
+{
+  "_about": [
+    "Guild table for World Patch Notes: companies, organizations, international bodies, universities and sports entities that recur in the notes.",
+    "guilds: key -> name, HQ lat/lon and city, country (place key from data/places.json), kind, and a regex pattern (JS source; matched as a whole word, case sensitive).",
+    "Each change in data/weeks/*.json carries \"guilds\": [keys...], most prominent first; [] means no guild. scripts/geotag.js fills it from the patterns."
+  ],
+  "kinds": {
+    "tech": "tech guild",
+    "auto": "auto guild",
+    "space": "space guild",
+    "aero": "aerospace and defense guild",
+    "finance": "merchant guild",
+    "pharma": "medic guild",
+    "industry": "industry guild",
+    "energy": "energy guild",
+    "retail": "consumer guild",
+    "travel": "travel guild",
+    "utility": "utility guild",
+    "media": "media guild",
+    "body": "cross-server admins",
+    "university": "research guild",
+    "sports": "league admins and squads"
+  },
+  "guilds": {
+    "OPENAI": {
+      "name": "OpenAI",
+      "lat": 37.77,
+      "lon": -122.42,
+      "city": "San Francisco",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "OpenAI|ChatGPT"
+    },
+    "ANTHROPIC": {
+      "name": "Anthropic",
+      "lat": 37.78,
+      "lon": -122.4,
+      "city": "San Francisco",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Anthropic|Claude gear|Claude model"
+    },
+    "GOOGLE": {
+      "name": "Google",
+      "lat": 37.42,
+      "lon": -122.08,
+      "city": "Mountain View",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Google|Alphabet|DeepMind|YouTube|Gemini model"
+    },
+    "META": {
+      "name": "Meta",
+      "lat": 37.45,
+      "lon": -122.18,
+      "city": "Menlo Park",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Meta|Facebook|Instagram|WhatsApp"
+    },
+    "APPLE": {
+      "name": "Apple",
+      "lat": 37.32,
+      "lon": -122.03,
+      "city": "Cupertino",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Apple|iPhone"
+    },
+    "NVIDIA": {
+      "name": "Nvidia",
+      "lat": 37.37,
+      "lon": -121.96,
+      "city": "Santa Clara",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Nvidia|Jensen Huang"
+    },
+    "MICROSOFT": {
+      "name": "Microsoft",
+      "lat": 47.64,
+      "lon": -122.13,
+      "city": "Redmond",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Microsoft"
+    },
+    "AMAZON": {
+      "name": "Amazon",
+      "lat": 47.62,
+      "lon": -122.34,
+      "city": "Seattle",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Amazon|AWS"
+    },
+    "INTEL": {
+      "name": "Intel",
+      "lat": 37.39,
+      "lon": -121.96,
+      "city": "Santa Clara",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Intel"
+    },
+    "MICRON": {
+      "name": "Micron",
+      "lat": 43.62,
+      "lon": -116.2,
+      "city": "Boise",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Micron"
+    },
+    "SALESFORCE": {
+      "name": "Salesforce",
+      "lat": 37.79,
+      "lon": -122.4,
+      "city": "San Francisco",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Salesforce"
+    },
+    "PALANTIR": {
+      "name": "Palantir",
+      "lat": 39.74,
+      "lon": -104.99,
+      "city": "Denver",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Palantir"
+    },
+    "HUGGINGFACE": {
+      "name": "Hugging Face",
+      "lat": 40.74,
+      "lon": -73.99,
+      "city": "New York",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Hugging Face"
+    },
+    "XAI": {
+      "name": "xAI",
+      "lat": 37.44,
+      "lon": -122.16,
+      "city": "Palo Alto",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "xAI|Grok"
+    },
+    "TESLA": {
+      "name": "Tesla",
+      "lat": 30.22,
+      "lon": -97.62,
+      "city": "Austin",
+      "country": "US",
+      "kind": "auto",
+      "pattern": "Tesla|Cybercab"
+    },
+    "IBM": {
+      "name": "IBM",
+      "lat": 41.13,
+      "lon": -73.71,
+      "city": "Armonk",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "IBM"
+    },
+    "ORACLE": {
+      "name": "Oracle",
+      "lat": 30.26,
+      "lon": -97.74,
+      "city": "Austin",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Oracle"
+    },
+    "HP": {
+      "name": "HP",
+      "lat": 37.44,
+      "lon": -122.14,
+      "city": "Palo Alto",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "HP guild|Hewlett"
+    },
+    "SAMSUNG": {
+      "name": "Samsung",
+      "lat": 37.26,
+      "lon": 127.03,
+      "city": "Suwon",
+      "country": "KR",
+      "kind": "tech",
+      "pattern": "Samsung"
+    },
+    "TSMC": {
+      "name": "TSMC",
+      "lat": 24.8,
+      "lon": 120.97,
+      "city": "Hsinchu",
+      "country": "TW",
+      "kind": "tech",
+      "pattern": "TSMC"
+    },
+    "HUAWEI": {
+      "name": "Huawei",
+      "lat": 22.65,
+      "lon": 114.06,
+      "city": "Shenzhen",
+      "country": "CN",
+      "kind": "tech",
+      "pattern": "Huawei"
+    },
+    "ALIBABA": {
+      "name": "Alibaba",
+      "lat": 30.19,
+      "lon": 120.1,
+      "city": "Hangzhou",
+      "country": "CN",
+      "kind": "tech",
+      "pattern": "Alibaba"
+    },
+    "TENCENT": {
+      "name": "Tencent",
+      "lat": 22.53,
+      "lon": 113.93,
+      "city": "Shenzhen",
+      "country": "CN",
+      "kind": "tech",
+      "pattern": "Tencent"
+    },
+    "BYTEDANCE": {
+      "name": "ByteDance",
+      "lat": 39.9,
+      "lon": 116.4,
+      "city": "Beijing",
+      "country": "CN",
+      "kind": "tech",
+      "pattern": "ByteDance|TikTok"
+    },
+    "DEEPSEEK": {
+      "name": "DeepSeek",
+      "lat": 30.27,
+      "lon": 120.15,
+      "city": "Hangzhou",
+      "country": "CN",
+      "kind": "tech",
+      "pattern": "DeepSeek"
+    },
+    "MOONSHOT": {
+      "name": "Moonshot AI",
+      "lat": 39.98,
+      "lon": 116.31,
+      "city": "Beijing",
+      "country": "CN",
+      "kind": "tech",
+      "pattern": "Moonshot AI|Kimi"
+    },
+    "BYD": {
+      "name": "BYD",
+      "lat": 22.6,
+      "lon": 114.05,
+      "city": "Shenzhen",
+      "country": "CN",
+      "kind": "auto",
+      "pattern": "BYD"
+    },
+    "YANDEX": {
+      "name": "Yandex",
+      "lat": 55.73,
+      "lon": 37.59,
+      "city": "Moscow",
+      "country": "RU",
+      "kind": "tech",
+      "pattern": "Yandex"
+    },
+    "NOKIA": {
+      "name": "Nokia",
+      "lat": 60.2,
+      "lon": 24.66,
+      "city": "Espoo",
+      "country": "FI",
+      "kind": "tech",
+      "pattern": "Nokia"
+    },
+    "SONY": {
+      "name": "Sony",
+      "lat": 35.63,
+      "lon": 139.74,
+      "city": "Tokyo",
+      "country": "JP",
+      "kind": "tech",
+      "pattern": "Sony"
+    },
+    "NINTENDO": {
+      "name": "Nintendo",
+      "lat": 35,
+      "lon": 135.76,
+      "city": "Kyoto",
+      "country": "JP",
+      "kind": "tech",
+      "pattern": "Nintendo"
+    },
+    "CAPCOM": {
+      "name": "Capcom",
+      "lat": 34.69,
+      "lon": 135.5,
+      "city": "Osaka",
+      "country": "JP",
+      "kind": "tech",
+      "pattern": "Capcom"
+    },
+    "ROCKSTAR": {
+      "name": "Rockstar Games",
+      "lat": 40.74,
+      "lon": -73.99,
+      "city": "New York",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Rockstar|Take-Two"
+    },
+    "POLYMARKET": {
+      "name": "Polymarket",
+      "lat": 40.72,
+      "lon": -74,
+      "city": "New York",
+      "country": "US",
+      "kind": "finance",
+      "pattern": "Polymarket"
+    },
+    "KALSHI": {
+      "name": "Kalshi",
+      "lat": 40.72,
+      "lon": -74,
+      "city": "New York",
+      "country": "US",
+      "kind": "finance",
+      "pattern": "Kalshi"
+    },
+    "COINBASE": {
+      "name": "Coinbase",
+      "lat": 37.79,
+      "lon": -122.4,
+      "city": "San Francisco",
+      "country": "US",
+      "kind": "finance",
+      "pattern": "Coinbase"
+    },
+    "BINANCE": {
+      "name": "Binance",
+      "lat": 25.2,
+      "lon": 55.27,
+      "city": "Dubai",
+      "country": "AE",
+      "kind": "finance",
+      "pattern": "Binance"
+    },
+    "BITGET": {
+      "name": "Bitget",
+      "lat": 1.29,
+      "lon": 103.85,
+      "city": "Singapore",
+      "country": "SG",
+      "kind": "finance",
+      "pattern": "Bitget"
+    },
+    "GRINDR": {
+      "name": "Grindr",
+      "lat": 34.05,
+      "lon": -118.25,
+      "city": "Los Angeles",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Grindr"
+    },
+    "WIKIMEDIA": {
+      "name": "Wikimedia Foundation",
+      "lat": 37.79,
+      "lon": -122.4,
+      "city": "San Francisco",
+      "country": "US",
+      "kind": "body",
+      "pattern": "Wikimedia|Wikipedia"
+    },
+    "SPACEX": {
+      "name": "SpaceX",
+      "lat": 25.99,
+      "lon": -97.16,
+      "city": "Starbase",
+      "country": "US",
+      "kind": "space",
+      "pattern": "SpaceX|Starship|Starlink"
+    },
+    "BLUEORIGIN": {
+      "name": "Blue Origin",
+      "lat": 47.38,
+      "lon": -122.23,
+      "city": "Kent, Washington",
+      "country": "US",
+      "kind": "space",
+      "pattern": "Blue Origin|New Glenn"
+    },
+    "ROCKETLAB": {
+      "name": "Rocket Lab",
+      "lat": 33.82,
+      "lon": -118.15,
+      "city": "Long Beach",
+      "country": "US",
+      "kind": "space",
+      "pattern": "Rocket Lab"
+    },
+    "STOKE": {
+      "name": "Stoke Space",
+      "lat": 47.38,
+      "lon": -122.23,
+      "city": "Kent, Washington",
+      "country": "US",
+      "kind": "space",
+      "pattern": "Stoke Space"
+    },
+    "ISAR": {
+      "name": "Isar Aerospace",
+      "lat": 48.14,
+      "lon": 11.58,
+      "city": "Munich",
+      "country": "DE",
+      "kind": "space",
+      "pattern": "Isar Aerospace"
+    },
+    "LANDSPACE": {
+      "name": "LandSpace",
+      "lat": 39.9,
+      "lon": 116.4,
+      "city": "Beijing",
+      "country": "CN",
+      "kind": "space",
+      "pattern": "LandSpace"
+    },
+    "JOBY": {
+      "name": "Joby Aviation",
+      "lat": 36.97,
+      "lon": -122.03,
+      "city": "Santa Cruz",
+      "country": "US",
+      "kind": "space",
+      "pattern": "Joby Aviation"
+    },
+    "NASA": {
+      "name": "NASA",
+      "lat": 38.88,
+      "lon": -77.02,
+      "city": "Washington, DC",
+      "country": "US",
+      "kind": "body",
+      "pattern": "NASA|Artemis|Perseverance|JWST|Hubble|Roman Space Telescope"
+    },
+    "ESA": {
+      "name": "ESA",
+      "lat": 48.85,
+      "lon": 2.3,
+      "city": "Paris",
+      "country": "FR",
+      "kind": "body",
+      "pattern": "ESA|European Space Agency|Euclid"
+    },
+    "JAXA": {
+      "name": "JAXA",
+      "lat": 35.69,
+      "lon": 139.69,
+      "city": "Tokyo",
+      "country": "JP",
+      "kind": "body",
+      "pattern": "JAXA"
+    },
+    "BOEING": {
+      "name": "Boeing",
+      "lat": 38.88,
+      "lon": -77.1,
+      "city": "Arlington",
+      "country": "US",
+      "kind": "aero",
+      "pattern": "Boeing"
+    },
+    "AIRBUS": {
+      "name": "Airbus",
+      "lat": 43.6,
+      "lon": 1.44,
+      "city": "Toulouse",
+      "country": "FR",
+      "kind": "aero",
+      "pattern": "Airbus"
+    },
+    "LOCKHEED": {
+      "name": "Lockheed Martin",
+      "lat": 38.98,
+      "lon": -77.1,
+      "city": "Bethesda",
+      "country": "US",
+      "kind": "aero",
+      "pattern": "Lockheed"
+    },
+    "RTX": {
+      "name": "RTX",
+      "lat": 38.88,
+      "lon": -77.1,
+      "city": "Arlington",
+      "country": "US",
+      "kind": "aero",
+      "pattern": "RTX|Raytheon"
+    },
+    "GOLDMAN": {
+      "name": "Goldman Sachs",
+      "lat": 40.71,
+      "lon": -74.01,
+      "city": "New York",
+      "country": "US",
+      "kind": "finance",
+      "pattern": "Goldman"
+    },
+    "JPMORGAN": {
+      "name": "JPMorgan",
+      "lat": 40.76,
+      "lon": -73.98,
+      "city": "New York",
+      "country": "US",
+      "kind": "finance",
+      "pattern": "JPMorgan|Jamie Dimon"
+    },
+    "BOFA": {
+      "name": "Bank of America",
+      "lat": 35.23,
+      "lon": -80.84,
+      "city": "Charlotte",
+      "country": "US",
+      "kind": "finance",
+      "pattern": "Bank of America"
+    },
+    "CITI": {
+      "name": "Citigroup",
+      "lat": 40.72,
+      "lon": -74.01,
+      "city": "New York",
+      "country": "US",
+      "kind": "finance",
+      "pattern": "Citigroup|Citibank"
+    },
+    "MORGANSTANLEY": {
+      "name": "Morgan Stanley",
+      "lat": 40.76,
+      "lon": -73.98,
+      "city": "New York",
+      "country": "US",
+      "kind": "finance",
+      "pattern": "Morgan Stanley"
+    },
+    "BLACKROCK": {
+      "name": "BlackRock",
+      "lat": 40.75,
+      "lon": -73.97,
+      "city": "New York",
+      "country": "US",
+      "kind": "finance",
+      "pattern": "BlackRock"
+    },
+    "BERKSHIRE": {
+      "name": "Berkshire Hathaway",
+      "lat": 41.26,
+      "lon": -95.94,
+      "city": "Omaha",
+      "country": "US",
+      "kind": "finance",
+      "pattern": "Berkshire Hathaway|Buffett"
+    },
+    "BARCLAYS": {
+      "name": "Barclays",
+      "lat": 51.51,
+      "lon": -0.1,
+      "city": "London",
+      "country": "UK",
+      "kind": "finance",
+      "pattern": "Barclays"
+    },
+    "HSBC": {
+      "name": "HSBC",
+      "lat": 51.5,
+      "lon": -0.02,
+      "city": "London",
+      "country": "UK",
+      "kind": "finance",
+      "pattern": "HSBC"
+    },
+    "REVOLUT": {
+      "name": "Revolut",
+      "lat": 51.5,
+      "lon": -0.02,
+      "city": "London",
+      "country": "UK",
+      "kind": "finance",
+      "pattern": "Revolut"
+    },
+    "DEUTSCHEBANK": {
+      "name": "Deutsche Bank",
+      "lat": 50.11,
+      "lon": 8.68,
+      "city": "Frankfurt",
+      "country": "DE",
+      "kind": "finance",
+      "pattern": "Deutsche Bank"
+    },
+    "UBS": {
+      "name": "UBS",
+      "lat": 47.37,
+      "lon": 8.54,
+      "city": "Zurich",
+      "country": "CH",
+      "kind": "finance",
+      "pattern": "UBS"
+    },
+    "VISA": {
+      "name": "Visa",
+      "lat": 37.79,
+      "lon": -122.4,
+      "city": "San Francisco",
+      "country": "US",
+      "kind": "finance",
+      "pattern": "Visa guild"
+    },
+    "MASTERCARD": {
+      "name": "Mastercard",
+      "lat": 41.04,
+      "lon": -73.71,
+      "city": "Purchase, New York",
+      "country": "US",
+      "kind": "finance",
+      "pattern": "Mastercard"
+    },
+    "MODERNA": {
+      "name": "Moderna",
+      "lat": 42.36,
+      "lon": -71.09,
+      "city": "Cambridge, Massachusetts",
+      "country": "US",
+      "kind": "pharma",
+      "pattern": "Moderna"
+    },
+    "MERCK": {
+      "name": "Merck",
+      "lat": 40.6,
+      "lon": -74.28,
+      "city": "Rahway",
+      "country": "US",
+      "kind": "pharma",
+      "pattern": "Merck"
+    },
+    "PFIZER": {
+      "name": "Pfizer",
+      "lat": 40.75,
+      "lon": -73.99,
+      "city": "New York",
+      "country": "US",
+      "kind": "pharma",
+      "pattern": "Pfizer"
+    },
+    "AMGEN": {
+      "name": "Amgen",
+      "lat": 34.17,
+      "lon": -118.85,
+      "city": "Thousand Oaks",
+      "country": "US",
+      "kind": "pharma",
+      "pattern": "Amgen"
+    },
+    "LILLY": {
+      "name": "Eli Lilly",
+      "lat": 39.77,
+      "lon": -86.16,
+      "city": "Indianapolis",
+      "country": "US",
+      "kind": "pharma",
+      "pattern": "Eli Lilly|Lilly guild"
+    },
+    "JNJ": {
+      "name": "Johnson & Johnson",
+      "lat": 40.49,
+      "lon": -74.45,
+      "city": "New Brunswick",
+      "country": "US",
+      "kind": "pharma",
+      "pattern": "Johnson & Johnson|J&J"
+    },
+    "BMS": {
+      "name": "Bristol Myers Squibb",
+      "lat": 40.35,
+      "lon": -74.65,
+      "city": "Princeton",
+      "country": "US",
+      "kind": "pharma",
+      "pattern": "Bristol Myers"
+    },
+    "ASTRAZENECA": {
+      "name": "AstraZeneca",
+      "lat": 52.2,
+      "lon": 0.13,
+      "city": "Cambridge, UK",
+      "country": "UK",
+      "kind": "pharma",
+      "pattern": "AstraZeneca"
+    },
+    "GSK": {
+      "name": "GSK",
+      "lat": 51.5,
+      "lon": -0.3,
+      "city": "London",
+      "country": "UK",
+      "kind": "pharma",
+      "pattern": "GSK|GlaxoSmithKline"
+    },
+    "NOVONORDISK": {
+      "name": "Novo Nordisk",
+      "lat": 55.76,
+      "lon": 12.45,
+      "city": "Bagsvaerd",
+      "country": "DK",
+      "kind": "pharma",
+      "pattern": "Novo Nordisk|Ozempic|Wegovy"
+    },
+    "BAYER": {
+      "name": "Bayer",
+      "lat": 51.03,
+      "lon": 6.98,
+      "city": "Leverkusen",
+      "country": "DE",
+      "kind": "pharma",
+      "pattern": "Bayer|Monsanto"
+    },
+    "ROCHE": {
+      "name": "Roche",
+      "lat": 47.56,
+      "lon": 7.59,
+      "city": "Basel",
+      "country": "CH",
+      "kind": "pharma",
+      "pattern": "Roche"
+    },
+    "NOVARTIS": {
+      "name": "Novartis",
+      "lat": 47.56,
+      "lon": 7.59,
+      "city": "Basel",
+      "country": "CH",
+      "kind": "pharma",
+      "pattern": "Novartis"
+    },
+    "SANOFI": {
+      "name": "Sanofi",
+      "lat": 48.85,
+      "lon": 2.3,
+      "city": "Paris",
+      "country": "FR",
+      "kind": "pharma",
+      "pattern": "Sanofi"
+    },
+    "SCHOLARROCK": {
+      "name": "Scholar Rock",
+      "lat": 42.36,
+      "lon": -71.09,
+      "city": "Cambridge, Massachusetts",
+      "country": "US",
+      "kind": "pharma",
+      "pattern": "Scholar Rock"
+    },
+    "TANGO": {
+      "name": "Tango Therapeutics",
+      "lat": 42.35,
+      "lon": -71.05,
+      "city": "Boston",
+      "country": "US",
+      "kind": "pharma",
+      "pattern": "Tango Therapeutics"
+    },
+    "HIMS": {
+      "name": "Hims & Hers",
+      "lat": 37.79,
+      "lon": -122.4,
+      "city": "San Francisco",
+      "country": "US",
+      "kind": "pharma",
+      "pattern": "Hims & Hers|Hims and Hers"
+    },
+    "QUEST": {
+      "name": "Quest Diagnostics",
+      "lat": 40.79,
+      "lon": -74.06,
+      "city": "Secaucus",
+      "country": "US",
+      "kind": "pharma",
+      "pattern": "Quest Diagnostics"
+    },
+    "VOLKSWAGEN": {
+      "name": "Volkswagen",
+      "lat": 52.42,
+      "lon": 10.78,
+      "city": "Wolfsburg",
+      "country": "DE",
+      "kind": "auto",
+      "pattern": "Volkswagen|VW guild"
+    },
+    "TOYOTA": {
+      "name": "Toyota",
+      "lat": 35.08,
+      "lon": 137.16,
+      "city": "Toyota City",
+      "country": "JP",
+      "kind": "auto",
+      "pattern": "Toyota"
+    },
+    "HYUNDAI": {
+      "name": "Hyundai",
+      "lat": 37.53,
+      "lon": 127,
+      "city": "Seoul",
+      "country": "KR",
+      "kind": "auto",
+      "pattern": "Hyundai"
+    },
+    "GM": {
+      "name": "General Motors",
+      "lat": 42.33,
+      "lon": -83.05,
+      "city": "Detroit",
+      "country": "US",
+      "kind": "auto",
+      "pattern": "General Motors|GM guild"
+    },
+    "FORD": {
+      "name": "Ford",
+      "lat": 42.32,
+      "lon": -83.21,
+      "city": "Dearborn",
+      "country": "US",
+      "kind": "auto",
+      "pattern": "Ford guild|Ford Motor"
+    },
+    "STELLANTIS": {
+      "name": "Stellantis",
+      "lat": 52.3,
+      "lon": 4.75,
+      "city": "Amsterdam",
+      "country": "NL",
+      "kind": "auto",
+      "pattern": "Stellantis"
+    },
+    "FERRARI": {
+      "name": "Ferrari",
+      "lat": 44.53,
+      "lon": 10.86,
+      "city": "Maranello",
+      "country": "IT",
+      "kind": "auto",
+      "pattern": "Ferrari"
+    },
+    "JLR": {
+      "name": "Jaguar Land Rover",
+      "lat": 52.4,
+      "lon": -1.5,
+      "city": "Coventry",
+      "country": "UK",
+      "kind": "auto",
+      "pattern": "Jaguar Land Rover"
+    },
+    "DUPONT": {
+      "name": "DuPont",
+      "lat": 39.74,
+      "lon": -75.55,
+      "city": "Wilmington",
+      "country": "US",
+      "kind": "industry",
+      "pattern": "DuPont"
+    },
+    "CORTEVA": {
+      "name": "Corteva",
+      "lat": 39.77,
+      "lon": -86.16,
+      "city": "Indianapolis",
+      "country": "US",
+      "kind": "industry",
+      "pattern": "Corteva"
+    },
+    "JINGYE": {
+      "name": "Jingye",
+      "lat": 38.04,
+      "lon": 114.51,
+      "city": "Shijiazhuang",
+      "country": "CN",
+      "kind": "industry",
+      "pattern": "Jingye|British Steel"
+    },
+    "RWE": {
+      "name": "RWE",
+      "lat": 51.46,
+      "lon": 7.01,
+      "city": "Essen",
+      "country": "DE",
+      "kind": "energy",
+      "pattern": "RWE"
+    },
+    "CHEVRON": {
+      "name": "Chevron",
+      "lat": 29.76,
+      "lon": -95.37,
+      "city": "Houston",
+      "country": "US",
+      "kind": "energy",
+      "pattern": "Chevron"
+    },
+    "EXXON": {
+      "name": "ExxonMobil",
+      "lat": 30.08,
+      "lon": -95.42,
+      "city": "Spring, Texas",
+      "country": "US",
+      "kind": "energy",
+      "pattern": "ExxonMobil|Exxon"
+    },
+    "SHELL": {
+      "name": "Shell",
+      "lat": 51.5,
+      "lon": -0.13,
+      "city": "London",
+      "country": "UK",
+      "kind": "energy",
+      "pattern": "Shell guild|Shell plc"
+    },
+    "BP": {
+      "name": "BP",
+      "lat": 51.51,
+      "lon": -0.14,
+      "city": "London",
+      "country": "UK",
+      "kind": "energy",
+      "pattern": "BP guild|BP plc"
+    },
+    "TOTAL": {
+      "name": "TotalEnergies",
+      "lat": 48.89,
+      "lon": 2.24,
+      "city": "Paris",
+      "country": "FR",
+      "kind": "energy",
+      "pattern": "TotalEnergies"
+    },
+    "ARAMCO": {
+      "name": "Aramco",
+      "lat": 26.29,
+      "lon": 50.11,
+      "city": "Dhahran",
+      "country": "SA",
+      "kind": "energy",
+      "pattern": "Aramco|Saudi Aramco"
+    },
+    "GAZPROM": {
+      "name": "Gazprom",
+      "lat": 59.86,
+      "lon": 30.32,
+      "city": "St Petersburg",
+      "country": "RU",
+      "kind": "energy",
+      "pattern": "Gazprom"
+    },
+    "ROSNEFT": {
+      "name": "Rosneft",
+      "lat": 55.75,
+      "lon": 37.63,
+      "city": "Moscow",
+      "country": "RU",
+      "kind": "energy",
+      "pattern": "Rosneft"
+    },
+    "WALMART": {
+      "name": "Walmart",
+      "lat": 36.37,
+      "lon": -94.21,
+      "city": "Bentonville",
+      "country": "US",
+      "kind": "retail",
+      "pattern": "Walmart"
+    },
+    "NIKE": {
+      "name": "Nike",
+      "lat": 45.51,
+      "lon": -122.83,
+      "city": "Beaverton",
+      "country": "US",
+      "kind": "retail",
+      "pattern": "Nike"
+    },
+    "PEPSICO": {
+      "name": "PepsiCo",
+      "lat": 41.04,
+      "lon": -73.71,
+      "city": "Purchase, New York",
+      "country": "US",
+      "kind": "retail",
+      "pattern": "PepsiCo|Pepsi"
+    },
+    "COCACOLA": {
+      "name": "Coca-Cola",
+      "lat": 33.77,
+      "lon": -84.39,
+      "city": "Atlanta",
+      "country": "US",
+      "kind": "retail",
+      "pattern": "Coca-Cola|Fairlife"
+    },
+    "YUM": {
+      "name": "Yum Brands",
+      "lat": 38.25,
+      "lon": -85.76,
+      "city": "Louisville",
+      "country": "US",
+      "kind": "retail",
+      "pattern": "Yum Brands|Yum!"
+    },
+    "MCDONALDS": {
+      "name": "McDonald's",
+      "lat": 41.88,
+      "lon": -87.63,
+      "city": "Chicago",
+      "country": "US",
+      "kind": "retail",
+      "pattern": "McDonald's"
+    },
+    "STARBUCKS": {
+      "name": "Starbucks",
+      "lat": 47.58,
+      "lon": -122.34,
+      "city": "Seattle",
+      "country": "US",
+      "kind": "retail",
+      "pattern": "Starbucks"
+    },
+    "CARREFOUR": {
+      "name": "Carrefour",
+      "lat": 48.73,
+      "lon": 2.27,
+      "city": "Massy",
+      "country": "FR",
+      "kind": "retail",
+      "pattern": "Carrefour"
+    },
+    "LVMH": {
+      "name": "LVMH",
+      "lat": 48.87,
+      "lon": 2.3,
+      "city": "Paris",
+      "country": "FR",
+      "kind": "retail",
+      "pattern": "LVMH"
+    },
+    "NESTLE": {
+      "name": "Nestle",
+      "lat": 46.46,
+      "lon": 6.84,
+      "city": "Vevey",
+      "country": "CH",
+      "kind": "retail",
+      "pattern": "Nestl[eé]"
+    },
+    "GREGGS": {
+      "name": "Greggs",
+      "lat": 54.98,
+      "lon": -1.6,
+      "city": "Newcastle",
+      "country": "UK",
+      "kind": "retail",
+      "pattern": "Greggs"
+    },
+    "WILDBERRIES": {
+      "name": "Wildberries",
+      "lat": 55.75,
+      "lon": 37.62,
+      "city": "Moscow",
+      "country": "RU",
+      "kind": "retail",
+      "pattern": "Wildberries"
+    },
+    "DELTA": {
+      "name": "Delta Air Lines",
+      "lat": 33.64,
+      "lon": -84.43,
+      "city": "Atlanta",
+      "country": "US",
+      "kind": "travel",
+      "pattern": "Delta Air Lines|Delta guild"
+    },
+    "FLYDUBAI": {
+      "name": "Flydubai",
+      "lat": 25.25,
+      "lon": 55.36,
+      "city": "Dubai",
+      "country": "AE",
+      "kind": "travel",
+      "pattern": "Flydubai"
+    },
+    "MANAIRPORTS": {
+      "name": "Manchester Airports Group",
+      "lat": 53.36,
+      "lon": -2.27,
+      "city": "Manchester",
+      "country": "UK",
+      "kind": "travel",
+      "pattern": "Manchester Airports"
+    },
+    "THAMESWATER": {
+      "name": "Thames Water",
+      "lat": 51.45,
+      "lon": -0.97,
+      "city": "Reading",
+      "country": "UK",
+      "kind": "utility",
+      "pattern": "Thames Water"
+    },
+    "NETFLIX": {
+      "name": "Netflix",
+      "lat": 37.23,
+      "lon": -121.97,
+      "city": "Los Gatos",
+      "country": "US",
+      "kind": "media",
+      "pattern": "Netflix"
+    },
+    "PARAMOUNT": {
+      "name": "Paramount Skydance",
+      "lat": 34.05,
+      "lon": -118.25,
+      "city": "Los Angeles",
+      "country": "US",
+      "kind": "media",
+      "pattern": "Paramount|Skydance"
+    },
+    "WBD": {
+      "name": "Warner Bros. Discovery",
+      "lat": 40.75,
+      "lon": -73.98,
+      "city": "New York",
+      "country": "US",
+      "kind": "media",
+      "pattern": "Warner Bros\\.? Discovery|Warner Bros"
+    },
+    "DISNEY": {
+      "name": "Disney",
+      "lat": 34.18,
+      "lon": -118.33,
+      "city": "Burbank",
+      "country": "US",
+      "kind": "media",
+      "pattern": "Disney"
+    },
+    "TRUMPMEDIA": {
+      "name": "Trump Media",
+      "lat": 27.34,
+      "lon": -82.53,
+      "city": "Sarasota",
+      "country": "US",
+      "kind": "media",
+      "pattern": "Trump Media|Truth Social"
+    },
+    "POLITICO": {
+      "name": "Politico",
+      "lat": 38.88,
+      "lon": -77.1,
+      "city": "Arlington",
+      "country": "US",
+      "kind": "media",
+      "pattern": "Politico"
+    },
+    "BBC": {
+      "name": "BBC",
+      "lat": 51.52,
+      "lon": -0.14,
+      "city": "London",
+      "country": "UK",
+      "kind": "media",
+      "pattern": "BBC guild|the BBC"
+    },
+    "UN": {
+      "name": "United Nations",
+      "lat": 40.75,
+      "lon": -73.97,
+      "city": "New York",
+      "country": "US",
+      "kind": "body",
+      "pattern": "UN guild|United Nations|\\bUN\\b"
+    },
+    "WHO": {
+      "name": "WHO",
+      "lat": 46.23,
+      "lon": 6.13,
+      "city": "Geneva",
+      "country": "CH",
+      "kind": "body",
+      "pattern": "\\bWHO\\b|World Health Organi[sz]ation"
+    },
+    "NATO": {
+      "name": "NATO",
+      "lat": 50.88,
+      "lon": 4.42,
+      "city": "Brussels",
+      "country": "BE",
+      "kind": "body",
+      "pattern": "NATO"
+    },
+    "IMF": {
+      "name": "IMF",
+      "lat": 38.9,
+      "lon": -77.04,
+      "city": "Washington, DC",
+      "country": "US",
+      "kind": "body",
+      "pattern": "\\bIMF\\b|International Monetary Fund"
+    },
+    "WORLDBANK": {
+      "name": "World Bank",
+      "lat": 38.9,
+      "lon": -77.04,
+      "city": "Washington, DC",
+      "country": "US",
+      "kind": "body",
+      "pattern": "World Bank"
+    },
+    "WTO": {
+      "name": "WTO",
+      "lat": 46.22,
+      "lon": 6.15,
+      "city": "Geneva",
+      "country": "CH",
+      "kind": "body",
+      "pattern": "\\bWTO\\b|World Trade Organi[sz]ation"
+    },
+    "ECB": {
+      "name": "European Central Bank",
+      "lat": 50.11,
+      "lon": 8.7,
+      "city": "Frankfurt",
+      "country": "DE",
+      "kind": "body",
+      "pattern": "\\bECB\\b|European Central Bank"
+    },
+    "EUCOMMISSION": {
+      "name": "European Commission",
+      "lat": 50.84,
+      "lon": 4.38,
+      "city": "Brussels",
+      "country": "BE",
+      "kind": "body",
+      "pattern": "European Commission|EU Commission|European Parliament"
+    },
+    "ICC": {
+      "name": "International Criminal Court",
+      "lat": 52.1,
+      "lon": 4.3,
+      "city": "The Hague",
+      "country": "NL",
+      "kind": "body",
+      "pattern": "\\bICC\\b|International Criminal Court"
+    },
+    "ICJ": {
+      "name": "International Court of Justice",
+      "lat": 52.09,
+      "lon": 4.3,
+      "city": "The Hague",
+      "country": "NL",
+      "kind": "body",
+      "pattern": "\\bICJ\\b|International Court of Justice"
+    },
+    "OPEC": {
+      "name": "OPEC",
+      "lat": 48.21,
+      "lon": 16.37,
+      "city": "Vienna",
+      "country": "AT",
+      "kind": "body",
+      "pattern": "OPEC\\+?"
+    },
+    "IAEA": {
+      "name": "IAEA",
+      "lat": 48.23,
+      "lon": 16.42,
+      "city": "Vienna",
+      "country": "AT",
+      "kind": "body",
+      "pattern": "IAEA"
+    },
+    "ICRC": {
+      "name": "Red Cross",
+      "lat": 46.23,
+      "lon": 6.14,
+      "city": "Geneva",
+      "country": "CH",
+      "kind": "body",
+      "pattern": "Red Cross|ICRC"
+    },
+    "BMA": {
+      "name": "British Medical Association",
+      "lat": 51.52,
+      "lon": -0.13,
+      "city": "London",
+      "country": "UK",
+      "kind": "body",
+      "pattern": "British Medical Association"
+    },
+    "CERN": {
+      "name": "CERN",
+      "lat": 46.23,
+      "lon": 6.05,
+      "city": "Geneva",
+      "country": "CH",
+      "kind": "body",
+      "pattern": "CERN"
+    },
+    "CORNELL": {
+      "name": "Cornell University",
+      "lat": 42.45,
+      "lon": -76.48,
+      "city": "Ithaca",
+      "country": "US",
+      "kind": "university",
+      "pattern": "Cornell"
+    },
+    "HARVARD": {
+      "name": "Harvard",
+      "lat": 42.37,
+      "lon": -71.12,
+      "city": "Cambridge, Massachusetts",
+      "country": "US",
+      "kind": "university",
+      "pattern": "Harvard"
+    },
+    "STANFORD": {
+      "name": "Stanford",
+      "lat": 37.43,
+      "lon": -122.17,
+      "city": "Stanford",
+      "country": "US",
+      "kind": "university",
+      "pattern": "Stanford"
+    },
+    "MIT": {
+      "name": "MIT",
+      "lat": 42.36,
+      "lon": -71.09,
+      "city": "Cambridge, Massachusetts",
+      "country": "US",
+      "kind": "university",
+      "pattern": "\\bMIT\\b"
+    },
+    "OXFORD": {
+      "name": "University of Oxford",
+      "lat": 51.75,
+      "lon": -1.25,
+      "city": "Oxford",
+      "country": "UK",
+      "kind": "university",
+      "pattern": "Oxford"
+    },
+    "CAMBRIDGE": {
+      "name": "University of Cambridge",
+      "lat": 52.2,
+      "lon": 0.12,
+      "city": "Cambridge, UK",
+      "country": "UK",
+      "kind": "university",
+      "pattern": "Cambridge University|University of Cambridge|Cambridge professor"
+    },
+    "FIFA": {
+      "name": "FIFA",
+      "lat": 47.38,
+      "lon": 8.57,
+      "city": "Zurich",
+      "country": "CH",
+      "kind": "sports",
+      "pattern": "FIFA's league admins|league admin|Infantino"
+    },
+    "IOC": {
+      "name": "IOC",
+      "lat": 46.52,
+      "lon": 6.63,
+      "city": "Lausanne",
+      "country": "CH",
+      "kind": "sports",
+      "pattern": "\\bIOC\\b|International Olympic Committee"
+    },
+    "UEFA": {
+      "name": "UEFA",
+      "lat": 46.38,
+      "lon": 6.23,
+      "city": "Nyon",
+      "country": "CH",
+      "kind": "sports",
+      "pattern": "UEFA"
+    },
+    "PREMIERLEAGUE": {
+      "name": "Premier League",
+      "lat": 51.5,
+      "lon": -0.12,
+      "city": "London",
+      "country": "UK",
+      "kind": "sports",
+      "pattern": "Premier League"
+    },
+    "NFL": {
+      "name": "NFL",
+      "lat": 40.76,
+      "lon": -73.97,
+      "city": "New York",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "NFL"
+    },
+    "NBA": {
+      "name": "NBA",
+      "lat": 40.76,
+      "lon": -73.98,
+      "city": "New York",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "NBA"
+    },
+    "MLB": {
+      "name": "MLB",
+      "lat": 40.76,
+      "lon": -73.98,
+      "city": "New York",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "MLB"
+    },
+    "WNBA": {
+      "name": "WNBA",
+      "lat": 40.76,
+      "lon": -73.98,
+      "city": "New York",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "WNBA"
+    },
+    "UFC": {
+      "name": "UFC",
+      "lat": 36.12,
+      "lon": -115.17,
+      "city": "Las Vegas",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "UFC"
+    },
+    "F1": {
+      "name": "Formula 1",
+      "lat": 51.5,
+      "lon": -0.13,
+      "city": "London",
+      "country": "UK",
+      "kind": "sports",
+      "pattern": "Formula 1|Formula One|\\bF1\\b"
+    },
+    "MANCITY": {
+      "name": "Manchester City",
+      "lat": 53.48,
+      "lon": -2.2,
+      "city": "Manchester",
+      "country": "UK",
+      "kind": "sports",
+      "pattern": "Manchester City|Man City"
+    },
+    "MANUTD": {
+      "name": "Manchester United",
+      "lat": 53.46,
+      "lon": -2.29,
+      "city": "Manchester",
+      "country": "UK",
+      "kind": "sports",
+      "pattern": "Manchester United|Man United|Man Utd"
+    },
+    "ARSENAL": {
+      "name": "Arsenal",
+      "lat": 51.56,
+      "lon": -0.11,
+      "city": "London",
+      "country": "UK",
+      "kind": "sports",
+      "pattern": "Arsenal"
+    },
+    "CHELSEA": {
+      "name": "Chelsea",
+      "lat": 51.48,
+      "lon": -0.19,
+      "city": "London",
+      "country": "UK",
+      "kind": "sports",
+      "pattern": "Chelsea"
+    },
+    "LIVERPOOL": {
+      "name": "Liverpool FC",
+      "lat": 53.43,
+      "lon": -2.96,
+      "city": "Liverpool",
+      "country": "UK",
+      "kind": "sports",
+      "pattern": "Liverpool"
+    },
+    "TOTTENHAM": {
+      "name": "Tottenham",
+      "lat": 51.6,
+      "lon": -0.07,
+      "city": "London",
+      "country": "UK",
+      "kind": "sports",
+      "pattern": "Tottenham|Spurs"
+    },
+    "REALMADRID": {
+      "name": "Real Madrid",
+      "lat": 40.45,
+      "lon": -3.69,
+      "city": "Madrid",
+      "country": "ES",
+      "kind": "sports",
+      "pattern": "Real Madrid"
+    },
+    "BARCELONA": {
+      "name": "FC Barcelona",
+      "lat": 41.38,
+      "lon": 2.12,
+      "city": "Barcelona",
+      "country": "ES",
+      "kind": "sports",
+      "pattern": "Barcelona's squad|FC Barcelona|Bar[cç]a"
+    },
+    "LAKERS": {
+      "name": "LA Lakers",
+      "lat": 34.04,
+      "lon": -118.27,
+      "city": "Los Angeles",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "Lakers"
+    },
+    "DODGERS": {
+      "name": "LA Dodgers",
+      "lat": 34.07,
+      "lon": -118.24,
+      "city": "Los Angeles",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "Dodgers"
+    },
+    "BREWERS": {
+      "name": "Milwaukee Brewers",
+      "lat": 43.03,
+      "lon": -87.97,
+      "city": "Milwaukee",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "Brewers"
+    },
+    "SEAHAWKS": {
+      "name": "Seattle Seahawks",
+      "lat": 47.6,
+      "lon": -122.33,
+      "city": "Seattle",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "Seahawks"
+    },
+    "STEELERS": {
+      "name": "Pittsburgh Steelers",
+      "lat": 40.45,
+      "lon": -80.02,
+      "city": "Pittsburgh",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "Steelers"
+    },
+    "AUTHENTIC": {
+      "name": "Authentic Brands Group",
+      "lat": 40.75,
+      "lon": -73.99,
+      "city": "New York",
+      "country": "US",
+      "kind": "retail",
+      "pattern": "Authentic Brands Group"
+    }
+  }
+}

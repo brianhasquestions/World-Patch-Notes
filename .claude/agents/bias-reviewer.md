@@ -65,7 +65,8 @@ and go find it. A neutral, well-attributed release is the goal, not a clever one
   stays byte-for-byte identical.
 - Do NOT change the underlying facts, figures, names, or which events are covered.
 - Keep the Earth MMO voice, the section structure, ids, titles, the `summary`
-  line, and any `highlight` flags exactly as they are.
+  line, any `highlight` flags, and the `places` and `guilds` arrays exactly as
+  they are.
 - Strictly valid JSON. No emojis. No em or en dashes - plain hyphens only.
 
 ## Procedure

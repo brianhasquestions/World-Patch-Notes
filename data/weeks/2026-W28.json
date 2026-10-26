@@ -25,6 +25,11 @@
             "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
             "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran"
           ],
+          "places": [
+            "IR",
+            "US-DC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -35,6 +40,12 @@
             "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
             "https://insideclimatenews.org/news/11072026/venezuela-earthquakes-expose-disaster-preparedness-issues/"
           ],
+          "places": [
+            "VE"
+          ],
+          "guilds": [
+            "UN"
+          ],
           "highlight": true
         },
         {
@@ -44,7 +55,13 @@
             "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
             "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
             "https://thehill.com/policy/defense/5965142-centcom-launches-precision-munitions/"
-          ]
+          ],
+          "places": [
+            "IR",
+            "US-DC",
+            "BH"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -53,14 +70,24 @@
             "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say",
             "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
             "https://www.aljazeera.com/video/newsfeed/2026/7/13/deadly-bangkok-pub-blaze-revives-concerns-over-fire-safety-lapses?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "TH"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "Gibraltar's border with the Europe server dropped its checks for the first time in 118 years, opening a new era of cross-server movement between the British overseas team and Spain.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "EU",
+            "UK",
+            "ES"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -69,7 +96,13 @@
             "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
             "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike",
             "https://www.theguardian.com/world/2026/jul/09/idf-accused-of-field-execution-of-palestinian-driver-bringing-aid-into-gaza"
-          ]
+          ],
+          "places": [
+            "PS",
+            "IL",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -78,7 +111,12 @@
             "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
             "https://www.france24.com/en/video/20260712-russian-strikes-kill-eight-in-ukraine-officials-say",
             "https://www.theguardian.com/world/2026/jul/12/ukrainian-drone-strikes-force-russia-to-suspend-shipping-in-sea-of-azov"
-          ]
+          ],
+          "places": [
+            "RU",
+            "UA"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -86,7 +124,11 @@
           "sources": [
             "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
             "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter"
-          ]
+          ],
+          "places": [
+            "CA"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
@@ -94,7 +136,11 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara"
-          ]
+          ],
+          "places": [
+            "NG"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -102,7 +148,11 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
             "https://timesofindia.indiatimes.com/world/middle-east/qatar-declares-4-days-of-mourning-suspends-public-sector-work-over-death-of-former-emir-sheikh-hamad/articleshow/132344922.cms"
-          ]
+          ],
+          "places": [
+            "QA"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -111,7 +161,12 @@
             "https://www.france24.com/en/video/20260712-firefighters-gain-upper-hand-on-deadly-spain-wildfire",
             "https://www.bbc.co.uk/news/articles/cy8w67l642no?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "ES",
+            "UK"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -125,6 +180,11 @@
             "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/commentisfree/2026/jul/10/andy-burnham-keir-starmer-donald-trump-foreign-secretary"
           ],
+          "places": [
+            "UK",
+            "US-DC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -135,6 +195,11 @@
             "https://thehill.com/homenews/senate/5964690-mace-graham-replacement-senate/",
             "https://thehill.com/homenews/administration/5964574-trump-graham-save-america-act/"
           ],
+          "places": [
+            "US-DC",
+            "US-SC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -143,7 +208,12 @@
           "sources": [
             "https://www.independent.co.uk/news/world/europe/marine-le-pen-france-election-ankle-tag-b3012561.html",
             "https://www.france24.com/en/americas/20260712-the-week-in-pictures-le-pen-s-comeback-khamenei-s-funeral-and-mbapp%C3%A9-s-wondergoal"
-          ]
+          ],
+          "places": [
+            "FR",
+            "JO"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -151,14 +221,26 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
             "https://thehill.com/policy/international/5964670-khanna-accuses-idf-detention-israel/"
-          ]
+          ],
+          "places": [
+            "US",
+            "IL",
+            "WB"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "National Guard tensions moved unevenly across US teams: Minnesota's admins pulled their National Guard troops out of Washington DC early, even as pressure builds on Michigan's governor to do the same amid the Trump admin's ongoing deployment.",
           "sources": [
             "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota"
-          ]
+          ],
+          "places": [
+            "US-MN",
+            "US-DC",
+            "US-MI"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
@@ -166,7 +248,11 @@
           "sources": [
             "https://www.npr.org/2026/07/11/nx-s1-5888579/week-in-politics-trumps-housing-bill-protest-fails-trump-and-nato-maines-democrats",
             "https://grist.org/politics/trump-congress-housing-bill-disaster-recovery/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -174,14 +260,22 @@
           "sources": [
             "https://timesofindia.indiatimes.com/world/uk/nigel-farages-approval-rating-hits-new-low-amid-funding-row-as-count-binface-steals-spotlight-in-clacton-bypoll/articleshow/132347991.cms",
             "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Israel's parliament set the team's next national election for October 27, formalizing a vote that had been expected amid ongoing coalition strain.",
           "sources": [
             "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "IL"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -190,14 +284,22 @@
             "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
             "https://www.theguardian.com/us-news/2026/jul/12/mitch-mcconnell-hospitalization-fall",
             "https://thehill.com/policy/defense/5961915-mcconnell-absence-trump-defense-spending/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "A proposed cap on political donations would strip guild Reform UK of about 85% of its funding, according to a new analysis, as UK admins weigh tighter campaign-finance rules.",
           "sources": [
             "https://www.theguardian.com/politics/2026/jul/12/reform-uk-donations-proposed-10000-cap-analysis"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -209,7 +311,11 @@
           "text": "Fed admin transition: incoming Federal Reserve chief Kevin Warsh named the members of his new policy task forces, including whales Marc Andreessen and Doug McMillon, as the central bank's admins prepare for a leadership handover.",
           "sources": [
             "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -217,14 +323,23 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
             "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html"
-          ]
+          ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "Guild SK Hynix's shares slid 12% in Seoul, giving back a chunk of the previous week's gains just days after its blockbuster Nasdaq debut.",
           "sources": [
             "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html"
-          ]
+          ],
+          "places": [
+            "KR",
+            "US-NYC"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -232,14 +347,21 @@
           "sources": [
             "https://www.independent.co.uk/news/business/oil-prices-us-iran-escalate-strikes-in-the-middle-east-b3013591.html",
             "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "US",
+            "IR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "The US team's player pipeline into the workforce keeps shrinking: labor force participation fell to its lowest level in 50 years outside the Covid era, as more job seekers give up the search entirely.",
           "sources": [
             "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -248,6 +370,13 @@
             "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
             "https://www.cnbc.com/2026/07/09/pepsico-pep-q2-2026-earnings.html",
             "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": [
+            "CITI",
+            "PEPSICO"
           ]
         },
         {
@@ -255,7 +384,11 @@
           "text": "Economists warned a 'super' El Nino could trigger a global food-price shock lasting into 2028, adding fresh mudflation risk on top of inflation already stoked by the Iran war.",
           "sources": [
             "https://www.theguardian.com/business/2026/jul/12/super-el-nino-severe-shock-global-food-prices-lasting-into-2028-economists-warn"
-          ]
+          ],
+          "places": [
+            "IR"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -263,7 +396,11 @@
           "sources": [
             "https://www.cnbc.com/guide/trump-accounts/",
             "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -276,6 +413,11 @@
           "sources": [
             "https://www.newscientist.com/article/2533017-collapse-of-amoc-ocean-current-may-already-be-locked-in/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
           ],
+          "places": [
+            "EU",
+            "GL"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -283,7 +425,9 @@
           "text": "Researchers say they've solved the mystery of Earth's greatest mass extinction, explaining why today's beaches are full of clam and snail shells instead of brachiopods after warming oceans and falling oxygen wiped the latter out.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/07/260711010122.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -291,7 +435,9 @@
           "sources": [
             "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
             "https://phys.org/news/2026-07-synthetic-rotation-black-hole-energy.html"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "FIX",
@@ -299,14 +445,18 @@
           "sources": [
             "https://www.sciencedaily.com/releases/2026/07/260710003511.htm",
             "https://timesofindia.indiatimes.com/science/scientists-finally-know-why-gold-never-tarnishes-and-the-secret-lies-in-its-self-protecting-surface/articleshow/132345906.cms"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "A new mouse study found the Alzheimer's-linked tau protein has a hidden role in memory, helping organize brain cells that store new experiences, and showing how its breakdown may drive the disease.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/07/260710003535.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -321,6 +471,13 @@
             "https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit/",
             "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "APPLE",
+            "OPENAI"
+          ],
           "highlight": true
         },
         {
@@ -330,6 +487,13 @@
             "https://www.zdnet.com/article/openais-gpt-5-6-chatgpt-work-beat-anthropic-on-price-speed-and-productivity/",
             "https://www.engadget.com/2212941/openai-head-of-safety-leaving-company-reorganization/",
             "https://www.wired.com/story/openai-head-of-safety-leaving/"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI",
+            "ANTHROPIC"
           ]
         },
         {
@@ -337,6 +501,13 @@
           "text": "Guild whales Elon Musk and Sam Altman traded barbs on X after guild Apple's trade-secret lawsuit against guild OpenAI became public.",
           "sources": [
             "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "APPLE",
+            "OPENAI"
           ]
         },
         {
@@ -345,6 +516,16 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
             "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013"
+          ],
+          "places": [
+            "SEA",
+            "SFBAY",
+            "FR"
+          ],
+          "guilds": [
+            "MICROSOFT",
+            "AMAZON",
+            "GOOGLE"
           ]
         },
         {
@@ -352,6 +533,13 @@
           "text": "Players flooded the FTC with complaints after guild xAI's Grok chatbot moderation changes, with some demanding it stay 'completely uncensored.'",
           "sources": [
             "https://gizmodo.com/i-want-everything-completely-uncensored-heres-what-grok-users-are-complaining-about-to-the-ftc-2000780843"
+          ],
+          "places": [
+            "US-DC",
+            "US-TX"
+          ],
+          "guilds": [
+            "XAI"
           ]
         }
       ]
@@ -367,6 +555,13 @@
             "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
             "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/"
           ],
+          "places": [
+            "CN",
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
+          ],
           "highlight": true
         },
         {
@@ -374,6 +569,12 @@
           "text": "NASA's Artemis II lunar flyby broke the agency's streaming record with 149 million views, as mission controllers described the historic close pass of the moon.",
           "sources": [
             "https://www.space.com/space-exploration/artemis/149-million-views-artemis-ii-moon-mission-breaks-nasas-streaming-record"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -381,6 +582,12 @@
           "text": "SpaceX ignited all 33 engines on its Starship booster in a static-fire test ahead of the rocket's Flight 13 launch.",
           "sources": [
             "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-all-33-powerful-engines-on-starship-booster-test-ahead-of-flight-13-test-launch"
+          ],
+          "places": [
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         },
         {
@@ -388,13 +595,24 @@
           "text": "China's Tianwen-2 probe rendezvoused with Earth's quasi-moon, the asteroid Kamo'oalewa, sending back the first pictures ahead of a planned sample-return landing.",
           "sources": [
             "https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/"
-          ]
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "The White House appointed Harvard astronomer Avi Loeb to lead a new government group studying UFOs, now officially termed unidentified anomalous phenomena.",
           "sources": [
             "https://www.space.com/space-exploration/search-for-life/white-house-appoints-harvard-astronomer-avi-loeb-to-lead-new-ufo-study-group"
+          ],
+          "places": [
+            "US-DC",
+            "US-MA"
+          ],
+          "guilds": [
+            "HARVARD"
           ]
         }
       ]
@@ -410,6 +628,10 @@
             "https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo",
             "https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc"
           ],
+          "places": [
+            "CD"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -418,21 +640,33 @@
           "sources": [
             "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us",
             "https://www.independent.co.uk/news/world/americas/taco-bell-ingredients-explosive-diarrhea-cyclosporiasis-b3013248.html"
-          ]
+          ],
+          "places": [
+            "US-MI"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Bangladesh, which had made major progress against measles, is now battling an outbreak of 120,000 cases with hundreds of children's deaths as hospitals are overwhelmed.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cj0gel72mlgo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "BD"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "A new study found RFK Jr.'s changes to the US measles-vaccine schedule are harmful to vulnerable toddlers.",
           "sources": [
             "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -440,14 +674,22 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/jul/11/guggenheim-museum-new-york-city-legionnaires",
             "https://www.theguardian.com/us-news/2026/jul/09/new-york-legionnaires-outbreak"
-          ]
+          ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "England's NHS can't perform 1.5 million operations a year because of a shortage of anaesthetists, blocking roughly 4,000 procedures a day for patients in urgent need of surgery.",
           "sources": [
             "https://www.theguardian.com/society/2026/jul/11/nhs-anaesthetist-shortage-prevents-operations"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -462,6 +704,12 @@
             "https://www.france24.com/en/france/20260712-france-temporarily-shuts-down-three-nuclear-reactors-over-heatwave",
             "https://www.france24.com/en/video/20260712-eiffel-tower-to-close-early-as-heatwave-hits-france-operator"
           ],
+          "places": [
+            "EU",
+            "DE",
+            "FR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -470,28 +718,43 @@
           "sources": [
             "https://timesofindia.indiatimes.com/world/europe/europe-death-toll-tops-10000-during-late-june-heatwave-scientists-blame-human-caused-climate-change/articleshow/132354821.cms",
             "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "EU",
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "A new heatwave blasted the US team, with 44 million players under heat warnings as temperatures in the Rockies and northern Plains threatened to hit 110F (43C).",
           "sources": [
             "https://phys.org/news/2026-07-blasts.html"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Britain's biggest community solar farm was forced offline for the summer over grid overload fears, costing members an estimated 2 million pounds in lost revenue.",
           "sources": [
             "https://www.theguardian.com/environment/2026/jul/12/solar-farm-forced-to-shut-derril-water-biggest-grid-overload-fears"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Scientists warned this year's El Nino could turn tropical forests from carbon sinks into carbon sources, potentially making 2026 the worst year yet for forest carbon loss.",
           "sources": [
             "https://www.livescience.com/planet-earth/climate-change/tropical-forests-stop-absorbing-carbon-dioxide-during-el-nino-events-this-year-could-be-the-worst"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -499,7 +762,12 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "CN",
+            "PH"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -512,7 +780,13 @@
           "sources": [
             "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
             "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-NYC",
+            "QA"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -520,6 +794,12 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cz754eey3xeo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/football/2026/jul/12/starmer-to-use-last-week-in-power-to-push-through-hillsborough-law"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "LIVERPOOL"
           ]
         },
         {
@@ -527,6 +807,13 @@
           "text": "A lawyer who took on guilds Meta and Google in an LA courtroom won a landmark verdict over social media's harm to a young client, in a case attorneys are calling a turning point for tech-guild accountability.",
           "sources": [
             "https://www.theguardian.com/media/2026/jul/12/mark-lanier-the-lawyer-who-took-on-meta-and-google-and-won-interview"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "META",
+            "GOOGLE"
           ]
         },
         {
@@ -535,7 +822,11 @@
           "sources": [
             "https://www.france24.com/en/europe/20260712-uk-police-says-no-evidence-of-political-motive-in-murder-of-former-minister-widdecombe",
             "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -543,14 +834,23 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/jul/12/apalachee-georgia-school-shooting-plea-hearing-court",
             "https://www.independent.co.uk/news/world/americas/colt-gray-apalachee-high-school-shooting-plea-b3013458.html"
-          ]
+          ],
+          "places": [
+            "US-GA"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "South Africa's admins brought down the ban hammer on more than 53,000 players of foreign origin this year as part of an intensified migration crackdown.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "ZA",
+            "AFR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -558,7 +858,12 @@
           "sources": [
             "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-world-4025-rdf",
             "https://www.bbc.co.uk/news/articles/c78y2xg0090o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "FR",
+            "UK"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -573,6 +878,12 @@
             "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
             "https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "UK",
+            "NO",
+            "AR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -580,6 +891,14 @@
           "text": "NFL guild the Seahawks agreed to a roster-move for the ages: a group led by 49ers part-owner Vinod Khosla will buy the team for a record $9.612 billion.",
           "sources": [
             "https://www.espn.com/nfl/story/_/id/49337716/khosla-led-group-agrees-buy-seahawks-sources-say-96-billion"
+          ],
+          "places": [
+            "SEA",
+            "US-CA"
+          ],
+          "guilds": [
+            "NFL",
+            "SEAHAWKS"
           ]
         },
         {
@@ -588,6 +907,12 @@
           "sources": [
             "https://www.theguardian.com/sport/2026/jul/12/conor-mcgregors-knee-injury-ufc-max-holloway",
             "https://www.forbes.com/sites/brianmazique/2026/07/12/conor-mcgregor-breaks-silence-after-devastating-knee-injury-at-ufc-329/"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": [
+            "UFC"
           ]
         },
         {
@@ -596,7 +921,11 @@
           "sources": [
             "https://www.theguardian.com/sport/2026/jul/12/tadej-pogacar-tour-de-france-2026-heatwave-calendar-ninth-stage-mathieu-van-der-poel-cycling",
             "https://www.bbc.co.uk/sport/cycling/articles/c9v2wyw41vko?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -604,7 +933,12 @@
           "sources": [
             "https://www.skysports.com/cricket/news/12040/13562846/england-set-for-heavy-defeat-to-india-in-lords-test-as-heather-knight-and-tammy-beaumont-out-cheaply-in-final-innings",
             "https://www.bbc.co.uk/sport/cricket/articles/c8028vm2g9ro?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK",
+            "IN"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -612,7 +946,12 @@
           "sources": [
             "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
             "https://www.france24.com/en/video/20260712-south-africa-s-jayden-adams-25-dies-after-playing-in-world-cup"
-          ]
+          ],
+          "places": [
+            "ZA",
+            "AFR"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -620,7 +959,11 @@
           "sources": [
             "https://www.espn.com/tennis/story/_/id/49344990/jannik-sinner-beats-alexander-zverev-defends-wimbledon-title",
             "https://www.theguardian.com/sport/2026/jul/12/jannik-sinner-alexander-zverev-wimbledon-2026-mens-singles-final-match-report"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -628,6 +971,10 @@
           "sources": [
             "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/football/2026/jul/12/gianni-infantino-expansion-64-team-world-cup-2030-fifa"
+          ],
+          "places": [],
+          "guilds": [
+            "FIFA"
           ]
         }
       ]

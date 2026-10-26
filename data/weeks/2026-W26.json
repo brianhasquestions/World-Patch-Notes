@@ -22,6 +22,12 @@
             "https://www.independent.co.uk/news/world/middle-east/iran-us-war-news-trump-hormuz-attack-strikes-b3004431.html",
             "https://www.france24.com/en/middle-east/20260628-iran-threatens-to-halt-talks-after-fresh-us-strikes-attacks-bahrain-and-kuwait"
           ],
+          "places": [
+            "US",
+            "IR",
+            "QA"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -29,7 +35,13 @@
           "text": "Known issue where Iran's raid party launched drone and missile strikes toward the Bahrain and Kuwait teams. Bahrain's admins called it a 'flagrant threat' and the UAE admins condemned the attacks; analysts described the Gulf server as caught in PvP driven by proxy forces.",
           "sources": [
             "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east"
-          ]
+          ],
+          "places": [
+            "IR",
+            "BH",
+            "KW"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -39,6 +51,10 @@
             "https://www.science.org/content/article/venezuela-s-double-earthquake-struck-faults-scientists-had-flagged",
             "https://www.npr.org/2026/06/25/nx-s1-5870557/what-made-the-deadly-venezuelan-earthquakes-different"
           ],
+          "places": [
+            "VE"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -49,6 +65,11 @@
             "https://timesofindia.indiatimes.com/world/europe/ukraine-strikes-major-russian-oil-refinery-in-drone-barrage-two-killed/articleshow/132050217.cms",
             "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war"
           ],
+          "places": [
+            "UA",
+            "RU"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -57,7 +78,12 @@
           "sources": [
             "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
             "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "IL",
+            "LB"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -65,14 +91,25 @@
           "sources": [
             "https://www.independent.co.uk/news/world/middle-east/gaza-israel-attacks-palestinian-children-killed-b3004437.html",
             "https://www.aljazeera.com/video/newsfeed/2026/6/28/israeli-forces-bulldoze-olive-groves-in-the-occupied-west-bank?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "IL",
+            "PS",
+            "WB"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Pakistan team's mods carried out 'calibrated strikes' near the Afghanistan border, saying 29 fighters from a rogue faction were killed.",
           "sources": [
             "https://timesofindia.indiatimes.com/world/pakistan/pakistan-carries-out-calibrated-strikes-near-afghanistan-border-29-militants-killed/articleshow/132058492.cms"
-          ]
+          ],
+          "places": [
+            "PK",
+            "AF"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -80,6 +117,12 @@
           "sources": [
             "https://www.dw.com/en/saudi-aramco-helicopter-crashes-all-14-passengers-killed/a-77744020?maca=en-rss-en-world-4025-rdf",
             "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "SA"
+          ],
+          "guilds": [
+            "ARAMCO"
           ]
         },
         {
@@ -87,7 +130,11 @@
           "text": "Skydiving plane crashed near Nancy in eastern France, killing all 11 players on board.",
           "sources": [
             "https://www.france24.com/en/france/20260628-skydiving-plane-crashes-in-france-killing-all-11-people-on-board"
-          ]
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -100,7 +147,12 @@
           "sources": [
             "https://www.france24.com/en/new-caledonia-provisional-results-show-anti-independence-parties-lead",
             "https://www.france24.com/en/video/20260628-new-caledonia-votes-high-stakes-in-france-s-pacific-territory"
-          ]
+          ],
+          "places": [
+            "FR",
+            "PAC"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -108,7 +160,11 @@
           "sources": [
             "https://www.france24.com/en/video/20260628-serbia-s-vu%C4%8Di%C4%87-to-resign-opening-path-to-early-elections-amid-political-tensions",
             "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "RS"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
@@ -116,7 +172,11 @@
           "sources": [
             "https://timesofindia.indiatimes.com/world/middle-east/iraqi-security-forces-raid-baghdad-green-zone-arrest-mps-and-senior-officials-in-anti-corruption-crackdown/articleshow/132048592.cms",
             "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "IQ"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
@@ -124,35 +184,57 @@
           "sources": [
             "https://timesofindia.indiatimes.com/world/rest-of-world/i-do-not-believe-in-free-press-uganda-military-chief-orders-media-shutdown-of-major-outlets/articleshow/132048074.cms",
             "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UG"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Zimbabwe's senate approved extending the admin's presidential term, a move critics called a 'constitutional coup'.",
           "sources": [
             "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term"
-          ]
+          ],
+          "places": [
+            "ZW"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "A player of Somali origin was jailed for three years after criticising the Somali admin online, drawing outrage from rights groups.",
           "sources": [
             "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement"
-          ]
+          ],
+          "places": [
+            "SO"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Known issue where a Balochistan activist's life sentence raised fears of unrest on the Pakistan team.",
           "sources": [
             "https://www.dw.com/en/balochistan-activist-s-life-sentence-raises-fear-of-unrest/a-77721686?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "PK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Cross-server admins at the EU faced criticism over plans to host Taliban representatives in Brussels.",
           "sources": [
             "https://www.theguardian.com/world/2026/jun/23/eu-faces-fierce-criticism-plans-host-taliban-brussels"
-          ]
+          ],
+          "places": [
+            "EU",
+            "AF",
+            "BE"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -166,6 +248,11 @@
             "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
             "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "US",
+            "EU"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -173,21 +260,37 @@
           "text": "UK admin said it will halve tariff-free steel imports, a 100% -> 50% quota cut to counter a glut of cheap Chinese metal, a debuff aimed at protecting the UK team's steel merchants.",
           "sources": [
             "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal"
-          ]
+          ],
+          "places": [
+            "UK",
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "US team competed with the Brazil team for China's giant soybean market as trade tensions reshaped global crop flows.",
           "sources": [
             "https://www.cnbc.com/2026/06/23/us-fights-with-brazil-for-chinas-giant-soybean-market.html"
-          ]
+          ],
+          "places": [
+            "US",
+            "BR",
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
           "text": "US admin issued sweeping Iran oil sanctions waivers, rolling back a debuff to unlock billions in gold revenue for the Tehran admins as part of the peace deal.",
           "sources": [
             "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
-          ]
+          ],
+          "places": [
+            "US",
+            "IR"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
@@ -196,6 +299,13 @@
             "https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html",
             "https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html",
             "https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html"
+          ],
+          "places": [
+            "IR",
+            "US"
+          ],
+          "guilds": [
+            "UN"
           ]
         }
       ]
@@ -211,6 +321,10 @@
             "https://www.theguardian.com/business/2026/jun/25/us-may-inflation-gauge-three-year-high",
             "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html"
           ],
+          "places": [
+            "US"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -219,7 +333,12 @@
           "sources": [
             "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
             "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html"
-          ]
+          ],
+          "places": [
+            "US-MN",
+            "US-IL"
+          ],
+          "guilds": []
         },
         {
           "type": "DEPRECATED",
@@ -227,7 +346,11 @@
           "sources": [
             "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html",
             "https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -235,6 +358,15 @@
           "sources": [
             "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
             "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html"
+          ],
+          "places": [
+            "US-ID",
+            "SFBAY"
+          ],
+          "guilds": [
+            "MICRON",
+            "NVIDIA",
+            "META"
           ]
         },
         {
@@ -243,6 +375,13 @@
           "sources": [
             "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
             "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "JPMORGAN",
+            "GOLDMAN"
           ]
         },
         {
@@ -250,21 +389,33 @@
           "text": "Known issue where June factory job cuts neared financial-crisis and Covid-era levels, S&P said, signalling strain on the US team's manufacturing class.",
           "sources": [
             "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Oil price reverted to pre-Iran-war levels as more tankers exited the Strait of Hormuz, easing fuel costs.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cn8k4pek3gzo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "IR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Jeremy Grantham said the auction house is 'the most expensive market in American history', warning of stretched valuations amid the AI boom.",
           "sources": [
             "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -278,6 +429,12 @@
             "https://www.livescience.com/space/mars/nasa-rover-finds-record-breaking-trove-of-complex-organic-molecules-on-mars",
             "https://www.space.com/astronomy/mars/did-nasa-just-find-evidence-of-ancient-life-on-mars-perseverance-rover-spots-complex-carbon-in-red-planet-rocks"
           ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
+          ],
           "highlight": true
         },
         {
@@ -285,6 +442,12 @@
           "text": "IBM unveiled a sub-1nm chip cramming 100 billion transistors onto a fingernail-sized space, a tech-tree unlock the guild said could extend Moore's Law another decade.",
           "sources": [
             "https://www.livescience.com/technology/computing/ibm-creates-first-sub-1-nm-computer-chip-100-billion-transistors"
+          ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": [
+            "IBM"
           ]
         },
         {
@@ -292,6 +455,10 @@
           "text": "Euclid space telescope captured the most detailed image yet of the Milky Way's centre, showing over 60 million stars and 50 exoplanet systems.",
           "sources": [
             "https://www.space.com/astronomy/galaxies/this-is-the-largest-and-most-detailed-image-of-our-milky-way-with-over-60-million-stars-and-50-exoplanet-systems"
+          ],
+          "places": [],
+          "guilds": [
+            "ESA"
           ]
         },
         {
@@ -300,7 +467,9 @@
           "sources": [
             "https://www.space.com/astronomy/exoplanets/two-super-puff-cotton-candy-exoplanets-are-the-lightest-gas-giants-ever-discovered",
             "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-catches-6-galaxies-merging-into-one-of-the-largest-galaxies-in-the-universe"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -308,7 +477,11 @@
           "sources": [
             "https://www.bbc.co.uk/news/videos/c8r2074l0rmo?at_medium=RSS&at_campaign=rss",
             "https://www.newscientist.com/article/2532130-ancient-human-dna-found-on-cave-art-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
-          ]
+          ],
+          "places": [
+            "AQ"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -316,7 +489,9 @@
           "sources": [
             "https://www.livescience.com/archaeology/human-evolution/early-homo-sapiens-may-have-lived-in-rainforests-new-clues-suggest-and-it-could-overturn-our-understanding-of-human-evolution",
             "https://www.livescience.com/archaeology/neanderthals/some-of-the-last-surviving-neanderthals-were-remarkably-diverse-suggesting-inbreeding-didnt-doom-them"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -331,6 +506,12 @@
             "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
             "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI"
+          ],
           "highlight": true
         },
         {
@@ -339,6 +520,12 @@
           "sources": [
             "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
             "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "ANTHROPIC"
           ]
         },
         {
@@ -347,6 +534,14 @@
           "sources": [
             "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
             "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "SFBAY",
+            "CN"
+          ],
+          "guilds": [
+            "ANTHROPIC",
+            "ALIBABA"
           ]
         },
         {
@@ -355,6 +550,12 @@
           "sources": [
             "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
             "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "APPLE"
           ]
         },
         {
@@ -364,7 +565,9 @@
             "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
             "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
             "https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -372,7 +575,12 @@
           "sources": [
             "https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/",
             "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer"
-          ]
+          ],
+          "places": [
+            "CN",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
@@ -380,6 +588,12 @@
           "sources": [
             "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
             "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/"
+          ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": [
+            "POLYMARKET"
           ]
         },
         {
@@ -388,7 +602,13 @@
           "sources": [
             "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
             "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "RU",
+            "UA"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
@@ -396,6 +616,12 @@
           "sources": [
             "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
             "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/"
+          ],
+          "places": [
+            "RU"
+          ],
+          "guilds": [
+            "JLR"
           ]
         },
         {
@@ -405,7 +631,11 @@
             "https://www.engadget.com/2203358/australia-doubles-maximum-penalty-social-media-ban/",
             "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/news/ng-interactive/2026/jun/27/social-media-bans-go-global-big-tech-reckoning-australia-crackdown"
-          ]
+          ],
+          "places": [
+            "AU"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -414,6 +644,10 @@
             "https://www.theguardian.com/games/2026/jun/25/grand-theft-auto-vi-pre-orders-open",
             "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/c0kyzk2p255o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [],
+          "guilds": [
+            "ROCKSTAR"
           ]
         }
       ]
@@ -427,6 +661,12 @@
           "sources": [
             "https://www.space.com/space-exploration/launches-spacecraft/another-star-is-born-spacex-names-ai-megaconstellation-starmind",
             "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/"
+          ],
+          "places": [
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         },
         {
@@ -434,6 +674,12 @@
           "text": "NASA audit found canceled Artemis hardware contracts reached $5.9 billion in builds the team may never use.",
           "sources": [
             "https://www.space.com/space-exploration/artemis/nasa-spent-usd5-9-billion-on-artemis-program-hardware-it-may-never-use"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -441,7 +687,11 @@
           "text": "China team plans to double the size of its Tiangong space station as the ISS nears its end-of-life (EOL), expanding its orbital zone.",
           "sources": [
             "https://www.space.com/space-exploration/launches-spacecraft/china-plans-to-double-the-size-of-its-tiangong-space-station-while-the-iss-nears-its-end"
-          ]
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -449,6 +699,13 @@
           "sources": [
             "https://spaceflightnow.com/2026/06/26/next-gen-astronaut-moon-rovers-aim-for-deployment-ahead-of-artemis-4-crew-arrival/",
             "https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/"
+          ],
+          "places": [
+            "US-DC",
+            "US-FL"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -456,6 +713,12 @@
           "text": "Blue Origin guild said it plans to fly its New Glenn rocket again this year despite a massive explosion, working around the clock to repair the damaged pad after the outage.",
           "sources": [
             "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video"
+          ],
+          "places": [
+            "SEA"
+          ],
+          "guilds": [
+            "BLUEORIGIN"
           ]
         }
       ]
@@ -468,14 +731,22 @@
           "text": "NHS shipped the first drug to delay the onset of type 1 diabetes, a new recipe for the medic tree.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Consultants and specialist doctors in England took strike action over pay, a medic class refusing to play.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/c14y72vkv3yo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -483,28 +754,43 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/jun/26/trump-administration-overdose-prevention-health-program",
             "https://www.theguardian.com/us-news/2026/jun/26/fda-peptide-restrictions"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "New evidence cast doubt on testimony that admin RFK Jr gave before the Senate.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/jun/25/rfk-jr-senate-testimony-samoa-visit"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Researchers pinpointed one underlying cause of inflammatory bowel disease in a new study, a tech-tree unlock for the medic class.",
           "sources": [
             "https://www.livescience.com/health/immune-system/one-underlying-cause-of-inflammatory-bowel-disease-pinpointed-in-new-study"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "A leading conservationist of Lebanese origin died after an Israel team airstrike on her home.",
           "sources": [
             "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike"
-          ]
+          ],
+          "places": [
+            "LB",
+            "IL"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -519,6 +805,12 @@
             "https://www.france24.com/en/europe/20260628-more-than-1-300-excess-deaths-linked-to-record-breaking-europe-heatwave-who-says",
             "https://phys.org/news/2026-06-climate-blame-intensity-europe-scientists.html"
           ],
+          "places": [
+            "EU",
+            "DE",
+            "FR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -527,7 +819,11 @@
           "sources": [
             "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
             "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/"
-          ]
+          ],
+          "places": [
+            "EU"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -536,6 +832,12 @@
             "https://www.statnews.com/2026/06/26/health-news-supreme-court-rules-in-weedkiller-roundup-cancer-case/?utm_campaign=rss",
             "https://www.theguardian.com/business/2026/jun/25/monsanto-supreme-court-pesticide-case"
           ],
+          "places": [
+            "US"
+          ],
+          "guilds": [
+            "BAYER"
+          ],
           "highlight": true
         },
         {
@@ -543,7 +845,11 @@
           "text": "US admin said chemical giant Chemours will pay $450 million to settle a 'forever chemicals' case over PFAS contamination.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/jun/24/chemours-settlement-forever-chemicals"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -551,6 +857,12 @@
           "sources": [
             "https://insideclimatenews.org/news/26062026/french-oil-major-failed-to-fulfill-vigilance-duty-on-climate-paris-court-rules/",
             "https://www.theguardian.com/world/2026/jun/25/paris-partial-victory-totalenergies-climate-risks-case"
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": [
+            "TOTAL"
           ]
         },
         {
@@ -559,7 +871,12 @@
           "sources": [
             "https://www.theguardian.com/environment/2026/jun/27/trump-epa-court-ruling-soot-pollution",
             "https://www.theguardian.com/environment/2026/jun/26/california-single-use-plastic-law"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-CA"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -571,13 +888,23 @@
           "text": "A US scout urged the team's top mod panel to halt a ruling forcing her to reveal sources or pay an $800-a-day fine.",
           "sources": [
             "https://www.theguardian.com/media/2026/jun/26/us-reporter-supreme-court-sources-fine"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
           "text": "Whistleblower Sarah Wynn-Williams sued the Meta guild over what she said were attempts to 'silence' her.",
           "sources": [
             "https://www.theguardian.com/technology/2026/jun/25/whistleblower-sarah-wynn-williams-sues-meta-attempts-to-silence-her-careless-people"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "META"
           ]
         },
         {
@@ -585,7 +912,11 @@
           "text": "US admin added the admin's face to select US passports for the team's 250th birthday.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -593,7 +924,12 @@
           "sources": [
             "https://www.wired.com/story/ivanka-and-jareds-island-resort-could-bring-down-albanias-prime-minister/",
             "https://www.dw.com/en/albania-s-flamingo-revolution-what-s-behind-the-protests/a-77710991?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "AL"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -607,6 +943,10 @@
             "https://www.france24.com/en/tv-shows/world-cup-debrief/20260628-world-cup-2026-215-goals-in-record-breaking-group-stage",
             "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
           ],
+          "places": [
+            "FR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -615,14 +955,24 @@
           "sources": [
             "https://www.espn.com/soccer/story/_/id/49203555/lionel-messi-scores-again-seal-perfect-group-stage-argentina-world-cup",
             "https://www.bbc.co.uk/sport/football/videos/c621584j680o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "AR"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
           "text": "England's Harry Kane card became the squad's all-time top World Cup scorer as the England squad beat the Panama squad to top its group and set up a last-32 tie with DR Congo, whose squad advanced via a comeback win over Uzbekistan.",
           "sources": [
             "https://www.bbc.co.uk/sport/football/articles/cly9kp827ndo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK",
+            "PA",
+            "CD"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -630,21 +980,36 @@
           "sources": [
             "https://www.cbssports.com/soccer/news/croatia-luka-modric-world-cup-win-ghana/",
             "https://www.theguardian.com/football/2026/jun/27/new-zealand-belgium-world-cup-group-g-match-report"
-          ]
+          ],
+          "places": [
+            "HR",
+            "GH",
+            "BE"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
           "text": "US Soccer offered the player on the controller, head coach Mauricio Pochettino, a contract renewal through the 2030 World Cup, a roster move locking in the USMNT squad's leadership.",
           "sources": [
             "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-extension-us-soccer-world-cup"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "DEPRECATED",
           "text": "England Test captain Ben Stokes announced his retirement from international cricket, calling it the 'best thing' for him, as New Zealand closed on a series win.",
           "sources": [
             "https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK",
+            "NZ"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -652,6 +1017,12 @@
           "sources": [
             "https://www.espn.com/f1/story/_/id/49173953/austrian-grand-prix-formula-1-george-russell-holds-dicey-max-verstappen-take-victory",
             "https://www.skysports.com/f1/news/12040/13558494/austrian-gp-george-russell-holds-off-max-verstappen-to-end-winless-streak-and-reinvigorate-title-bid"
+          ],
+          "places": [
+            "AT"
+          ],
+          "guilds": [
+            "F1"
           ]
         },
         {
@@ -659,7 +1030,9 @@
           "text": "Jaron 'Boots' Ennis survived a scare to stop Xander Zayas and unify the 154-pound titles, an achievement unlocked in what was called an instant classic.",
           "sources": [
             "https://www.theguardian.com/sport/2026/jun/28/jaron-ennis-xander-zayas-fight-boxing-result"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -667,7 +1040,11 @@
           "sources": [
             "https://www.bbc.co.uk/sport/tennis/articles/c0qypk51v7do?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/sport/tennis/articles/c5yzjjkxy59o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
@@ -675,14 +1052,21 @@
           "sources": [
             "https://www.theguardian.com/football/2026/jun/24/lazio-women-cas-pregnancy-discrimination-ruling-maja-gothberg",
             "https://www.bbc.co.uk/sport/football/articles/cwyewx9l7j0o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "CH",
+            "IT"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Novak Djokovic took a new job as an advisor to private-equity firm General Atlantic, a roster move off the court.",
           "sources": [
             "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     }

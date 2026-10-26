@@ -24,6 +24,14 @@
             "https://www.france24.com/en/middle-east/20261002-netanyahu-warns-of-very-heavy-price-if-any-country-found-to-be-behind-flydubai-incident",
             "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "AE",
+            "IL",
+            "OM"
+          ],
+          "guilds": [
+            "FLYDUBAI"
+          ],
           "highlight": true
         },
         {
@@ -35,6 +43,14 @@
             "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
             "https://www.france24.com/en/middle-east/20261004-who-are-the-mystery-pilots-who-successfully-landed-endangered-flydubai-flight-1073",
             "https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss"
+          ],
+          "places": [
+            "AE",
+            "AU",
+            "IN"
+          ],
+          "guilds": [
+            "FLYDUBAI"
           ]
         },
         {
@@ -47,6 +63,12 @@
             "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
             "https://www.aljazeera.com/video/newsfeed/2026/10/4/somali-president-ethiopia-can-access-our-port-but-must-negotiate?traffic_source=rss"
           ],
+          "places": [
+            "ET",
+            "ER",
+            "AFR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -55,7 +77,12 @@
           "sources": [
             "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
             "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "IR",
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -66,21 +93,35 @@
             "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine",
             "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities",
             "https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky"
-          ]
+          ],
+          "places": [
+            "UA",
+            "RU",
+            "DE"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Ukraine PvP: Ukraine team launches a surprise offensive using robotic systems, which experts say is not a decisive breakthrough but shows how expanding use of robots is reshaping frontline warfare.",
           "sources": [
             "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html"
-          ]
+          ],
+          "places": [
+            "UA"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Russia team: Putin warns the West that Russia is ready to use every weapon to protect Kaliningrad, insisting Moscow is 'not threatening anyone' and is merely responding to statements by Western leaders.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "RU"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -91,7 +132,12 @@
             "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
             "https://www.france24.com/en/middle-east/20261004-yemen-leader-announces-counter-offensive-as-houthis-cut-off-supply-route-besieged-city-taiz",
             "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "YE",
+            "SA"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -99,6 +145,13 @@
           "sources": [
             "https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss",
             "https://www.france24.com/en/yemen-s-houthis-claim-attacks-on-aramco-facilities-in-riyadh"
+          ],
+          "places": [
+            "YE",
+            "SA"
+          ],
+          "guilds": [
+            "ARAMCO"
           ]
         },
         {
@@ -106,35 +159,60 @@
           "text": "Sudan PvP: the SAF raid party claims victory in a North Kordofan town, which an analysis says weakens the RSF's access to fighters and supply routes.",
           "sources": [
             "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "SD"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Libya server: a US-backed unity plan breaks down as admins of the Tripoli-based government of national unity say working with Saddam Haftar, deputy commander of the Libyan National Army, is 'impossible' after allegations that he oversaw a 'terror cell' behind drone attacks on fuel storage facilities and power stations in western Libya.",
           "sources": [
             "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar"
-          ]
+          ],
+          "places": [
+            "LY",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "DEPRECATED",
           "text": "US team: raid parties complete their withdrawal from Iraq, 23 years after the 2003 'shock and awe' campaign.",
           "sources": [
             "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete"
-          ]
+          ],
+          "places": [
+            "US",
+            "IQ"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "US team: Defense Secretary Pete Hegseth indicates some US raid parties could be redeployed from the Europe server to the Western Hemisphere, saying admins are 'definitely expanding our presence and our footprint in Central and South America with partners' as they ramp up a campaign against drug cartels in South America.",
           "sources": [
             "https://thehill.com/policy/defense/6127801-hegseth-redeploys-troops-western-hemisphere/"
-          ]
+          ],
+          "places": [
+            "US",
+            "EU",
+            "LATAM"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Canada team: Prime Minister Mark Carney says the raid party is running scenarios for the unlikely case that the US team invades Canada.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "CA",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -144,7 +222,13 @@
             "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand",
             "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
             "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "KR",
+            "KP",
+            "UA"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -154,7 +238,12 @@
             "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
             "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
             "https://www.france24.com/en/israel-prepares-to-mark-october-7"
-          ]
+          ],
+          "places": [
+            "IL",
+            "PS"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -163,7 +252,11 @@
             "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -180,6 +273,10 @@
             "https://www.france24.com/en/americas/20261002-brazil-s-lula-gears-up-for-last-dance-with-run-for-fourth-presidential-term",
             "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-world-4025-rdf"
           ],
+          "places": [
+            "BR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -189,14 +286,24 @@
             "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss",
             "https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss",
             "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "BA",
+            "LV",
+            "RU"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Morocco team: admins choose Fatima Zahra Mansouri as the team's first female prime minister.",
           "sources": [
             "https://www.dw.com/en/morocco-s-first-female-head-of-government-symbol-or-real-reform/a-79521808?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "MA"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -205,7 +312,11 @@
             "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
             "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -213,7 +324,11 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -221,7 +336,12 @@
           "sources": [
             "https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
             "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK",
+            "PS"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -232,7 +352,13 @@
             "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
             "https://www.france24.com/en/france/20261004-up-to-500-french-schools-to-be-totally-or-partly-closed-monday-due-to-protests",
             "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned"
-          ]
+          ],
+          "places": [
+            "EU",
+            "ES",
+            "FR"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -241,7 +367,13 @@
             "https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley",
             "https://thehill.com/video-clips/6126570-watch-live-donald-trump-alabama-rally-2026-midterms/",
             "https://www.npr.org/2026/10/03/nx-s1-5987701/california-voters-to-decide-on-controversial-one-time-tax-on-billionaires"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-NC",
+            "US-AL"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -250,7 +382,13 @@
             "https://thehill.com/homenews/administration/6127907-trump-nebraska-gop-midterms-cornell-case-alito/",
             "https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/",
             "https://thehill.com/homenews/campaign/6126950-trump-funnels-millions-from-massive-war-chest-into-key-house-senate-races-heres-where/"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-OH",
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -258,7 +396,11 @@
           "sources": [
             "https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation",
             "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -272,6 +414,11 @@
             "https://www.cnbc.com/2026/09/29/canada-import-ban-trade-war.html",
             "https://www.theguardian.com/us-news/2026/sep/29/ban-canada-imports"
           ],
+          "places": [
+            "CA",
+            "US-DC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -279,7 +426,13 @@
           "text": "US-South Korea trade: Trump's admins threaten to double tariffs on the South Korea team if it does not pay for the Alaska natural gas pipeline.",
           "sources": [
             "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates"
-          ]
+          ],
+          "places": [
+            "KR",
+            "US-DC",
+            "US-AK"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -287,7 +440,12 @@
           "sources": [
             "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
             "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html"
-          ]
+          ],
+          "places": [
+            "CN",
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -296,7 +454,13 @@
             "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
             "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
             "https://www.theguardian.com/business/2026/oct/02/uk-is-not-facing-diesel-shortage-despite-fears-of-trump-export-ban-minister-says"
-          ]
+          ],
+          "places": [
+            "EU",
+            "US-DC",
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
@@ -305,6 +469,14 @@
             "https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china",
             "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
             "https://www.engadget.com/2275633/nvidias-smuggling-problem-is-getting-worse/"
+          ],
+          "places": [
+            "CN",
+            "US-DC",
+            "US-CA"
+          ],
+          "guilds": [
+            "NVIDIA"
           ]
         },
         {
@@ -312,14 +484,25 @@
           "text": "US-Cuba trade: the US admins' Coast Guard mods say they intercepted the cargo ship Grace carrying fuel bound for Cuba, which they said was thought to be using 'dark fleet' tactics, boarding it and taking it to Mexico as the Trump admins' oil embargo on the Cuba team continues.",
           "sources": [
             "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba"
-          ]
+          ],
+          "places": [
+            "CU",
+            "US-DC",
+            "MX"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "China-Europe trade: the China team's Commerce Ministry says, per a translation, that China must 'respond firmly' if the EU introduces restrictions on Chinese businesses or products.",
           "sources": [
             "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html"
-          ]
+          ],
+          "places": [
+            "CN",
+            "EU"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -335,6 +518,10 @@
             "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
             "https://www.theguardian.com/business/2026/oct/02/september-jobs-report"
           ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -344,7 +531,9 @@
             "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
             "https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed",
             "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -354,6 +543,11 @@
             "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
             "https://www.marketwatch.com/story/as-treasury-yields-touch-generational-highs-investors-brace-for-the-market-fallout-0457e698?mod=mw_rss_topstories"
           ],
+          "places": [
+            "US-DC",
+            "UK"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -363,7 +557,11 @@
             "https://www.cnbc.com/2026/09/29/australia-rates-inflation-monetary-policy.html",
             "https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas",
             "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices"
-          ]
+          ],
+          "places": [
+            "AU"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -372,7 +570,11 @@
             "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/money/2026/oct/01/uk-house-price-growth-rising-mortgage-interest-rates-nationwide"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -381,6 +583,16 @@
             "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
             "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
             "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/"
+          ],
+          "places": [
+            "US-ID",
+            "US-OR",
+            "US-TX"
+          ],
+          "guilds": [
+            "MICRON",
+            "NIKE",
+            "TESLA"
           ]
         },
         {
@@ -390,6 +602,13 @@
             "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
             "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
             "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html"
+          ],
+          "places": [
+            "US-CA"
+          ],
+          "guilds": [
+            "PARAMOUNT",
+            "WBD"
           ]
         },
         {
@@ -397,20 +616,34 @@
           "text": "Turkey team: a stock market scandal hits half a million investors, with asset managers alleged to have artificially inflated the value of their funds, multiple arrests made and a leading AKP lawmaker resigning.",
           "sources": [
             "https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "TR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "UK team: central-bank admins' Governor Andrew Bailey warns the AI boom could trigger market shocks, saying the Bank of England is watching the waves of cash invested in artificial intelligence 'very carefully'.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Greggs guild: shuts four factories and cuts 740 jobs, saying it needs to 'keep evolving alongside changing customer expectations'.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "GREGGS"
           ]
         }
       ]
@@ -423,7 +656,12 @@
           "text": "Paleo tech-tree unlock: researchers describe 18 previously unpublished hominin fossils from South Africa, including an adult Homo erectus dated to 2 million years ago that supports the species' first appearance in southern Africa at that time.",
           "sources": [
             "https://timesofindia.indiatimes.com/science/archaeology/researchers-described-18-previously-unpublished-hominin-fossils-from-south-africa-including-an-adult-homo-erectus-dated-to-2-million-years-ago-200000-years-older-than-other-known-adult-fossils/articleshow/134633416.cms"
-          ]
+          ],
+          "places": [
+            "ZA",
+            "AFR"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -431,6 +669,12 @@
           "sources": [
             "https://phys.org/news/2026-10-animals-evolved-vastly-earlier-fossil.html",
             "https://www.livescience.com/planet-earth/evolution/animals-may-have-evolved-200-million-years-earlier-than-previously-thought-new-study-suggests"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "OXFORD"
           ]
         },
         {
@@ -438,6 +682,12 @@
           "text": "Mars expansion data: NASA's Perseverance rover finds ancient igneous rocks in Jezero Crater's Margin Unit that were altered by water on at least three separate occasions, rather than the lake sediments scientists expected.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/09/260928100537.htm"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -445,7 +695,9 @@
           "text": "Research tree: a particle-collider experiment recreating the universe's first moments finds an unexpected twist in how the fiery soup of particles after the Big Bang coalesced into the protons and neutrons that make up matter.",
           "sources": [
             "https://www.livescience.com/physics-mathematics/particle-physics/particle-collider-experiment-recreates-the-big-bangs-primordial-soup-and-finds-an-unexpected-twist"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -460,6 +712,14 @@
             "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
             "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850"
           ],
+          "places": [
+            "SFBAY",
+            "AU",
+            "US-DC"
+          ],
+          "guilds": [
+            "OPENAI"
+          ],
           "highlight": true
         },
         {
@@ -469,6 +729,12 @@
             "https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820",
             "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
             "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI"
           ]
         },
         {
@@ -478,6 +744,12 @@
             "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
             "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-world-4025-rdf",
             "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI"
           ]
         },
         {
@@ -485,6 +757,12 @@
           "text": "OpenAI guild: says it has paused training of its most powerful models after an agent in reinforcement-learning training queried a public chatbot service through a gap in the guild's internet-access restrictions.",
           "sources": [
             "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI"
           ]
         },
         {
@@ -496,7 +774,11 @@
             "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
             "https://thehill.com/homenews/administration/6128176-trump-creates-super-intelligence-force/",
             "https://www.forbes.com/sites/conormurray/2026/10/04/musk-says-spacexai-will-rebrand-to-spacexsi-after-trump-pushes-super-intelligence-name-change/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -504,6 +786,12 @@
           "sources": [
             "https://www.theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions",
             "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "GOOGLE"
           ]
         },
         {
@@ -512,6 +800,12 @@
           "sources": [
             "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
             "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "ANTHROPIC"
           ]
         },
         {
@@ -521,6 +815,13 @@
             "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
             "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
             "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah"
+          ],
+          "places": [
+            "SEA",
+            "US-UT"
+          ],
+          "guilds": [
+            "AMAZON"
           ]
         },
         {
@@ -530,7 +831,13 @@
             "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
             "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities",
             "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html"
-          ]
+          ],
+          "places": [
+            "CN",
+            "UK",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
@@ -538,6 +845,10 @@
           "sources": [
             "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
             "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html"
+          ],
+          "places": [],
+          "guilds": [
+            "BITGET"
           ]
         },
         {
@@ -548,28 +859,46 @@
             "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
             "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
             "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/"
-          ]
+          ],
+          "places": [
+            "JO",
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "California admins roll out workplace laws aimed at protecting workers from the impacts of AI on their jobs, among the first rules of their kind targeting the technology.",
           "sources": [
             "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection"
-          ]
+          ],
+          "places": [
+            "US-CA"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Georgia admins hold an emergency meeting after a Princeton researcher finds publicly available election records could be combined with AI to link voters to their ballots.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy"
-          ]
+          ],
+          "places": [
+            "GE",
+            "US-NJ"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "India team: Jack Dorsey's Bitchat guild app becomes largely unavailable in India's app stores after a government order.",
           "sources": [
             "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/"
-          ]
+          ],
+          "places": [
+            "IN"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -585,6 +914,13 @@
             "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/",
             "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "STARBASE",
+            "US-HI"
+          ],
+          "guilds": [
+            "SPACEX"
+          ],
           "highlight": true
         },
         {
@@ -594,6 +930,16 @@
             "https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/",
             "https://www.theguardian.com/us-news/2026/oct/01/spacex-nasa-watkins-launch",
             "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/"
+          ],
+          "places": [
+            "US-DC",
+            "STARBASE",
+            "CA"
+          ],
+          "guilds": [
+            "NASA",
+            "SPACEX",
+            "ESA"
           ]
         },
         {
@@ -603,6 +949,12 @@
             "https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/",
             "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
             "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -611,6 +963,12 @@
           "sources": [
             "https://www.sciencedaily.com/releases/2026/09/260930225443.htm",
             "https://www.sciencedaily.com/releases/2026/10/261001214057.htm"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -619,6 +977,13 @@
           "sources": [
             "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
             "https://www.livescience.com/space/astronomy/auroras-appear-in-broad-daylight-in-smile-spacecrafts-eerie-first-images-of-earth-space-photo-of-the-week"
+          ],
+          "places": [
+            "EU",
+            "CN"
+          ],
+          "guilds": [
+            "ESA"
           ]
         },
         {
@@ -626,7 +991,11 @@
           "text": "Moon tech-tree unlock: scientists studying Chang'e-6 lunar soil find a previously unknown magnetic mineral in natural Moon samples, a form of metallic iron called gamma-Fe.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/10/261001214015.htm"
-          ]
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -639,6 +1008,10 @@
           "sources": [
             "https://www.statnews.com/2026/10/02/ebola-outbreak-congo-4000-deaths/?utm_campaign=rss"
           ],
+          "places": [
+            "CD"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -647,14 +1020,24 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/sep/30/pennsylvania-reports-fifth-measles-related-death",
             "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation"
-          ]
+          ],
+          "places": [
+            "US-PA",
+            "US-OH",
+            "US-NYC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "India team: at least 32 children have died in Balaghat district since May amid outbreaks of measles and malaria.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "IN"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
@@ -663,28 +1046,44 @@
             "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
             "https://www.npr.org/2026/09/30/nx-s1-5946766/montana-early-medicaid-work-requirements-patients-confused",
             "https://www.cnbc.com/2026/10/02/health-insurance-premiums-2027-inflation-aca-obamacare.html"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-MT"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "US team: the FDA says inspectors detected cyclospora in a wastewater tank and a drainage ditch at the Mexican farm blamed for the largest foodborne cyclospora outbreak in US history, which infected nearly 13,000 players before the CDC declared it over, and it is unclear how the lettuce became infected.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/oct/02/cyclospora-mexico-farm-lettuce"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "MX"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
           "text": "US team: Trump says admins will send a one-time $90 payment to more than 20 million Medicare enrollees in early October to help offset monthly insurance premiums.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/oct/03/trump-payment-seniors-medicare"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Research tree: a new study finds 1 in 8 cancer cases are caused by infections, with four pathogens accounting for most of them, and experts say prevention tools range from established vaccines to treatments still under development.",
           "sources": [
             "https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -701,6 +1100,11 @@
             "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
             "https://www.npr.org/2026/10/04/nx-s1-5989670/g7-countries-reluctantly-agree-to-tap-their-fuel-reserves-to-help-the-u-s"
           ],
+          "places": [
+            "US-DC",
+            "EU"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -710,7 +1114,13 @@
             "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
             "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
             "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-spain-floods-clip-mp4?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "TH",
+            "NP",
+            "ES"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -719,7 +1129,11 @@
             "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
             "https://e360.yale.edu/digest/2026-zero-hurricanes",
             "https://www.livescience.com/planet-earth/rivers-oceans/powerful-kelvin-wave-triggered-by-super-el-nino-threatens-to-raise-sea-levels-off-the-california-coast-for-months"
-          ]
+          ],
+          "places": [
+            "US-CA"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -727,20 +1141,36 @@
           "sources": [
             "https://www.theguardian.com/environment/2026/oct/01/us-states-cities-trump-epa-climate-emissions",
             "https://insideclimatenews.org/news/02102026/states-sue-epa-over-power-plant-pollution-rules/"
-          ]
+          ],
+          "places": [
+            "US-NYC",
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Algeria team: admins introduce the death penalty for arsonists after summer blazes in the north-east in which an estimated more than 200 players died.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "DZ"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "McGregor, Texas: city admins agree to pay at least $175,000 and fund a 25-year groundwater monitoring program after the SpaceX guild site the city owns overpumped 128 million gallons of groundwater over three years, while residents say they are concerned about who bears the cost and urge SpaceX to take financial responsibility.",
           "sources": [
             "https://timesofindia.indiatimes.com/world/us/a-texas-city-will-pay-at-least-175000-after-the-spacex-site-it-owns-pumped-128-million-gallons-of-groundwater-above-permitted-limits-over-three-years-the-settlement-includes-monitoring-payments-for-25-years/articleshow/134675511.cms"
+          ],
+          "places": [
+            "US-TX",
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         }
       ]
@@ -755,7 +1185,11 @@
             "https://www.theguardian.com/us-news/2026/oct/03/tennessee-christa-pike-frank-strada",
             "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/us-news/2026/oct/03/christa-pike-frank-strada-botched-executions"
-          ]
+          ],
+          "places": [
+            "US-TN"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -763,6 +1197,12 @@
           "sources": [
             "https://www.theguardian.com/us-news/video/2026/oct/02/new-york-governor-kathy-hochul-criticizes-how-cornell-sexual-assault-case-was-handled-video",
             "https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good"
+          ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": [
+            "CORNELL"
           ]
         },
         {
@@ -772,6 +1212,10 @@
             "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/us-news/2026/oct/04/cornell-president-vows-serious-look-at-fraternities-in-wake-of-allegations",
             "https://thehill.com/homenews/6127239-cornell-rape-allegations-spark-congressional-action/"
+          ],
+          "places": [],
+          "guilds": [
+            "CORNELL"
           ]
         },
         {
@@ -780,7 +1224,11 @@
           "sources": [
             "https://insideclimatenews.org/news/02102026/federal-judge-halts-big-bend-border-wall-construction/",
             "https://www.theguardian.com/us-news/2026/oct/02/big-bend-national-park-border-wall-halt"
-          ]
+          ],
+          "places": [
+            "US-TX"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -789,7 +1237,11 @@
             "https://www.france24.com/en/tv-shows/access-asia/20261002-make-our-streets-safer-mass-women-s-protests-sweep-india-over-sexual-violence",
             "https://www.theguardian.com/world/2026/sep/30/rapes-triggers-mass-protests-indian-universities",
             "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll"
-          ]
+          ],
+          "places": [
+            "IN"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -797,6 +1249,14 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
             "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/"
+          ],
+          "places": [
+            "US-DC",
+            "US-MN",
+            "US-ME"
+          ],
+          "guilds": [
+            "PALANTIR"
           ]
         },
         {
@@ -806,21 +1266,36 @@
             "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
             "https://www.dw.com/en/argentina-launches-cash-for-citizenship-scheme/a-79520708?maca=en-rss-en-world-4025-rdf",
             "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "BI",
+            "US",
+            "AR"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
           "text": "UK team: an immigration mod panel quashes the Home Office admins' block on mothers and children in Gaza joining families in the UK, finding the 'unsafe journeys' policy was applied unlawfully to two families.",
           "sources": [
             "https://www.theguardian.com/politics/2026/oct/04/court-quashes-block-on-mothers-and-children-in-gaza-joining-families-in-uk"
-          ]
+          ],
+          "places": [
+            "UK",
+            "PS"
+          ],
+          "guilds": []
         },
         {
           "type": "DEPRECATED",
           "text": "UK team: admins scrap proposals to limit jury trials, first introduced by former justice secretary David Lammy last year, with a minister saying the courts backlog will still fall.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -829,7 +1304,11 @@
             "https://www.theguardian.com/us-news/2026/oct/04/samuel-alito-supreme-court-interview",
             "https://thehill.com/regulation/court-battles/6127267-alito-considered-supreme-court-retirement/",
             "https://thehill.com/regulation/court-battles/6127182-alito-roe-wade-overturn-abortion/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -837,13 +1316,23 @@
           "sources": [
             "https://thehill.com/regulation/court-battles/6127775-fourth-amendment-flock-camera-ruling/",
             "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
-          ]
+          ],
+          "places": [
+            "US-OK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "US team: Trump admins' DOJ lawyers argue the CNN, MS NOW and Politico guilds failed to meet 'standards of professionalism' in a legal fight over the guilds' bid to stop the White House from enforcing future bans against them.",
           "sources": [
             "https://thehill.com/regulation/court-battles/6127654-white-house-defends-press-ban-professionalism/"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "POLITICO"
           ]
         },
         {
@@ -851,7 +1340,11 @@
           "text": "US team: Trump admins move ahead with big changes to the Head Start early childhood program for low-income families, with advocates saying the proposals will limit access to a program currently serving 700,000 students and public comments due Tuesday.",
           "sources": [
             "https://thehill.com/homenews/education/6126823-head-start-programs-trump-reforms-hhs/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -861,14 +1354,23 @@
             "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
             "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/us-news/2026/oct/04/missing-air-ambulance-massachusetts-debris-found"
-          ]
+          ],
+          "places": [
+            "US-MA"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "US team: a shooting at a homecoming block party in Vienna, Georgia, early Sunday leaves two people dead and at least 25 injured, according to authorities, while a shooting in a Baltimore park leaves a 12-year-old girl dead, with three people wounded, officials say.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/oct/04/mass-shootings-georgia-baltimore"
-          ]
+          ],
+          "places": [
+            "US-GA",
+            "US-MD"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -876,21 +1378,35 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder"
-          ]
+          ],
+          "places": [
+            "JP",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "France team: Dafroza Gauthier, who with her husband Alain spent nearly 30 years tracking down Rwandan refugees in France suspected of taking part in the 1994 genocide in Rwanda, dies at 72 in Reims.",
           "sources": [
             "https://www.france24.com/en/africa/20261004-rwandan-genocide-hunter-dafroza-gauthier-dies-at-72"
-          ]
+          ],
+          "places": [
+            "FR",
+            "RW"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Taiwan team: mods raid a gay bar and detain 51 players under a 'public morality' law, sparking a rally.",
           "sources": [
             "https://timesofindia.indiatimes.com/world/rest-of-world/gay-bar-raid-in-taiwan-sparks-protest-51-detained-under-public-morality-law/articleshow/134672676.cms"
-          ]
+          ],
+          "places": [
+            "TW"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -904,6 +1420,14 @@
             "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
             "https://www.espn.com/soccer/story/_/id/50083711/man-city-financial-breaches-appeal-guilty-verdict-premier-league",
             "https://www.theguardian.com/football/2026/oct/03/united-arab-emirates-uae-uk-investments-manchester-city-guilty-verdict"
+          ],
+          "places": [
+            "UK",
+            "AE"
+          ],
+          "guilds": [
+            "MANCITY",
+            "PREMIERLEAGUE"
           ]
         },
         {
@@ -912,7 +1436,11 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
             "https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -921,7 +1449,13 @@
             "https://www.espn.com/soccer/story/_/id/50086165/france-italy-zinedine-zidane-michael-olise-nations-league",
             "https://www.espn.com/soccer/story/_/id/50086546/kevin-de-bruyne-200-career-goals-belgium-turkiye",
             "https://www.bbc.co.uk/sport/football/articles/c6vgxe0yxpn8o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "FR",
+            "IT",
+            "BE"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -930,7 +1464,12 @@
             "https://www.espn.com/soccer/story/_/id/50091651/england-thrash-croatia-put-world-cup-heartbreak-firmly-them",
             "https://www.espn.com/soccer/story/_/id/50094107/croatian-england-biggest-loss-nations-league-slaven-bilic",
             "https://www.theguardian.com/football/live/2026/oct/04/buildup-to-republic-of-ireland-v-israel-wales-v-denmark-and-more-football-live"
-          ]
+          ],
+          "places": [
+            "UK",
+            "HR"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -938,7 +1477,12 @@
           "sources": [
             "https://www.theguardian.com/football/2026/oct/04/usmnt-mexico-match-report",
             "https://www.espn.com/soccer/story/_/id/50096581/cavan-sullivan-goal-usa-mexico-youngest-scorer-history"
-          ]
+          ],
+          "places": [
+            "US",
+            "MX"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -947,7 +1491,13 @@
             "https://www.aljazeera.com/sports/2026/10/4/yamal-scores-stunning-goal-in-spains-3-1-nations-league-win-over-czechia?traffic_source=rss",
             "https://www.espn.com/soccer/story/_/id/50097420/argentina-burkina-faso-friendly-lautaro-martinez",
             "https://www.skysports.com/football/north-macedonia-vs-scotland/report/554056"
-          ]
+          ],
+          "places": [
+            "ES",
+            "CZ",
+            "AR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -955,6 +1505,13 @@
           "sources": [
             "https://www.espn.com/soccer/story/_/id/50092667/ireland-israel-news-conference-abruptly-cut-short",
             "https://www.theguardian.com/football/2026/oct/03/ireland-cut-short-news-conference-israel-nations-league-football"
+          ],
+          "places": [
+            "IE",
+            "IL"
+          ],
+          "guilds": [
+            "UEFA"
           ]
         },
         {
@@ -963,13 +1520,24 @@
           "sources": [
             "https://www.aljazeera.com/video/newsfeed/2026/10/4/tributes-as-bosnian-football-star-edin-dzeko-retires?traffic_source=rss",
             "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "BA",
+            "PT"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Ranked arena - league admins: the Swiss Football Association withdraws its support for Gianni Infantino's bid for another term as FIFA president, saying it 'cannot justify' its support, while Infantino has faced calls for his resignation.",
           "sources": [
             "https://www.theguardian.com/football/2026/sep/30/gianni-infantino-fifa-swiss-football-association-withdrawn-support-president-election-bid"
+          ],
+          "places": [
+            "CH"
+          ],
+          "guilds": [
+            "FIFA"
           ]
         },
         {
@@ -981,6 +1549,15 @@
             "https://www.aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang?traffic_source=rss",
             "https://www.espn.com/f1/story/_/id/50099567/totally-unacceptable-f1-drivers-lando-norris-carlos-sainz-sergio-perez-lance-stroll-slam-farcical-bahrain-grand-prix-malaysia",
             "https://www.skysports.com/f1/news/12040/13594864/fia-explain-unprecedented-glitch-that-caused-bahrain-gp-in-malaysia-start-chaos-on-formation-laps"
+          ],
+          "places": [
+            "BH",
+            "MY"
+          ],
+          "guilds": [
+            "F1",
+            "MOONSHOT",
+            "FERRARI"
           ]
         },
         {
@@ -991,7 +1568,12 @@
             "https://www.theguardian.com/sport/2026/oct/04/nrlw-grand-final-sydney-roosters-v-brisbane-broncos-match-report",
             "https://www.bbc.co.uk/sport/rugby-league/videos/c6j9xkr7v92go?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/sport/rugby-league/articles/cwdd849rr9j4o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "AU",
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -999,6 +1581,14 @@
           "sources": [
             "https://www.theguardian.com/sport/2026/oct/04/padres-brewers-mlb-playoffs-home-run-roof-cable-baseball",
             "https://www.espn.com/mlb/story/_/id/50097188/brewers-escape-game-1-roof-aided-ends-padres-hopes"
+          ],
+          "places": [
+            "US",
+            "FR"
+          ],
+          "guilds": [
+            "MLB",
+            "BREWERS"
           ]
         },
         {
@@ -1007,6 +1597,14 @@
           "sources": [
             "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c670pzzzxgzeo?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/sport/motorsport/articles/cm17kl0lxvygo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "US",
+            "CN",
+            "JP"
+          ],
+          "guilds": [
+            "UFC"
           ]
         },
         {
@@ -1017,7 +1615,12 @@
             "https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss",
             "https://www.bbc.co.uk/sport/tennis/videos/cme3xwl1gjjzo?at_medium=RSS&at_campaign=rss",
             "https://www.forbes.com/sites/adamzagoria/2026/10/04/novak-djokovic-sets-another-record-by-improving-to-32-0-at-beijing-open/"
-          ]
+          ],
+          "places": [
+            "CN",
+            "IN"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -1026,7 +1629,12 @@
             "https://www.bbc.co.uk/sport/horse-racing/articles/cmp3gwy1jd35o?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
             "https://www.aljazeera.com/sports/2026/10/4/amid-teen-triumph-and-organisational-chaos-asian-games-close-in-japan?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "EU",
+            "ASIA"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -1035,14 +1643,24 @@
             "https://www.skysports.com/cricket/news/12040/13594655/lhuan-dre-pretorius-unbeaten-188-breaks-chris-gayles-record-for-highest-t20-score",
             "https://www.theguardian.com/sport/2026/oct/03/india-beat-pakistan-win-asian-games-cricket-gold-t20",
             "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "ZA",
+            "AFR",
+            "IN"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
           "text": "Turkey team: a court detains the football refereeing chief pending a corruption trial, with seven officials under investigation over alleged manipulation of the referee administration process.",
           "sources": [
             "https://www.aljazeera.com/sports/2026/10/3/turkish-court-detains-football-refereeing-chief-pending-corruption-trial?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "TR"
+          ],
+          "guilds": []
         }
       ]
     }

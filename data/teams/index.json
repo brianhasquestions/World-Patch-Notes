@@ -1,0 +1,46 @@
+{
+  "source": "CIA World Factbook via github.com/factbook/factbook.json (CC0 mirror of a public domain work)",
+  "fetched": "2026-10-26",
+  "teams": [
+    {
+      "key": "BS",
+      "name": "The Bahamas",
+      "file": "central-america-n-caribbean/bf.json"
+    },
+    {
+      "key": "GQ",
+      "name": "Equatorial Guinea",
+      "file": "africa/ek.json"
+    },
+    {
+      "key": "GW",
+      "name": "Guinea-Bissau",
+      "file": "africa/pu.json"
+    },
+    {
+      "key": "LS",
+      "name": "Lesotho",
+      "file": "africa/lt.json"
+    },
+    {
+      "key": "SB",
+      "name": "Solomon Islands",
+      "file": "australia-oceania/bp.json"
+    },
+    {
+      "key": "SZ",
+      "name": "Eswatini",
+      "file": "africa/wz.json"
+    },
+    {
+      "key": "TT",
+      "name": "Trinidad and Tobago",
+      "file": "central-america-n-caribbean/td.json"
+    },
+    {
+      "key": "VU",
+      "name": "Vanuatu",
+      "file": "australia-oceania/nh.json"
+    }
+  ]
+}

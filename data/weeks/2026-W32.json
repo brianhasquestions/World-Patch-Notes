@@ -23,6 +23,12 @@
             "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
             "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss"
           ],
+          "places": [
+            "PS",
+            "IL",
+            "US"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -33,6 +39,14 @@
             "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
             "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html"
           ],
+          "places": [
+            "IR",
+            "US",
+            "YE"
+          ],
+          "guilds": [
+            "ARAMCO"
+          ],
           "highlight": true
         },
         {
@@ -41,6 +55,12 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "GULF",
+            "SA",
+            "TR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -50,7 +70,13 @@
             "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-putin-zelensky-nato-drone-strikes-b3029907.html",
             "https://timesofindia.indiatimes.com/world/europe/7-civilians-killed-in-russia-ukraine-overnight-strikes-moldova-reports-drone-explosion/articleshow/133070365.cms",
             "https://www.france24.com/en/europe/20260809-zelensky-claims-north-korea-may-deploy-50-000-troops-russia"
-          ]
+          ],
+          "places": [
+            "EU",
+            "RU",
+            "UA"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -58,7 +84,12 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war"
-          ]
+          ],
+          "places": [
+            "CO",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
@@ -66,7 +97,13 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
             "https://www.france24.com/en/spain-starts-border-checks-on-italy-over-ceuta-dispute"
-          ]
+          ],
+          "places": [
+            "ES",
+            "IT",
+            "MA"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -74,7 +111,11 @@
           "sources": [
             "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say",
             "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "TH"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -82,14 +123,23 @@
           "sources": [
             "https://www.theguardian.com/world/2026/aug/06/india-bangladesh-relations-exiled-pm-speech-delhi-sheikh-hasina",
             "https://www.theguardian.com/world/2026/aug/05/exiled-pm-vows-to-return-sheikh-hasina-bangladesh-despite-execution-threat"
-          ]
+          ],
+          "places": [
+            "BD",
+            "IN"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "Pakistan's admins imposed severe new restrictions barring scout-class (media) reporting from most of the country, days after protester deaths that were reported mainly by overseas outlets.",
           "sources": [
             "https://www.theguardian.com/world/2026/aug/05/pakistani-authorities-ban-international-media-from-reporting-in-most-of-country"
-          ]
+          ],
+          "places": [
+            "PK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -97,7 +147,12 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
             "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/"
-          ]
+          ],
+          "places": [
+            "DE",
+            "UA"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -109,7 +164,11 @@
           "text": "US admins avoided a shutdown as the Senate passed a funding bill to keep resources running through the midterms.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/aug/08/government-shutdown-vote-senate-funding-bill"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -117,7 +176,11 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/aug/08/todd-blanche-attorney-general-confirmed",
             "https://www.independent.co.uk/news/world/americas/us-politics/todd-blanche-confirmation-vote-trump-abortion-laws-b3029860.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -125,14 +188,22 @@
           "sources": [
             "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
             "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "Trump signed two new executive orders again targeting birthright citizenship, reviving the fight over the policy.",
           "sources": [
             "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -140,14 +211,24 @@
           "sources": [
             "https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss",
             "https://thehill.com/homenews/campaign/6019094-abdul-elsayed-obama-michigan-senate/"
-          ]
+          ],
+          "places": [
+            "US-HI",
+            "US-MI",
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "A Senate committee voted along party lines to hold Anthony Fauci in contempt of Congress over his testimony on COVID's origins.",
           "sources": [
             "https://www.statnews.com/2026/08/06/anthony-fauci-fifth-amendment-rand-paul-seeks-criminal-contempt/?utm_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -162,6 +243,13 @@
             "https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds",
             "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo"
           ],
+          "places": [
+            "US-DC",
+            "JP"
+          ],
+          "guilds": [
+            "NINTENDO"
+          ],
           "highlight": true
         },
         {
@@ -170,14 +258,24 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
           "text": "Chinese EV guilds' sales hit a record high on the Europe server, putting the region's existing tariffs under fresh scrutiny.",
           "sources": [
             "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe"
-          ]
+          ],
+          "places": [
+            "CN",
+            "EU"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -192,6 +290,10 @@
             "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict",
             "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve"
           ],
+          "places": [
+            "US"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -200,6 +302,10 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "SA"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -208,7 +314,11 @@
           "sources": [
             "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
             "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -216,7 +326,12 @@
           "sources": [
             "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
             "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude"
-          ]
+          ],
+          "places": [
+            "US",
+            "IR"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -224,6 +339,12 @@
           "sources": [
             "https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report",
             "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html"
+          ],
+          "places": [
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         }
       ]
@@ -236,14 +357,18 @@
           "text": "Research teams unlocked a new tech-tree entry: 567-million-year-old fossils that push back the dawn of animal life.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260804034644.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Paleontologists rediscovered lost Megalodon fossils, revealing a shark up to 79 feet long.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260805082500.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -251,6 +376,12 @@
           "sources": [
             "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
             "https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "GOOGLE"
           ]
         },
         {
@@ -258,7 +389,11 @@
           "text": "UK research teams said they cleared a barrier to building practical fusion-power builds.",
           "sources": [
             "https://www.theregister.com/science/2026/08/07/brit-boffins-boast-of-beating-barriers-to-building-fusion-power/5284882"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -273,6 +408,17 @@
             "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
             "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
           ],
+          "places": [
+            "UK",
+            "SFBAY",
+            "CN"
+          ],
+          "guilds": [
+            "ANTHROPIC",
+            "OPENAI",
+            "META",
+            "MOONSHOT"
+          ],
           "highlight": true
         },
         {
@@ -281,6 +427,12 @@
           "sources": [
             "https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training",
             "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "META"
           ]
         },
         {
@@ -289,6 +441,13 @@
           "sources": [
             "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
             "https://www.theregister.com/security/2026/08/06/openai-reveals-its-rogue-agent-swarm-went-a-little-bit-borg-ahead-of-hugging-face-hack/5283741"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI",
+            "HUGGINGFACE"
           ]
         },
         {
@@ -296,6 +455,13 @@
           "text": "Google DeepMind entered a new era as co-founder Demis Hassabis shifted his role within the guild.",
           "sources": [
             "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role"
+          ],
+          "places": [
+            "SFBAY",
+            "UK"
+          ],
+          "guilds": [
+            "GOOGLE"
           ]
         }
       ]
@@ -309,6 +475,12 @@
           "sources": [
             "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&at_campaign=rss",
             "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -317,6 +489,13 @@
           "sources": [
             "https://www.livescience.com/space/space-exploration/first-photos-of-spacex-lunar-rocket-crash-show-blackened-hole-torn-into-the-moons-surface",
             "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "STARBASE",
+            "KR"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         },
         {
@@ -324,6 +503,12 @@
           "text": "Blue Origin traced its New Glenn rocket explosion to an oxygen-valve issue, its CEO said.",
           "sources": [
             "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-traces-origin-of-huge-new-glenn-rocket-explosion-to-oxygen-valve-ceo-says"
+          ],
+          "places": [
+            "SEA"
+          ],
+          "guilds": [
+            "BLUEORIGIN"
           ]
         },
         {
@@ -331,6 +516,12 @@
           "text": "NASA's new Roman Space Telescope, built to study dark energy, can also detect asteroids that could threaten Earth.",
           "sources": [
             "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         }
       ]
@@ -344,6 +535,13 @@
           "sources": [
             "https://www.livescience.com/health/medicine-drugs/fda-approves-first-mrna-vaccine-for-seasonal-flu",
             "https://www.npr.org/2026/08/06/nx-s1-5923342/moderna-mrna-flu-vaccine"
+          ],
+          "places": [
+            "US-DC",
+            "US-MA"
+          ],
+          "guilds": [
+            "MODERNA"
           ]
         },
         {
@@ -351,7 +549,11 @@
           "text": "The Ebola outbreak in the DRC may be mutating, health officials said, as the outbreak continues to spread.",
           "sources": [
             "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating"
-          ]
+          ],
+          "places": [
+            "CD"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -359,21 +561,34 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/aug/04/cyclosporiasis-outbreak-15-states-cdc",
             "https://www.livescience.com/health/viruses-infections-disease/2-people-die-of-cyclospora-infection-in-michigan"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-MI"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Flesh-eating screwworm cases among players in Mexico topped 500, with six deaths reported.",
           "sources": [
             "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/"
-          ]
+          ],
+          "places": [
+            "MX"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "The White House is reportedly drafting an executive order linking vaccines and autism, a claim not supported by scientific evidence.",
           "sources": [
             "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -388,6 +603,12 @@
             "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
             "https://www.france24.com/en/wildfires-british-columbia-declares-state-of-emergency-thousands-forced-to-flee-homes"
           ],
+          "places": [
+            "EU",
+            "FR",
+            "ES"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -396,6 +617,13 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/aug/06/rwe-deal-wind-leases",
             "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/"
+          ],
+          "places": [
+            "US-DC",
+            "DE"
+          ],
+          "guilds": [
+            "RWE"
           ]
         },
         {
@@ -403,7 +631,12 @@
           "text": "Michigan's mod panel (state Supreme Court) dealt a setback to a plan to update the Line 5 oil pipeline.",
           "sources": [
             "https://grist.org/energy/controversial-plan-line-5-major-loss-michigan-supreme-court/"
-          ]
+          ],
+          "places": [
+            "US-MI",
+            "US-DC"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -418,6 +651,13 @@
             "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
             "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/"
           ],
+          "places": [
+            "US-NM",
+            "SFBAY"
+          ],
+          "guilds": [
+            "META"
+          ],
           "highlight": true
         },
         {
@@ -425,14 +665,23 @@
           "text": "Israel's admins indicted a settler over the death of a Palestinian activist who had worked on the Oscar-winning documentary No Other Land.",
           "sources": [
             "https://www.theguardian.com/world/2026/aug/06/israel-charges-west-bank-settler-killing-palestinian-activist-awdah-hathaleen"
-          ]
+          ],
+          "places": [
+            "IL",
+            "PS"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "A high-profile Indian journalist, Tarun Tejpal, was jailed for 10 years for raping a colleague.",
           "sources": [
             "https://www.theguardian.com/world/2026/aug/06/indian-journalist-tarun-tejpal-convicted-raping-colleague"
-          ]
+          ],
+          "places": [
+            "IN"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -440,7 +689,12 @@
           "sources": [
             "https://timesofindia.indiatimes.com/world/us/ice-arrests-over-1200-illegal-immigrants-in-georgia-sex-offenders-child-abusers-among-those-held/articleshow/133067768.cms",
             "https://www.theguardian.com/us-news/2026/aug/05/ice-force-feeding-hunger-strike"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-GA"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -455,6 +709,13 @@
             "https://www.theguardian.com/football/2026/aug/07/lise-klaveness-norwegian-fa-fifa-president-gianni-infantino-resign",
             "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "NO",
+            "UK"
+          ],
+          "guilds": [
+            "FIFA"
+          ],
           "highlight": true
         },
         {
@@ -463,14 +724,22 @@
           "sources": [
             "https://www.espn.com/olympics/cycling/story/_/id/49568634/demi-vollering-wins-women-tour-de-france-2nd",
             "https://www.france24.com/en/sport/20260809-demi-vollering-wins-second-women-s-tour-de-france-title"
-          ]
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "World No.1 Jannik Sinner withdrew from the Cincinnati Open with a knee injury, raising doubts about his US Open fitness.",
           "sources": [
             "https://www.theguardian.com/sport/2026/aug/09/tennis-not-ready-compete-jannik-sinner-pulls-out-cincinnati-open"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -478,20 +747,34 @@
           "sources": [
             "https://www.espn.com/soccer/story/_/id/49560549/jorge-messi-father-lionel-dies-aged-68",
             "https://www.cbssports.com/soccer/news/jorge-messi-father-and-agent-lionel-messi-dies-in-argentina-aged-68/"
-          ]
+          ],
+          "places": [
+            "AR"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Fred Richard won his first US all-around gymnastics title, finishing two points clear of Shane Wiskus.",
           "sources": [
             "https://www.theguardian.com/sport/2026/aug/09/frederick-richard-us-gymnastics-all-around-title"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "FIFA-voice: Arsenal completed an Ultimate Team transfer for Bruno Guimaraes from Newcastle in a 75m pound pack pull.",
           "sources": [
             "https://www.bbc.co.uk/sport/football/articles/c1719r079rjo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "ARSENAL"
           ]
         }
       ]

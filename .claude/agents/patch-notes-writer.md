@@ -221,6 +221,36 @@ only stop to ask the user if a step fails in a way you can't resolve.
    `link` in the raw data, do not use that source. A fabricated URL is a
    correctness failure worse than a missing one.
 
+   **Places.** Every entry also carries `places`: an array of place keys from
+   `data/places.json`, primary place first, up to three. The key is where the
+   event is happening or who it is about, not where it was reported:
+     - A team -> its country key (`FR`, `BR`, `IN`). A server -> its region key
+       (`EU`, `ME`, `GULF`, `AFR`, `LATAM`, `ASIA`, `PAC`).
+     - US entries are specific: Washington agencies, the White House, Congress,
+       courts and federal admins -> `US-DC`; a state story -> `US-<state>`
+       (`US-TX`, `US-CA`); Wall Street or New York -> `US-NYC`; Bay Area tech
+       guilds -> `SFBAY`; Seattle guilds -> `SEA`; SpaceX -> `STARBASE`. Use the
+       bare `US` key only for nationwide stories with no better place.
+     - A guild -> its home base (OpenAI, Meta, Google, Nvidia -> `SFBAY`;
+       Samsung -> `KR`; TSMC -> `TW`; Airbus -> `FR`).
+     - A story between two teams (a tariff, a strike, a trade deal) lists both,
+       the acting team first; the site draws an arc between them.
+     - Global stories with no place (a science finding, a UN report, a market
+       index) get `"places": []`. Do not force a place onto them.
+   **Guilds.** Every entry also carries `guilds`: an array of guild keys from
+   `data/guilds.json` for the companies, organizations, international bodies,
+   universities and sports entities the entry names, most prominent first,
+   up to five. `[]` when none. A guild that is not in the table yet gets added
+   there first (name, HQ city and coordinates, country place key, kind, and a
+   match pattern) so the globe can place it at its headquarters.
+   Shortcut: after writing the file, run `node scripts/geotag.js <week-id>`
+   from the project root. It fills `places` and `guilds` for every entry that
+   lacks them from the keyword rules and patterns, and prints the entries it
+   could not place; review its guesses (it is a keyword matcher, so "Jordan"
+   or "Georgia" can land wrong) and fix by hand. If a needed place key does
+   not exist, add it to `data/places.json` (`places` and, optionally, a
+   `rules` pattern).
+
 5. **Write the release file.** Create `data/weeks/<week-id>.json` with exactly
    this shape (no `note` field for real releases):
    ```json
@@ -233,7 +263,7 @@ only stop to ask the user if a step fails in a way you can't resolve.
      "sections": [
        { "category": "Geopolitics",
          "changes": [
-           { "type": "CHANGE", "text": "...", "sources": ["https://..."], "highlight": true }
+           { "type": "CHANGE", "text": "...", "sources": ["https://..."], "places": ["FR", "EU"], "guilds": ["AIRBUS"], "highlight": true }
          ] }
      ]
    }
@@ -256,9 +286,11 @@ only stop to ask the user if a step fails in a way you can't resolve.
    `{ "id", "title", "version" }`. Keep it valid JSON.
 
 7. **Report.** Summarize what you published: week id, version, section count,
-   total entries. Then remind the user of the next two steps:
+   total entries, and how many entries have an empty `places` list. Then remind the user of the next two steps:
    - Run the **bias-reviewer** agent for an independent neutrality audit of this
      release (it is the required second step every week, before publishing).
+   - Run the **data-refresher** agent to pull the week's reference data (team
+     cards and the Ukraine battlefield snapshots) into `data/`.
    - Preview locally with `python -m http.server`, and when happy, commit & push:
      `git add data/ && git commit -m "Release <version>" && git push`
 

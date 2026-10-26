@@ -1,0 +1,2677 @@
+{
+  "_about": [
+    "Shared place table for World Patch Notes.",
+    "places: key -> lat, lon, label, kind (country | territory | region | state | place).",
+    "  country: for sub-places, the country key they roll up to (used for per-country counts).",
+    "  ne: the country's name in the world-atlas countries-110m outline file.",
+    "rules: keyword patterns (JS regex source, wrapped in \\b(...)\\b) used by scripts/geotag.js",
+    "  to suggest places for an entry from its text. Order matters: most specific first.",
+    "Each change in data/weeks/*.json carries \"places\": [keys...], primary place first; [] means global."
+  ],
+  "places": {
+    "US": {
+      "lat": 39.8,
+      "lon": -98.6,
+      "label": "United States",
+      "kind": "country",
+      "ne": "United States of America"
+    },
+    "UK": {
+      "lat": 54,
+      "lon": -2.5,
+      "label": "United Kingdom",
+      "kind": "country",
+      "ne": "United Kingdom"
+    },
+    "FR": {
+      "lat": 46.6,
+      "lon": 2.5,
+      "label": "France",
+      "kind": "country",
+      "ne": "France"
+    },
+    "DE": {
+      "lat": 51.1,
+      "lon": 10.4,
+      "label": "Germany",
+      "kind": "country",
+      "ne": "Germany"
+    },
+    "ES": {
+      "lat": 40.4,
+      "lon": -3.7,
+      "label": "Spain",
+      "kind": "country",
+      "ne": "Spain"
+    },
+    "IT": {
+      "lat": 42.5,
+      "lon": 12.5,
+      "label": "Italy",
+      "kind": "country",
+      "ne": "Italy"
+    },
+    "NL": {
+      "lat": 52.2,
+      "lon": 5.3,
+      "label": "Netherlands",
+      "kind": "country",
+      "ne": "Netherlands"
+    },
+    "BE": {
+      "lat": 50.6,
+      "lon": 4.5,
+      "label": "Belgium",
+      "kind": "country",
+      "ne": "Belgium"
+    },
+    "CH": {
+      "lat": 46.8,
+      "lon": 8.2,
+      "label": "Switzerland",
+      "kind": "country",
+      "ne": "Switzerland"
+    },
+    "AT": {
+      "lat": 47.5,
+      "lon": 14.5,
+      "label": "Austria",
+      "kind": "country",
+      "ne": "Austria"
+    },
+    "PL": {
+      "lat": 52,
+      "lon": 19.5,
+      "label": "Poland",
+      "kind": "country",
+      "ne": "Poland"
+    },
+    "PT": {
+      "lat": 39.5,
+      "lon": -8.2,
+      "label": "Portugal",
+      "kind": "country",
+      "ne": "Portugal"
+    },
+    "IE": {
+      "lat": 53.3,
+      "lon": -8,
+      "label": "Ireland",
+      "kind": "country",
+      "ne": "Ireland"
+    },
+    "SE": {
+      "lat": 62,
+      "lon": 15,
+      "label": "Sweden",
+      "kind": "country",
+      "ne": "Sweden"
+    },
+    "NO": {
+      "lat": 61.5,
+      "lon": 9,
+      "label": "Norway",
+      "kind": "country",
+      "ne": "Norway"
+    },
+    "DK": {
+      "lat": 56,
+      "lon": 10,
+      "label": "Denmark",
+      "kind": "country",
+      "ne": "Denmark"
+    },
+    "FI": {
+      "lat": 64,
+      "lon": 26,
+      "label": "Finland",
+      "kind": "country",
+      "ne": "Finland"
+    },
+    "GR": {
+      "lat": 39,
+      "lon": 22,
+      "label": "Greece",
+      "kind": "country",
+      "ne": "Greece"
+    },
+    "HU": {
+      "lat": 47.2,
+      "lon": 19.5,
+      "label": "Hungary",
+      "kind": "country",
+      "ne": "Hungary"
+    },
+    "RO": {
+      "lat": 45.9,
+      "lon": 25,
+      "label": "Romania",
+      "kind": "country",
+      "ne": "Romania"
+    },
+    "CZ": {
+      "lat": 49.8,
+      "lon": 15.5,
+      "label": "Czechia",
+      "kind": "country",
+      "ne": "Czechia"
+    },
+    "SK": {
+      "lat": 48.7,
+      "lon": 19.7,
+      "label": "Slovakia",
+      "kind": "country",
+      "ne": "Slovakia"
+    },
+    "SI": {
+      "lat": 46.1,
+      "lon": 14.8,
+      "label": "Slovenia",
+      "kind": "country",
+      "ne": "Slovenia"
+    },
+    "BG": {
+      "lat": 42.7,
+      "lon": 25.5,
+      "label": "Bulgaria",
+      "kind": "country",
+      "ne": "Bulgaria"
+    },
+    "RS": {
+      "lat": 44,
+      "lon": 21,
+      "label": "Serbia",
+      "kind": "country",
+      "ne": "Serbia"
+    },
+    "HR": {
+      "lat": 45.3,
+      "lon": 15.8,
+      "label": "Croatia",
+      "kind": "country",
+      "ne": "Croatia"
+    },
+    "BA": {
+      "lat": 44,
+      "lon": 17.8,
+      "label": "Bosnia and Herzegovina",
+      "kind": "country",
+      "ne": "Bosnia and Herz."
+    },
+    "ME": {
+      "lat": 29,
+      "lon": 45,
+      "label": "Middle East server",
+      "kind": "region"
+    },
+    "MK": {
+      "lat": 41.6,
+      "lon": 21.7,
+      "label": "North Macedonia",
+      "kind": "country",
+      "ne": "Macedonia"
+    },
+    "XK": {
+      "lat": 42.6,
+      "lon": 20.9,
+      "label": "Kosovo",
+      "kind": "country",
+      "ne": "Kosovo"
+    },
+    "AL": {
+      "lat": 41.2,
+      "lon": 20,
+      "label": "Albania",
+      "kind": "country",
+      "ne": "Albania"
+    },
+    "MT": {
+      "lat": 35.9,
+      "lon": 14.4,
+      "label": "Malta",
+      "kind": "country"
+    },
+    "CY": {
+      "lat": 35.1,
+      "lon": 33.4,
+      "label": "Cyprus",
+      "kind": "country",
+      "ne": "Cyprus"
+    },
+    "LT": {
+      "lat": 55.2,
+      "lon": 23.9,
+      "label": "Lithuania",
+      "kind": "country",
+      "ne": "Lithuania"
+    },
+    "LV": {
+      "lat": 56.9,
+      "lon": 24.6,
+      "label": "Latvia",
+      "kind": "country",
+      "ne": "Latvia"
+    },
+    "EE": {
+      "lat": 58.6,
+      "lon": 25,
+      "label": "Estonia",
+      "kind": "country",
+      "ne": "Estonia"
+    },
+    "LU": {
+      "lat": 49.8,
+      "lon": 6.1,
+      "label": "Luxembourg",
+      "kind": "country",
+      "ne": "Luxembourg"
+    },
+    "MD": {
+      "lat": 47.2,
+      "lon": 28.5,
+      "label": "Moldova",
+      "kind": "country",
+      "ne": "Moldova"
+    },
+    "UA": {
+      "lat": 48.4,
+      "lon": 31.2,
+      "label": "Ukraine",
+      "kind": "country",
+      "ne": "Ukraine"
+    },
+    "RU": {
+      "lat": 58,
+      "lon": 60,
+      "label": "Russia",
+      "kind": "country",
+      "ne": "Russia"
+    },
+    "BY": {
+      "lat": 53.7,
+      "lon": 28,
+      "label": "Belarus",
+      "kind": "country",
+      "ne": "Belarus"
+    },
+    "TR": {
+      "lat": 39,
+      "lon": 35,
+      "label": "Turkey",
+      "kind": "country",
+      "ne": "Turkey"
+    },
+    "GE": {
+      "lat": 42.3,
+      "lon": 43.4,
+      "label": "Georgia",
+      "kind": "country",
+      "ne": "Georgia"
+    },
+    "AM": {
+      "lat": 40.2,
+      "lon": 45,
+      "label": "Armenia",
+      "kind": "country",
+      "ne": "Armenia"
+    },
+    "AZ": {
+      "lat": 40.3,
+      "lon": 47.6,
+      "label": "Azerbaijan",
+      "kind": "country",
+      "ne": "Azerbaijan"
+    },
+    "VA": {
+      "lat": 41.9,
+      "lon": 12.45,
+      "label": "Vatican",
+      "kind": "country"
+    },
+    "IS": {
+      "lat": 65,
+      "lon": -18,
+      "label": "Iceland",
+      "kind": "country",
+      "ne": "Iceland"
+    },
+    "GL": {
+      "lat": 72,
+      "lon": -40,
+      "label": "Greenland",
+      "kind": "country",
+      "ne": "Greenland"
+    },
+    "CA": {
+      "lat": 56,
+      "lon": -106,
+      "label": "Canada",
+      "kind": "country",
+      "ne": "Canada"
+    },
+    "MX": {
+      "lat": 23.6,
+      "lon": -102.5,
+      "label": "Mexico",
+      "kind": "country",
+      "ne": "Mexico"
+    },
+    "CU": {
+      "lat": 21.5,
+      "lon": -79.5,
+      "label": "Cuba",
+      "kind": "country",
+      "ne": "Cuba"
+    },
+    "HT": {
+      "lat": 19,
+      "lon": -72.7,
+      "label": "Haiti",
+      "kind": "country",
+      "ne": "Haiti"
+    },
+    "DO": {
+      "lat": 18.9,
+      "lon": -70.2,
+      "label": "Dominican Republic",
+      "kind": "country",
+      "ne": "Dominican Rep."
+    },
+    "JM": {
+      "lat": 18.1,
+      "lon": -77.3,
+      "label": "Jamaica",
+      "kind": "country",
+      "ne": "Jamaica"
+    },
+    "PR": {
+      "lat": 18.2,
+      "lon": -66.5,
+      "label": "Puerto Rico",
+      "kind": "country",
+      "ne": "Puerto Rico"
+    },
+    "PA": {
+      "lat": 8.5,
+      "lon": -80.5,
+      "label": "Panama",
+      "kind": "country",
+      "ne": "Panama"
+    },
+    "CR": {
+      "lat": 10,
+      "lon": -84,
+      "label": "Costa Rica",
+      "kind": "country",
+      "ne": "Costa Rica"
+    },
+    "GT": {
+      "lat": 15.5,
+      "lon": -90.3,
+      "label": "Guatemala",
+      "kind": "country",
+      "ne": "Guatemala"
+    },
+    "HN": {
+      "lat": 15,
+      "lon": -86.5,
+      "label": "Honduras",
+      "kind": "country",
+      "ne": "Honduras"
+    },
+    "NI": {
+      "lat": 13,
+      "lon": -85,
+      "label": "Nicaragua",
+      "kind": "country",
+      "ne": "Nicaragua"
+    },
+    "SV": {
+      "lat": 13.8,
+      "lon": -88.9,
+      "label": "El Salvador",
+      "kind": "country",
+      "ne": "El Salvador"
+    },
+    "BZ": {
+      "lat": 17.2,
+      "lon": -88.7,
+      "label": "Belize",
+      "kind": "country",
+      "ne": "Belize"
+    },
+    "CO": {
+      "lat": 4.5,
+      "lon": -74,
+      "label": "Colombia",
+      "kind": "country",
+      "ne": "Colombia"
+    },
+    "VE": {
+      "lat": 7,
+      "lon": -66,
+      "label": "Venezuela",
+      "kind": "country",
+      "ne": "Venezuela"
+    },
+    "GY": {
+      "lat": 5,
+      "lon": -59,
+      "label": "Guyana",
+      "kind": "country",
+      "ne": "Guyana"
+    },
+    "SR": {
+      "lat": 4,
+      "lon": -56,
+      "label": "Suriname",
+      "kind": "country",
+      "ne": "Suriname"
+    },
+    "BR": {
+      "lat": -10,
+      "lon": -53,
+      "label": "Brazil",
+      "kind": "country",
+      "ne": "Brazil"
+    },
+    "AR": {
+      "lat": -35,
+      "lon": -65,
+      "label": "Argentina",
+      "kind": "country",
+      "ne": "Argentina"
+    },
+    "CL": {
+      "lat": -33,
+      "lon": -71,
+      "label": "Chile",
+      "kind": "country",
+      "ne": "Chile"
+    },
+    "PE": {
+      "lat": -10,
+      "lon": -76,
+      "label": "Peru",
+      "kind": "country",
+      "ne": "Peru"
+    },
+    "BO": {
+      "lat": -16.5,
+      "lon": -64.5,
+      "label": "Bolivia",
+      "kind": "country",
+      "ne": "Bolivia"
+    },
+    "EC": {
+      "lat": -1.5,
+      "lon": -78.5,
+      "label": "Ecuador",
+      "kind": "country",
+      "ne": "Ecuador"
+    },
+    "UY": {
+      "lat": -33,
+      "lon": -56,
+      "label": "Uruguay",
+      "kind": "country",
+      "ne": "Uruguay"
+    },
+    "PY": {
+      "lat": -23.5,
+      "lon": -58,
+      "label": "Paraguay",
+      "kind": "country",
+      "ne": "Paraguay"
+    },
+    "IL": {
+      "lat": 31.5,
+      "lon": 34.9,
+      "label": "Israel",
+      "kind": "country",
+      "ne": "Israel"
+    },
+    "PS": {
+      "lat": 31.4,
+      "lon": 34.4,
+      "label": "Gaza",
+      "kind": "country",
+      "ne": "Palestine"
+    },
+    "WB": {
+      "lat": 32,
+      "lon": 35.3,
+      "label": "West Bank",
+      "kind": "territory",
+      "country": "PS"
+    },
+    "LB": {
+      "lat": 33.9,
+      "lon": 35.9,
+      "label": "Lebanon",
+      "kind": "country",
+      "ne": "Lebanon"
+    },
+    "SY": {
+      "lat": 35,
+      "lon": 38.5,
+      "label": "Syria",
+      "kind": "country",
+      "ne": "Syria"
+    },
+    "JO": {
+      "lat": 31.2,
+      "lon": 36.5,
+      "label": "Jordan",
+      "kind": "country",
+      "ne": "Jordan"
+    },
+    "IQ": {
+      "lat": 33.2,
+      "lon": 43.7,
+      "label": "Iraq",
+      "kind": "country",
+      "ne": "Iraq"
+    },
+    "IR": {
+      "lat": 32.4,
+      "lon": 53.7,
+      "label": "Iran",
+      "kind": "country",
+      "ne": "Iran"
+    },
+    "SA": {
+      "lat": 24,
+      "lon": 45,
+      "label": "Saudi Arabia",
+      "kind": "country",
+      "ne": "Saudi Arabia"
+    },
+    "YE": {
+      "lat": 15.5,
+      "lon": 48,
+      "label": "Yemen",
+      "kind": "country",
+      "ne": "Yemen"
+    },
+    "AE": {
+      "lat": 24,
+      "lon": 54,
+      "label": "UAE",
+      "kind": "country",
+      "ne": "United Arab Emirates"
+    },
+    "QA": {
+      "lat": 25.3,
+      "lon": 51.2,
+      "label": "Qatar",
+      "kind": "country",
+      "ne": "Qatar"
+    },
+    "OM": {
+      "lat": 21,
+      "lon": 57,
+      "label": "Oman",
+      "kind": "country",
+      "ne": "Oman"
+    },
+    "KW": {
+      "lat": 29.3,
+      "lon": 47.6,
+      "label": "Kuwait",
+      "kind": "country",
+      "ne": "Kuwait"
+    },
+    "BH": {
+      "lat": 26,
+      "lon": 50.55,
+      "label": "Bahrain",
+      "kind": "country"
+    },
+    "EG": {
+      "lat": 26.8,
+      "lon": 30.8,
+      "label": "Egypt",
+      "kind": "country",
+      "ne": "Egypt"
+    },
+    "LY": {
+      "lat": 27,
+      "lon": 17,
+      "label": "Libya",
+      "kind": "country",
+      "ne": "Libya"
+    },
+    "TN": {
+      "lat": 34,
+      "lon": 9.5,
+      "label": "Tunisia",
+      "kind": "country",
+      "ne": "Tunisia"
+    },
+    "DZ": {
+      "lat": 28,
+      "lon": 2.6,
+      "label": "Algeria",
+      "kind": "country",
+      "ne": "Algeria"
+    },
+    "MA": {
+      "lat": 31.8,
+      "lon": -7,
+      "label": "Morocco",
+      "kind": "country",
+      "ne": "Morocco"
+    },
+    "EH": {
+      "lat": 24.5,
+      "lon": -13,
+      "label": "Western Sahara",
+      "kind": "country",
+      "ne": "W. Sahara"
+    },
+    "SD": {
+      "lat": 15.5,
+      "lon": 30,
+      "label": "Sudan",
+      "kind": "country",
+      "ne": "Sudan"
+    },
+    "SS": {
+      "lat": 7,
+      "lon": 30,
+      "label": "South Sudan",
+      "kind": "country",
+      "ne": "S. Sudan"
+    },
+    "TD": {
+      "lat": 15.4,
+      "lon": 18.7,
+      "label": "Chad",
+      "kind": "country",
+      "ne": "Chad"
+    },
+    "ET": {
+      "lat": 9.1,
+      "lon": 40.5,
+      "label": "Ethiopia",
+      "kind": "country",
+      "ne": "Ethiopia"
+    },
+    "ER": {
+      "lat": 15.2,
+      "lon": 39,
+      "label": "Eritrea",
+      "kind": "country",
+      "ne": "Eritrea"
+    },
+    "DJ": {
+      "lat": 11.8,
+      "lon": 42.6,
+      "label": "Djibouti",
+      "kind": "country",
+      "ne": "Djibouti"
+    },
+    "SO": {
+      "lat": 5.2,
+      "lon": 46.2,
+      "label": "Somalia",
+      "kind": "country",
+      "ne": "Somalia"
+    },
+    "KE": {
+      "lat": 0,
+      "lon": 37.9,
+      "label": "Kenya",
+      "kind": "country",
+      "ne": "Kenya"
+    },
+    "UG": {
+      "lat": 1.4,
+      "lon": 32.3,
+      "label": "Uganda",
+      "kind": "country",
+      "ne": "Uganda"
+    },
+    "TZ": {
+      "lat": -6.4,
+      "lon": 34.9,
+      "label": "Tanzania",
+      "kind": "country",
+      "ne": "Tanzania"
+    },
+    "RW": {
+      "lat": -1.9,
+      "lon": 29.9,
+      "label": "Rwanda",
+      "kind": "country",
+      "ne": "Rwanda"
+    },
+    "BI": {
+      "lat": -3.4,
+      "lon": 29.9,
+      "label": "Burundi",
+      "kind": "country",
+      "ne": "Burundi"
+    },
+    "CD": {
+      "lat": -4,
+      "lon": 21.8,
+      "label": "DR Congo",
+      "kind": "country",
+      "ne": "Dem. Rep. Congo"
+    },
+    "CG": {
+      "lat": -0.7,
+      "lon": 15.8,
+      "label": "Republic of the Congo",
+      "kind": "country",
+      "ne": "Congo"
+    },
+    "CF": {
+      "lat": 6.6,
+      "lon": 20.9,
+      "label": "Central African Republic",
+      "kind": "country",
+      "ne": "Central African Rep."
+    },
+    "GA": {
+      "lat": -0.8,
+      "lon": 11.6,
+      "label": "Gabon",
+      "kind": "country",
+      "ne": "Gabon"
+    },
+    "NG": {
+      "lat": 9.1,
+      "lon": 8.7,
+      "label": "Nigeria",
+      "kind": "country",
+      "ne": "Nigeria"
+    },
+    "GH": {
+      "lat": 7.9,
+      "lon": -1,
+      "label": "Ghana",
+      "kind": "country",
+      "ne": "Ghana"
+    },
+    "CI": {
+      "lat": 7.5,
+      "lon": -5.5,
+      "label": "Ivory Coast",
+      "kind": "country",
+      "ne": "Côte d'Ivoire"
+    },
+    "SN": {
+      "lat": 14.5,
+      "lon": -14.5,
+      "label": "Senegal",
+      "kind": "country",
+      "ne": "Senegal"
+    },
+    "GM": {
+      "lat": 13.4,
+      "lon": -15.3,
+      "label": "Gambia",
+      "kind": "country",
+      "ne": "Gambia"
+    },
+    "GN": {
+      "lat": 10.4,
+      "lon": -11,
+      "label": "Guinea",
+      "kind": "country",
+      "ne": "Guinea"
+    },
+    "SL": {
+      "lat": 8.5,
+      "lon": -11.8,
+      "label": "Sierra Leone",
+      "kind": "country",
+      "ne": "Sierra Leone"
+    },
+    "LR": {
+      "lat": 6.4,
+      "lon": -9.4,
+      "label": "Liberia",
+      "kind": "country",
+      "ne": "Liberia"
+    },
+    "TG": {
+      "lat": 8.6,
+      "lon": 0.8,
+      "label": "Togo",
+      "kind": "country",
+      "ne": "Togo"
+    },
+    "BJ": {
+      "lat": 9.3,
+      "lon": 2.3,
+      "label": "Benin",
+      "kind": "country",
+      "ne": "Benin"
+    },
+    "ML": {
+      "lat": 17.6,
+      "lon": -4,
+      "label": "Mali",
+      "kind": "country",
+      "ne": "Mali"
+    },
+    "NE": {
+      "lat": 17.6,
+      "lon": 8,
+      "label": "Niger",
+      "kind": "country",
+      "ne": "Niger"
+    },
+    "BF": {
+      "lat": 12.3,
+      "lon": -1.6,
+      "label": "Burkina Faso",
+      "kind": "country",
+      "ne": "Burkina Faso"
+    },
+    "MR": {
+      "lat": 20.3,
+      "lon": -10.3,
+      "label": "Mauritania",
+      "kind": "country",
+      "ne": "Mauritania"
+    },
+    "CM": {
+      "lat": 5.9,
+      "lon": 12.5,
+      "label": "Cameroon",
+      "kind": "country",
+      "ne": "Cameroon"
+    },
+    "ZA": {
+      "lat": -29,
+      "lon": 24.7,
+      "label": "South Africa",
+      "kind": "country",
+      "ne": "South Africa"
+    },
+    "ZW": {
+      "lat": -19,
+      "lon": 29.2,
+      "label": "Zimbabwe",
+      "kind": "country",
+      "ne": "Zimbabwe"
+    },
+    "MZ": {
+      "lat": -18.7,
+      "lon": 35.5,
+      "label": "Mozambique",
+      "kind": "country",
+      "ne": "Mozambique"
+    },
+    "AO": {
+      "lat": -11.2,
+      "lon": 17.9,
+      "label": "Angola",
+      "kind": "country",
+      "ne": "Angola"
+    },
+    "ZM": {
+      "lat": -13.1,
+      "lon": 27.8,
+      "label": "Zambia",
+      "kind": "country",
+      "ne": "Zambia"
+    },
+    "MW": {
+      "lat": -13.5,
+      "lon": 34,
+      "label": "Malawi",
+      "kind": "country",
+      "ne": "Malawi"
+    },
+    "BW": {
+      "lat": -22.3,
+      "lon": 24.7,
+      "label": "Botswana",
+      "kind": "country",
+      "ne": "Botswana"
+    },
+    "NA": {
+      "lat": -22,
+      "lon": 17.1,
+      "label": "Namibia",
+      "kind": "country",
+      "ne": "Namibia"
+    },
+    "MG": {
+      "lat": -18.8,
+      "lon": 46.9,
+      "label": "Madagascar",
+      "kind": "country",
+      "ne": "Madagascar"
+    },
+    "GW": {
+      "lat": 12,
+      "lon": -15,
+      "label": "Guinea-Bissau",
+      "kind": "country",
+      "ne": "Guinea-Bissau"
+    },
+    "GQ": {
+      "lat": 1.6,
+      "lon": 10.4,
+      "label": "Equatorial Guinea",
+      "kind": "country",
+      "ne": "Eq. Guinea"
+    },
+    "LS": {
+      "lat": -29.6,
+      "lon": 28.2,
+      "label": "Lesotho",
+      "kind": "country",
+      "ne": "Lesotho"
+    },
+    "SZ": {
+      "lat": -26.5,
+      "lon": 31.5,
+      "label": "Eswatini",
+      "kind": "country",
+      "ne": "eSwatini"
+    },
+    "BS": {
+      "lat": 24.5,
+      "lon": -77.5,
+      "label": "Bahamas",
+      "kind": "country",
+      "ne": "Bahamas"
+    },
+    "TT": {
+      "lat": 10.5,
+      "lon": -61.3,
+      "label": "Trinidad and Tobago",
+      "kind": "country",
+      "ne": "Trinidad and Tobago"
+    },
+    "VU": {
+      "lat": -16,
+      "lon": 167,
+      "label": "Vanuatu",
+      "kind": "country",
+      "ne": "Vanuatu"
+    },
+    "SB": {
+      "lat": -9,
+      "lon": 160,
+      "label": "Solomon Islands",
+      "kind": "country",
+      "ne": "Solomon Is."
+    },
+    "AF": {
+      "lat": 33.9,
+      "lon": 67.7,
+      "label": "Afghanistan",
+      "kind": "country",
+      "ne": "Afghanistan"
+    },
+    "PK": {
+      "lat": 30.4,
+      "lon": 69.3,
+      "label": "Pakistan",
+      "kind": "country",
+      "ne": "Pakistan"
+    },
+    "IN": {
+      "lat": 21,
+      "lon": 78.5,
+      "label": "India",
+      "kind": "country",
+      "ne": "India"
+    },
+    "BD": {
+      "lat": 23.7,
+      "lon": 90.4,
+      "label": "Bangladesh",
+      "kind": "country",
+      "ne": "Bangladesh"
+    },
+    "LK": {
+      "lat": 7.9,
+      "lon": 80.8,
+      "label": "Sri Lanka",
+      "kind": "country",
+      "ne": "Sri Lanka"
+    },
+    "NP": {
+      "lat": 28.4,
+      "lon": 84.1,
+      "label": "Nepal",
+      "kind": "country",
+      "ne": "Nepal"
+    },
+    "BT": {
+      "lat": 27.5,
+      "lon": 90.4,
+      "label": "Bhutan",
+      "kind": "country",
+      "ne": "Bhutan"
+    },
+    "CN": {
+      "lat": 35.9,
+      "lon": 104.2,
+      "label": "China",
+      "kind": "country",
+      "ne": "China"
+    },
+    "TW": {
+      "lat": 23.7,
+      "lon": 121,
+      "label": "Taiwan",
+      "kind": "country",
+      "ne": "Taiwan"
+    },
+    "HK": {
+      "lat": 22.3,
+      "lon": 114.2,
+      "label": "Hong Kong",
+      "kind": "country"
+    },
+    "MN": {
+      "lat": 46.9,
+      "lon": 103.8,
+      "label": "Mongolia",
+      "kind": "country",
+      "ne": "Mongolia"
+    },
+    "KZ": {
+      "lat": 48,
+      "lon": 68,
+      "label": "Kazakhstan",
+      "kind": "country",
+      "ne": "Kazakhstan"
+    },
+    "UZ": {
+      "lat": 41.4,
+      "lon": 64.6,
+      "label": "Uzbekistan",
+      "kind": "country",
+      "ne": "Uzbekistan"
+    },
+    "KG": {
+      "lat": 41.2,
+      "lon": 74.8,
+      "label": "Kyrgyzstan",
+      "kind": "country",
+      "ne": "Kyrgyzstan"
+    },
+    "TJ": {
+      "lat": 38.9,
+      "lon": 71.3,
+      "label": "Tajikistan",
+      "kind": "country",
+      "ne": "Tajikistan"
+    },
+    "TM": {
+      "lat": 39,
+      "lon": 59.6,
+      "label": "Turkmenistan",
+      "kind": "country",
+      "ne": "Turkmenistan"
+    },
+    "JP": {
+      "lat": 36.2,
+      "lon": 138.3,
+      "label": "Japan",
+      "kind": "country",
+      "ne": "Japan"
+    },
+    "KR": {
+      "lat": 36.5,
+      "lon": 127.9,
+      "label": "South Korea",
+      "kind": "country",
+      "ne": "South Korea"
+    },
+    "KP": {
+      "lat": 40.3,
+      "lon": 127.5,
+      "label": "North Korea",
+      "kind": "country",
+      "ne": "North Korea"
+    },
+    "VN": {
+      "lat": 16,
+      "lon": 107.8,
+      "label": "Vietnam",
+      "kind": "country",
+      "ne": "Vietnam"
+    },
+    "TH": {
+      "lat": 15.9,
+      "lon": 100.9,
+      "label": "Thailand",
+      "kind": "country",
+      "ne": "Thailand"
+    },
+    "KH": {
+      "lat": 12.6,
+      "lon": 105,
+      "label": "Cambodia",
+      "kind": "country",
+      "ne": "Cambodia"
+    },
+    "LA": {
+      "lat": 18,
+      "lon": 105,
+      "label": "Laos",
+      "kind": "country",
+      "ne": "Laos"
+    },
+    "MM": {
+      "lat": 19.8,
+      "lon": 96,
+      "label": "Myanmar",
+      "kind": "country",
+      "ne": "Myanmar"
+    },
+    "MY": {
+      "lat": 4.2,
+      "lon": 102,
+      "label": "Malaysia",
+      "kind": "country",
+      "ne": "Malaysia"
+    },
+    "SG": {
+      "lat": 1.35,
+      "lon": 103.8,
+      "label": "Singapore",
+      "kind": "country"
+    },
+    "ID": {
+      "lat": -2.5,
+      "lon": 118,
+      "label": "Indonesia",
+      "kind": "country",
+      "ne": "Indonesia"
+    },
+    "PH": {
+      "lat": 12.9,
+      "lon": 122.9,
+      "label": "Philippines",
+      "kind": "country",
+      "ne": "Philippines"
+    },
+    "BN": {
+      "lat": 4.5,
+      "lon": 114.7,
+      "label": "Brunei",
+      "kind": "country",
+      "ne": "Brunei"
+    },
+    "TL": {
+      "lat": -8.8,
+      "lon": 125.7,
+      "label": "Timor-Leste",
+      "kind": "country",
+      "ne": "Timor-Leste"
+    },
+    "PG": {
+      "lat": -6.3,
+      "lon": 144,
+      "label": "Papua New Guinea",
+      "kind": "country",
+      "ne": "Papua New Guinea"
+    },
+    "AU": {
+      "lat": -25.3,
+      "lon": 133.8,
+      "label": "Australia",
+      "kind": "country",
+      "ne": "Australia"
+    },
+    "NZ": {
+      "lat": -41,
+      "lon": 174,
+      "label": "New Zealand",
+      "kind": "country",
+      "ne": "New Zealand"
+    },
+    "FJ": {
+      "lat": -17.7,
+      "lon": 178,
+      "label": "Fiji",
+      "kind": "country",
+      "ne": "Fiji"
+    },
+    "AQ": {
+      "lat": -82,
+      "lon": 0,
+      "label": "Antarctica",
+      "kind": "country",
+      "ne": "Antarctica"
+    },
+    "ARCTIC": {
+      "lat": 85,
+      "lon": 0,
+      "label": "Arctic",
+      "kind": "region"
+    },
+    "EU": {
+      "lat": 50,
+      "lon": 15,
+      "label": "Europe server",
+      "kind": "region"
+    },
+    "GULF": {
+      "lat": 26,
+      "lon": 51,
+      "label": "Gulf server",
+      "kind": "region"
+    },
+    "PAC": {
+      "lat": 0,
+      "lon": -160,
+      "label": "Pacific server",
+      "kind": "region"
+    },
+    "ASIA": {
+      "lat": 34,
+      "lon": 100,
+      "label": "Asia server",
+      "kind": "region"
+    },
+    "AFR": {
+      "lat": 2,
+      "lon": 20,
+      "label": "Africa server",
+      "kind": "region"
+    },
+    "LATAM": {
+      "lat": -15,
+      "lon": -60,
+      "label": "Latin America server",
+      "kind": "region"
+    },
+    "HIM": {
+      "lat": 28.5,
+      "lon": 86,
+      "label": "Himalaya server",
+      "kind": "region"
+    },
+    "CARIB": {
+      "lat": 17,
+      "lon": -70,
+      "label": "Caribbean server",
+      "kind": "region"
+    },
+    "BALK": {
+      "lat": 43.5,
+      "lon": 20.5,
+      "label": "Balkans server",
+      "kind": "region"
+    },
+    "SAHEL": {
+      "lat": 15,
+      "lon": 0,
+      "label": "Sahel server",
+      "kind": "region"
+    },
+    "NORDIC": {
+      "lat": 63,
+      "lon": 15,
+      "label": "Nordic server",
+      "kind": "region"
+    },
+    "US-DC": {
+      "lat": 38.9,
+      "lon": -77.04,
+      "label": "Washington, DC",
+      "kind": "place",
+      "country": "US"
+    },
+    "US-NYC": {
+      "lat": 40.71,
+      "lon": -74,
+      "label": "New York City",
+      "kind": "place",
+      "country": "US"
+    },
+    "SFBAY": {
+      "lat": 37.5,
+      "lon": -122.2,
+      "label": "SF Bay Area",
+      "kind": "place",
+      "country": "US"
+    },
+    "SEA": {
+      "lat": 47.6,
+      "lon": -122.3,
+      "label": "Seattle",
+      "kind": "place",
+      "country": "US"
+    },
+    "STARBASE": {
+      "lat": 25.99,
+      "lon": -97.16,
+      "label": "Starbase, Texas",
+      "kind": "place",
+      "country": "US"
+    },
+    "US-AL": {
+      "lat": 32.8,
+      "lon": -86.8,
+      "label": "Alabama",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-AK": {
+      "lat": 64,
+      "lon": -152,
+      "label": "Alaska",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-AZ": {
+      "lat": 34.3,
+      "lon": -111.7,
+      "label": "Arizona",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-AR": {
+      "lat": 34.9,
+      "lon": -92.4,
+      "label": "Arkansas",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-CA": {
+      "lat": 37.2,
+      "lon": -119.5,
+      "label": "California",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-CO": {
+      "lat": 39,
+      "lon": -105.5,
+      "label": "Colorado",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-CT": {
+      "lat": 41.6,
+      "lon": -72.7,
+      "label": "Connecticut",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-DE": {
+      "lat": 39,
+      "lon": -75.5,
+      "label": "Delaware",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-FL": {
+      "lat": 28.6,
+      "lon": -82.4,
+      "label": "Florida",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-GA": {
+      "lat": 32.7,
+      "lon": -83.4,
+      "label": "Georgia (US)",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-HI": {
+      "lat": 20.8,
+      "lon": -156.3,
+      "label": "Hawaii",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-ID": {
+      "lat": 44.4,
+      "lon": -114.6,
+      "label": "Idaho",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-IL": {
+      "lat": 40,
+      "lon": -89.2,
+      "label": "Illinois",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-IN": {
+      "lat": 39.9,
+      "lon": -86.3,
+      "label": "Indiana",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-IA": {
+      "lat": 42.1,
+      "lon": -93.5,
+      "label": "Iowa",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-KS": {
+      "lat": 38.5,
+      "lon": -98.4,
+      "label": "Kansas",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-KY": {
+      "lat": 37.5,
+      "lon": -85.3,
+      "label": "Kentucky",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-LA": {
+      "lat": 31.1,
+      "lon": -92,
+      "label": "Louisiana",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-ME": {
+      "lat": 45.4,
+      "lon": -69.2,
+      "label": "Maine",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-MD": {
+      "lat": 39,
+      "lon": -76.8,
+      "label": "Maryland",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-MA": {
+      "lat": 42.3,
+      "lon": -71.8,
+      "label": "Massachusetts",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-MI": {
+      "lat": 44.3,
+      "lon": -85.4,
+      "label": "Michigan",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-MN": {
+      "lat": 46.3,
+      "lon": -94.3,
+      "label": "Minnesota",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-MS": {
+      "lat": 32.7,
+      "lon": -89.7,
+      "label": "Mississippi",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-MO": {
+      "lat": 38.4,
+      "lon": -92.5,
+      "label": "Missouri",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-MT": {
+      "lat": 47,
+      "lon": -109.6,
+      "label": "Montana",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-NE": {
+      "lat": 41.5,
+      "lon": -99.8,
+      "label": "Nebraska",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-NV": {
+      "lat": 39.3,
+      "lon": -116.6,
+      "label": "Nevada",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-NH": {
+      "lat": 43.7,
+      "lon": -71.6,
+      "label": "New Hampshire",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-NJ": {
+      "lat": 40.1,
+      "lon": -74.5,
+      "label": "New Jersey",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-NM": {
+      "lat": 34.4,
+      "lon": -106.1,
+      "label": "New Mexico",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-NC": {
+      "lat": 35.5,
+      "lon": -79.4,
+      "label": "North Carolina",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-ND": {
+      "lat": 47.5,
+      "lon": -100.5,
+      "label": "North Dakota",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-OH": {
+      "lat": 40.3,
+      "lon": -82.8,
+      "label": "Ohio",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-OK": {
+      "lat": 35.6,
+      "lon": -97.5,
+      "label": "Oklahoma",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-OR": {
+      "lat": 43.9,
+      "lon": -120.6,
+      "label": "Oregon",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-PA": {
+      "lat": 40.9,
+      "lon": -77.8,
+      "label": "Pennsylvania",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-RI": {
+      "lat": 41.7,
+      "lon": -71.5,
+      "label": "Rhode Island",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-SC": {
+      "lat": 33.9,
+      "lon": -80.9,
+      "label": "South Carolina",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-SD": {
+      "lat": 44.4,
+      "lon": -100.2,
+      "label": "South Dakota",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-TN": {
+      "lat": 35.9,
+      "lon": -86.4,
+      "label": "Tennessee",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-TX": {
+      "lat": 31.5,
+      "lon": -99.3,
+      "label": "Texas",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-UT": {
+      "lat": 39.3,
+      "lon": -111.7,
+      "label": "Utah",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-VT": {
+      "lat": 44.1,
+      "lon": -72.7,
+      "label": "Vermont",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-VA": {
+      "lat": 37.5,
+      "lon": -78.9,
+      "label": "Virginia",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-WA": {
+      "lat": 47.4,
+      "lon": -120.5,
+      "label": "Washington (state)",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-WV": {
+      "lat": 38.6,
+      "lon": -80.6,
+      "label": "West Virginia",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-WI": {
+      "lat": 44.6,
+      "lon": -89.9,
+      "label": "Wisconsin",
+      "kind": "state",
+      "country": "US"
+    },
+    "US-WY": {
+      "lat": 43,
+      "lon": -107.5,
+      "label": "Wyoming",
+      "kind": "state",
+      "country": "US"
+    }
+  },
+  "rules": [
+    {
+      "key": "KP",
+      "pattern": "North Korea|Pyongyang|Kim Jong"
+    },
+    {
+      "key": "KR",
+      "pattern": "(?<!North )Korea|Korean|Seoul|Samsung|Hyundai"
+    },
+    {
+      "key": "ZA",
+      "pattern": "South Africa|South African|Johannesburg|Cape Town|Pretoria"
+    },
+    {
+      "key": "SS",
+      "pattern": "South Sudan"
+    },
+    {
+      "key": "WB",
+      "pattern": "West Bank|Ramallah|Hebron|Jenin"
+    },
+    {
+      "key": "PS",
+      "pattern": "Gaza|Palestin\\w*|Hamas"
+    },
+    {
+      "key": "NZ",
+      "pattern": "New Zealand|Auckland|Wellington"
+    },
+    {
+      "key": "HK",
+      "pattern": "Hong Kong"
+    },
+    {
+      "key": "LK",
+      "pattern": "Sri Lanka"
+    },
+    {
+      "key": "PG",
+      "pattern": "Papua New Guinea"
+    },
+    {
+      "key": "SA",
+      "pattern": "Saudi|Riyadh|Jeddah|Aramco"
+    },
+    {
+      "key": "AE",
+      "pattern": "UAE|Emirates|Emirati|Dubai|Abu Dhabi|Flydubai"
+    },
+    {
+      "key": "US-DC",
+      "pattern": "Washington(?! [Ss]tate)|White House|Pentagon|Congress|Senate|House of Representatives|Supreme Court|Federal Reserve|the Fed|Fed (Governor|Chair|chair|officials|minutes|rate)|Treasury|State Department|Justice Department|DOJ|FBI|CIA|DNI|CDC|FDA|NIH|EPA|FCC|FTC|SEC|ICE|DHS|Homeland Security|CENTCOM|NASA|Medicaid|Medicare|CMS|Capitol|US admins|Trump|executive order|federal (agency|government|judge|court|workers|regulators)"
+    },
+    {
+      "key": "US-NYC",
+      "pattern": "New York|Wall Street|NYSE|Nasdaq|Manhattan|Brooklyn|IBM|Polymarket|Pfizer"
+    },
+    {
+      "key": "US-MA",
+      "pattern": "Massachusetts|Boston|Harvard|MIT|Moderna"
+    },
+    {
+      "key": "US-NJ",
+      "pattern": "New Jersey|Princeton|Merck"
+    },
+    {
+      "key": "US-NE",
+      "pattern": "Nebraska|Omaha|Berkshire Hathaway|Buffett"
+    },
+    {
+      "key": "US-ID",
+      "pattern": "Idaho|Boise|Micron"
+    },
+    {
+      "key": "US-OR",
+      "pattern": "Oregon|Portland|Nike"
+    },
+    {
+      "key": "US-GA",
+      "pattern": "Atlanta|Apalachee|Vienna, Georgia|Georgia(?= (state|Senate|governor|election|voters|primary|runoff|legislature|raid|plant|county))"
+    },
+    {
+      "key": "US-CA",
+      "pattern": "California|Los Angeles|San Diego|Sacramento|Hollywood|Stanford|Paramount|Warner Bros\\.?|Disney|Netflix|Rocket Lab|Amgen|Dodgers|49ers"
+    },
+    {
+      "key": "US-TX",
+      "pattern": "Texas|Houston|Dallas|Austin|San Antonio|Tesla|xAI|Oracle"
+    },
+    {
+      "key": "SFBAY",
+      "pattern": "OpenAI|Anthropic|Meta|Google|Alphabet|Nvidia|Apple|Intel|San Francisco|Silicon Valley"
+    },
+    {
+      "key": "SEA",
+      "pattern": "Microsoft|Amazon|Boeing|Seattle|Blue Origin|New Glenn|Stoke Space|Seahawks"
+    },
+    {
+      "key": "STARBASE",
+      "pattern": "SpaceX|Starship|Starbase"
+    },
+    {
+      "key": "US-AL",
+      "pattern": "Alabama"
+    },
+    {
+      "key": "US-AK",
+      "pattern": "Alaska|Anchorage"
+    },
+    {
+      "key": "US-AZ",
+      "pattern": "Arizona|Phoenix|Tucson"
+    },
+    {
+      "key": "US-AR",
+      "pattern": "Arkansas"
+    },
+    {
+      "key": "US-CO",
+      "pattern": "Colorado|Denver"
+    },
+    {
+      "key": "US-CT",
+      "pattern": "Connecticut"
+    },
+    {
+      "key": "US-DE",
+      "pattern": "Delaware"
+    },
+    {
+      "key": "US-FL",
+      "pattern": "Florida|Miami|Mar-a-Lago|Orlando|Tampa"
+    },
+    {
+      "key": "US-HI",
+      "pattern": "Hawaii|Honolulu"
+    },
+    {
+      "key": "US-IL",
+      "pattern": "Illinois|Chicago"
+    },
+    {
+      "key": "US-IN",
+      "pattern": "Indiana|Indianapolis"
+    },
+    {
+      "key": "US-IA",
+      "pattern": "Iowa"
+    },
+    {
+      "key": "US-KS",
+      "pattern": "Kansas"
+    },
+    {
+      "key": "US-KY",
+      "pattern": "Kentucky"
+    },
+    {
+      "key": "US-LA",
+      "pattern": "Louisiana|New Orleans"
+    },
+    {
+      "key": "US-ME",
+      "pattern": "Maine"
+    },
+    {
+      "key": "US-MD",
+      "pattern": "Maryland|Baltimore"
+    },
+    {
+      "key": "US-MI",
+      "pattern": "Michigan|Detroit"
+    },
+    {
+      "key": "US-MN",
+      "pattern": "Minnesota|Minneapolis"
+    },
+    {
+      "key": "US-MS",
+      "pattern": "Mississippi"
+    },
+    {
+      "key": "US-MO",
+      "pattern": "Missouri|St\\. Louis"
+    },
+    {
+      "key": "US-MT",
+      "pattern": "Montana"
+    },
+    {
+      "key": "US-NV",
+      "pattern": "Nevada|Las Vegas"
+    },
+    {
+      "key": "US-NH",
+      "pattern": "New Hampshire"
+    },
+    {
+      "key": "US-NM",
+      "pattern": "New Mexico"
+    },
+    {
+      "key": "US-NC",
+      "pattern": "North Carolina|Charlotte"
+    },
+    {
+      "key": "US-ND",
+      "pattern": "North Dakota"
+    },
+    {
+      "key": "US-OH",
+      "pattern": "Ohio|Cleveland|Columbus"
+    },
+    {
+      "key": "US-OK",
+      "pattern": "Oklahoma"
+    },
+    {
+      "key": "US-PA",
+      "pattern": "Pennsylvania|Philadelphia|Pittsburgh"
+    },
+    {
+      "key": "US-RI",
+      "pattern": "Rhode Island"
+    },
+    {
+      "key": "US-SC",
+      "pattern": "South Carolina"
+    },
+    {
+      "key": "US-SD",
+      "pattern": "South Dakota"
+    },
+    {
+      "key": "US-TN",
+      "pattern": "Tennessee|Nashville|Memphis"
+    },
+    {
+      "key": "US-UT",
+      "pattern": "Utah|Salt Lake"
+    },
+    {
+      "key": "US-VT",
+      "pattern": "Vermont"
+    },
+    {
+      "key": "US-VA",
+      "pattern": "(?<!West )Virginia"
+    },
+    {
+      "key": "US-WA",
+      "pattern": "Washington [Ss]tate"
+    },
+    {
+      "key": "US-WV",
+      "pattern": "West Virginia"
+    },
+    {
+      "key": "US-WI",
+      "pattern": "Wisconsin|Milwaukee"
+    },
+    {
+      "key": "US-WY",
+      "pattern": "Wyoming"
+    },
+    {
+      "key": "US",
+      "pattern": "US|U\\.S\\.|USA|United States|(?<!Latin |South |Central |North )America|American|USMNT|NFL|NBA|MLB|WNBA|NHL|UFC"
+    },
+    {
+      "key": "UK",
+      "pattern": "UK|U\\.K\\.|Britain|British|England|English|Scotland|Scottish|(?<!South )Wales|London|Westminster|Downing Street|NHS|Burnham|Farage|Clacton|Thames Water|Greggs|Barclays|AstraZeneca|DeepMind|Cambridge|Oxford|Manchester|Liverpool|Arsenal|Chelsea|Tottenham|Aston Villa|Newcastle|Nottingham|Brighton|Hull City|Premier League|Wimbledon|Rangers|Celtic|Royal Birkdale|Community Shield|Hillsborough|Bournemouth|Everton"
+    },
+    {
+      "key": "FR",
+      "pattern": "France|French|Paris|Macron|Airbus|Lille"
+    },
+    {
+      "key": "DE",
+      "pattern": "Germany|German|Berlin|Munich|Bundestag"
+    },
+    {
+      "key": "ES",
+      "pattern": "Spain|Spanish|Madrid|Barcelona|Vuelta a Espa[nñ]a|La Liga"
+    },
+    {
+      "key": "IT",
+      "pattern": "Italy|Italian|Rome|Milan|Lazio|Juventus|Serie A"
+    },
+    {
+      "key": "NL",
+      "pattern": "Netherlands|Dutch|Amsterdam|The Hague|ICC|International Criminal Court"
+    },
+    {
+      "key": "BE",
+      "pattern": "Belgium|Belgian|Brussels"
+    },
+    {
+      "key": "CH",
+      "pattern": "Switzerland|Swiss|Geneva|Zurich|Davos|CERN|Court of Arbitration for Sport|Lausanne"
+    },
+    {
+      "key": "AT",
+      "pattern": "Austria|Austrian|Vienna(?!, Georgia)"
+    },
+    {
+      "key": "PL",
+      "pattern": "Poland|Polish|Warsaw"
+    },
+    {
+      "key": "PT",
+      "pattern": "Portugal|Portuguese|Lisbon"
+    },
+    {
+      "key": "IE",
+      "pattern": "Ireland|Irish|Dublin|Croke Park"
+    },
+    {
+      "key": "SE",
+      "pattern": "Sweden|Swedish|Stockholm"
+    },
+    {
+      "key": "NO",
+      "pattern": "Norway|Norwegian|Oslo"
+    },
+    {
+      "key": "DK",
+      "pattern": "Denmark|Danish|Copenhagen"
+    },
+    {
+      "key": "FI",
+      "pattern": "Finland|Finnish|Helsinki"
+    },
+    {
+      "key": "GR",
+      "pattern": "Greece|Greek|Athens"
+    },
+    {
+      "key": "HU",
+      "pattern": "Hungary|Hungarian|Budapest"
+    },
+    {
+      "key": "RO",
+      "pattern": "Romania|Romanian|Bucharest"
+    },
+    {
+      "key": "CZ",
+      "pattern": "Czech\\w*|Prague"
+    },
+    {
+      "key": "SK",
+      "pattern": "Slovakia|Slovak|Bratislava"
+    },
+    {
+      "key": "SI",
+      "pattern": "Slovenia|Slovenian|Ljubljana"
+    },
+    {
+      "key": "BG",
+      "pattern": "Bulgaria|Bulgarian|Sofia"
+    },
+    {
+      "key": "RS",
+      "pattern": "Serbia|Serbian|Belgrade"
+    },
+    {
+      "key": "HR",
+      "pattern": "Croatia|Croatian|Zagreb"
+    },
+    {
+      "key": "BA",
+      "pattern": "Bosnia|Sarajevo"
+    },
+    {
+      "key": "MK",
+      "pattern": "North Macedonia|Skopje"
+    },
+    {
+      "key": "XK",
+      "pattern": "Kosovo|Pristina"
+    },
+    {
+      "key": "AL",
+      "pattern": "Albania|Albanian|Tirana"
+    },
+    {
+      "key": "MT",
+      "pattern": "Malta"
+    },
+    {
+      "key": "CY",
+      "pattern": "Cyprus|Cypriot|Nicosia"
+    },
+    {
+      "key": "LT",
+      "pattern": "Lithuania|Lithuanian|Vilnius"
+    },
+    {
+      "key": "LV",
+      "pattern": "Latvia|Latvian|Riga"
+    },
+    {
+      "key": "EE",
+      "pattern": "Estonia|Estonian|Tallinn"
+    },
+    {
+      "key": "LU",
+      "pattern": "Luxembourg"
+    },
+    {
+      "key": "MD",
+      "pattern": "Moldova|Moldovan|Chisinau"
+    },
+    {
+      "key": "UA",
+      "pattern": "Ukraine|Ukrainian|Kyiv|Zelensk\\w*"
+    },
+    {
+      "key": "RU",
+      "pattern": "Russia|Russian|Moscow|Kremlin|Putin"
+    },
+    {
+      "key": "BY",
+      "pattern": "Belarus|Minsk"
+    },
+    {
+      "key": "TR",
+      "pattern": "Turkey|Turkish|Istanbul|Ankara|Erdogan"
+    },
+    {
+      "key": "GE",
+      "pattern": "(?<!Vienna, )Georgia(?! (state|Senate|governor|election|voters|primary|runoff|legislature|raid|plant|county))|Tbilisi"
+    },
+    {
+      "key": "AM",
+      "pattern": "Armenia|Armenian|Yerevan"
+    },
+    {
+      "key": "AZ",
+      "pattern": "Azerbaijan|Azerbaijani|Baku"
+    },
+    {
+      "key": "VA",
+      "pattern": "Vatican|Pope"
+    },
+    {
+      "key": "IS",
+      "pattern": "Iceland|Icelandic|Reykjavik"
+    },
+    {
+      "key": "GL",
+      "pattern": "Greenland|Greenlandic|Nuuk"
+    },
+    {
+      "key": "CA",
+      "pattern": "Canada|Canadian|Ottawa|Toronto|Vancouver|Quebec"
+    },
+    {
+      "key": "MX",
+      "pattern": "(?<!New )Mexico|Mexican"
+    },
+    {
+      "key": "CU",
+      "pattern": "Cuba|Cuban|Havana"
+    },
+    {
+      "key": "HT",
+      "pattern": "Haiti|Haitian"
+    },
+    {
+      "key": "DO",
+      "pattern": "Dominican Republic"
+    },
+    {
+      "key": "JM",
+      "pattern": "Jamaica|Jamaican"
+    },
+    {
+      "key": "PR",
+      "pattern": "Puerto Ric\\w+"
+    },
+    {
+      "key": "PA",
+      "pattern": "Panama|Panamanian"
+    },
+    {
+      "key": "CR",
+      "pattern": "Costa Rica|Costa Rican"
+    },
+    {
+      "key": "GT",
+      "pattern": "Guatemala|Guatemalan"
+    },
+    {
+      "key": "HN",
+      "pattern": "Honduras|Honduran"
+    },
+    {
+      "key": "NI",
+      "pattern": "Nicaragua|Nicaraguan"
+    },
+    {
+      "key": "SV",
+      "pattern": "El Salvador|Salvadoran"
+    },
+    {
+      "key": "BZ",
+      "pattern": "Belize"
+    },
+    {
+      "key": "CO",
+      "pattern": "Colombia|Colombian|Bogot[aá]"
+    },
+    {
+      "key": "VE",
+      "pattern": "Venezuela|Venezuelan|Caracas|Maduro"
+    },
+    {
+      "key": "GY",
+      "pattern": "Guyana|Essequibo"
+    },
+    {
+      "key": "SR",
+      "pattern": "Suriname"
+    },
+    {
+      "key": "BR",
+      "pattern": "Brazil|Brazilian|Bras[ií]lia|S[aã]o Paulo|Rio de Janeiro|Lula|Bolsonaro"
+    },
+    {
+      "key": "AR",
+      "pattern": "Argentina|Argentine|Argentinian|Buenos Aires|Milei"
+    },
+    {
+      "key": "CL",
+      "pattern": "Chile|Chilean|Santiago"
+    },
+    {
+      "key": "PE",
+      "pattern": "Peru|Peruvian|Lima"
+    },
+    {
+      "key": "BO",
+      "pattern": "Bolivia|Bolivian"
+    },
+    {
+      "key": "EC",
+      "pattern": "Ecuador|Ecuadorian|Quito"
+    },
+    {
+      "key": "UY",
+      "pattern": "Uruguay|Uruguayan"
+    },
+    {
+      "key": "PY",
+      "pattern": "Paraguay|Paraguayan"
+    },
+    {
+      "key": "IL",
+      "pattern": "Israel|Israeli|Jerusalem|Tel Aviv|Knesset|Netanyahu"
+    },
+    {
+      "key": "LB",
+      "pattern": "Lebanon|Lebanese|Beirut|Hezbollah"
+    },
+    {
+      "key": "SY",
+      "pattern": "Syria|Syrian|Damascus"
+    },
+    {
+      "key": "JO",
+      "pattern": "Jordan|Jordanian|Amman"
+    },
+    {
+      "key": "IQ",
+      "pattern": "Iraq|Iraqi|Baghdad"
+    },
+    {
+      "key": "IR",
+      "pattern": "Iran|Iranian|Tehran|Hormuz"
+    },
+    {
+      "key": "YE",
+      "pattern": "Yemen|Yemeni|Houthi\\w*|Sanaa|Bab al-Mandab"
+    },
+    {
+      "key": "QA",
+      "pattern": "Qatar|Qatari|Doha"
+    },
+    {
+      "key": "OM",
+      "pattern": "Oman|Omani|Muscat"
+    },
+    {
+      "key": "KW",
+      "pattern": "Kuwait|Kuwaiti"
+    },
+    {
+      "key": "BH",
+      "pattern": "Bahrain"
+    },
+    {
+      "key": "EG",
+      "pattern": "Egypt|Egyptian|Cairo"
+    },
+    {
+      "key": "LY",
+      "pattern": "Libya|Libyan|Tripoli|Haftar"
+    },
+    {
+      "key": "TN",
+      "pattern": "Tunisia|Tunisian|Tunis"
+    },
+    {
+      "key": "DZ",
+      "pattern": "Algeria|Algerian|Algiers"
+    },
+    {
+      "key": "MA",
+      "pattern": "Morocco|Moroccan|Rabat"
+    },
+    {
+      "key": "EH",
+      "pattern": "Western Sahara|Sahrawi"
+    },
+    {
+      "key": "SD",
+      "pattern": "Sudan|Sudanese|Khartoum|Darfur|RSF|Kordofan|el-Fasher|El Fasher|El Obeid"
+    },
+    {
+      "key": "TD",
+      "pattern": "Chad|Chadian|N'Djamena"
+    },
+    {
+      "key": "ET",
+      "pattern": "Ethiopia|Ethiopian|Addis Ababa|Tigray|Mekelle|TPLF"
+    },
+    {
+      "key": "ER",
+      "pattern": "Eritrea|Eritrean|Asmara"
+    },
+    {
+      "key": "DJ",
+      "pattern": "Djibouti"
+    },
+    {
+      "key": "SO",
+      "pattern": "Somalia|Somali|Mogadishu|al-Shabaab"
+    },
+    {
+      "key": "KE",
+      "pattern": "Kenya|Kenyan|Nairobi"
+    },
+    {
+      "key": "UG",
+      "pattern": "Uganda|Ugandan|Kampala"
+    },
+    {
+      "key": "TZ",
+      "pattern": "Tanzania|Tanzanian"
+    },
+    {
+      "key": "RW",
+      "pattern": "Rwanda|Rwandan|Kigali"
+    },
+    {
+      "key": "BI",
+      "pattern": "Burundi"
+    },
+    {
+      "key": "CD",
+      "pattern": "Congo|Congolese|DRC|Kinshasa|Goma|M23"
+    },
+    {
+      "key": "CF",
+      "pattern": "Central African Republic"
+    },
+    {
+      "key": "GA",
+      "pattern": "Gabon"
+    },
+    {
+      "key": "NG",
+      "pattern": "Nigeria|Nigerian|Lagos|Abuja|Zamfara|Borno"
+    },
+    {
+      "key": "GH",
+      "pattern": "Ghana|Ghanaian|Accra"
+    },
+    {
+      "key": "CI",
+      "pattern": "Ivory Coast|C[oô]te d'Ivoire|Ivorian"
+    },
+    {
+      "key": "SN",
+      "pattern": "Senegal|Senegalese|Dakar"
+    },
+    {
+      "key": "GM",
+      "pattern": "Gambia"
+    },
+    {
+      "key": "GN",
+      "pattern": "(?<!Papua New |Equatorial )Guinea(?!-Bissau)"
+    },
+    {
+      "key": "SL",
+      "pattern": "Sierra Leone"
+    },
+    {
+      "key": "LR",
+      "pattern": "Liberia|Liberian"
+    },
+    {
+      "key": "TG",
+      "pattern": "Togo"
+    },
+    {
+      "key": "BJ",
+      "pattern": "Benin"
+    },
+    {
+      "key": "ML",
+      "pattern": "Mali|Malian|Bamako"
+    },
+    {
+      "key": "NE",
+      "pattern": "Niger|Nigerien|Niamey"
+    },
+    {
+      "key": "BF",
+      "pattern": "Burkina Faso|Ouagadougou"
+    },
+    {
+      "key": "MR",
+      "pattern": "Mauritania"
+    },
+    {
+      "key": "CM",
+      "pattern": "Cameroon|Cameroonian|Yaound[eé]"
+    },
+    {
+      "key": "ZW",
+      "pattern": "Zimbabwe|Zimbabwean|Harare"
+    },
+    {
+      "key": "MZ",
+      "pattern": "Mozambique|Maputo|Cabo Delgado"
+    },
+    {
+      "key": "AO",
+      "pattern": "Angola|Angolan|Luanda"
+    },
+    {
+      "key": "ZM",
+      "pattern": "Zambia|Zambian|Lusaka"
+    },
+    {
+      "key": "MW",
+      "pattern": "Malawi|Malawian|Lilongwe"
+    },
+    {
+      "key": "BW",
+      "pattern": "Botswana"
+    },
+    {
+      "key": "NA",
+      "pattern": "Namibia|Namibian"
+    },
+    {
+      "key": "MG",
+      "pattern": "Madagascar"
+    },
+    {
+      "key": "GW",
+      "pattern": "Guinea-Bissau|Bissau"
+    },
+    {
+      "key": "GQ",
+      "pattern": "Equatorial Guinea|Malabo"
+    },
+    {
+      "key": "LS",
+      "pattern": "Lesotho|Maseru"
+    },
+    {
+      "key": "SZ",
+      "pattern": "Eswatini|Swaziland|Mbabane"
+    },
+    {
+      "key": "BS",
+      "pattern": "Bahamas|Nassau"
+    },
+    {
+      "key": "TT",
+      "pattern": "Trinidad|Tobago|Port of Spain"
+    },
+    {
+      "key": "VU",
+      "pattern": "Vanuatu"
+    },
+    {
+      "key": "SB",
+      "pattern": "Solomon Islands"
+    },
+    {
+      "key": "AF",
+      "pattern": "Afghanistan|Afghan|Kabul|Taliban"
+    },
+    {
+      "key": "PK",
+      "pattern": "Pakistan|Pakistani|Islamabad|Karachi|Lahore|Peshawar|Balochistan"
+    },
+    {
+      "key": "IN",
+      "pattern": "India|Indian|Delhi|Mumbai|Modi|Kashmir"
+    },
+    {
+      "key": "BD",
+      "pattern": "Bangladesh|Bangladeshi|Dhaka"
+    },
+    {
+      "key": "NP",
+      "pattern": "Nepal|Nepali|Nepalese|Kathmandu"
+    },
+    {
+      "key": "BT",
+      "pattern": "Bhutan"
+    },
+    {
+      "key": "HIM",
+      "pattern": "Himalaya\\w*|Everest"
+    },
+    {
+      "key": "CN",
+      "pattern": "China|Chinese|Beijing|Shanghai|Xi Jinping|Tibet|Chang'e|Huawei|BYD"
+    },
+    {
+      "key": "TW",
+      "pattern": "Taiwan|Taiwanese|Taipei|TSMC"
+    },
+    {
+      "key": "MN",
+      "pattern": "Mongolia|Mongolian"
+    },
+    {
+      "key": "KZ",
+      "pattern": "Kazakhstan|Kazakh|Astana"
+    },
+    {
+      "key": "UZ",
+      "pattern": "Uzbekistan|Uzbek|Tashkent"
+    },
+    {
+      "key": "KG",
+      "pattern": "Kyrgyzstan|Kyrgyz|Bishkek"
+    },
+    {
+      "key": "TJ",
+      "pattern": "Tajikistan|Tajik|Dushanbe"
+    },
+    {
+      "key": "TM",
+      "pattern": "Turkmenistan|Turkmen|Ashgabat"
+    },
+    {
+      "key": "JP",
+      "pattern": "Japan|Japanese|Tokyo|JAXA|Capcom|Nintendo|Sony|Toyota"
+    },
+    {
+      "key": "VN",
+      "pattern": "Vietnam|Vietnamese|Hanoi"
+    },
+    {
+      "key": "TH",
+      "pattern": "Thailand|Thai|Bangkok"
+    },
+    {
+      "key": "KH",
+      "pattern": "Cambodia|Cambodian|Phnom Penh"
+    },
+    {
+      "key": "LA",
+      "pattern": "Laos|Lao|Vientiane"
+    },
+    {
+      "key": "MM",
+      "pattern": "Myanmar|Burma|Burmese|Yangon"
+    },
+    {
+      "key": "MY",
+      "pattern": "Malaysia|Malaysian|Kuala Lumpur"
+    },
+    {
+      "key": "SG",
+      "pattern": "Singapore"
+    },
+    {
+      "key": "ID",
+      "pattern": "Indonesia|Indonesian|Jakarta|Bali|Papua"
+    },
+    {
+      "key": "PH",
+      "pattern": "Philippines|Filipino|Manila"
+    },
+    {
+      "key": "BN",
+      "pattern": "Brunei"
+    },
+    {
+      "key": "TL",
+      "pattern": "Timor-Leste|East Timor"
+    },
+    {
+      "key": "AU",
+      "pattern": "Australia|Australian|Sydney|Melbourne|Canberra"
+    },
+    {
+      "key": "FJ",
+      "pattern": "Fiji|Fijian"
+    },
+    {
+      "key": "AQ",
+      "pattern": "Antarctic\\w*"
+    },
+    {
+      "key": "ARCTIC",
+      "pattern": "Arctic"
+    },
+    {
+      "key": "GULF",
+      "pattern": "Gulf server"
+    },
+    {
+      "key": "CARIB",
+      "pattern": "Caribbean"
+    },
+    {
+      "key": "BALK",
+      "pattern": "Balkans?"
+    },
+    {
+      "key": "SAHEL",
+      "pattern": "Sahel"
+    },
+    {
+      "key": "NORDIC",
+      "pattern": "Nordic|Scandinavia\\w*"
+    },
+    {
+      "key": "EU",
+      "pattern": "Europe|European|EU|Eurozone|ECB"
+    },
+    {
+      "key": "ME",
+      "pattern": "Middle East"
+    },
+    {
+      "key": "PAC",
+      "pattern": "Pacific"
+    },
+    {
+      "key": "AFR",
+      "pattern": "Africa(n)?"
+    },
+    {
+      "key": "LATAM",
+      "pattern": "Latin America|South America"
+    },
+    {
+      "key": "ASIA",
+      "pattern": "Southeast Asia|East Asia|Central Asia|Asia(n)?"
+    }
+  ]
+}

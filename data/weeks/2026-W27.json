@@ -23,6 +23,12 @@
             "https://www.theguardian.com/world/2026/jul/03/ali-khamenei-six-day-funeral-millions-iran",
             "https://www.dw.com/en/iran-turns-khamenei-funeral-into-show-of-power/a-77805433?maca=en-rss-en-world-4025-rdf"
           ],
+          "places": [
+            "IR",
+            "LB",
+            "PS"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -33,6 +39,10 @@
             "https://www.cnbc.com/2026/07/03/venezuela-earthquakes-death-toll-rises-rescue-efforts-continue.html",
             "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape"
           ],
+          "places": [
+            "VE"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -42,6 +52,14 @@
             "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
             "https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says?traffic_source=rss",
             "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-world-4025-rdf"
+          ],
+          "places": [
+            "UA",
+            "RU",
+            "US"
+          ],
+          "guilds": [
+            "NATO"
           ]
         },
         {
@@ -50,7 +68,12 @@
           "sources": [
             "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
             "https://www.aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "UK",
+            "YE"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -58,7 +81,13 @@
           "sources": [
             "https://www.independent.co.uk/news/world/africa/south-africa-anti-migrant-protest-mandela-b3008475.html",
             "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "ZA",
+            "AFR",
+            "NG"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -67,6 +96,14 @@
             "https://www.aljazeera.com/news/2026/7/5/what-to-know-about-the-renewed-coordinated-attacks-across-mali?traffic_source=rss",
             "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
             "https://www.independent.co.uk/news/world/middle-east/lebanon-unifil-peacekeepers-israel-hezbollah-b2993358.html"
+          ],
+          "places": [
+            "ML",
+            "SD",
+            "LB"
+          ],
+          "guilds": [
+            "UN"
           ]
         },
         {
@@ -75,7 +112,13 @@
           "sources": [
             "https://www.theguardian.com/world/2026/jul/02/papua-separatists-kill-american-pilot-yahukimo",
             "https://www.theguardian.com/world/2026/jun/29/pakistan-deadly-airstrikes-afghanistan-border"
-          ]
+          ],
+          "places": [
+            "ID",
+            "US",
+            "PK"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -89,6 +132,10 @@
             "https://www.france24.com/en/paris-appeals-court-ruling-could-upend-marine-le-pen-s-2027-presidential-bid",
             "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "FR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -96,7 +143,11 @@
           "text": "Keiko Fujimori was declared winner of Peru's presidential server vote, weeks after the ballot was cast.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "PE"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
@@ -104,14 +155,23 @@
           "sources": [
             "https://www.theguardian.com/politics/2026/jul/05/nigel-farage-did-not-declare-gifts-from-crypto-entrepreneur-george-cottrell-says-reform-uk",
             "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government"
-          ]
+          ],
+          "places": [
+            "UK",
+            "IE"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "German riot mods clashed with rallying players trying to block a far-right AfD party conference.",
           "sources": [
             "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference"
-          ]
+          ],
+          "places": [
+            "DE"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -119,7 +179,11 @@
           "sources": [
             "https://www.independent.co.uk/news/world/americas/us-politics/doge-end-elon-musk-end-trump-b3009083.html",
             "https://www.npr.org/2026/07/02/nx-s1-5879162/freedom-250-report-house-democrats-controversy"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -127,14 +191,23 @@
           "sources": [
             "https://www.npr.org/2026/07/03/nx-s1-5879393/could-infighting-derail-democrats-hopes-to-win-back-house",
             "https://www.npr.org/2026/07/03/nx-s1-5879082/hakeem-jeffries-democratic-party-divisions-trump-midterms"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Known issue where a mariachi-band player detained by ICE performed the national anthem from inside detention on July 4, with fellow mariachi players demanding his release from the Texas facility.",
           "sources": [
             "https://www.independent.co.uk/news/world/americas/us-politics/ice-detention-mariachi-fourth-of-july-texas-b3008995.html"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-TX"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -148,6 +221,12 @@
             "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
             "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "US",
+            "CA",
+            "MX"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -156,14 +235,24 @@
           "sources": [
             "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
             "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html"
-          ]
+          ],
+          "places": [
+            "EU",
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "A new Canada-Alberta pipeline build will proceed after admins pledged C$150 billion to ease concerns from British Columbia and First Nations players.",
           "sources": [
             "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline"
-          ]
+          ],
+          "places": [
+            "CA",
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -171,7 +260,11 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues"
-          ]
+          ],
+          "places": [
+            "EU"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -186,6 +279,10 @@
             "https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html",
             "https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june"
           ],
+          "places": [
+            "US"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -193,7 +290,11 @@
           "text": "Known issue where the US team's labor-pipeline participation rate fell to its lowest level in 50 years outside the Covid era, as more job seekers gave up looking for work.",
           "sources": [
             "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
@@ -201,6 +302,13 @@
           "sources": [
             "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
             "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "SFBAY",
+            "EU"
+          ],
+          "guilds": [
+            "GOOGLE"
           ]
         },
         {
@@ -210,7 +318,11 @@
             "https://www.independent.co.uk/news/world/americas/us-politics/trump-2025-financial-disclosure-tariffs-b3008654.html",
             "https://www.npr.org/2026/07/02/nx-s1-5878411/trump-earned-more-than-1-billion-from-crypto-but-his-investors-didnt-fare-so-well",
             "https://www.npr.org/2026/07/05/nx-s1-5876239-e1/egg-producers-settle-with-doj-states-over-price-fixing-complaint"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -218,7 +330,11 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-trump-agency-firings-slaughter-ftc",
             "https://www.npr.org/2026/06/29/nx-s1-5816232/supreme-court-ftc-independent-agencies-humphreys-executor"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -226,6 +342,15 @@
           "sources": [
             "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
             "https://www.theguardian.com/technology/2026/jul/02/tesla-sales-second-quarter"
+          ],
+          "places": [
+            "STARBASE",
+            "US-NYC",
+            "US-TX"
+          ],
+          "guilds": [
+            "SPACEX",
+            "TESLA"
           ]
         },
         {
@@ -234,7 +359,11 @@
           "sources": [
             "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
             "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html"
-          ]
+          ],
+          "places": [
+            "US-OH"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -249,6 +378,8 @@
             "https://www.science.org/content/article/lab-created-spudcell-marks-major-step-toward-building-life-scratch",
             "https://www.npr.org/2026/07/02/nx-s1-5877819/researchers-have-created-a-synthetic-cell-that-can-adapt-and-learn-survival-skills"
           ],
+          "places": [],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -257,7 +388,9 @@
           "sources": [
             "https://www.livescience.com/archaeology/ancient-dna-analysis-solves-500-year-old-mystery-of-what-killed-2-medici-brothers",
             "https://phys.org/news/2026-06-ancient-teeth-siberia-rewrite-plague.html"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -265,7 +398,9 @@
           "sources": [
             "https://www.sciencedaily.com/releases/2026/06/260624025506.htm",
             "https://www.sciencedaily.com/releases/2026/06/260625060203.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -273,7 +408,11 @@
           "sources": [
             "https://phys.org/news/2026-06-rare-dinosaur-fossil-antarctica-tucked.html",
             "https://www.livescience.com/animals/dinosaurs/antarcticas-first-dinosaur-fossil-belonged-to-a-group-of-the-largest-animals-ever"
-          ]
+          ],
+          "places": [
+            "AQ"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -281,7 +420,9 @@
           "sources": [
             "https://www.sciencedaily.com/releases/2026/06/260626030433.htm",
             "https://www.sciencedaily.com/releases/2026/06/260626125709.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -296,6 +437,13 @@
             "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
             "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "ANTHROPIC",
+            "ALIBABA"
+          ],
           "highlight": true
         },
         {
@@ -304,6 +452,14 @@
           "sources": [
             "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
             "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html"
+          ],
+          "places": [
+            "SFBAY",
+            "FR",
+            "IN"
+          ],
+          "guilds": [
+            "OPENAI"
           ]
         },
         {
@@ -312,7 +468,11 @@
           "sources": [
             "https://www.npr.org/2026/07/05/nx-s1-5804732/proposed-data-centers-in-pennsylvania-are-leading-strangers-to-mobilize-in-protest",
             "https://www.theguardian.com/us-news/2026/jul/05/ratepayer-protection-act-datacenters"
-          ]
+          ],
+          "places": [
+            "US-PA"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
@@ -321,6 +481,13 @@
             "https://www.theregister.com/security/2026/07/03/netnut-cracked-as-google-and-fbi-target-2-million-device-botnet/5266414",
             "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
             "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/"
+          ],
+          "places": [
+            "SFBAY",
+            "US-DC"
+          ],
+          "guilds": [
+            "GOOGLE"
           ]
         },
         {
@@ -330,6 +497,13 @@
             "https://www.theguardian.com/games/2026/jul/01/sony-playstation-digital-downloads",
             "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
             "https://www.engadget.com/2207546/sony-repurposing-austrian-playstation-disc-factory/"
+          ],
+          "places": [
+            "JP",
+            "AT"
+          ],
+          "guilds": [
+            "SONY"
           ]
         },
         {
@@ -338,6 +512,10 @@
           "sources": [
             "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
             "https://www.theregister.com/ai-and-ml/2026/07/02/un-warns-of-need-for-global-governance-to-avoid-an-ai-pocalypse/5265188"
+          ],
+          "places": [],
+          "guilds": [
+            "UN"
           ]
         }
       ]
@@ -353,6 +531,12 @@
             "https://www.engadget.com/2207959/nasa-boost-mission-rescue-falling-swift-observatory-launched/",
             "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
+          ],
           "highlight": true
         },
         {
@@ -361,7 +545,9 @@
           "sources": [
             "https://www.newscientist.com/article/2532167-the-most-detailed-survey-of-the-universe-ever-conducted-starts-now/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
             "https://www.livescience.com/space/astronomy/its-more-than-a-hope-its-a-guarantee-the-vera-c-rubin-observatorys-10-year-movie-of-the-universe-is-about-to-blow-our-minds-chief-scientist-tony-tyson-says"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -370,7 +556,11 @@
             "https://phys.org/news/2026-07-million-satellites-devastating-astronomy.html",
             "https://www.space.com/astronomy/the-growing-number-of-satellites-in-orbit-could-soon-make-telescopes-obsolete-for-astronomy-this-would-obviously-be-catastrophic",
             "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "AU"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -379,6 +569,12 @@
             "https://www.space.com/space-exploration/international-space-station/just-in-time-for-canada-day-spacewalking-astronauts-repair-space-stations-huge-canadarm2",
             "https://www.theregister.com/networks/2026/07/03/amazon-leo-constellation-nears-400-satellites-as-broadband-launch-looms/5266588",
             "https://www.cnbc.com/2026/07/02/amazon-has-deployed-enough-satellites-to-launch-leo-service-this-year.html"
+          ],
+          "places": [
+            "SEA"
+          ],
+          "guilds": [
+            "AMAZON"
           ]
         },
         {
@@ -387,7 +583,9 @@
           "sources": [
             "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-potentially-habitable-planet-just-25-light-years-away-this-one-is-exciting",
             "https://www.livescience.com/space/astronomy/james-webb-telescope-may-have-discovered-a-mysterious-never-before-seen-substance-on-pluto-and-titan"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -400,7 +598,13 @@
           "sources": [
             "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
             "https://www.science.org/content/article/first-ever-treatment-trial-ebola-bundibugyo-kicks-congo"
-          ]
+          ],
+          "places": [
+            "AFR",
+            "US-DC",
+            "UG"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -408,6 +612,12 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cwy01n5z48qo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/society/2026/jul/04/british-medical-association-union-could-axe-staff-cash-crisis"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "BMA"
           ]
         },
         {
@@ -416,14 +626,20 @@
           "sources": [
             "https://www.theguardian.com/society/2026/jul/02/women-from-minority-backgrounds-in-uk-less-likely-to-receive-epidurals-research-finds",
             "https://www.theguardian.com/society/2026/jul/02/from-birth-until-death-how-the-ethnicity-pain-gap-follows-people-through-life"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "A device that revives eyeballs from deceased donors could make eye transplants possible, researchers said, describing early progress toward restoring vision.",
           "sources": [
             "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -431,7 +647,11 @@
           "sources": [
             "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
             "https://www.livescience.com/health/viruses-infections-disease/11-year-old-boy-in-canada-dies-from-rabies-after-waking-up-with-a-bat-on-his-face"
-          ]
+          ],
+          "places": [
+            "CA"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -446,6 +666,12 @@
             "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/world/2026/jul/03/deaths-france-surged-hottest-week-record-heatwave-june"
           ],
+          "places": [
+            "EU",
+            "FR",
+            "UK"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -455,7 +681,11 @@
             "https://phys.org/news/2026-07-dangerous-roasts-america-big-birthday.html",
             "https://www.theguardian.com/us-news/2026/jul/04/washington-dc-fourth-of-july-parade-canceled-extreme-heat",
             "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -463,6 +693,10 @@
           "sources": [
             "https://www.livescience.com/planet-earth/climate-change/uncharted-territory-record-high-ocean-temperatures-confirmed-for-june-as-el-nino-strengthens-its-grip",
             "https://phys.org/news/2026-07-el-nino-strong.html"
+          ],
+          "places": [],
+          "guilds": [
+            "UN"
           ]
         },
         {
@@ -471,7 +705,12 @@
           "sources": [
             "https://www.independent.co.uk/news/world/europe/thessaloniki-greece-fires-evacuation-b3009154.html",
             "https://www.theguardian.com/world/gallery/2026/jul/03/wildfires-sweep-across-france-in-pictures"
-          ]
+          ],
+          "places": [
+            "GR",
+            "FR"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -479,7 +718,11 @@
           "sources": [
             "https://phys.org/news/2026-07-greenland-meltwater-amoc-weakening-sight.html",
             "https://phys.org/news/2026-06-seas-rare-coastal.html"
-          ]
+          ],
+          "places": [
+            "GL"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -492,7 +735,11 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/jul/04/neo-fascist-patriot-front-washington-dc",
             "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
@@ -500,7 +747,11 @@
           "sources": [
             "https://www.independent.co.uk/news/world/americas/us-politics/trump-e-jean-carroll-payout-defeat-b3009070.html",
             "https://timesofindia.indiatimes.com/world/us/donald-trump-seeks-more-time-for-5-million-sexual-abuse-payout-to-e-jean-carroll-latter-senses-conspiracy/articleshow/132189787.cms"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -508,7 +759,11 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/jul/04/trump-pardons-11-people-fourth-of-july",
             "https://www.dw.com/en/us-president-trump-pardons-11-people-including-clean-air-act-violators/a-77829438?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -516,7 +771,12 @@
           "sources": [
             "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
             "https://www.theguardian.com/world/2026/jul/01/pakistan-roof-collapse-lahore-tutoring-learning-centre"
-          ]
+          ],
+          "places": [
+            "TH",
+            "PK"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -524,7 +784,12 @@
           "sources": [
             "https://www.npr.org/2026/07/04/nx-s1-5879160/pope-leo-visits-lampedusa-to-spotlight-missing-migrants",
             "https://www.independent.co.uk/news/world/americas/us-politics/pope-leo-july-4-letter-immigrants-lampedusa-b3008974.html"
-          ]
+          ],
+          "places": [
+            "VA",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
@@ -532,6 +797,12 @@
           "sources": [
             "https://thehackernews.com/2026/07/european-parliament-member.html",
             "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/"
+          ],
+          "places": [
+            "EU"
+          ],
+          "guilds": [
+            "EUCOMMISSION"
           ]
         }
       ]
@@ -547,6 +818,12 @@
             "https://www.espn.com/soccer/story/_/id/49270266/morocco-defeat-co-hosts-canada-first-team-world-cup-quarterfinals-azzedine-ounahi-soufiane-rahimi",
             "https://www.theguardian.com/football/2026/jul/04/argentina-cape-verde-world-cup-2026-last-32-match-report"
           ],
+          "places": [
+            "FR",
+            "PY",
+            "MA"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -556,7 +833,13 @@
             "https://www.theguardian.com/football/2026/jul/03/australia-egypt-world-cup-2026-last-32-match-report",
             "https://www.theguardian.com/football/2026/jul/04/colombia-ghana-world-cup-2026-last-32-match-report",
             "https://www.theguardian.com/football/2026/jul/03/manzambi-switzerland-world-cup-algeria-match-report"
-          ]
+          ],
+          "places": [
+            "EG",
+            "AU",
+            "CO"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -564,7 +847,12 @@
           "sources": [
             "https://www.theguardian.com/football/2026/jul/01/folarin-balogun-red-card-goal-usmnt-world-cup-birthright-citizenship",
             "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US",
+            "BE"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -572,7 +860,12 @@
           "sources": [
             "https://www.theguardian.com/football/2026/jul/05/world-cup-last-16-england-thomas-tuchel-mexico-city-azteca",
             "https://www.skysports.com/watch/video/13560553/england-vs-mexico-tuchel-not-concerned-about-expected-stormy-weather-in-mexico"
-          ]
+          ],
+          "places": [
+            "UK",
+            "MX"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -580,7 +873,12 @@
           "sources": [
             "https://www.theguardian.com/sport/live/2026/jul/05/england-v-australia-womens-t20-cricket-world-cup-final-live",
             "https://www.skysports.com/cricket/live-blog/12040/13560606/womens-t20-world-cup-final-australia-vs-england-live-latest-cricket-score-updates-video-and-analysis-from-lords"
-          ]
+          ],
+          "places": [
+            "UK",
+            "AU"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -588,7 +886,12 @@
           "sources": [
             "https://www.france24.com/en/vingegaard-takes-yellow-jersey-as-tour-de-france-begins-in-barcelona",
             "https://www.bbc.co.uk/sport/cycling/articles/cvgjzdvx3v2o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "FR",
+            "ES"
+          ],
+          "guilds": []
         },
         {
           "type": "DEPRECATED",
@@ -596,7 +899,11 @@
           "sources": [
             "https://www.skysports.com/watch/video/13560549/wimbledon-day-6-wrap-defending-champ-swiatek-crashes-out-whilst-fritz-tiafoe-dimitrov-advance",
             "https://www.bbc.co.uk/sport/tennis/articles/cg53p7mn85mo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         }
       ]
     }

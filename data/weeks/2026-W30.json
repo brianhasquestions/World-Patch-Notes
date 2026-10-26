@@ -23,6 +23,12 @@
             "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-houthis-oil-strait-hormuz-b3021660.html",
             "https://www.theguardian.com/world/2026/jul/25/houthis-vow-retaliate-saudi-strikes-yemen-iran-war"
           ],
+          "places": [
+            "IR",
+            "US-DC",
+            "YE"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -31,7 +37,12 @@
           "sources": [
             "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
             "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "UA",
+            "IR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -40,6 +51,14 @@
             "https://timesofindia.indiatimes.com/world/europe/inadmissible-and-intolerable-romania-shoots-down-third-suspected-russian-drone-in-three-days-summons-moscows-envoy/articleshow/132641777.cms",
             "https://www.dw.com/en/russia-hits-drone-demonstration-near-kyiv-killing-10/a-78105704?maca=en-rss-en-world-4025-rdf",
             "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UA",
+            "RU",
+            "RO"
+          ],
+          "guilds": [
+            "NATO"
           ]
         },
         {
@@ -50,6 +69,10 @@
             "https://www.independent.co.uk/news/world/europe/berlin-pride-attack-parade-suspect-abdul-b-car-latest-news-b3021647.html",
             "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "DE"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -60,6 +83,14 @@
             "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
             "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/"
           ],
+          "places": [
+            "FR",
+            "ES",
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
+          ],
           "highlight": true
         },
         {
@@ -69,7 +100,13 @@
             "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
             "https://www.aljazeera.com/news/2026/7/26/eighteen-people-missing-in-south-china-sea-after-vietnamese-ship-sank?traffic_source=rss",
             "https://phys.org/news/2026-07-china-evacuates-people-typhoon-noul.html"
-          ]
+          ],
+          "places": [
+            "GY",
+            "VN",
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -78,7 +115,13 @@
             "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
             "https://www.france24.com/en/israel-detains-over-70-suspects-following-deadly-violence-in-the-west-bank",
             "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "WB",
+            "IL",
+            "PS"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -93,6 +136,10 @@
             "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike"
           ],
+          "places": [
+            "IN"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -102,6 +149,13 @@
             "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
             "https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/business/2026/jul/21/jp-morgan-andy-burnham-tax-banks-jamie-dimon"
+          ],
+          "places": [
+            "UK",
+            "US-DC"
+          ],
+          "guilds": [
+            "JPMORGAN"
           ]
         },
         {
@@ -111,7 +165,13 @@
             "https://www.independent.co.uk/news/world/americas/us-politics/lindsey-graham-sister-senate-appointment-trump-b3020467.html",
             "https://www.theguardian.com/us-news/2026/jul/25/troy-jackson-secures-democratic-nomination-maine-senate-seat",
             "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028"
-          ]
+          ],
+          "places": [
+            "US-SC",
+            "US-DC",
+            "US-ME"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -120,7 +180,11 @@
             "https://www.theguardian.com/us-news/2026/jul/26/trump-communism-democrats-red-scare",
             "https://www.independent.co.uk/tv/news/trump-running-for-third-term-video-b3021425.html",
             "https://thehill.com/homenews/administration/5990856-trump-urges-gop-terminate-filibuster/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
@@ -128,14 +192,22 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/jul/25/court-rejects-trump-mail-in-voting",
             "https://thehill.com/homenews/campaign/5990609-appeals-court-upholds-injunction-on-president-trumps-mail-in-voting-order/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Poland's main opposition party collapsed amid a shift toward far-right positions.",
           "sources": [
             "https://www.dw.com/en/poland-s-main-opposition-collapses-over-far-right-slide/a-78106475?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "PL"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -150,6 +222,11 @@
             "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
             "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html"
           ],
+          "places": [
+            "US-DC",
+            "CA"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -159,6 +236,15 @@
             "https://www.theregister.com/legal/2026/07/24/google-breaks-alibabas-record-for-europes-largest-dma-fine/5278017",
             "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
             "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html"
+          ],
+          "places": [
+            "EU",
+            "SFBAY",
+            "US-DC"
+          ],
+          "guilds": [
+            "GOOGLE",
+            "ALIBABA"
           ]
         },
         {
@@ -166,7 +252,11 @@
           "text": "US admins said they will phase in tariffs on generic drugs starting in 2028, a two-year-delayed push to bring pharmaceutical manufacturing back onshore.",
           "sources": [
             "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -174,14 +264,24 @@
           "sources": [
             "https://www.theguardian.com/business/2026/jul/24/trump-tariffs-uk-disadvantage-eu-turnberry-competition",
             "https://www.bbc.co.uk/news/articles/c7vgz680977o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "UK",
+            "EU"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "China's car market guilds face their worst year since 2021, with sales projected to plunge 20%.",
           "sources": [
             "https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html"
-          ]
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -196,6 +296,10 @@
             "https://www.theguardian.com/business/2026/jul/21/uk-borrowing-june-andy-burnham-ons-vat-electricity-bills",
             "https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households"
           ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -205,7 +309,11 @@
             "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
             "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
             "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html"
-          ]
+          ],
+          "places": [
+            "IR"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
@@ -214,6 +322,17 @@
             "https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings",
             "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
             "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html"
+          ],
+          "places": [
+            "US-TX",
+            "SFBAY",
+            "SEA"
+          ],
+          "guilds": [
+            "TESLA",
+            "GOOGLE",
+            "AMAZON",
+            "META"
           ]
         },
         {
@@ -223,6 +342,13 @@
             "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger",
             "https://www.bbc.co.uk/news/articles/c8en74yz5e7o?at_medium=RSS&at_campaign=rss",
             "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/"
+          ],
+          "places": [
+            "US-CA"
+          ],
+          "guilds": [
+            "PARAMOUNT",
+            "WBD"
           ]
         },
         {
@@ -232,6 +358,15 @@
             "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
             "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
             "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html"
+          ],
+          "places": [
+            "US-NYC",
+            "SFBAY"
+          ],
+          "guilds": [
+            "IBM",
+            "INTEL",
+            "NVIDIA"
           ]
         }
       ]
@@ -246,21 +381,29 @@
             "https://www.livescience.com/physics-mathematics/mathematics/fields-medal-2026-winners-include-mathematician-hong-wang-the-third-woman-to-ever-win-in-the-awards-90-year-history",
             "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
             "https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Research tree unlock: scientists supercooled kidneys and successfully transplanted them into pigs, a 'landmark achievement' for keeping organs alive outside the body longer.",
           "sources": [
             "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "An ancient ape fossil discovered in Egypt challenges the established story of human origins.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/07/260723084852.htm"
-          ]
+          ],
+          "places": [
+            "EG"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -269,7 +412,9 @@
             "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
             "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
             "https://www.sciencedaily.com/releases/2026/07/260722032108.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -277,7 +422,11 @@
           "sources": [
             "https://www.livescience.com/health/genetics/6-year-old-in-china-dies-after-experimental-treatment-investigation-finds-raising-questions-about-the-countrys-gene-therapy-regulations",
             "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public"
-          ]
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -292,6 +441,13 @@
             "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
             "https://www.livescience.com/technology/artificial-intelligence/no-openais-model-didnt-go-rogue-when-it-hacked-into-huggingface-heres-what-really-happened"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI",
+            "HUGGINGFACE"
+          ],
           "highlight": true
         },
         {
@@ -301,6 +457,12 @@
             "https://www.theregister.com/ai-and-ml/2026/07/25/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/5278630",
             "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
             "https://www.zdnet.com/article/claude-opus-5-near-fable-performance-at-half-the-price/"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "ANTHROPIC"
           ]
         },
         {
@@ -308,6 +470,14 @@
           "text": "A senior White House official said guild Moonshot AI's Kimi K3 model, shipped last week as the largest open-source drop yet, was stolen from guild Anthropic; the claim was not independently verified.",
           "sources": [
             "https://www.theregister.com/ai-and-ml/2026/07/23/senior-white-house-official-claims-chinas-k3-model-stolen-from-anthropic/5276804"
+          ],
+          "places": [
+            "US-DC",
+            "SFBAY"
+          ],
+          "guilds": [
+            "MOONSHOT",
+            "ANTHROPIC"
           ]
         },
         {
@@ -317,6 +487,15 @@
             "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
             "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
             "https://www.theregister.com/off-prem/2026/07/24/microsoft-fiber-foul-up-cut-off-azure-california-for-almost-five-hours/5277945"
+          ],
+          "places": [
+            "SEA",
+            "SFBAY",
+            "US-CA"
+          ],
+          "guilds": [
+            "MICROSOFT",
+            "OPENAI"
           ]
         },
         {
@@ -324,6 +503,12 @@
           "text": "Guild Meta pulled out of a renewable-energy initiative, saying it will rely more on natural-gas builds to power its data centers.",
           "sources": [
             "https://www.engadget.com/2222988/meta-has-pulled-out-of-a-renewable-energy-initiative-as-it-relies-more-on-natural-gas-for-data-centers/"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "META"
           ]
         }
       ]
@@ -338,6 +523,12 @@
             "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video",
             "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
             "https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/"
+          ],
+          "places": [
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         },
         {
@@ -345,6 +536,12 @@
           "text": "A NASA astronaut and two cosmonauts returned to Earth aboard a Soyuz capsule after 241 days on the space station.",
           "sources": [
             "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -352,6 +549,12 @@
           "text": "NASA's New Horizons spacecraft woke from a year-long hibernation to conduct unprecedented science beyond Pluto.",
           "sources": [
             "https://www.livescience.com/space/space-exploration/nasas-new-horizons-spacecraft-awakens-from-yearlong-hibernation-to-do-unprecedented-science-beyond-pluto"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -359,7 +562,11 @@
           "text": "China's Tianwen-1 probe captured images of interstellar comet 3I/ATLAS as it passed near Mars.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/07/260723084052.htm"
-          ]
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -374,6 +581,10 @@
             "https://www.theguardian.com/us-news/2026/jul/25/former-trump-administration-food-safety-official-federal-response-cyclospora",
             "https://www.npr.org/2026/07/26/nx-s1-5906408/how-cuts-to-federal-agencies-led-to-the-current-cyclosporiasis-outbreak"
           ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -383,7 +594,11 @@
             "https://www.npr.org/2026/07/24/nx-s1-5905694/u-s-reports-highest-number-of-measles-cases-in-35-years",
             "https://www.theguardian.com/society/2026/jul/24/us-measles-infections-record-high",
             "https://www.statnews.com/2026/07/24/measles-cases-surpass-2025-total-national-vaccination-rate-now-below-key-threshold/?utm_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
@@ -392,7 +607,11 @@
             "https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss",
             "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
             "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -400,14 +619,23 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/c8jn007gmpzo?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/cdewk5r308jo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK",
+            "CD"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "A US judge ruled that the FDA's restrictions on the abortion pill mifepristone are 'arbitrary and capricious.'",
           "sources": [
             "https://www.theguardian.com/us-news/2026/jul/24/fda-mifepristone-restrictions"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -421,7 +649,12 @@
             "https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/",
             "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
             "https://www.theguardian.com/world/2026/jul/22/japan-heat-kokushobi-cruelly-hot-40c-weather"
-          ]
+          ],
+          "places": [
+            "US",
+            "JP"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
@@ -429,14 +662,22 @@
           "sources": [
             "https://www.independent.co.uk/news/world/americas/donald-trump-united-states-energy-department-research-union-of-concerned-scientists-b3021735.html",
             "https://www.forbes.com/sites/kensilverstein/2026/07/26/the-ai-boom-is-making-nuclear-power-bankable-again/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "France's admins lifted a ban on a pesticide linked to bee deaths, prompting beekeepers to call the move 'scandalous, irrational and irresponsible.'",
           "sources": [
             "https://www.theguardian.com/world/2026/jul/26/french-beekeepers-fury-lifting-of-pesticides-ban"
-          ]
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -450,6 +691,12 @@
             "https://www.npr.org/2026/07/24/g-s1-135498/icc-court-prosecutor-karim-khan-vote",
             "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "NL"
+          ],
+          "guilds": [
+            "ICC"
+          ],
           "highlight": true
         },
         {
@@ -459,6 +706,14 @@
             "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
             "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
             "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html"
+          ],
+          "places": [
+            "US-DC",
+            "US-NYC",
+            "SFBAY"
+          ],
+          "guilds": [
+            "GOOGLE"
           ]
         },
         {
@@ -466,6 +721,13 @@
           "text": "A US senator accused guild Barclays of failing to investigate its former CEO's ties to Jeffrey Epstein.",
           "sources": [
             "https://www.theguardian.com/business/2026/jul/23/us-senator-barclays-jes-staley-jeffrey-epstein-failure-links-elizabeth-warren"
+          ],
+          "places": [
+            "US",
+            "UK"
+          ],
+          "guilds": [
+            "BARCLAYS"
           ]
         },
         {
@@ -474,7 +736,11 @@
           "sources": [
             "https://www.independent.co.uk/news/world/americas/us-politics/trump-warning-signs-smithsonian-museum-b3021508.html",
             "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -489,6 +755,14 @@
             "https://www.theguardian.com/sport/video/2026/jul/20/trump-and-infantino-booed-at-world-cup-final-video",
             "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video"
           ],
+          "places": [
+            "ES",
+            "AR",
+            "US-DC"
+          ],
+          "guilds": [
+            "FIFA"
+          ],
           "highlight": true
         },
         {
@@ -498,7 +772,11 @@
             "https://www.espn.com/boxing/story/_/id/49449387/anthony-joshua-survives-two-knockdowns-ko-kristian-prenga",
             "https://www.bbc.co.uk/sport/boxing/articles/cz05133k3nxo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/sport/2026/jul/26/tim-tszyu-errol-spence-fight-retirement"
-          ]
+          ],
+          "places": [
+            "SA"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -506,6 +784,13 @@
           "sources": [
             "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-nba-free-agency",
             "https://www.espn.com/nba/story/_/id/49440496/answering-biggest-questions-lebron-james-philadelphia-76ers-jaylen-brown"
+          ],
+          "places": [
+            "US-PA"
+          ],
+          "guilds": [
+            "NBA",
+            "LAKERS"
           ]
         },
         {
@@ -514,14 +799,22 @@
           "sources": [
             "https://www.theguardian.com/sport/2026/jul/25/tadej-pogacar-tour-de-france-ricardo-carapaz-wildfires-cycling",
             "https://www.dw.com/en/tour-de-france-final-stage-shortened-due-to-wildfires/a-78114336?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Jurgen Klopp officially took over as Germany's head coach, saying he plans to overhaul the squad but threatening to quit if his family is hounded by media.",
           "sources": [
             "https://www.theguardian.com/football/2026/jul/24/germany-confirm-jurgen-klopp-new-head-coach"
-          ]
+          ],
+          "places": [
+            "DE"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -529,6 +822,12 @@
           "sources": [
             "https://www.cbssports.com/wnba/news/cathy-engelbert-wnba-all-star-game-future-uncertain/",
             "https://www.espn.com/wnba/story/_/id/49436321/wnba-2026-cathy-engelbert-commissioner-future-all-star-break"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": [
+            "WNBA"
           ]
         }
       ]

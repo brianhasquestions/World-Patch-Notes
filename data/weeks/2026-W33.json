@@ -23,6 +23,11 @@
             "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-news-trump-qatar-pilot-detention-b3033790.html",
             "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers"
           ],
+          "places": [
+            "US-DC",
+            "IR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -31,7 +36,13 @@
           "sources": [
             "https://timesofindia.indiatimes.com/world/middle-east/iran-moves-to-criminalise-interviews-with-us-israeli-media-with-prison-terms-up-to-30-years/articleshow/133277296.cms",
             "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "IR",
+            "US",
+            "IL"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -41,6 +52,12 @@
             "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-world-4025-rdf",
             "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss"
           ],
+          "places": [
+            "PS",
+            "EG",
+            "IL"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -50,7 +67,13 @@
             "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
             "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
             "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police"
-          ]
+          ],
+          "places": [
+            "IL",
+            "WB",
+            "PS"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -58,7 +81,13 @@
           "sources": [
             "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
             "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "IL",
+            "LB",
+            "TR"
+          ],
+          "guilds": []
         },
         {
           "type": "HOTFIX",
@@ -67,6 +96,15 @@
             "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
             "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-news-rocket-facility-hit-b3033769.html",
             "https://www.independent.co.uk/news/world/europe/romania-russia-drone-nato-jets-b3033793.html"
+          ],
+          "places": [
+            "UA",
+            "RU",
+            "RO"
+          ],
+          "guilds": [
+            "WILDBERRIES",
+            "NATO"
           ],
           "highlight": true
         },
@@ -77,6 +115,10 @@
             "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
             "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss"
           ],
+          "places": [
+            "ID"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -85,7 +127,11 @@
           "sources": [
             "https://www.france24.com/en/africa/20260816-death-toll-from-zimbabwe-capsized-ferry-accident-rises-to-80",
             "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident"
-          ]
+          ],
+          "places": [
+            "ZW"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -93,7 +139,12 @@
           "sources": [
             "https://www.theguardian.com/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims",
             "https://www.france24.com/en/europe/20260816-poland-registered-bus-veers-off-hungary-highway-killing-12-people"
-          ]
+          ],
+          "places": [
+            "PL",
+            "HU"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -101,7 +152,12 @@
           "sources": [
             "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
             "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "MA",
+            "ES"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -115,6 +171,10 @@
             "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
             "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss"
           ],
+          "places": [
+            "BR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -124,7 +184,11 @@
             "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
             "https://thehill.com/homenews/senate/6032102-cassidy-accuses-rfk-broken-pledge/",
             "https://thehill.com/homenews/senate/6032064-cassidy-criticizes-trump-vaccine-order/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -132,7 +196,11 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house",
             "https://thehill.com/homenews/administration/6032206-blanche-rejects-independence-pledge/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -141,21 +209,35 @@
             "https://www.independent.co.uk/news/world/americas/us-politics/trump-george-washington-ai-white-house-ballroom-b3033816.html",
             "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-world-4025-rdf",
             "https://www.independent.co.uk/news/world/americas/us-politics/trump-poll-economy-midterms-2026-b3033916.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "A petition push to remove the US ambassador from Canada expands, with '51st state' rhetoric expected to resurface in the Canadian legislature this fall.",
           "sources": [
             "https://www.independent.co.uk/news/world/americas/us-politics/canada-petition-hoekstra-ambassador-trump-b3033712.html"
-          ]
+          ],
+          "places": [
+            "US",
+            "CA"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "South Korea's admins propose talks to officially end the decades-long war with the North Korea team.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "KR",
+            "KP"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -169,6 +251,11 @@
             "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
             "https://www.npr.org/2026/08/16/nx-s1-5930384/companies-are-getting-tariff-refunds-of-up-to-2-billion-from-the-trump-administration"
           ],
+          "places": [
+            "US-DC",
+            "CN"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -176,14 +263,24 @@
           "text": "Colombia's admins ask the US admin to pause tariffs to aid earthquake recovery.",
           "sources": [
             "https://www.independent.co.uk/news/world/americas/colombia-president-trump-tariffs-earthquake-recovery-b3033915.html"
-          ]
+          ],
+          "places": [
+            "CO",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "Guilds brace as the deadline nears for Trump's 50% tariff patch on the Canada team, with businesses on both sides of the border reporting strain.",
           "sources": [
             "https://www.npr.org/2026/08/13/nx-s1-5927326-e1/businesses-feel-the-strain-as-the-deadline-for-trumps-50-canadian-tariff-approaches"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "CA"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -198,6 +295,10 @@
             "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
             "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows"
           ],
+          "places": [
+            "US"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -206,7 +307,11 @@
           "sources": [
             "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html",
             "https://www.theguardian.com/business/2026/aug/12/credit-card-debt-increase-fed-report"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -214,7 +319,13 @@
           "sources": [
             "https://www.npr.org/2026/08/16/nx-s1-5930403/u-s-oil-reserves-hit-the-lowest-level-seen-in-over-40-years",
             "https://www.theguardian.com/business/2026/aug/12/panama-canal-fees-iran-war-el-nino-ship-jump-queue"
-          ]
+          ],
+          "places": [
+            "US",
+            "IR",
+            "PA"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
@@ -222,7 +333,12 @@
           "sources": [
             "https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons",
             "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK",
+            "IR"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -236,7 +352,9 @@
             "https://www.sciencedaily.com/releases/2026/08/260813045538.htm",
             "https://phys.org/news/2026-08-black-hole-star-astronomers-brand.html",
             "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -244,14 +362,18 @@
           "sources": [
             "https://www.livescience.com/space/astronomy/astronomers-created-the-largest-ever-2d-map-of-the-universe-charting-4-billion-objects-in-the-night-sky",
             "https://www.space.com/astronomy/scientists-create-largest-2d-map-of-the-universe-with-5-6-trillion-pixels-and-nearly-4-billion-cosmic-objects"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Physicists unlock a hidden gluon structure inside protons that could rewrite the textbook recipe for how matter is built.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/08/260815064805.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -266,6 +388,15 @@
             "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
             "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html"
           ],
+          "places": [
+            "SFBAY",
+            "US-NYC",
+            "STARBASE"
+          ],
+          "guilds": [
+            "NVIDIA",
+            "SPACEX"
+          ],
           "highlight": true
         },
         {
@@ -275,6 +406,13 @@
             "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
             "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
             "https://www.engadget.com/2237691/anthropic-watermarking-text-generated-by-claude/"
+          ],
+          "places": [
+            "SFBAY",
+            "EU"
+          ],
+          "guilds": [
+            "ANTHROPIC"
           ]
         },
         {
@@ -283,6 +421,14 @@
           "sources": [
             "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
             "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+          ],
+          "places": [
+            "SFBAY",
+            "CN"
+          ],
+          "guilds": [
+            "OPENAI",
+            "ANTHROPIC"
           ]
         },
         {
@@ -292,7 +438,11 @@
             "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done",
             "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
             "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html"
-          ]
+          ],
+          "places": [
+            "TW"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -306,6 +456,12 @@
             "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
             "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2026-thrills-millions-with-a-stunning-cosmic-spectacle-photos-video"
           ],
+          "places": [
+            "EU",
+            "UK",
+            "GL"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -314,6 +470,12 @@
           "sources": [
             "https://www.space.com/space-exploration/artemis/artemis-ii-pilot-thanks-nasa-for-letting-him-fly-orion-by-hand-im-still-blown-away-by-that-trust",
             "https://spaceflightnow.com/2026/08/14/nasa-administrator-extremely-confident-in-artemis-3-launch-in-2027/"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -321,6 +483,12 @@
           "text": "Guild SpaceX ships a record back-to-back Falcon 9 double header, launching two rockets just 38 minutes apart.",
           "sources": [
             "https://www.space.com/space-exploration/launches-spacecraft/spacex-breaks-record-launch-doubleheader-ussf-366-globalstar-2r"
+          ],
+          "places": [
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         }
       ]
@@ -333,7 +501,11 @@
           "text": "The FDA, a US admin agency, approves a new mRNA vaccine, though experts say the move doesn't necessarily signal the admin's broader embrace of mRNA tech given the current vaccine-skeptic climate.",
           "sources": [
             "https://www.livescience.com/health/medicine-drugs/fdas-approval-of-new-mrna-vaccine-does-not-necessarily-signal-the-governments-embrace-of-the-technology-experts-say"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
@@ -341,7 +513,11 @@
           "sources": [
             "https://www.npr.org/2026/08/14/nx-s1-5929518/doctors-say-medicaid-change-to-gender-affirming-care-will-harm-vulnerable-youth",
             "https://www.statnews.com/2026/08/14/cms-transgender-care-rule-how-will-legal-challenges-fare/?utm_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -350,21 +526,33 @@
             "https://www.theguardian.com/us-news/2026/aug/15/egg-recall-us-south-and-south-west-salmonella-outbreak",
             "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
             "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "England's admins are on track to become one of the first teams worldwide to eliminate hepatitis C.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "The DRC's Ebola outbreak spreads to a sixth province, its fastest-growing flare-up in years.",
           "sources": [
             "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province"
-          ]
+          ],
+          "places": [
+            "CD"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -378,7 +566,13 @@
             "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
             "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
             "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves"
-          ]
+          ],
+          "places": [
+            "EU",
+            "BE",
+            "DE"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
@@ -386,21 +580,31 @@
           "sources": [
             "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
             "https://www.theguardian.com/business/2026/aug/16/water-companies-england-and-wales-explore-surge-pricing-bills-drought"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "The world's oceans post their hottest July on record.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Romania's admins shut the team's only nuclear plant as heat drives a huge drop in the Danube River's level.",
           "sources": [
             "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "RO"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -413,7 +617,11 @@
           "sources": [
             "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
             "https://www.statnews.com/2026/08/14/luigi-mangione-federal-charges-guilty-plea-killing-of-unitedhealthcare-ceo-brian-thompson/?utm_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": []
         },
         {
           "type": "EXPLOIT",
@@ -421,7 +629,11 @@
           "sources": [
             "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
             "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma"
-          ]
+          ],
+          "places": [
+            "IT"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -429,6 +641,12 @@
           "sources": [
             "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
             "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-world-4025-rdf"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "CAMBRIDGE"
           ]
         },
         {
@@ -437,7 +655,11 @@
           "sources": [
             "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -451,6 +673,13 @@
             "https://www.theguardian.com/football/2026/aug/14/liverpool-fc-ownership-stake-sale-jeff-bezos-consortium",
             "https://www.bbc.co.uk/sport/basketball/articles/crrvprlvq7eo?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "LIVERPOOL",
+            "LAKERS"
+          ],
           "highlight": true
         },
         {
@@ -459,6 +688,13 @@
           "sources": [
             "https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete-barcelona-move-after-manchester-city-accept-654m-bid",
             "https://www.espn.com/soccer/story/_/id/49630831/barcelona-manchester-city-agree-765m-deal-rodri-transfer-sources"
+          ],
+          "places": [
+            "ES",
+            "UK"
+          ],
+          "guilds": [
+            "MANCITY"
           ]
         },
         {
@@ -467,6 +703,13 @@
           "sources": [
             "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report",
             "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "ARSENAL",
+            "MANCITY"
           ]
         },
         {
@@ -474,6 +717,12 @@
           "text": "Islam Makhachev breaks the UFC win record with a win over Ian Machado Garry at UFC 330, cementing his status as the promotion's top pound-for-pound player.",
           "sources": [
             "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c8dnn7d01p5o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": [
+            "UFC"
           ]
         },
         {
@@ -482,7 +731,13 @@
           "sources": [
             "https://www.france24.com/en/sport/20260816-wafcon-malawi-and-cameroon-face-off-for-historic-first-crown",
             "https://www.espn.com/espn/story/_/id/49625676/2026-wafcon-final-malawi-run-most-remarkable-major-tournament-performance-ever-temwa-tabitha-chawinga"
-          ]
+          ],
+          "places": [
+            "MW",
+            "CM",
+            "AFR"
+          ],
+          "guilds": []
         }
       ]
     }

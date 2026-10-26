@@ -23,6 +23,10 @@
             "https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation",
             "https://www.france24.com/en/video/20261018-renewed-clashes-in-paris-we-ve-seen-numerous-crs-charges-to-disperse-protesters"
           ],
+          "places": [
+            "FR"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -32,7 +36,11 @@
             "https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation",
             "https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest",
             "https://www.france24.com/en/video/20261018-france-protests-there-s-a-constant-back-and-forth-over-who-s-actually-responsible"
-          ]
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -40,7 +48,13 @@
           "sources": [
             "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
             "https://www.france24.com/en/video/20261018-trump-says-france-is-burning-country-shattered-by-immigration"
-          ]
+          ],
+          "places": [
+            "EU",
+            "IT",
+            "PT"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -49,7 +63,11 @@
             "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
             "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
             "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "AL"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -58,6 +76,14 @@
             "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
             "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
             "https://timesofindia.indiatimes.com/world/middle-east/egypt-pledges-support-for-saudi-arabia-as-houthi-attacks-escalate/articleshow/135028891.cms"
+          ],
+          "places": [
+            "YE",
+            "GULF",
+            "SA"
+          ],
+          "guilds": [
+            "ARAMCO"
           ],
           "highlight": true
         },
@@ -69,6 +95,12 @@
             "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
             "https://thehill.com/policy/energy-environment/6156572-bessent-oil-prices-iran-conflict/"
           ],
+          "places": [
+            "IR",
+            "UK",
+            "US-DC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -79,6 +111,12 @@
             "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
             "https://thehill.com/homenews/administration/6156538-pence-condemns-trump-putin-agreement/"
           ],
+          "places": [
+            "RU",
+            "US-DC",
+            "UA"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -88,6 +126,14 @@
             "https://www.france24.com/en/tv-shows/tech-24/20261018-who-capped-starlink-in-ukraine-musk-trump-and-rubio-give-three-different-answers",
             "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
             "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UA",
+            "RU",
+            "US-DC"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         },
         {
@@ -97,7 +143,13 @@
             "https://www.france24.com/en/europe/20261018-ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack",
             "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
             "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "UA",
+            "RU",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -107,6 +159,12 @@
             "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine"
           ],
+          "places": [
+            "WB",
+            "IL",
+            "EU"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -114,7 +172,12 @@
           "text": "Gaza server: Israel's admins halt commercial shipments into Gaza, and residents report rising prices and fear food shortages, saying families cannot afford extra supplies.",
           "sources": [
             "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "PS",
+            "IL"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -123,7 +186,13 @@
             "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
             "https://www.newscientist.com/article/2594324-el-nino-has-killed-hundreds-of-children-in-sudan/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
             "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "AFR",
+            "SD",
+            "ET"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -137,7 +206,12 @@
             "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
             "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
             "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-TX"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -147,6 +221,10 @@
             "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
             "https://thehill.com/homenews/administration/6156602-obama-trump-targets-omar-probe/"
           ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -156,7 +234,11 @@
             "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
             "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
             "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -164,7 +246,12 @@
           "sources": [
             "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
             "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election"
-          ]
+          ],
+          "places": [
+            "IL",
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -172,7 +259,11 @@
           "sources": [
             "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
             "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election"
-          ]
+          ],
+          "places": [
+            "BR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -181,7 +272,11 @@
             "https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests",
             "https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site",
             "https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest"
-          ]
+          ],
+          "places": [
+            "IN"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -194,6 +289,13 @@
           "sources": [
             "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles"
           ],
+          "places": [
+            "EU",
+            "CN"
+          ],
+          "guilds": [
+            "WTO"
+          ],
           "highlight": true
         },
         {
@@ -201,7 +303,13 @@
           "text": "UK team: Downing Street leaves open imposing tariffs on Chinese-made EVs as part of the Made in Europe package, after France drops opposition to a UK role in the EU's Industrial Accelerator Act; Beijing warns such a move would be 'discriminatory'.",
           "sources": [
             "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme"
-          ]
+          ],
+          "places": [
+            "UK",
+            "CN",
+            "EU"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -210,6 +318,15 @@
             "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
             "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
             "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html"
+          ],
+          "places": [
+            "CN",
+            "EU",
+            "US-DC"
+          ],
+          "guilds": [
+            "MASTERCARD",
+            "CITI"
           ]
         }
       ]
@@ -225,6 +342,10 @@
             "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
             "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits"
           ],
+          "places": [
+            "US"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -234,7 +355,11 @@
             "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
             "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
             "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html"
-          ]
+          ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -243,6 +368,13 @@
             "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
             "https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
             "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html"
+          ],
+          "places": [
+            "US",
+            "KR"
+          ],
+          "guilds": [
+            "SAMSUNG"
           ],
           "highlight": true
         },
@@ -253,6 +385,12 @@
             "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
             "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
             "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "IMF"
           ]
         },
         {
@@ -262,6 +400,12 @@
             "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget",
             "https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "IMF"
           ]
         },
         {
@@ -270,6 +414,12 @@
           "sources": [
             "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
             "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "BOFA"
           ]
         }
       ]
@@ -283,7 +433,11 @@
           "sources": [
             "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
             "https://www.sciencedaily.com/releases/2026/10/261017230035.htm"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "DEPRECATED",
@@ -291,7 +445,11 @@
           "sources": [
             "https://www.newscientist.com/article/2594285-scientists-have-just-voted-to-abolish-leap-seconds/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
             "https://www.wired.com/story/leap-second-is-abolished-bipm-says/"
-          ]
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -299,6 +457,12 @@
           "sources": [
             "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
             "https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI"
           ]
         },
         {
@@ -306,7 +470,9 @@
           "text": "New recipe: bleached corals on the brink of death fully recover within seven weeks in a lab after brief contact with healthy clones, the fastest documented recovery, according to a study in Science Advances.",
           "sources": [
             "https://phys.org/news/2026-10-scientists-reverse-coral.html"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -319,6 +485,12 @@
           "sources": [
             "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
             "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "ANTHROPIC"
           ]
         },
         {
@@ -327,6 +499,12 @@
           "sources": [
             "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
             "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "ANTHROPIC"
           ]
         },
         {
@@ -335,6 +513,12 @@
           "sources": [
             "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
             "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI"
           ]
         },
         {
@@ -344,6 +528,13 @@
             "https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit",
             "https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit",
             "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI",
+            "APPLE"
           ]
         },
         {
@@ -353,6 +544,12 @@
             "https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658",
             "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
             "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "META"
           ]
         },
         {
@@ -362,6 +559,13 @@
             "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
             "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
             "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html"
+          ],
+          "places": [
+            "SEA",
+            "FR"
+          ],
+          "guilds": [
+            "MICROSOFT"
           ]
         }
       ]
@@ -376,6 +580,14 @@
             "https://www.newscientist.com/article/2594332-japan-is-launching-a-mission-to-marss-largest-moon-phobos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
             "https://phys.org/news/2026-10-japan-spacecraft-mission-samples-martian.html",
             "https://www.space.com/space-exploration/asteroid-comet-missions/four-years-ago-nasa-punched-an-asteroid-europes-hera-probe-arrives-this-month-to-inspect-the-wreckage"
+          ],
+          "places": [
+            "JP",
+            "EU",
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -385,6 +597,12 @@
             "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas",
             "https://www.space.com/space-exploration/launches-spacecraft/the-1st-spacex-starship-to-survive-a-launch-to-space-just-came-home-to-its-launch-site",
             "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking"
+          ],
+          "places": [
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
           ]
         },
         {
@@ -394,6 +612,15 @@
             "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/",
             "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
             "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-pushes-1st-launch-of-next-gen-neutron-rocket-to-2027"
+          ],
+          "places": [
+            "SEA",
+            "US-FL",
+            "US-CA"
+          ],
+          "guilds": [
+            "BLUEORIGIN",
+            "ROCKETLAB"
           ]
         }
       ]
@@ -407,6 +634,11 @@
           "sources": [
             "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss"
           ],
+          "places": [
+            "KE",
+            "CD"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -415,7 +647,12 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
             "https://thehill.com/policy/healthcare/6149649-us-measles-outbreak-messaging-gap/"
-          ]
+          ],
+          "places": [
+            "US-PA",
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -423,7 +660,13 @@
           "sources": [
             "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
             "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery"
-          ]
+          ],
+          "places": [
+            "VA",
+            "IT",
+            "LATAM"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -432,7 +675,11 @@
             "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
             "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
             "https://www.statnews.com/2026/10/15/health-policy-news-fda-califf-gottlieb-sharpless-criticize-hhs-leadership/?utm_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -441,7 +688,11 @@
             "https://www.theguardian.com/society/2026/oct/15/trans-women-no-longer-to-be-placed-on-female-only-wards-under-new-nhs-england-guidance",
             "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/society/2026/oct/18/nhs-england-guidance-single-sex-wards-trans-people-adverse-impacts-report"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -455,6 +706,13 @@
             "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
             "https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide",
             "https://phys.org/news/2026-10-el-nio-storm-weather-disaster.html"
+          ],
+          "places": [
+            "PAC",
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         },
         {
@@ -463,6 +721,13 @@
           "sources": [
             "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
             "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "BR",
+            "SEA"
+          ],
+          "guilds": [
+            "AMAZON"
           ]
         },
         {
@@ -472,7 +737,13 @@
             "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal",
             "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "NP",
+            "TR",
+            "US-CA"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -480,7 +751,12 @@
           "sources": [
             "https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads",
             "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires"
-          ]
+          ],
+          "places": [
+            "ID",
+            "ASIA"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -489,7 +765,13 @@
             "https://spectrum.ieee.org/fervo-cape-station-geothermal",
             "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
             "https://www.theguardian.com/us-news/2026/oct/17/arizona-nevada-water-rights-colorado-river"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-AZ",
+            "US-NV"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -503,7 +785,11 @@
             "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
             "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "US-OR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -511,7 +797,11 @@
           "sources": [
             "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
             "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings"
-          ]
+          ],
+          "places": [
+            "US-KS"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -519,7 +809,11 @@
           "sources": [
             "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
             "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
-          ]
+          ],
+          "places": [
+            "CA"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -528,7 +822,12 @@
             "https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead",
             "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
             "https://www.france24.com/en/video/20261018-out-of-control-truck-kills-13-at-hindu-festival-in-india"
-          ]
+          ],
+          "places": [
+            "PK",
+            "IN"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -537,6 +836,12 @@
             "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban",
             "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
             "https://thehill.com/policy/energy-environment/6156714-trump-plans-east-potomac-golf/"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "POLITICO"
           ]
         },
         {
@@ -544,6 +849,12 @@
           "text": "Flydubai guild flight FZ1073: captain Smit Machchhar describes blocking axe blows to his head and screaming for help after a co-pilot attacked him as he reached to open the cockpit door, and the co-pilot reportedly intended to crash the plane.",
           "sources": [
             "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073"
+          ],
+          "places": [
+            "AE"
+          ],
+          "guilds": [
+            "FLYDUBAI"
           ]
         }
       ]
@@ -560,6 +871,14 @@
             "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss",
             "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
             "https://www.aljazeera.com/sports/2026/10/18/madueke-scores-only-goal-as-below-par-arsenal-beat-nottingham-forest?traffic_source=rss"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "PREMIERLEAGUE",
+            "ARSENAL",
+            "MANUTD"
           ]
         },
         {
@@ -569,6 +888,14 @@
             "https://www.theguardian.com/football/2026/oct/17/manchester-city-ipswich-premier-league-match-report",
             "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated"
+          ],
+          "places": [
+            "UK",
+            "AE"
+          ],
+          "guilds": [
+            "PREMIERLEAGUE",
+            "MANCITY"
           ]
         },
         {
@@ -578,6 +905,14 @@
             "https://www.theguardian.com/football/video/2026/oct/15/psg-pummel-manchester-city-while-villa-and-liverpool-hit-six-football-weekly-extra-video",
             "https://www.theguardian.com/football/2026/oct/15/champions-league-review-psg-man-city-viking-stavanger",
             "https://www.espn.com/soccer/story/_/id/50206341/lionel-messi-goals-inter-miami-atlanta-united-mls"
+          ],
+          "places": [
+            "EU",
+            "FR",
+            "UK"
+          ],
+          "guilds": [
+            "MANCITY"
           ]
         },
         {
@@ -586,6 +921,12 @@
           "sources": [
             "https://www.espn.com/soccer/story/_/id/50197782/gianni-infantino-fifa-president-election-far-certain",
             "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "FIFA"
           ]
         },
         {
@@ -595,7 +936,12 @@
             "https://www.espn.com/boxing/story/_/id/50195087/daniel-dubois-fabio-wardley-live-boxing-latest-updates-results-analysis-news",
             "https://www.theguardian.com/sport/2026/oct/17/auburn-georgia-college-football-upset-mcpherson-field-goal",
             "https://www.espn.com/college-football/story/_/id/50211687/miami-climbs-1-byu-2-chaotic-week-upends-top-25"
-          ]
+          ],
+          "places": [
+            "GE",
+            "US-FL"
+          ],
+          "guilds": []
         }
       ]
     }

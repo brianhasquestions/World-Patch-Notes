@@ -23,6 +23,12 @@
             "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
             "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab"
           ],
+          "places": [
+            "ME",
+            "IR",
+            "US"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -32,7 +38,13 @@
             "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-naval-drone-battle-dayana-yastremska-b3049332.html",
             "https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-world-4025-rdf",
             "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-world-4025-rdf"
-          ]
+          ],
+          "places": [
+            "UA",
+            "RU",
+            "MD"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -42,6 +54,10 @@
             "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
             "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns"
           ],
+          "places": [
+            "ID"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -51,7 +67,12 @@
             "https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss",
             "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas",
             "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "PAC",
+            "PH"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -60,7 +81,12 @@
             "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
             "https://www.independent.co.uk/news/world/europe/france-train-derailment-police-sabotage-b3049138.html",
             "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "CL",
+            "FR"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -68,7 +94,13 @@
           "sources": [
             "https://www.theguardian.com/world/2026/sep/12/idf-soldier-filmed-shooting-palestinian-in-leg-amid-west-bank-settler-standoff",
             "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss"
-          ]
+          ],
+          "places": [
+            "WB",
+            "IL",
+            "PS"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -83,6 +115,11 @@
             "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
             "https://www.independent.co.uk/news/world/europe/sweden-election-democrats-far-right-polls-b3048403.html"
           ],
+          "places": [
+            "SE",
+            "DE"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -92,7 +129,11 @@
             "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
             "https://www.theguardian.com/politics/live/2026/sep/13/reform-uk-nigel-farage-robert-jenrick-christopher-harborne-ben-delo-donations-funding-anthropic-ai-uk-politics-latest-news-updates",
             "https://www.theguardian.com/politics/2026/sep/13/reform-uk-donations-new-bill-retrospective-effect-angela-rayner"
-          ]
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -101,7 +142,11 @@
             "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats",
             "https://thehill.com/homenews/campaign/6085055-gop-cruz-muslim-democrats-midterms/",
             "https://www.theguardian.com/us-news/2026/sep/12/democrats-republican-midterm-convention"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -111,6 +156,12 @@
             "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
             "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html"
           ],
+          "places": [
+            "IN",
+            "CN",
+            "ME"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -120,7 +171,13 @@
             "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss",
             "https://www.dw.com/en/trump-visits-ireland-says-unification-would-be-fantastic/a-79244685?maca=en-rss-en-world-4025-rdf",
             "https://www.independent.co.uk/news/world/europe/trump-ireland-reunification-reform-jenrick-b3049314.html"
-          ]
+          ],
+          "places": [
+            "IE",
+            "US-DC",
+            "UK"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -129,7 +186,11 @@
             "https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/",
             "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
             "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -144,6 +205,11 @@
             "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
             "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html"
           ],
+          "places": [
+            "US",
+            "CA"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -151,7 +217,12 @@
           "text": "Europe server: EU admins unveil 'buy European' public-procurement rules meant to curb reliance on Chinese guilds.",
           "sources": [
             "https://www.theguardian.com/world/2026/sep/09/eu-buy-european-public-procurement-rules-china-goods-services"
-          ]
+          ],
+          "places": [
+            "EU",
+            "CN"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -159,7 +230,12 @@
           "sources": [
             "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
             "https://www.theguardian.com/us-news/2026/sep/12/us-canada-border-tariffs-trade-war"
-          ]
+          ],
+          "places": [
+            "US",
+            "CA"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -173,13 +249,24 @@
             "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
             "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html",
             "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "NERF",
           "text": "Europe server: the ECB raises interest rates to 2.5% and warns that Iran-war-driven inflation pressure will be 'longer lasting than we had anticipated.'",
           "sources": [
             "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation"
+          ],
+          "places": [
+            "EU",
+            "IR"
+          ],
+          "guilds": [
+            "ECB"
           ]
         },
         {
@@ -190,6 +277,12 @@
             "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
             "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon"
           ],
+          "places": [
+            "IR",
+            "YE",
+            "US"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -197,7 +290,11 @@
           "text": "US team: existing-home sales fall to their slowest pace in more than a year as mortgage rates and prices climb.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "BUFF",
@@ -205,6 +302,14 @@
           "sources": [
             "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
             "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html"
+          ],
+          "places": [
+            "US-TX",
+            "TW"
+          ],
+          "guilds": [
+            "ORACLE",
+            "TSMC"
           ]
         },
         {
@@ -213,7 +318,12 @@
           "sources": [
             "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
             "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july"
-          ]
+          ],
+          "places": [
+            "JP",
+            "UK"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -228,6 +338,12 @@
             "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
             "https://gizmodo.com/openai-is-beefing-with-mathematicians-will-no-longer-sponsor-caltech-mathathon-2000810868"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI"
+          ],
           "highlight": true
         },
         {
@@ -236,7 +352,9 @@
           "sources": [
             "https://timesofindia.indiatimes.com/science/archaeology/66-5-million-years-ago-a-t-rex-crossed-north-america-fossil-footprints-now-show-the-giant-dinosaur-walked-not-ran/articleshow/134194811.cms",
             "https://timesofindia.indiatimes.com/science/wildlife/a-66-million-year-old-feather-was-found-inside-dinosaur-poop-it-may-explain-how-birds-survived-the-asteroid-that-killed-the-dinosaurs/articleshow/134192826.cms"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -244,6 +362,12 @@
           "sources": [
             "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
             "https://www.sciencedaily.com/releases/2026/09/260907201552.htm"
+          ],
+          "places": [
+            "CH"
+          ],
+          "guilds": [
+            "CERN"
           ]
         },
         {
@@ -251,14 +375,21 @@
           "text": "Medicine tech-tree unlock: scientists show human heart-muscle cells can regrow after a heart attack for the first time, overturning the assumption that damaged heart tissue cannot regenerate.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/09/260909231754.htm"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Climate research: East Antarctica gained a record 695 billion tons of ice between 2021 and 2023, with researchers tracing the temporary gain to shifts in tropical Pacific atmospheric circulation.",
           "sources": [
             "https://www.sciencedaily.com/releases/2026/09/260906170128.htm"
-          ]
+          ],
+          "places": [
+            "AQ",
+            "PAC"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -273,6 +404,14 @@
             "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
             "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "ANTHROPIC",
+            "OPENAI",
+            "BBC"
+          ],
           "highlight": true
         },
         {
@@ -281,6 +420,13 @@
           "sources": [
             "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
             "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/"
+          ],
+          "places": [
+            "SFBAY",
+            "YE"
+          ],
+          "guilds": [
+            "ANTHROPIC"
           ]
         },
         {
@@ -289,6 +435,16 @@
           "sources": [
             "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
             "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html"
+          ],
+          "places": [
+            "SFBAY",
+            "CN"
+          ],
+          "guilds": [
+            "ANTHROPIC",
+            "ALIBABA",
+            "DEEPSEEK",
+            "XAI"
           ]
         },
         {
@@ -297,6 +453,12 @@
           "sources": [
             "https://www.theguardian.com/technology/2026/sep/09/apple-product-showcase-ceo-john-ternus",
             "https://www.theguardian.com/technology/2026/sep/08/apple-new-folding-iphone"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "APPLE"
           ]
         },
         {
@@ -304,6 +466,13 @@
           "text": "Huawei guild's US trial opens with prosecutors branding the China-based guild a 'criminal enterprise' that stole from US companies; the defense says the case is 'about competition, not conspiracy.'",
           "sources": [
             "https://www.theguardian.com/technology/2026/sep/10/china-huawei-trial-us"
+          ],
+          "places": [
+            "CN",
+            "US"
+          ],
+          "guilds": [
+            "HUAWEI"
           ]
         },
         {
@@ -312,6 +481,13 @@
           "sources": [
             "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
             "https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia"
+          ],
+          "places": [
+            "UK",
+            "AU"
+          ],
+          "guilds": [
+            "GRINDR"
           ]
         }
       ]
@@ -324,6 +500,16 @@
           "text": "Rocket Lab guild files a protest against NASA's decision to award Blue Origin a $700m Mars-orbiter build contract.",
           "sources": [
             "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract"
+          ],
+          "places": [
+            "US-CA",
+            "US-DC",
+            "SEA"
+          ],
+          "guilds": [
+            "ROCKETLAB",
+            "NASA",
+            "BLUEORIGIN"
           ]
         },
         {
@@ -331,6 +517,12 @@
           "text": "Stoke Space guild raises $1bn to fund its fully reusable Nova rockets, targeting a first launch in early 2027.",
           "sources": [
             "https://www.space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch"
+          ],
+          "places": [
+            "SEA"
+          ],
+          "guilds": [
+            "STOKE"
           ]
         },
         {
@@ -338,13 +530,25 @@
           "text": "China's Tianwen-3 Mars sample-return build stays on track for a 2028 launch, which some call a potential 'Sputnik moment' if it beats similar US efforts.",
           "sources": [
             "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment"
-          ]
+          ],
+          "places": [
+            "CN",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Europe's space guild presses ahead solo on a Venus mission build after NASA pulls a promised radar instrument.",
           "sources": [
             "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/"
+          ],
+          "places": [
+            "EU",
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
           ]
         }
       ]
@@ -357,13 +561,23 @@
           "text": "US team: the CDC's new director draws scrutiny for staying silent a month into her tenure as the worst measles epidemic in more than 30 years continues.",
           "sources": [
             "https://thehill.com/policy/healthcare/6085687-cdc-erica-schwartz-measles-virus-vaccines/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "Scholar Rock guild's Isembyld wins FDA approval, the first drug approved to target muscle loss in players with spinal muscular atrophy.",
           "sources": [
             "https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "SCHOLARROCK"
           ]
         },
         {
@@ -371,14 +585,20 @@
           "text": "New York City: a Legionnaires' disease outbreak in the South Bronx kills one player and sickens four more.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/sep/11/legionnaires-disease-outbreak-south-bronx"
-          ]
+          ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "Research tree: human embryo base-editing can now reach every cell but still causes unpredictable genetic changes, researchers find.",
           "sources": [
             "https://phys.org/news/2026-09-human-embryo-base-cells-unpredictable.html"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -393,6 +613,10 @@
             "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
             "https://www.space.com/science/climate-change/were-about-to-exceed-1-5-degree-global-warming-limit-according-to-the-un"
           ],
+          "places": [],
+          "guilds": [
+            "UN"
+          ],
           "highlight": true
         },
         {
@@ -400,7 +624,12 @@
           "text": "A US appeals court rules 3-0 that Trump's admins exceeded their authority in ordering a Michigan coal plant to keep running under an 'emergency' the mod panel found had no basis in fact.",
           "sources": [
             "https://insideclimatenews.org/news/11092026/court-rules-against-trump-order-to-keep-costly-michigan-coal-plant-running/"
-          ]
+          ],
+          "places": [
+            "US-DC",
+            "US-MI"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
@@ -408,13 +637,25 @@
           "sources": [
             "https://insideclimatenews.org/news/11092026/the-trump-administration-wants-to-fast-track-arctic-drilling/",
             "https://insideclimatenews.org/news/12092026/roadless-rule-repeal-threatens-midwest-wilderness/"
-          ]
+          ],
+          "places": [
+            "US",
+            "ARCTIC"
+          ],
+          "guilds": []
         },
         {
           "type": "FIX",
           "text": "Chemours, DuPont and Corteva guilds reach a $455m settlement with North Carolina over 'forever chemicals' (PFAS) contamination claims.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/sep/10/pfas-chemical-companies-north-carolina"
+          ],
+          "places": [
+            "US-NC"
+          ],
+          "guilds": [
+            "DUPONT",
+            "CORTEVA"
           ]
         },
         {
@@ -423,7 +664,9 @@
           "sources": [
             "https://www.theguardian.com/environment/2026/sep/10/climate-feedback-loops-global-warming-study",
             "https://www.newscientist.com/article/2588740-natural-feedbacks-will-add-20-per-cent-extra-global-warming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         }
       ]
     },
@@ -437,6 +680,11 @@
             "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
             "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss"
           ],
+          "places": [
+            "US",
+            "AF"
+          ],
+          "guilds": [],
           "highlight": true
         },
         {
@@ -444,21 +692,34 @@
           "text": "A federal judge rules that Trump's admins broke the law in trying to halve FEMA's workforce.",
           "sources": [
             "https://thehill.com/regulation/court-battles/6086363-trump-fema-cuts-illegal-federal-judge/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "A Trump-appointed judge rules players have no constitutional right to safe drinking water or to truthful information about contaminated tap water.",
           "sources": [
             "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/"
-          ]
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "An immigration judge in San Francisco says she was fired 48 hours after questioning ICE mods' treatment of a teenage asylum-seeking player.",
           "sources": [
             "https://www.independent.co.uk/news/world/americas/us-politics/san-francisco-judge-ice-lawsuit-asylum-b3048972.html"
-          ]
+          ],
+          "places": [
+            "SFBAY",
+            "US-DC"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -471,7 +732,11 @@
           "sources": [
             "https://www.theguardian.com/sport/2026/sep/13/elena-rybakina-beats-aryna-sabalenka-us-open-title-tennis",
             "https://www.cbssports.com/tennis/news/2026-us-open-results-elena-rybakina-aryna-sabalenka-womens-final/"
-          ]
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "NEW",
@@ -479,21 +744,34 @@
           "sources": [
             "https://www.theguardian.com/sport/2026/sep/13/ryan-garcia-conor-benn-fight-result-wbc-welterweight-boxing",
             "https://www.skysports.com/boxing/news/12040/13584754/ryan-garcia-finishes-conor-benn-in-just-two-rounds-to-defend-wbc-welterweight-world-championship-in-las-vegas"
-          ]
+          ],
+          "places": [],
+          "guilds": []
         },
         {
           "type": "NEW",
           "text": "Ranked arena - college football: Texas completes a 20-point comeback to stun No.1 Ohio State.",
           "sources": [
             "https://www.theguardian.com/sport/2026/sep/13/arch-manning-leads-texas-back-from-20-points-down-in-fourth-quarter-to-shock-no-1-ohio-state"
-          ]
+          ],
+          "places": [
+            "US-TX",
+            "US-OH"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
           "text": "Ranked arena - rugby union: South Africa's squad beats New Zealand 43-28 to close out their Test series before a record Baltimore crowd.",
           "sources": [
             "https://www.bbc.co.uk/sport/rugby-union/articles/c07lmxpmvr9o?at_medium=RSS&at_campaign=rss"
-          ]
+          ],
+          "places": [
+            "ZA",
+            "AFR",
+            "NZ"
+          ],
+          "guilds": []
         },
         {
           "type": "CHANGE",
@@ -501,13 +779,25 @@
           "sources": [
             "https://www.theguardian.com/sport/live/2026/sep/13/solheim-cup-golf-2026-final-day-live",
             "https://www.skysports.com/golf/live-blog/12040/13585250/solheim-cup-live-latest-scores-updates-highlights-from-sunday-singles-as-team-europe-face-team-usa-on-rainy-final-day"
-          ]
+          ],
+          "places": [
+            "EU",
+            "US"
+          ],
+          "guilds": []
         },
         {
           "type": "ISSUE",
           "text": "FIFA: the French squad's federation accuses league admin Gianni Infantino of 'seriously damaging' football and withdraws its support, joining criticism of his ties to admin-in-chief Trump.",
           "sources": [
             "https://www.theguardian.com/football/2026/sep/10/gianni-infantino-accused-seriously-damaging-football-french-fa-withdraws-support-fifa"
+          ],
+          "places": [
+            "FR",
+            "US-DC"
+          ],
+          "guilds": [
+            "FIFA"
           ]
         }
       ]
