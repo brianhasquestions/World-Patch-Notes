@@ -1641,6 +1641,114 @@
       "country": "US",
       "kind": "media",
       "pattern": "Wall Street Journal|Murdoch|News Corp"
+    },
+    "EDF": {
+      "name": "Environmental Defense Fund",
+      "lat": 40.74,
+      "lon": -73.99,
+      "city": "New York",
+      "country": "US",
+      "kind": "body",
+      "pattern": "Environmental Defense Fund|\bEDF\b"
+    },
+    "NATIONALGRID": {
+      "name": "National Grid",
+      "lat": 51.51,
+      "lon": -0.12,
+      "city": "London",
+      "country": "UK",
+      "kind": "utility",
+      "pattern": "National Grid"
+    },
+    "METS": {
+      "name": "New York Mets",
+      "lat": 40.76,
+      "lon": -73.85,
+      "city": "New York",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "Mets"
+    },
+    "RAVENS": {
+      "name": "Baltimore Ravens",
+      "lat": 39.28,
+      "lon": -76.62,
+      "city": "Baltimore",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "Ravens"
+    },
+    "EAGLES": {
+      "name": "Philadelphia Eagles",
+      "lat": 39.95,
+      "lon": -75.17,
+      "city": "Philadelphia",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "Eagles"
+    },
+    "VIKINGS": {
+      "name": "Minnesota Vikings",
+      "lat": 44.97,
+      "lon": -93.26,
+      "city": "Minneapolis",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "Vikings"
+    },
+    "PACKERS": {
+      "name": "Green Bay Packers",
+      "lat": 44.5,
+      "lon": -88.06,
+      "city": "Green Bay",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "Packers"
+    },
+    "NCAA": {
+      "name": "NCAA",
+      "lat": 39.77,
+      "lon": -86.16,
+      "city": "Indianapolis",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "NCAA"
+    },
+    "OHIOSTATE": {
+      "name": "Ohio State Buckeyes",
+      "lat": 40.0,
+      "lon": -83.02,
+      "city": "Columbus",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "Ohio State"
+    },
+    "USC": {
+      "name": "USC Trojans",
+      "lat": 34.02,
+      "lon": -118.29,
+      "city": "Los Angeles",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "USC Trojans|USC"
+    },
+    "GEORGIA": {
+      "name": "Georgia Bulldogs",
+      "lat": 33.95,
+      "lon": -83.38,
+      "city": "Athens",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "Georgia Bulldogs|Bulldogs"
+    },
+    "UCLA": {
+      "name": "UCLA Bruins",
+      "lat": 34.07,
+      "lon": -118.44,
+      "city": "Los Angeles",
+      "country": "US",
+      "kind": "sports",
+      "pattern": "UCLA"
     }
   }
 }
