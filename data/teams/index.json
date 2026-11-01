@@ -1,11 +1,311 @@
 {
   "source": "CIA World Factbook via github.com/factbook/factbook.json (CC0 mirror of a public domain work)",
-  "fetched": "2026-10-26",
+  "fetched": "2026-11-01",
   "teams": [
+    {
+      "key": "AE",
+      "name": "none",
+      "file": "middle-east/ae.json"
+    },
+    {
+      "key": "AF",
+      "name": "Afghanistan",
+      "file": "south-asia/af.json"
+    },
+    {
+      "key": "AL",
+      "name": "Albania",
+      "file": "europe/al.json"
+    },
+    {
+      "key": "AM",
+      "name": "Armenia",
+      "file": "central-asia/am.json"
+    },
+    {
+      "key": "AO",
+      "name": "Angola",
+      "file": "africa/ao.json"
+    },
+    {
+      "key": "AQ",
+      "name": "Antarctica",
+      "file": "antarctica/ay.json"
+    },
+    {
+      "key": "AR",
+      "name": "Argentina",
+      "file": "south-america/ar.json"
+    },
+    {
+      "key": "AT",
+      "name": "Austria",
+      "file": "europe/au.json"
+    },
+    {
+      "key": "AU",
+      "name": "Australia",
+      "file": "australia-oceania/as.json"
+    },
+    {
+      "key": "AZ",
+      "name": "Azerbaijan",
+      "file": "central-asia/aj.json"
+    },
+    {
+      "key": "BA",
+      "name": "Bosnia and Herzegovina",
+      "file": "europe/bk.json"
+    },
+    {
+      "key": "BD",
+      "name": "Bangladesh",
+      "file": "south-asia/bg.json"
+    },
+    {
+      "key": "BE",
+      "name": "Belgium",
+      "file": "europe/be.json"
+    },
+    {
+      "key": "BF",
+      "name": "Burkina Faso",
+      "file": "africa/uv.json"
+    },
+    {
+      "key": "BG",
+      "name": "Bulgaria",
+      "file": "europe/bu.json"
+    },
+    {
+      "key": "BH",
+      "name": "Bahrain",
+      "file": "middle-east/ba.json"
+    },
+    {
+      "key": "BI",
+      "name": "Burundi",
+      "file": "africa/by.json"
+    },
+    {
+      "key": "BJ",
+      "name": "Benin",
+      "file": "africa/bn.json"
+    },
+    {
+      "key": "BN",
+      "name": "Brunei",
+      "file": "east-n-southeast-asia/bx.json"
+    },
+    {
+      "key": "BO",
+      "name": "Bolivia",
+      "file": "south-america/bl.json"
+    },
+    {
+      "key": "BR",
+      "name": "Brazil",
+      "file": "south-america/br.json"
+    },
     {
       "key": "BS",
       "name": "The Bahamas",
       "file": "central-america-n-caribbean/bf.json"
+    },
+    {
+      "key": "BT",
+      "name": "Bhutan",
+      "file": "south-asia/bt.json"
+    },
+    {
+      "key": "BW",
+      "name": "Botswana",
+      "file": "africa/bc.json"
+    },
+    {
+      "key": "BY",
+      "name": "Belarus",
+      "file": "europe/bo.json"
+    },
+    {
+      "key": "BZ",
+      "name": "Belize",
+      "file": "central-america-n-caribbean/bh.json"
+    },
+    {
+      "key": "CA",
+      "name": "Canada",
+      "file": "north-america/ca.json"
+    },
+    {
+      "key": "CD",
+      "name": "DRC",
+      "file": "africa/cg.json"
+    },
+    {
+      "key": "CF",
+      "name": "none",
+      "file": "africa/ct.json"
+    },
+    {
+      "key": "CG",
+      "name": "Congo (Brazzaville)",
+      "file": "africa/cf.json"
+    },
+    {
+      "key": "CH",
+      "name": "Switzerland",
+      "file": "europe/sz.json"
+    },
+    {
+      "key": "CI",
+      "name": "Côte d'Ivoire",
+      "file": "africa/iv.json"
+    },
+    {
+      "key": "CL",
+      "name": "Chile",
+      "file": "south-america/ci.json"
+    },
+    {
+      "key": "CM",
+      "name": "Cameroon",
+      "file": "africa/cm.json"
+    },
+    {
+      "key": "CN",
+      "name": "China",
+      "file": "east-n-southeast-asia/ch.json"
+    },
+    {
+      "key": "CO",
+      "name": "Colombia",
+      "file": "south-america/co.json"
+    },
+    {
+      "key": "CR",
+      "name": "Costa Rica",
+      "file": "central-america-n-caribbean/cs.json"
+    },
+    {
+      "key": "CU",
+      "name": "Cuba",
+      "file": "central-america-n-caribbean/cu.json"
+    },
+    {
+      "key": "CY",
+      "name": "Cyprus",
+      "file": "europe/cy.json"
+    },
+    {
+      "key": "CZ",
+      "name": "Czechia",
+      "file": "europe/ez.json"
+    },
+    {
+      "key": "DE",
+      "name": "Germany",
+      "file": "europe/gm.json"
+    },
+    {
+      "key": "DJ",
+      "name": "Djibouti",
+      "file": "africa/dj.json"
+    },
+    {
+      "key": "DK",
+      "name": "Denmark",
+      "file": "europe/da.json"
+    },
+    {
+      "key": "DO",
+      "name": "The Dominican",
+      "file": "central-america-n-caribbean/dr.json"
+    },
+    {
+      "key": "DZ",
+      "name": "Algeria",
+      "file": "africa/ag.json"
+    },
+    {
+      "key": "EC",
+      "name": "Ecuador",
+      "file": "south-america/ec.json"
+    },
+    {
+      "key": "EE",
+      "name": "Estonia",
+      "file": "europe/en.json"
+    },
+    {
+      "key": "EG",
+      "name": "Egypt",
+      "file": "africa/eg.json"
+    },
+    {
+      "key": "EH",
+      "name": "Western Sahara",
+      "file": "africa/wi.json"
+    },
+    {
+      "key": "ER",
+      "name": "Eritrea",
+      "file": "africa/er.json"
+    },
+    {
+      "key": "ES",
+      "name": "Spain",
+      "file": "europe/sp.json"
+    },
+    {
+      "key": "ET",
+      "name": "Ethiopia",
+      "file": "africa/et.json"
+    },
+    {
+      "key": "FI",
+      "name": "Finland",
+      "file": "europe/fi.json"
+    },
+    {
+      "key": "FJ",
+      "name": "Fiji",
+      "file": "australia-oceania/fj.json"
+    },
+    {
+      "key": "FR",
+      "name": "France",
+      "file": "europe/fr.json"
+    },
+    {
+      "key": "GA",
+      "name": "Gabon",
+      "file": "africa/gb.json"
+    },
+    {
+      "key": "GE",
+      "name": "Georgia",
+      "file": "central-asia/gg.json"
+    },
+    {
+      "key": "GH",
+      "name": "Ghana",
+      "file": "africa/gh.json"
+    },
+    {
+      "key": "GL",
+      "name": "Greenland",
+      "file": "north-america/gl.json"
+    },
+    {
+      "key": "GM",
+      "name": "The Gambia",
+      "file": "africa/ga.json"
+    },
+    {
+      "key": "GN",
+      "name": "Guinea",
+      "file": "africa/gv.json"
     },
     {
       "key": "GQ",
@@ -13,9 +313,159 @@
       "file": "africa/ek.json"
     },
     {
+      "key": "GR",
+      "name": "Greece",
+      "file": "europe/gr.json"
+    },
+    {
+      "key": "GT",
+      "name": "Guatemala",
+      "file": "central-america-n-caribbean/gt.json"
+    },
+    {
       "key": "GW",
       "name": "Guinea-Bissau",
       "file": "africa/pu.json"
+    },
+    {
+      "key": "GY",
+      "name": "Guyana",
+      "file": "south-america/gy.json"
+    },
+    {
+      "key": "HK",
+      "name": "Hong Kong",
+      "file": "east-n-southeast-asia/hk.json"
+    },
+    {
+      "key": "HN",
+      "name": "Honduras",
+      "file": "central-america-n-caribbean/ho.json"
+    },
+    {
+      "key": "HR",
+      "name": "Croatia",
+      "file": "europe/hr.json"
+    },
+    {
+      "key": "HT",
+      "name": "Haiti",
+      "file": "central-america-n-caribbean/ha.json"
+    },
+    {
+      "key": "HU",
+      "name": "Hungary",
+      "file": "europe/hu.json"
+    },
+    {
+      "key": "ID",
+      "name": "Indonesia",
+      "file": "east-n-southeast-asia/id.json"
+    },
+    {
+      "key": "IE",
+      "name": "Ireland",
+      "file": "europe/ei.json"
+    },
+    {
+      "key": "IL",
+      "name": "Israel",
+      "file": "middle-east/is.json"
+    },
+    {
+      "key": "IN",
+      "name": "India",
+      "file": "south-asia/in.json"
+    },
+    {
+      "key": "IQ",
+      "name": "Iraq",
+      "file": "middle-east/iz.json"
+    },
+    {
+      "key": "IR",
+      "name": "Iran",
+      "file": "middle-east/ir.json"
+    },
+    {
+      "key": "IS",
+      "name": "Iceland",
+      "file": "europe/ic.json"
+    },
+    {
+      "key": "IT",
+      "name": "Italy",
+      "file": "europe/it.json"
+    },
+    {
+      "key": "JM",
+      "name": "Jamaica",
+      "file": "central-america-n-caribbean/jm.json"
+    },
+    {
+      "key": "JO",
+      "name": "Jordan",
+      "file": "middle-east/jo.json"
+    },
+    {
+      "key": "JP",
+      "name": "Japan",
+      "file": "east-n-southeast-asia/ja.json"
+    },
+    {
+      "key": "KE",
+      "name": "Kenya",
+      "file": "africa/ke.json"
+    },
+    {
+      "key": "KG",
+      "name": "Kyrgyzstan",
+      "file": "central-asia/kg.json"
+    },
+    {
+      "key": "KH",
+      "name": "Cambodia",
+      "file": "east-n-southeast-asia/cb.json"
+    },
+    {
+      "key": "KP",
+      "name": "North Korea",
+      "file": "east-n-southeast-asia/kn.json"
+    },
+    {
+      "key": "KR",
+      "name": "South Korea",
+      "file": "east-n-southeast-asia/ks.json"
+    },
+    {
+      "key": "KW",
+      "name": "Kuwait",
+      "file": "middle-east/ku.json"
+    },
+    {
+      "key": "KZ",
+      "name": "Kazakhstan",
+      "file": "central-asia/kz.json"
+    },
+    {
+      "key": "LA",
+      "name": "Laos",
+      "file": "east-n-southeast-asia/la.json"
+    },
+    {
+      "key": "LB",
+      "name": "Lebanon",
+      "file": "middle-east/le.json"
+    },
+    {
+      "key": "LK",
+      "name": "Sri Lanka",
+      "file": "south-asia/ce.json"
+    },
+    {
+      "key": "LR",
+      "name": "Liberia",
+      "file": "africa/li.json"
     },
     {
       "key": "LS",
@@ -23,9 +473,279 @@
       "file": "africa/lt.json"
     },
     {
+      "key": "LT",
+      "name": "Lithuania",
+      "file": "europe/lh.json"
+    },
+    {
+      "key": "LU",
+      "name": "Luxembourg",
+      "file": "europe/lu.json"
+    },
+    {
+      "key": "LV",
+      "name": "Latvia",
+      "file": "europe/lg.json"
+    },
+    {
+      "key": "LY",
+      "name": "Libya",
+      "file": "africa/ly.json"
+    },
+    {
+      "key": "MA",
+      "name": "Morocco",
+      "file": "africa/mo.json"
+    },
+    {
+      "key": "MD",
+      "name": "Moldova",
+      "file": "europe/md.json"
+    },
+    {
+      "key": "MG",
+      "name": "Madagascar",
+      "file": "africa/ma.json"
+    },
+    {
+      "key": "MK",
+      "name": "North Macedonia",
+      "file": "europe/mk.json"
+    },
+    {
+      "key": "ML",
+      "name": "Mali",
+      "file": "africa/ml.json"
+    },
+    {
+      "key": "MM",
+      "name": "Burma",
+      "file": "east-n-southeast-asia/bm.json"
+    },
+    {
+      "key": "MN",
+      "name": "Mongolia",
+      "file": "east-n-southeast-asia/mg.json"
+    },
+    {
+      "key": "MR",
+      "name": "Mauritania",
+      "file": "africa/mr.json"
+    },
+    {
+      "key": "MT",
+      "name": "Malta",
+      "file": "europe/mt.json"
+    },
+    {
+      "key": "MW",
+      "name": "Malawi",
+      "file": "africa/mi.json"
+    },
+    {
+      "key": "MX",
+      "name": "Mexico",
+      "file": "north-america/mx.json"
+    },
+    {
+      "key": "MY",
+      "name": "Malaysia",
+      "file": "east-n-southeast-asia/my.json"
+    },
+    {
+      "key": "MZ",
+      "name": "Mozambique",
+      "file": "africa/mz.json"
+    },
+    {
+      "key": "NA",
+      "name": "Namibia",
+      "file": "africa/wa.json"
+    },
+    {
+      "key": "NE",
+      "name": "Niger",
+      "file": "africa/ng.json"
+    },
+    {
+      "key": "NG",
+      "name": "Nigeria",
+      "file": "africa/ni.json"
+    },
+    {
+      "key": "NI",
+      "name": "Nicaragua",
+      "file": "central-america-n-caribbean/nu.json"
+    },
+    {
+      "key": "NL",
+      "name": "Netherlands",
+      "file": "europe/nl.json"
+    },
+    {
+      "key": "NO",
+      "name": "Norway",
+      "file": "europe/no.json"
+    },
+    {
+      "key": "NP",
+      "name": "Nepal",
+      "file": "south-asia/np.json"
+    },
+    {
+      "key": "NZ",
+      "name": "New Zealand",
+      "file": "australia-oceania/nz.json"
+    },
+    {
+      "key": "OM",
+      "name": "Oman",
+      "file": "middle-east/mu.json"
+    },
+    {
+      "key": "PA",
+      "name": "Panama",
+      "file": "central-america-n-caribbean/pm.json"
+    },
+    {
+      "key": "PE",
+      "name": "Peru",
+      "file": "south-america/pe.json"
+    },
+    {
+      "key": "PG",
+      "name": "Papua New Guinea",
+      "file": "east-n-southeast-asia/pp.json"
+    },
+    {
+      "key": "PH",
+      "name": "Philippines",
+      "file": "east-n-southeast-asia/rp.json"
+    },
+    {
+      "key": "PK",
+      "name": "Pakistan",
+      "file": "south-asia/pk.json"
+    },
+    {
+      "key": "PL",
+      "name": "Poland",
+      "file": "europe/pl.json"
+    },
+    {
+      "key": "PR",
+      "name": "Puerto Rico",
+      "file": "central-america-n-caribbean/rq.json"
+    },
+    {
+      "key": "PS",
+      "name": "Gaza, Gaza Strip",
+      "file": "middle-east/gz.json"
+    },
+    {
+      "key": "PT",
+      "name": "Portugal",
+      "file": "europe/po.json"
+    },
+    {
+      "key": "PY",
+      "name": "Paraguay",
+      "file": "south-america/pa.json"
+    },
+    {
+      "key": "QA",
+      "name": "Qatar",
+      "file": "middle-east/qa.json"
+    },
+    {
+      "key": "RO",
+      "name": "Romania",
+      "file": "europe/ro.json"
+    },
+    {
+      "key": "RS",
+      "name": "Serbia",
+      "file": "europe/ri.json"
+    },
+    {
+      "key": "RU",
+      "name": "Russia",
+      "file": "central-asia/rs.json"
+    },
+    {
+      "key": "RW",
+      "name": "Rwanda",
+      "file": "africa/rw.json"
+    },
+    {
+      "key": "SA",
+      "name": "Saudi Arabia",
+      "file": "middle-east/sa.json"
+    },
+    {
       "key": "SB",
       "name": "Solomon Islands",
       "file": "australia-oceania/bp.json"
+    },
+    {
+      "key": "SD",
+      "name": "Sudan",
+      "file": "africa/su.json"
+    },
+    {
+      "key": "SE",
+      "name": "Sweden",
+      "file": "europe/sw.json"
+    },
+    {
+      "key": "SG",
+      "name": "Singapore",
+      "file": "east-n-southeast-asia/sn.json"
+    },
+    {
+      "key": "SI",
+      "name": "Slovenia",
+      "file": "europe/si.json"
+    },
+    {
+      "key": "SK",
+      "name": "Slovakia",
+      "file": "europe/lo.json"
+    },
+    {
+      "key": "SL",
+      "name": "Sierra Leone",
+      "file": "africa/sl.json"
+    },
+    {
+      "key": "SN",
+      "name": "Senegal",
+      "file": "africa/sg.json"
+    },
+    {
+      "key": "SO",
+      "name": "Somalia",
+      "file": "africa/so.json"
+    },
+    {
+      "key": "SR",
+      "name": "Suriname",
+      "file": "south-america/ns.json"
+    },
+    {
+      "key": "SS",
+      "name": "South Sudan",
+      "file": "africa/od.json"
+    },
+    {
+      "key": "SV",
+      "name": "El Salvador",
+      "file": "central-america-n-caribbean/es.json"
+    },
+    {
+      "key": "SY",
+      "name": "Syria",
+      "file": "middle-east/sy.json"
     },
     {
       "key": "SZ",
@@ -33,14 +753,139 @@
       "file": "africa/wz.json"
     },
     {
+      "key": "TD",
+      "name": "Chad",
+      "file": "africa/cd.json"
+    },
+    {
+      "key": "TG",
+      "name": "Togo",
+      "file": "africa/to.json"
+    },
+    {
+      "key": "TH",
+      "name": "Thailand",
+      "file": "east-n-southeast-asia/th.json"
+    },
+    {
+      "key": "TJ",
+      "name": "Tajikistan",
+      "file": "central-asia/ti.json"
+    },
+    {
+      "key": "TL",
+      "name": "Timor-Leste",
+      "file": "east-n-southeast-asia/tt.json"
+    },
+    {
+      "key": "TM",
+      "name": "Turkmenistan",
+      "file": "central-asia/tx.json"
+    },
+    {
+      "key": "TN",
+      "name": "Tunisia",
+      "file": "africa/ts.json"
+    },
+    {
+      "key": "TR",
+      "name": "Turkey",
+      "file": "middle-east/tu.json"
+    },
+    {
       "key": "TT",
       "name": "Trinidad and Tobago",
       "file": "central-america-n-caribbean/td.json"
     },
     {
+      "key": "TW",
+      "name": "Taiwan",
+      "file": "east-n-southeast-asia/tw.json"
+    },
+    {
+      "key": "TZ",
+      "name": "Tanzania",
+      "file": "africa/tz.json"
+    },
+    {
+      "key": "UA",
+      "name": "Ukraine",
+      "file": "europe/up.json"
+    },
+    {
+      "key": "UG",
+      "name": "Uganda",
+      "file": "africa/ug.json"
+    },
+    {
+      "key": "UK",
+      "name": "United Kingdom",
+      "file": "europe/uk.json"
+    },
+    {
+      "key": "US",
+      "name": "United States",
+      "file": "north-america/us.json"
+    },
+    {
+      "key": "UY",
+      "name": "Uruguay",
+      "file": "south-america/uy.json"
+    },
+    {
+      "key": "UZ",
+      "name": "Uzbekistan",
+      "file": "central-asia/uz.json"
+    },
+    {
+      "key": "VA",
+      "name": "Holy See (Vatican City)",
+      "file": "europe/vt.json"
+    },
+    {
+      "key": "VE",
+      "name": "Venezuela",
+      "file": "south-america/ve.json"
+    },
+    {
+      "key": "VN",
+      "name": "Vietnam",
+      "file": "east-n-southeast-asia/vm.json"
+    },
+    {
       "key": "VU",
       "name": "Vanuatu",
       "file": "australia-oceania/nh.json"
+    },
+    {
+      "key": "WB",
+      "name": "West Bank",
+      "file": "middle-east/we.json"
+    },
+    {
+      "key": "XK",
+      "name": "Kosovo",
+      "file": "europe/kv.json"
+    },
+    {
+      "key": "YE",
+      "name": "Yemen",
+      "file": "middle-east/ym.json"
+    },
+    {
+      "key": "ZA",
+      "name": "South Africa",
+      "file": "africa/sf.json"
+    },
+    {
+      "key": "ZM",
+      "name": "Zambia",
+      "file": "africa/za.json"
+    },
+    {
+      "key": "ZW",
+      "name": "Zimbabwe",
+      "file": "africa/zi.json"
     }
   ]
 }
