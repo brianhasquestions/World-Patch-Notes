@@ -305,13 +305,38 @@
         },
         {
           "type": "FIX",
-          "text": "Canada team and the EU server announce 'Alliance for the Future', a new co-op pact unveiled at a Montreal summit and open to other like-minded teams.",
+          "text": "Canada team and the EU server announce 'Alliance for the Future', a new co-op pact unveiled at a Montreal summit and open to other like-minded teams; PM Mark Carney says Canada is seeking closer EU ties to 'diversify and deepen' partnerships beyond the Americas and that he favours the term 'associate membership' despite German pushback.",
           "sources": [
-            "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance"
+            "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+            "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-world-4025-rdf"
           ],
           "places": [
             "CA",
             "EU"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NERF",
+          "text": "Debuff on Sudan team commanders: UK admins impose a travel ban and asset freeze on senior Sudanese military commanders suspected of sexual violence, with reporting describing a 'campaign of rape' in El Fasher, on the first anniversary of what reporting calls a mass atrocity there in which tens of thousands of civilians were killed.",
+          "sources": [
+            "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of"
+          ],
+          "places": [
+            "UK",
+            "SD"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "US-China trade PvP: known issue where one analysis says the truce has cooled the tariff conflict and pushed it out of the headlines, but that neither team has done anything to limit a new outbreak of hostilities, with fears of fresh tariffs flaring from time to time when the US admin-in-chief threatens to end trade with deficit teams.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi"
+          ],
+          "places": [
+            "US-DC",
+            "CN"
           ],
           "guilds": []
         }
@@ -566,14 +591,104 @@
         },
         {
           "type": "NEW",
-          "text": "Expansion content: the Vera C. Rubin Observatory finds a suspected dwarf planet beyond Neptune, which if confirmed would be the sixth known dwarf planet.",
+          "text": "Expansion content: the Vera C. Rubin Observatory finds a suspected dwarf planet beyond Neptune, which if confirmed would be the sixth known dwarf planet. The object is designated 2026 ED138 and, per one report, may be the smallest known object of its type, found by software that its researcher initially suspected was a bug.",
           "sources": [
             "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
-            "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet"
+            "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet",
+            "https://www.theregister.com/science/2026/10/29/boffins-software-found-a-possible-dwarf-planet-a-result-so-rare-he-thought-it-must-be-a-bug/5306204"
           ],
           "places": [
             "CL"
           ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Tech-tree unlock: researchers say Hubble Space Telescope observations challenge a leading explanation for how the early universe cleared its hydrogen fog roughly 13 billion years ago, reporting that winds from exploding stars block radiation rather than helping it escape galaxies. A separate simulation called Lumina models the universe's first 2 billion years, depicting how dark matter, gas and radiation interacted to give rise to the earliest stars, galaxies and black holes.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+            "https://www.livescience.com/space/astronomy/astronomers-may-have-been-wrong-about-what-ended-the-cosmic-dark-age-new-study-hints",
+            "https://www.sciencedaily.com/releases/2026/10/261026225600.htm"
+          ],
+          "places": [],
+          "guilds": [
+            "NASA"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Tech-tree unlock: interstellar comet 3I/ATLAS carries methane unusually rich in heavy hydrogen, which researchers say suggests its frozen ingredients formed in an intensely cold environment around another star, or in the cloud that preceded it.",
+          "sources": [
+            "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html"
+          ],
+          "places": [],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Mars recipes: Martian meteorite Teghaza 001, described as one of the most ancient found on Earth, matches 13 locations on Mars by mineralogy and chemistry, with clues linking it to southern-hemisphere highlands, though scientists can never know for sure where it originated. Separately, a new idea suggests rust below the surface may explain how Mars became warm enough for water to flow, and spacesuit-material swatches on the Perseverance rover suggest Martian dust may be less abrasive than lunar dust.",
+          "sources": [
+            "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+            "https://www.newscientist.com/article/2596726-rusty-crust-made-mars-warm-and-wet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+            "https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html"
+          ],
+          "places": [],
+          "guilds": [
+            "NASA"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Tech-tree unlock: researchers say colliding oxygen nuclei at nearly the speed of light recreates a primordial state of matter from the dawn of the universe, and report it can form in smaller, lower-energy collisions than previously demonstrated.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/10/261030002935.htm"
+          ],
+          "places": [],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Item drop: IBM guild links two large quantum processors into one machine with four superconducting cables between the chips, though improvements are still needed.",
+          "sources": [
+            "https://www.science.org/content/article/ibm-links-two-quantum-chips-key-step-toward-bigger-computers",
+            "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html"
+          ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": [
+            "IBM"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Tech-tree unlock: advanced dating suggests early humans were in the Jordan Valley at least 1.9 million years ago, hundreds of thousands of years earlier than scientists previously thought, making the 'Ubeidiya site roughly as old as Dmanisi in Georgia and, in the researchers' account, among the earliest known human settlements outside Africa.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/10/261025073042.htm"
+          ],
+          "places": [
+            "IL"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Tech-tree unlock: paleoproteomic analysis of fossils from northern China indicates Denisovans had a 'distinctive' physical appearance.",
+          "sources": [
+            "https://www.livescience.com/archaeology/human-evolution/our-extinct-cousins-the-denisovans-had-a-distinctive-appearance-new-analysis-reveals"
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Research tree: a study estimates venomous snakebites kill 274,000 to 513,000 players a year worldwide, far more than official statistics indicate, and that as many as 7 million players could suffer snake envenoming.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/10/261029072117.htm"
+          ],
+          "places": [],
           "guilds": []
         }
       ]
@@ -627,6 +742,108 @@
             "AMAZON",
             "SPACEX",
             "VIRGINGALACTIC"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Intel drop: the US team's Defense Intelligence Agency releases a declassified satellite photo of the China team's Shenlong ('divine dragon') space plane in its latest Challenges to Security in Space report, with the image showing it docked to another spacecraft; the plane has reportedly released at least nine payloads into low Earth orbit since 2022, and its capabilities remain unclear, per reporting.",
+          "sources": [
+            "https://www.livescience.com/space/space-exploration/us-intelligence-report-reveals-first-clear-look-at-top-secret-chinese-space-plane-thats-been-dumping-unidentified-objects-above-earth",
+            "https://www.space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military",
+            "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/"
+          ],
+          "places": [
+            "CN",
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Expansion content: admins of the US team's Air Force recover experimental cargo launched aboard the SpaceX guild's Starfall capsule, reportedly part of an effort to assess whether rapid point-to-point deliveries to anywhere on Earth are viable.",
+          "sources": [
+            "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starfall-capsule-delivers-cargo-for-us-air-force-in-landmark-point-to-point-space-mission"
+          ],
+          "places": [
+            "US-DC",
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Expansion content: the India team launches its NVS-03 navigation satellite to orbit on a GSLV rocket on Oct 30, the fourth orbital launch from Indian soil this year.",
+          "sources": [
+            "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket"
+          ],
+          "places": [
+            "IN"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Expansion content: the Turkey team aims to fly its first Moon-orbiting mission in 2027, an orbiter carrying several scientific instruments that is the first of a planned pair of Turkish flights, with a lander as the second.",
+          "sources": [
+            "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/"
+          ],
+          "places": [
+            "TR"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "Expansion content: the Artemis III crew meets US admin Donald Trump at the White House on Oct 28 as it trains for a moon-lander test flight planned for 2027, meant to test systems needed for a planned Artemis IV Moon landing in 2028. Separately, Artemis I detector data shows cosmic radiation near the Moon is higher than in Earth orbit, though not by as much as scientists might expect.",
+          "sources": [
+            "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos",
+            "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
+            "https://www.sciencedaily.com/releases/2026/10/261027063659.htm"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Tech-tree unlock: NASA's Juno spacecraft finds Jupiter defends against the solar wind with a more complex system of plasma waves and multiple shock regions than Earth's, which researchers say could help explain the shock waves produced by exploding stars.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/10/261028232715.htm"
+          ],
+          "places": [],
+          "guilds": [
+            "NASA"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Tech-tree unlock: the James Webb Space Telescope observes a galaxy with a ring of newborn stars as it appeared 2.1 billion years after the Big Bang, which astronomers say hints the early universe may have been more chaotic than once thought, and finds that lava planet TOI-561 b, 280 light-years away, apparently keeps a thick atmosphere, reflecting about 75% of incoming starlight possibly because of mineral clouds and possibly replenishing gases from a global ocean of molten rock.",
+          "sources": [
+            "https://www.livescience.com/space/cosmology/james-webb-telescope-discovers-most-distant-ring-galaxy-ever-hinting-at-an-ultra-rare-early-universe-collision",
+            "https://www.sciencedaily.com/releases/2026/10/261026225603.htm"
+          ],
+          "places": [],
+          "guilds": [
+            "NASA"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Expansion content: the Google guild's experimental orbital-datacenter prototype satellite uses its TPU to produce a haiku and sends it to Earth, while Cowboy Space guild unveils its 'Big Iron' rocket, with a debut targeted for late 2028, meant to launch a planned constellation of 20,000 AI data centers.",
+          "sources": [
+            "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+            "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "GOOGLE"
           ]
         }
       ]
@@ -721,6 +938,227 @@
           ],
           "places": [],
           "guilds": []
+        },
+        {
+          "type": "BUFF",
+          "text": "US admins: an Environmental Defense Fund guild analysis of 184 operating coal plants says the administration has given support worth $950m plus Clean Air Act exemptions to almost half of US coal plants, helping them keep operating despite economic and regulatory headwinds.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "EDF"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "US admins: the EPA proposes a methane rule rollback for stripper wells that would reportedly save oil and gas guilds billions of dollars by letting them leak more methane, a change the same reporting says could worsen global warming for decades.",
+          "sources": [
+            "https://grist.org/regulation/epa-methane-trump-rollback-stripper-wells/"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "FIX",
+          "text": "US admins: Wyoming and the Federal Permitting Improvement Steering Council sign a memorandum to streamline and expedite permitting for large energy and industrial projects such as data centers, announced Monday by Gov. Mark Gordon and council executive director Emily Domenech.",
+          "sources": [
+            "https://insideclimatenews.org/news/30102026/wyoming-teams-with-trump-administration-to-expedite-energy-industrial-projects/"
+          ],
+          "places": [
+            "US-WY",
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "UK team: Chancellor John Healey says he will veto new offshore wind projects that will not lower bills, saying clean power is 'how we break the grip of international gas prices on our bills' but must come 'at the right pace, in the right places', and reporting says this adds to concerns that the government is moving away from a pro-renewables agenda. Separately, the Public Accounts Committee calls the Sizewell C nuclear funding plan a 'terrible deal' for taxpayers, warning costs could spiral to almost GBP48bn, and Scottish Labour leader Michael Marra urges the energy secretary to approve the Rosebank oil field.",
+          "sources": [
+            "https://www.theguardian.com/environment/2026/oct/31/john-healey-chancellor-offshore-wind-projects-veto",
+            "https://www.theguardian.com/business/2026/oct/28/plan-for-multibillion-pound-sizewell-nuclear-plant-a-terrible-deal-for-uk-taxpayers-mps-say",
+            "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "UK team grid: National Grid guild agrees to buy 29.5 hectares (73 acres) at Dorman Point on the Teesworks site, a step toward building Britain's biggest electricity substation on Teesside, which could supply power to a neighbouring planned datacentre as the UK expands AI infrastructure.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "NATIONALGRID"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US team fuel prices: gasoline, diesel and jet fuel prices have all risen, per reporting that recalls the US admin's pledge to bring gasoline below $2 a gallon in its first year; Democratic campaigns cite diesel, heating oil and fertilizer costs tied to the US-Iran PvP in Senate races, and one op-ed author says oil-heated homes could face bills 50% higher this winter, nearly $900 more.",
+          "sources": [
+            "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
+            "https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/",
+            "https://www.theguardian.com/commentisfree/2026/oct/30/iran-war-energy-crisis-winter"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "El Nino: a report warns carbon dioxide levels are set to surge this year amid a powerful El Nino, torrential rain and floods linked to El Nino collapse a house into a swollen river on the Ecuador team, and California has a plan to capture and store El Nino rain for dry years.",
+          "sources": [
+            "https://e360.yale.edu/digest/el-nino-emissions",
+            "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
+            "https://grist.org/solutions/california-has-a-plan-for-el-ninos-torrential-rain-save-it-for-later/"
+          ],
+          "places": [
+            "EC",
+            "US-CA"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "California coast: high tides this week, described as record-breaking, push seawater into low-lying communities from San Diego to the San Francisco Bay Area, submerging streets, flooding homes and businesses and jamming transport corridors and train routes.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/oct/28/california-extreme-weather-high-tides"
+          ],
+          "places": [
+            "US-CA"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Europe server: powerful thunderstorms hit the Turkey team, where a tornado in Antalya kills four people, and severe rainfall and flood warnings are issued for central Greece and western Turkey as heavy rain and strong winds continue over the next few days.",
+          "sources": [
+            "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey"
+          ],
+          "places": [
+            "TR",
+            "GR",
+            "EU"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Asia server air quality: peat fires drive what reporting calls the Indonesia team's worst wildfire season in a decade, smothering it in smoke, as firefighters celebrate rain; on the India team, Delhi admins step up anti-pollution measures on Sunday, including higher parking fees and work-from-home orders, to curb toxic smog.",
+          "sources": [
+            "https://grist.org/wildfires/indonesia-worst-wildfire-season-asia/",
+            "https://www.bbc.co.uk/news/videos/cm93zere04plo?at_medium=RSS&at_campaign=rss",
+            "https://phys.org/news/2026-11-restrictions-delhi-pollution.html"
+          ],
+          "places": [
+            "ID",
+            "IN"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Himalayan server: a surge in construction of tourism facilities, housing and infrastructure in parts of the Nepal team and the India team's Uttarakhand puts an estimated 300,000 players in the path of potential Himalayan disasters, per reporting.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "NP",
+            "IN"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Cryosphere: researchers identify a new type of permafrost landslide, with house-size blocks of ice, in Canada's Northwest Territories, and reporting links it to climate change, calling it a 'potential glimpse into the future', while new studies on Antarctica's Thwaites Glacier, nicknamed the 'Doomsday Glacier', are reported to show how it could flood coastlines worldwide, with the outlook described as worsening.",
+          "sources": [
+            "https://www.livescience.com/planet-earth/climate-change/a-potential-glimpse-into-the-future-climate-change-has-triggered-permafrost-landslides-with-house-size-blocks-of-ice-in-canada",
+            "https://grist.org/science/thwaites-runaway-climate-disaster-new-studies-show/"
+          ],
+          "places": [
+            "CA",
+            "AQ"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "US team Colorado River: Lake Powell recently drops to what reporting calls a historic low, slashing hydropower and downstream flow, as drought deepens and groups push to drain it entirely, while candidates in the basin states wade into water politics, per reporting.",
+          "sources": [
+            "https://e360.yale.edu/features/glen-canyon-dam",
+            "https://insideclimatenews.org/news/31102026/colorado-river-basin-gubernatorial-water-politics/"
+          ],
+          "places": [
+            "US-AZ",
+            "US-UT",
+            "US-NV"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "Canada team mod panel: 15 young players suing Ottawa say the government's failure to curb emissions violates their constitutional right to life, liberty and security, and focus on their mental health at a trial described as a potential landmark.",
+          "sources": [
+            "https://phys.org/news/2026-10-young-canadians-focus-mental-health.html",
+            "https://grist.org/justice/climate-change-rarely-goes-on-trial-this-one-could-be-a-landmark/"
+          ],
+          "places": [
+            "CA"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Research tree: a study in Science Advances finds more than 100,000 plant and animal species are in use or sold in the wildlife trade worldwide, more than twice as many as previously thought, and warns of huge gaps in global assessments.",
+          "sources": [
+            "https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report"
+          ],
+          "places": [],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Research tree: ice in Tibet may be more than 128,000 years old, preserving a record of the last ice age that scientists previously thought had been lost; separate research suggests Northern Hemisphere ice sheets cooled Atlantic waters that traveled toward Antarctica and disrupted Southern Ocean circulation, letting the ocean store more carbon dioxide, and researchers report that fossil-fuel warming may have halted the onset of a new ice age.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
+            "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
+            "https://e360.yale.edu/digest/ice-age-avoided"
+          ],
+          "places": [],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "US team builds: SunZia wind farm, described in reporting as the biggest renewable energy project in US history, is built after a roughly 20-year effort.",
+          "sources": [
+            "https://grist.org/solutions/how-the-biggest-renewable-energy-project-in-us-history-finally-got-built/"
+          ],
+          "places": [
+            "US-NM",
+            "US-AZ"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "China team: plug-in cars, including plug-in hybrids and fully electric vehicles, make up two in three new passenger vehicles sold in September, per industry data.",
+          "sources": [
+            "https://e360.yale.edu/digest/china-september-2026-plug-in-car-sales"
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
         }
       ]
     },
@@ -784,10 +1222,11 @@
         },
         {
           "type": "ISSUE",
-          "text": "US team: four players die and 15 are injured in separate shootings in Dallas's Deep Ellum neighborhood on Halloween night, and one player is killed and eight wounded in a shooting outside Legion Field after the Magic City Classic in Birmingham, Alabama.",
+          "text": "US team: four players die and 15 are injured in separate shootings in Dallas's Deep Ellum neighborhood on Halloween night, and one player is killed and eight wounded in a shooting outside Legion Field after the Magic City Classic in Birmingham, Alabama, police say.",
           "sources": [
             "https://www.theguardian.com/us-news/2026/nov/01/shootings-halloween-night-dallas-birmingham",
-            "https://www.espn.com/college-football/story/_/id/50347222/1-killed-8-injured-shooting-magic-city-classic"
+            "https://www.espn.com/college-football/story/_/id/50347222/1-killed-8-injured-shooting-magic-city-classic",
+            "https://www.theguardian.com/sport/2026/nov/01/one-person-killed-in-shooting-outside-magic-city-classic-football-game-in-alabama"
           ],
           "places": [
             "US-TX",
@@ -867,21 +1306,94 @@
         },
         {
           "type": "NEW",
-          "text": "Ranked arenas (US): the Golden State Valkyries win the WNBA title in their second season by beating the Atlanta Dream in Game 7, and the Milwaukee Brewers win the World Series over the Los Angeles Dodgers.",
+          "text": "Ranked arena (WNBA): the Golden State Valkyries win the WNBA title in their second season by beating the Atlanta Dream in Game 7, and Dream star Angel Reese says 'we'll be back'.",
           "sources": [
             "https://www.bbc.co.uk/sport/basketball/articles/cked34v3zen8o?at_medium=RSS&at_campaign=rss",
-            "https://www.cbssports.com/wnba/news/dream-angel-reese-well-be-back-game-7-loss-valkyries-wnba-finals/",
-            "https://www.forbes.com/sites/danfreedman/2026/11/01/the-brewers-won-the-world-series-and-the-dodgers-didnt-ruin-baseball/"
+            "https://www.cbssports.com/wnba/news/dream-angel-reese-well-be-back-game-7-loss-valkyries-wnba-finals/"
           ],
           "places": [
-            "SFBAY",
-            "US-WI"
+            "SFBAY"
           ],
           "guilds": [
-            "WNBA",
+            "WNBA"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Ranked arena (MLB): the Milwaukee Brewers win the World Series over the Los Angeles Dodgers, and thousands of Wisconsinites throng the streets of Milwaukee on Friday for the title parade; Mets Hall of Famer Jerry Koosman, who helped the team win the 1969 World Series, dies at 83.",
+          "sources": [
+            "https://www.forbes.com/sites/danfreedman/2026/11/01/the-brewers-won-the-world-series-and-the-dodgers-didnt-ruin-baseball/",
+            "https://www.espn.com/mlb/story/_/id/50322529/sights-sounds-brewers-milwaukee-parade",
+            "https://www.cbssports.com/mlb/news/mets-legend-jerry-koosman-dies-at-83/"
+          ],
+          "places": [
+            "US-WI",
+            "US-NYC"
+          ],
+          "guilds": [
             "BREWERS",
             "DODGERS",
-            "MLB"
+            "MLB",
+            "METS"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Ranked arena (NFL): known issue where Ravens quarterback Lamar Jackson is ruled out of Sunday's session against the Bills with a right thumb injury on Baltimore's first offensive play, leaving the squad on undrafted rookie third-stringer Joe Fagnano after Tyler Huntley's injury; roster moves before the trade deadline include the Eagles keeping Saquon Barkley and Jauan Jennings staying with the Vikings after the 49ers tried to reacquire him, per reports.",
+          "sources": [
+            "https://www.espn.com/nfl/story/_/id/50349558/ravens-lamar-jackson-rest-game-thumb-injury",
+            "https://www.cbssports.com/nfl/news/who-is-ravens-joe-fagnano-baltimore-quarterbacks-lamar-jackson/",
+            "https://www.espn.com/nfl/story/_/id/50336880/sources-eagles-trade-star-rb-saquon-barkley",
+            "https://www.espn.com/nfl/story/_/id/50350048/source-jennings-wanted-stay-vikings-amid-49ers-talks"
+          ],
+          "places": [
+            "US-MD",
+            "US-PA",
+            "US-MN"
+          ],
+          "guilds": [
+            "NFL",
+            "RAVENS",
+            "EAGLES",
+            "VIKINGS"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "Ranked arena (NFL): Packers running back Josh Jacobs faces fresh abuse allegations from three women who contacted police after his May arrest, per police records, with one alleging he threatened to kill her; his lawyers call the allegations 'uncorroborated' and 'old'. Separately, a new study estimates about 75% of former NFL players who died between 2008 and 2023 had evidence of the brain disease CTE, based on 2,362 players.",
+          "sources": [
+            "https://www.theguardian.com/sport/2026/oct/31/josh-jacobs-green-bay-packers-abuse-allegations-police-records",
+            "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research"
+          ],
+          "places": [
+            "US-WI",
+            "US"
+          ],
+          "guilds": [
+            "NFL",
+            "PACKERS"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Ranked arena (college football): in the latest AP poll, Ohio State drops out of the AP top 10 for the first time in five years after its loss to USC, Georgia climbs to No. 2 behind No. 1 Miami, UCLA enters the top five for the first time in 25 years, and New Mexico earns the first ranking in program history, ahead of the first CFP committee ranking; the Big 12 acknowledges an officiating error that wrongly awarded BYU a touchdown in its 27-20 win over Arizona State.",
+          "sources": [
+            "https://www.espn.com/college-football/story/_/id/50349707/ucla-ap-top-5-ohio-state-falls-top-10",
+            "https://www.cbssports.com/college-football/news/ap-top-25-poll-rankings-georgia-ohio-state-miami/",
+            "https://www.espn.com/college-football/story/_/id/50345699/big-12-admits-replay-erred-awarding-td-byu-win-asu",
+            "https://www.cbssports.com/college-football/news/coaches-poll-top-25-ohio-state-usc-week-10-rankings/"
+          ],
+          "places": [
+            "US-OH",
+            "US-GA",
+            "US-CA"
+          ],
+          "guilds": [
+            "NCAA",
+            "OHIOSTATE",
+            "USC",
+            "GEORGIA",
+            "UCLA"
           ]
         },
         {
