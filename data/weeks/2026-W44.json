@@ -305,13 +305,38 @@
         },
         {
           "type": "FIX",
-          "text": "Canada team and the EU server announce 'Alliance for the Future', a new co-op pact unveiled at a Montreal summit and open to other like-minded teams.",
+          "text": "Canada team and the EU server announce 'Alliance for the Future', a new co-op pact unveiled at a Montreal summit and open to other like-minded teams; PM Mark Carney says Canada is seeking closer EU ties to 'diversify and deepen' partnerships beyond the Americas and that he favours the term 'associate membership' despite German pushback.",
           "sources": [
-            "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance"
+            "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+            "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-world-4025-rdf"
           ],
           "places": [
             "CA",
             "EU"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NERF",
+          "text": "Debuff on Sudan team commanders: UK admins impose a travel ban and asset freeze on senior Sudanese military commanders implicated in what the sanctions describe as a 'campaign of rape' in El Fasher, on the first anniversary of the mass atrocity there in which tens of thousands of civilians were killed.",
+          "sources": [
+            "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of"
+          ],
+          "places": [
+            "UK",
+            "SD"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "US-China trade PvP: known issue where the truce has cooled the tariff conflict and pushed it out of the headlines, but analysis says neither team has done anything to limit a new outbreak of hostilities, with fears of fresh tariffs flaring whenever the US admin-in-chief threatens to end trade with deficit teams.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi"
+          ],
+          "places": [
+            "US-DC",
+            "CN"
           ],
           "guilds": []
         }
