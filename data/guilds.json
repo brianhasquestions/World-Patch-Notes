@@ -1587,6 +1587,60 @@
       "country": "US",
       "kind": "retail",
       "pattern": "Authentic Brands Group"
+    },
+    "REDDIT": {
+      "name": "Reddit",
+      "lat": 37.77,
+      "lon": -122.42,
+      "city": "San Francisco",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Reddit"
+    },
+    "CURSOR": {
+      "name": "Cursor",
+      "lat": 37.78,
+      "lon": -122.41,
+      "city": "San Francisco",
+      "country": "US",
+      "kind": "tech",
+      "pattern": "Cursor"
+    },
+    "MISTRAL": {
+      "name": "Mistral AI",
+      "lat": 48.86,
+      "lon": 2.35,
+      "city": "Paris",
+      "country": "FR",
+      "kind": "tech",
+      "pattern": "Mistral"
+    },
+    "ULA": {
+      "name": "United Launch Alliance",
+      "lat": 39.58,
+      "lon": -104.88,
+      "city": "Centennial, CO",
+      "country": "US",
+      "kind": "space",
+      "pattern": "United Launch Alliance|\bULA\b"
+    },
+    "VIRGINGALACTIC": {
+      "name": "Virgin Galactic",
+      "lat": 32.31,
+      "lon": -106.78,
+      "city": "Las Cruces, NM",
+      "country": "US",
+      "kind": "space",
+      "pattern": "Virgin Galactic"
+    },
+    "NEWSCORP": {
+      "name": "News Corp / Wall Street Journal",
+      "lat": 40.76,
+      "lon": -73.98,
+      "city": "New York",
+      "country": "US",
+      "kind": "media",
+      "pattern": "Wall Street Journal|Murdoch|News Corp"
     }
   }
 }
