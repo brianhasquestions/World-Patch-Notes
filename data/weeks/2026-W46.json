@@ -1,0 +1,1545 @@
+{
+  "id": "2026-W46",
+  "title": "Week of Nov 9-15, 2026",
+  "version": "v2026.46",
+  "released": "2026-11-15",
+  "summary": [
+    "Iran strikes US base in Bahrain with drones for second time in three days; Trump says no Iran deal needed; Trump, Putin and Xi plan a joint meeting in China",
+    "US team floats Donbas-for-NATO swap in Ukraine talks, Zelensky says",
+    "Nvidia CEO Jensen Huang resigns over alleged Chinese-spy affair; Nvidia down $1.7 trillion; Treasury blames Commerce",
+    "US in-game economy heats up (consumer prices +0.4% m/m, wholesale prices 6.5% y/y); Fed's Waller leans toward December hike",
+    "Starship catches its upper stage for the first time; Anthropic sets IPO price range at $70-$78; US loses measles elimination status; FAA ground stop and Microsoft outage disrupt services",
+    "COP31 opens in Turkey as 1.5C target slips; Democrats extend midterm wins in Alaska and Mississippi"
+  ],
+  "sections": [
+    {
+      "category": "World & Conflict",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "Middle East server: Iran PvP escalates as the IRGC said it launched six drones in what it called a retaliatory strike on a US radar installation at an air base in Bahrain, the second Iranian drone attack on the Bahrain team in three days and the first strikes after a lull since September; Bahrain's admins said air defences destroyed several drones and accused Iran of attacking to \"settle\" a score with the US, while Tehran said strikes on teams cooperating with the US are justified under international law.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+            "https://www.france24.com/en/bahrain-says-air-defences-destroyed-several-iranian-drones-attacking-us-base",
+            "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
+            "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss"
+          ],
+          "places": [
+            "IR",
+            "BH",
+            "US-DC"
+          ],
+          "guilds": [],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "Gulf server: admins of the Saudi Arabia, Qatar, Jordan and Egypt teams condemned the Iranian attack on Bahrain.",
+          "sources": [
+            "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+          ],
+          "places": [
+            "BH",
+            "SA",
+            "QA"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Iran PvP talks: the speaker of Iran's parliament said Tehran will not accept a \"neither war nor peace\" situation and set conditions for a deal with the US, while Trump said no Iran deal is needed (\"We've got their Strait\"), moving oil prices; NPR described the US team's approach as keeping the status quo as the war hits a stalemate.",
+          "sources": [
+            "https://timesofindia.indiatimes.com/world/middle-east/iran-speaker-says-tehran-will-not-accept-neither-war-nor-peace-situation-sets-conditions-for-us-deal/articleshow/135853737.cms",
+            "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+            "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+          ],
+          "places": [
+            "IR",
+            "US-DC",
+            "ME"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "US team: Vice President Vance called for an end to the Iran war, with a New Yorker staff writer telling NPR a rift is opening between Vance and Trump on the issue.",
+          "sources": [
+            "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-thin-line-with-trump"
+          ],
+          "places": [
+            "US-DC",
+            "IR"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Co-op summit: the White House said Trump, Russia's Putin and China's Xi will hold an unprecedented joint meeting in China next week, with Trump to discuss \"reduction of nuclear weapons\"; Australia's Albanese welcomed the dialogue while European leaders expressed reservations, and DW reported Beijing is treading carefully over the optics.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+            "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-world-4025-rdf"
+          ],
+          "places": [
+            "CN",
+            "US-DC",
+            "RU"
+          ],
+          "guilds": [],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Ukraine PvP: Zelensky said US negotiators floated Ukraine ceding the eastern Donbas to Russia in exchange for NATO membership and that a security deal could go to a referendum, while a US official said \"many ideas continue to be discussed\"; US envoys met Putin in Moscow and then Zelensky in Dublin.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+            "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+            "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
+          ],
+          "places": [
+            "UA",
+            "US-DC",
+            "RU"
+          ],
+          "guilds": [
+            "NATO"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "Ukraine PvP: Russian officials said Ukrainian drones struck the petrochemical hub of Nizhnekamsk overnight, damaging a residential building, starting a fire at a petrochemical complex and injuring three people, while Zelensky said Starshield restrictions help Russia's attacks on Ukraine's energy grid; Starlink denied restricting speeds and Elon Musk suggested the US military could be behind it.",
+          "sources": [
+            "https://www.france24.com/en/europe/20261115-ukrainian-drones-strike-russia-s-petrochemical-capital-in-overnight-assault",
+            "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss"
+          ],
+          "places": [
+            "RU",
+            "UA",
+            "US"
+          ],
+          "guilds": [
+            "SPACEX"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Gaza PvP: Israel's raid party killed Samir Abu Younis, commander of Hamas's Rafah Brigade, in an overnight strike on a Gaza camp, which both Israeli officials and Hamas confirmed.",
+          "sources": [
+            "https://thehill.com/policy/international/6221247-israel-kills-hamas-commander/",
+            "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "PS",
+            "IL"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "Israel server: talks between Likud and Gadi Eisenkot's Yashar on a possible unity government begin Sunday, while Eisenkot said Netanyahu is running a \"racist and aggressive campaign of delegitimisation\" against Israel's Arab players; Netanyahu's response is not in these reports.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+            "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority"
+          ],
+          "places": [
+            "IL"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Jordan team: a court sentenced three men to death over the mass shooting at a funeral at a Greek Orthodox church last month that killed nine people and injured 34.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+            "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack"
+          ],
+          "places": [
+            "JO"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Sudan PvP: waves of drone strikes on power stations plunged cities into darkness, while almost 34 million people need aid and international funding is falling, making deliveries harder.",
+          "sources": [
+            "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
+            "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-world-4025-rdf"
+          ],
+          "places": [
+            "SD"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Congo team: the admins said the Ebola outbreak, the country's deadliest, has passed 11,000 cases.",
+          "sources": [
+            "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak"
+          ],
+          "places": [
+            "CD"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Cross-server mod panel: the International Court of Justice is set to deliver a judgment this week on whether Myanmar committed genocide against its Rohingya minority.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj"
+          ],
+          "places": [
+            "MM"
+          ],
+          "guilds": [
+            "ICJ"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Africa server: Cape Verde players voted in an election that could deliver the team's first woman president; results were not yet reported.",
+          "sources": [
+            "https://timesofindia.indiatimes.com/world/rest-of-world/cape-verde-votes-in-election-that-could-deliver-first-woman-president/articleshow/135853022.cms",
+            "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president"
+          ],
+          "places": [
+            "AFR"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "Indonesia team: Vice President Raka, son of former president Joko Widodo, resigned after the Constitutional Court and Supreme Court ruled last month that his overseas education documents did not meet election requirements.",
+          "sources": [
+            "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned"
+          ],
+          "places": [
+            "ID"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "EXPLOIT",
+          "text": "Hungary team: the anti-corruption agency said it seized $19.5m in cash found buried in forests and hidden elsewhere during an inquiry into an Orban-era minister accused of taking bribes.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+          ],
+          "places": [
+            "HU"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Panama team: an investigative journalist's home was attacked in a suspected bombing.",
+          "sources": [
+            "https://www.aljazeera.com/video/newsfeed/2026/11/15/explosive-attack-targets-investigative-journalists-home-in-panama?traffic_source=rss"
+          ],
+          "places": [
+            "PA"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Europe server: the Canary Islands recorded their highest daily migrant arrivals since 2020, with 1,488 rescued.",
+          "sources": [
+            "https://timesofindia.indiatimes.com/world/rest-of-world/spains-canary-islands-record-highest-daily-migrant-arrivals-since-2020-1488-rescued/articleshow/135853024.cms"
+          ],
+          "places": [
+            "ES",
+            "EU"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Asia server: the ASEAN summit opened in Manila amid protests against US policies, with the Philippines and Australia strengthening joint military deterrence and Trump expected to land Tuesday.",
+          "sources": [
+            "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss",
+            "https://www.france24.com/en/the-philippines-and-australia-strengthen-joint-military-deterrence-at-asean-summit"
+          ],
+          "places": [
+            "PH",
+            "AU",
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "Francophonie summit opened in Phnom Penh, Cambodia, with the cross-server body due to elect a new secretary-general Monday amid a leadership dispute and tensions in Africa.",
+          "sources": [
+            "https://www.france24.com/en/video/20261115-francophone-summit-opens-in-cambodia-overshadowed-by-tensions-in-africa"
+          ],
+          "places": [
+            "KH",
+            "AFR"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Bangladesh team: exiled members of her party said former leader Sheikh Hasina is confident she will return in December, despite a death sentence handed to her in absentia over deaths in the 2024 uprising.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile"
+          ],
+          "places": [
+            "BD"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Canada team: a fifth soldier, Pte William Douglas Dal Bianco, died of injuries from the fire at the Wainwright military base a month ago.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "CA"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Africa server: aid agencies in Kenya struggle to provide food, medical care and shelter to more than 50,000 Ethiopian refugees.",
+          "sources": [
+            "https://www.aljazeera.com/video/newsfeed/2026/11/15/aid-agencies-struggle-to-help-more-than-50000-ethiopian-refugees-in-kenya?traffic_source=rss"
+          ],
+          "places": [
+            "KE",
+            "ET"
+          ],
+          "guilds": []
+        }
+      ]
+    },
+    {
+      "category": "Politics & Elections",
+      "changes": [
+        {
+          "type": "BUFF",
+          "text": "US server votes: Democrat Jonathan Kreiss-Tomkins won the Alaska governor's race, the first for the party in nearly 30 years, bringing Democratic governors to 30, and Scott Colom narrowly won the Mississippi Senate seat after more than a week of counting.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+            "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
+          ],
+          "places": [
+            "US-AK",
+            "US-MS",
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "Senate Democrats: Sen. Chris Van Hollen said he will challenge Chuck Schumer for Senate Democratic leader.",
+          "sources": [
+            "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+            "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "US team: the White House sent a letter warning Democrats who plan to investigate the administration, while Democrats gathered in Denver to chart a path forward and said they see new opportunities in the South after winning Senate seats in North Carolina, South Carolina, Texas and Mississippi.",
+          "sources": [
+            "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+            "https://www.theguardian.com/us-news/2026/nov/14/democrats-denver-whats-next-conference",
+            "https://thehill.com/homenews/campaign/6219610-south-democrats-strategy-midterm-wins/"
+          ],
+          "places": [
+            "US-DC",
+            "US-CO"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "US states: midterm voters ended GOP dominance in several state legislatures, with Democrats taking control of chambers that had been divided.",
+          "sources": [
+            "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NERF",
+          "text": "US team: a federal mod panel judge temporarily blocked, for two weeks, the Trump administration's plan to renovate and close a historic public golf course in Washington DC.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
+            "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "US mod panel: a federal judge ruled Trump's $10bn defamation lawsuit against the BBC guild can proceed, partially denying the guild's motion to dismiss.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed"
+          ],
+          "places": [
+            "US",
+            "UK"
+          ],
+          "guilds": [
+            "BBC"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "California server vote: Prop 40, a one-time tax on billionaires' wealth, failed after the most expensive opposition campaign in state history, backed by about $425m from tech figures according to reports.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
+            "https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition"
+          ],
+          "places": [
+            "US-CA"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Chile team: rising fuel prices triggered transport strikes and protests, putting pressure on far-right President Jose Antonio Kast.",
+          "sources": [
+            "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students"
+          ],
+          "places": [
+            "CL"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Czechia team: tens of thousands of players rallied in Prague against a government plan to scrap broadcaster licence fees and fund them from the state budget, which protesters say would stifle media freedom.",
+          "sources": [
+            "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+          ],
+          "places": [
+            "CZ"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "France and Germany teams: tens of thousands of players rallied over rising living costs, with police confronting protesters in clashes.",
+          "sources": [
+            "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss"
+          ],
+          "places": [
+            "FR",
+            "DE"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "France team: judo champion Teddy Riner entered the presidential race, with one in five voters saying they could support him, about six months before the first round.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+            "https://www.france24.com/en/tv-shows/a-week-in-france/20261115-france-s-presidential-race-heats-up"
+          ],
+          "places": [
+            "FR"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "UK team: PM Andy Burnham said a \"win-win\" deal can be agreed with the EU, while a Milburn review is set to propose moving some under-25s off main sickness benefits.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UK",
+            "EU"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "UK team: an inquiry opened into the leak of the UK budget's bank tax, with the chancellor \"dismayed\".",
+          "sources": [
+            "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+            "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
+        }
+      ]
+    },
+    {
+      "category": "Trade & Tariffs",
+      "changes": [
+        {
+          "type": "FIX",
+          "text": "UK-EU co-op pact: the teams are due to sign next week an agreement easing movement of food, plants and animals, which Minister Angela Eagle said will \"dissolve\" about GBP 60m a year of costs for plant trade, and airport-style checks are planned at Eurotunnel to avoid border delays.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
+            "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border"
+          ],
+          "places": [
+            "UK",
+            "EU",
+            "FR"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "US-Canada trade: PM Mark Carney said he is \"making progress\" with Trump on a possible trade deal after a monthslong tariff dispute.",
+          "sources": [
+            "https://thehill.com/policy/international/6221010-carney-trump-canada-us-trade-progress/"
+          ],
+          "places": [
+            "CA",
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "China team: the goods trade surplus topped $1 trillion as of October for a second straight year.",
+          "sources": [
+            "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Europe server: Jens Eskelund warned EU manufacturers could give up competing with Chinese counterparts by 2030 if current trends continue.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund"
+          ],
+          "places": [
+            "EU",
+            "CN"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "US-China tech trade: the Commerce Department is under scrutiny for clearing Chinese guilds to handle Nvidia chips, while a forensic report from a former OpenAI engineer said models from DeepSeek, Moonshot AI, MiniMax and Ant Group were trained on export-restricted Blackwell chips.",
+          "sources": [
+            "https://www.npr.org/2026/11/14/nx-s1-6040379/commerce-department-under-pressure-for-delaying-export-controls-on-nvidia-chips",
+            "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891",
+            "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+          ],
+          "places": [
+            "US-DC",
+            "CN"
+          ],
+          "guilds": [
+            "NVIDIA",
+            "DEEPSEEK",
+            "MOONSHOT"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US-China team: China has not engaged on the cases of two detained Americans despite personal appeals from Trump and positive signals from Xi, according to sources close to the cases.",
+          "sources": [
+            "https://thehill.com/homenews/administration/6219762-trump-plans-apc-summit-demands/"
+          ],
+          "places": [
+            "CN",
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "China team: Alibaba guild announced plans to list T-Head, its Nvidia chip rival, on the Hong Kong Stock Exchange after a confidential filing on Sept 11.",
+          "sources": [
+            "https://www.cnbc.com/2026/11/11/alibaba-pr.html"
+          ],
+          "places": [
+            "CN",
+            "HK"
+          ],
+          "guilds": [
+            "ALIBABA",
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Economy & Markets",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "US in-game economy: consumer prices rose 0.4% in October, above expectations, and wholesale prices rose 0.3% for an annual rate of 6.5%, the highest in nearly four years; Fed Governor Waller said he is leaning toward a December rate hike and could support a half-point move, and Chicago Fed's Goolsbee called the report \"borderline disturbing\".",
+          "sources": [
+            "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+            "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+            "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+            "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "Fed: the US economy-admin said its October 2027 meeting will not hold a vote on interest rates, leaving seven voting meetings next year.",
+          "sources": [
+            "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "US housing: existing home sales fell 8.8% year on year to a 16-year low of 3.75m in October, with mortgage rates near a three-year high; gas prices fell below $4 for the first time since July.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+            "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
+            "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "UK lending cooldown: the Bank of England's chief economist Huw Pill said rates will probably need to rise next month and again in early 2027 after a rise to 4%, while NIESR warned the hesitant response risks higher rates for longer.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+            "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "BANKOFENGLAND"
+          ]
+        },
+        {
+          "type": "BUFF",
+          "text": "UK gold income: the economy grew 0.7% in the three months to September, the fastest in more than two years, with AI described as an \"extra engine of growth\".",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+            "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "China team: producer prices rose 5.7% in October versus 5.3% expected, the highest in more than four years, while consumer inflation slowed.",
+          "sources": [
+            "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "Global oil supply: the IEA said supply returned to surplus for the first time since the Iran war began, outstripping demand by almost 2m barrels a day in October.",
+          "sources": [
+            "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea"
+          ],
+          "places": [
+            "ME"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NERF",
+          "text": "Auction house: Nvidia guild's stock suffered its longest weekly losing streak since 2012, with market value down $1.7 trillion since early October.",
+          "sources": [
+            "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "NVIDIA"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Auction house: Anthropic guild set an IPO price range of $70 to $78 per share, below expectations, for a planned debut valuing it at about $1.3tn.",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+            "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "ANTHROPIC"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "BUFF",
+          "text": "Auction house: CoreWeave guild soared more than 24%, its best day since April 2025, after beating on revenue and lifting guidance; Cisco guild beat on earnings and said AI infrastructure revenue will double this fiscal year; Cerebras guild rose after beating revenue and announcing a Microsoft deal.",
+          "sources": [
+            "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+            "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+            "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
+          ],
+          "places": [
+            "US",
+            "SFBAY"
+          ],
+          "guilds": [
+            "COREWEAVE",
+            "MICROSOFT"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Auction house: SoftBank guild swung to a $7bn quarterly loss after a US data-center hit and an Intel share decline.",
+          "sources": [
+            "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
+          ],
+          "places": [
+            "JP"
+          ],
+          "guilds": [
+            "INTEL"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "US economy-admin: a Fed survey found AI risks are the biggest threat to the financial system.",
+          "sources": [
+            "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
+        }
+      ]
+    },
+    {
+      "category": "Technology",
+      "changes": [
+        {
+          "type": "EXPLOIT",
+          "text": "US server: Nvidia CEO Jensen Huang resigned after reports of an affair with a woman suspected of being a Chinese spy, with CFO Colette Kress named interim CEO; Huang was summoned to testify before Congress, Trump said the FBI is looking into it, Nvidia hired a major US law firm, and Megaspeed said Alice Huang left in 2025 and launched an internal probe.",
+          "sources": [
+            "https://www.npr.org/2026/11/12/nx-s1-6038865/ceo-jensen-huang-resigns-from-chip-giant-nvidia",
+            "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+            "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html"
+          ],
+          "places": [
+            "SFBAY",
+            "US-DC",
+            "SG",
+            "CN"
+          ],
+          "guilds": [
+            "NVIDIA"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "US admins: Treasury Secretary Scott Bessent said Commerce Secretary Howard Lutnick's department ignored months of warnings about chip sales to China, and reports raised questions about Lutnick's family financial ties to Nvidia; a petition backed by Elon Musk and other tech executives calling for Huang's reinstatement passed 115,000 signatures.",
+          "sources": [
+            "https://gizmodo.com/blame-game-unfolds-in-nvidias-alleged-spy-scandal-treasury-points-to-commerce-2000839643",
+            "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+            "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+          ],
+          "places": [
+            "US-DC",
+            "SFBAY"
+          ],
+          "guilds": [
+            "NVIDIA"
+          ]
+        },
+        {
+          "type": "HOTFIX",
+          "text": "US server outage: a rare nationwide FAA ground stop halted flights Friday, which Transportation Secretary Sean Duffy attributed to a contractor upgrade of an older L3Harris-managed communications system involving copper wiring; officials said they saw no sign of a cyberattack and the FAA said a definitive root cause had not been established, and delays lingered into the weekend, including a tarmac collision at Miami.",
+          "sources": [
+            "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+            "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+            "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+            "https://thehill.com/policy/transportation/6221273-faa-grounding-flights-delays-incidents/"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [],
+          "highlight": true
+        },
+        {
+          "type": "ISSUE",
+          "text": "Global outage: Microsoft guild's day-long Microsoft 365 outage, hitting Outlook, Teams and Copilot and disrupting companies, schools, hospitals and governments, was fully restored by Friday night, and the guild said it was \"deeply sorry\".",
+          "sources": [
+            "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+            "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+            "https://www.theregister.com/saas/2026/11/13/microsoft-services-restored-to-all-customers-company-says-its-deeply-sorry/5309609",
+            "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments"
+          ],
+          "places": [
+            "SEA",
+            "US",
+            "UK"
+          ],
+          "guilds": [
+            "MICROSOFT"
+          ]
+        },
+        {
+          "type": "NERF",
+          "text": "Italy team: admins fined Meta guild EUR 805m ($887m) for accessing Android users' photos and videos without specific consent, and Meta said it plans to appeal.",
+          "sources": [
+            "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
+            "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "IT",
+            "SFBAY"
+          ],
+          "guilds": [
+            "META"
+          ]
+        },
+        {
+          "type": "EXPLOIT",
+          "text": "Cursor guild confirmed a breach that let hackers distribute a malicious Claude Code extension via its marketplace after an access key was stolen in a Fireworks AI breach.",
+          "sources": [
+            "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+            "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "CURSOR",
+            "ANTHROPIC"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "US mods: the US disrupted a North Korean 'FaceStealer' campaign behind more than $400m in stolen crypto, and an international operation took down Gootloader, CastleRAT and StealC servers; separately, police arrested 354 suspects across dark web marketplaces.",
+          "sources": [
+            "https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523",
+            "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+            "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/"
+          ],
+          "places": [
+            "US-DC",
+            "KP"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Tesla guild opened Cybercab pre-orders for personal use with geographic limits and a $299 monthly fee, which Elon Musk said is \"too high\"; the Cybertruck is being wound down.",
+          "sources": [
+            "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+            "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+            "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/cybertruck-maga-hat-on-wheels-end"
+          ],
+          "places": [
+            "US-TX"
+          ],
+          "guilds": [
+            "TESLA"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "OpenAI guild shipped ChatGPT Wallet in a limited rollout to US Pro subscribers, letting AI agents shop and check out for users.",
+          "sources": [
+            "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+          ],
+          "places": [
+            "SFBAY"
+          ],
+          "guilds": [
+            "OPENAI"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Huawei guild unveiled 'SuperCluster' architecture designed to link up to 1 million AI chips as a single computer.",
+          "sources": [
+            "https://www.livescience.com/technology/computing/huawei-unveils-supercluster-architecture-designed-to-make-1-million-ai-chips-work-as-a-single-computer"
+          ],
+          "places": [
+            "CN"
+          ],
+          "guilds": [
+            "HUAWEI"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "US admins: the Pentagon renamed its Chief Digital and AI Office the 'Super Intelligence Office', following Trump's order to replace 'artificial intelligence' with 'super intelligence' in executive branch communications.",
+          "sources": [
+            "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "Research unlock: astronomers found a dead star spinning every 8 minutes and emitting radio pulses while orbiting a Sun-like star more than 5,000 light-years away.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+            "https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html"
+          ],
+          "places": [],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Research unlock: the ESA's Euclid telescope guild released its first major data set, including a map of 900 million galaxies.",
+          "sources": [
+            "https://www.livescience.com/space/astronomy/far-more-than-beautiful-pictures-euclid-space-telescope-images-900-million-galaxies-on-its-quest-to-make-the-largest-3d-map-of-the-universe"
+          ],
+          "places": [],
+          "guilds": [
+            "ESA"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Research unlock: CERN guild found evidence of a particle decay occurring about once in 10 billion decays, ending a search of more than 40 years.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/11/261108233047.htm"
+          ],
+          "places": [
+            "CH"
+          ],
+          "guilds": [
+            "CERN"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Research unlock: NASA's Perseverance rover confirmed complex organic carbon beneath the surface of ancient Martian rocks.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/11/261111005908.htm"
+          ],
+          "places": [],
+          "guilds": [
+            "NASA"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Research unlock: a theoretical study proposed dark energy may have flipped from negative to positive 9.5 billion years ago, and new simulations may explain the tilted magnetic fields of Uranus and Neptune.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
+            "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
+          ],
+          "places": [],
+          "guilds": []
+        },
+        {
+          "type": "NEW",
+          "text": "Research unlock: NASA reported the 2026 Antarctic ozone hole reached its seventh-largest size on record, and researchers built the first quantum clock that uses sunlight.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
+            "https://www.newscientist.com/article/2598583-researchers-built-the-first-ever-quantum-clock-that-uses-sunlight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+          ],
+          "places": [],
+          "guilds": [
+            "NASA"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Research unlock: Stanford researchers found hidden patterns of brain activity that can predict Alzheimer's risk years before memory problems appear.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
+          ],
+          "places": [
+            "US-CA"
+          ],
+          "guilds": [
+            "STANFORD"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "Research unlock: Webb telescope found the earliest known pair of black-hole-powered quasars, and Voyager 1 is about to become the first object to reach one light-day from Earth.",
+          "sources": [
+            "https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars",
+            "https://phys.org/news/2026-11-nasa-voyager-day-interstellar-space.html"
+          ],
+          "places": [],
+          "guilds": [
+            "NASA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Space",
+      "changes": [
+        {
+          "type": "NEW",
+          "text": "Starship Flight 15: SpaceX guild caught the upper stage on the launch tower at Starbase for the first time after it returned from orbit, though the booster aborted its catch and crashed into the Gulf of Mexico, while the flight deployed Starlink satellites.",
+          "sources": [
+            "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+            "https://www.npr.org/2026/11/14/nx-s1-6038958/spacex-deploys-starlink-satellites-in-starship-test-but-booster-crashes-into-gulf",
+            "https://phys.org/news/2026-11-spacex-starship-soars-orbit-booster.html"
+          ],
+          "places": [
+            "STARBASE"
+          ],
+          "guilds": [
+            "SPACEX"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "NEW",
+          "text": "ULA guild's Vulcan rocket was scheduled to return to flight Sunday for the first time since February, carrying 40 Amazon internet satellites; Rocket Lab guild flew its 100th mission and raised the price of a Neutron launch from $55m to $70m.",
+          "sources": [
+            "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+            "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+            "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
+            "https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million"
+          ],
+          "places": [
+            "US-FL",
+            "US-CA"
+          ],
+          "guilds": [
+            "ULA",
+            "ROCKETLAB",
+            "AMAZON"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "NASA admins unveiled a plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin building competing landers, and opened applications for new astronauts.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
+            "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA",
+            "SPACEX",
+            "BLUEORIGIN"
+          ]
+        },
+        {
+          "type": "NEW",
+          "text": "China team: a Pakistani astronaut is set to become the first foreign visitor to the Tiangong space station on Shenzhou 24, and NASA started a new push to bring Mars samples home.",
+          "sources": [
+            "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-set-to-become-1st-international-visitor-to-chinas-tiangong-space-station-this-month",
+            "https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home"
+          ],
+          "places": [
+            "CN",
+            "PK",
+            "US-DC"
+          ],
+          "guilds": [
+            "NASA"
+          ]
+        },
+        {
+          "type": "FIX",
+          "text": "NASA's CHAPEA crew emerged after more than a year of simulated Mars life in isolation.",
+          "sources": [
+            "https://www.sciencedaily.com/releases/2026/11/261109205406.htm"
+          ],
+          "places": [
+            "US-TX"
+          ],
+          "guilds": [
+            "NASA"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "SpaceX guild launched its second classified US Space Force mission in six days.",
+          "sources": [
+            "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos"
+          ],
+          "places": [
+            "US-CA"
+          ],
+          "guilds": [
+            "SPACEX"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Health & Medicine",
+      "changes": [
+        {
+          "type": "NERF",
+          "text": "US team: the Pan American Health Organization determined the US lost its measles elimination status, meaning spread is significant and sustained.",
+          "sources": [
+            "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+            "https://www.livescience.com/health/viruses-infections-disease/measles-is-back-in-the-united-states-who-authorities-say"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": [
+            "WHO"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "US admins: a rule is being finalized to reimburse doctors who diagnose and treat vaccine side effects, which experts quoted in reports said elevates the health secretary's agenda; Sen. Ron Wyden opened an investigation into whether Robert F. Kennedy Jr. lied to Congress about a Samoa trip, citing a news report, and Kennedy's response is not in these reports.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
+            "https://www.theguardian.com/us-news/2026/nov/12/senate-investigation-rfk-jr-measles-samoa"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "US admins: enforcement of new Medicaid work requirements was delayed six months until July 1, 2027.",
+          "sources": [
+            "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "The American Cancer Society reversed course and urged routine PSA prostate screening every two years for average-risk men aged 50 to 69.",
+          "sources": [
+            "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "UK team: NHS England is on track to miss its March 2027 cancer treatment target by nearly 10,000 patients, while consultant doctors called off a two-day strike after the health secretary agreed to negotiations.",
+          "sources": [
+            "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
+            "https://www.theguardian.com/society/2026/nov/11/consultant-doctors-in-england-call-off-nhs-strike"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "England server: hundreds of children, some under 12, have been prescribed GLP-1 weight-loss jabs, according to figures obtained by a newspaper investigation, with experts stressing specialist supervision.",
+          "sources": [
+            "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
+        }
+      ]
+    },
+    {
+      "category": "Climate & Energy",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "COP31 in Antalya, Turkey: the UN climate chief warned \"tactical delays\" could prevent a deal, nations grappled with the loss of the 1.5C target, and scientists warned the threshold could arrive by 2029.",
+          "sources": [
+            "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-world-4025-rdf",
+            "https://phys.org/news/2026-11-nations-grapple-loss-15c-climate.html",
+            "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/"
+          ],
+          "places": [
+            "TR"
+          ],
+          "guilds": [
+            "UN"
+          ],
+          "highlight": true
+        },
+        {
+          "type": "CHANGE",
+          "text": "COP31: California Gov. Gavin Newsom endorsed a global fossil fuel phaseout while the Trump administration boycotts the process, and PM Burnham said the climate consensus is \"gone\" but pledged a \"new era of leadership\"; IEA chief Fatih Birol said the world is in the \"age of electricity\".",
+          "sources": [
+            "https://www.theguardian.com/environment/2026/nov/13/california-gavin-newsom-endorses-fossil-fuel-phaseout",
+            "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea"
+          ],
+          "places": [
+            "TR",
+            "US-CA",
+            "UK"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "Global emissions: scientists project fossil fuel carbon emissions will fall 0.4% this year, driven by wind and solar growth and oil price rises tied to the Iran war.",
+          "sources": [
+            "https://www.livescience.com/planet-earth/climate-change/worlds-fossil-fuel-emissions-will-fall-this-year-scientists-say-partly-because-of-the-iran-war"
+          ],
+          "places": [],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "US server weather: a strong El Nino has arrived and the earliest polar vortex disruption on record is sending cold air into the US ahead of Thanksgiving.",
+          "sources": [
+            "https://grist.org/extreme-weather/a-monstrous-el-nino-has-arrived-what-it-means-for-where-you-live/",
+            "https://gizmodo.com/unpredecented-polar-vortex-event-arctic-blast-2000839635"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Europe server: Storm Charles caused floods and flight cancellations in Portugal and southern Spain.",
+          "sources": [
+            "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather"
+          ],
+          "places": [
+            "PT",
+            "ES"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "UK team: Greenpeace dumped boulders off the Norfolk coast in protest against seabed trawling at the site of Burnham-backed windfarms that may delay construction, after the national wealth fund said it would lend GBP 1bn toward the Vanguard projects.",
+          "sources": [
+            "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
+            "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/11/kkr-rwe-uk-state-loan-vanguard-windfarms"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": [
+            "RWE"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Law & Society",
+      "changes": [
+        {
+          "type": "ISSUE",
+          "text": "US mods: 16 Ecuadorian fishermen who survived a US military drone strike on their boat on March 17 sued the Trump administration, with the US military having killed nearly 250 people in strikes on alleged drug boats.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/nov/14/ecuadorian-fishermen-lawsuit-trump-boat-strike"
+          ],
+          "places": [
+            "US-DC",
+            "EC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "US admins: Afghans in the US face uncertainty over possible ban hammer deportations, with members of Congress and advocates warning that returns could be fatal.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration"
+          ],
+          "places": [
+            "US-DC",
+            "AF"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "Florida server: Delray Beach cancelled its St. Patrick's Day parade after nearly 60 years, citing a new state law barring taxpayer money for diversity initiatives.",
+          "sources": [
+            "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei"
+          ],
+          "places": [
+            "US-FL"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "UK mod panel: two men were found guilty of helping Iran try to \"eliminate\" UK-based journalists.",
+          "sources": [
+            "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists"
+          ],
+          "places": [
+            "UK",
+            "IR"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "US-Louisiana: about 130 people were rescued after a tanker struck a docked cruise ship in New Orleans, and the port filed a $1m lawsuit seeking the tanker's seizure.",
+          "sources": [
+            "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "US-LA"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "Leeds, UK: two people aged 22 and 23 died after a car pursued by police crashed into another vehicle and four people were arrested on suspicion of causing death by dangerous driving.",
+          "sources": [
+            "https://www.theguardian.com/uk-news/2026/nov/15/leeds-car-pursued-by-police-crashes-into-another-vehicle",
+            "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UK"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "Starbucks workers: baristas and students planned rallies at more than 40 US campuses over stalled contract talks.",
+          "sources": [
+            "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks"
+          ],
+          "places": [
+            "US"
+          ],
+          "guilds": [
+            "STARBUCKS"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "changes": [
+        {
+          "type": "CHANGE",
+          "text": "FIFA, Ultimate Team transfer: Manchester United's squad appointed Mauricio Pochettino as the new player on the controller, replacing Michael Carrick after about 10 months, with the US squad's controller due to depart after beating Haiti 6-0.",
+          "sources": [
+            "https://www.espn.com/soccer/story/_/id/50452091/manchester-united-hire-mauricio-pochettino-reaction",
+            "https://www.theguardian.com/football/video/2026/nov/13/mauricio-pochettino-to-manchester-united-and-record-breaker-kane-football-weekly-video",
+            "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+            "https://www.espn.com/soccer/story/_/id/50484170/usa-haiti-christian-pulisic-goal-mauricio-pochettino"
+          ],
+          "places": [
+            "UK",
+            "US"
+          ],
+          "guilds": [
+            "MANUTD"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Grinding FIFA's international mode: Portugal's squad lost 4-1 at home to Denmark in its first competitive session without Cristiano Ronaldo, Japan's squad beat Brazil's 3-2 in Singapore with Raphinha's card sent off, Argentina's squad lost 2-1 to Uruguay, and Italy's squad beat France's 3-1 for Zinedine Zidane's first loss.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
+            "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
+            "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia"
+          ],
+          "places": [
+            "PT",
+            "JP",
+            "BR",
+            "IT"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "In FIFA's Nations League mode, USMNT's squad beat Haiti 6-0 on a Christian Pulisic card brace, and Northern Ireland's squad topped its group with a 1-0 win over Ukraine.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/nov/14/usmnt-haiti-pulisic-pochettino-nations-league-quarter-final",
+            "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "US",
+            "UK"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "FIFA squads: Spain's controller Luis de la Fuente told England's Thomas Tuchel there is no racism in Spain ahead of their session; Arsenal's women's squad drew 1-1 at Barcelona in the Champions League and Chelsea's squad went top of the WSL with a 1-0 win over Manchester City.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
+            "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "ES",
+            "UK"
+          ],
+          "guilds": [
+            "ARSENAL",
+            "BARCELONA",
+            "CHELSEA",
+            "MANCITY"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Washington Spirit's squad beat Utah Royals 2-1 to reach a third straight NWSL final.",
+          "sources": [
+            "https://www.theguardian.com/football/2026/nov/14/washington-spirit-utah-royals-nwsl-semi-final-clara-luvanga"
+          ],
+          "places": [
+            "US-DC"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "ISSUE",
+          "text": "FIFA league admins: Arsene Wenger decided not to challenge Gianni Infantino for the presidency, while a complaint was filed to the US IRS over claims about a housekeeper on FIFA's payroll; FIFA said Infantino personally pays for domestic staff.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper"
+          ],
+          "places": [
+            "CH"
+          ],
+          "guilds": [
+            "FIFA"
+          ]
+        },
+        {
+          "type": "ISSUE",
+          "text": "FIFA: Andorra goalkeeper Jesus Owono was banned 12 games for the collision that led to the death of Tenerife striker Jesus de Miguel.",
+          "sources": [
+            "https://www.espn.com/soccer/story/_/id/50474551/andorra-goalkeeper-jesus-owono-tenerife-death-jesus-de-miguel"
+          ],
+          "places": [
+            "ES"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "BUFF",
+          "text": "Ranked rugby: Wales beat New Zealand for the first time in 73 years, and England beat Japan 78-15 in the Nations Championship.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/sport/rugby-union/videos/cmn0d1w0ry0no?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "UK",
+            "NZ",
+            "JP"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "BUFF",
+          "text": "Rugby league World Cup: Australia won a fourth straight men's title 32-12 over New Zealand and a fourth women's title 34-10, while England beat France 50-38 to retain the wheelchair title.",
+          "sources": [
+            "https://www.theguardian.com/sport/live/2026/nov/15/australia-kangaroos-vs-new-zealand-kiwis-mens-rugby-league-world-cup-final-live-updates",
+            "https://www.bbc.co.uk/sport/rugby-league/articles/c50mdzx3j039o?at_medium=RSS&at_campaign=rss",
+            "https://www.bbc.co.uk/sport/rugby-league/videos/cqy4jdxven1go?at_medium=RSS&at_campaign=rss"
+          ],
+          "places": [
+            "AU",
+            "NZ",
+            "UK"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "BUFF",
+          "text": "Golf: Rory McIlroy won a record-equalling eighth Race to Dubai title and dedicated it to his father, while Hatton won the DP World Tour Championship.",
+          "sources": [
+            "https://www.theguardian.com/sport/2026/nov/15/rory-mcilroy-wins-golfs-race-to-dubai-title-for-record-equalling-eighth-time",
+            "https://www.skysports.com/watch/video/13612476/dp-world-tour-championship-day-four-highlights"
+          ],
+          "places": [
+            "AE"
+          ],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "UFC 334: Kayla Harrison submitted Amanda Nunes in round 4 to retain the bantamweight title, and Ciryl Gane beat Josh Hokit to retain the heavyweight title.",
+          "sources": [
+            "https://www.espn.com/mma/story/_/id/50444358/ufc-334-live-results-analysis-ciryl-gane-josh-hokit",
+            "https://www.espn.com/mma/story/_/id/50487730/kayla-harrison-submits-amanda-nunes-retain-title-ufc-334"
+          ],
+          "places": [
+            "US-NYC"
+          ],
+          "guilds": [
+            "UFC"
+          ]
+        },
+        {
+          "type": "CHANGE",
+          "text": "Tennis: Mirra Andreeva beat Aryna Sabalenka 6-4 6-0 to reach the WTA Finals final against Elina Svitolina, with Sabalenka apologising for an on-court outburst.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/tennis/videos/cqrmg2w1038ro?at_medium=RSS&at_campaign=rss",
+            "https://www.theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells"
+          ],
+          "places": [],
+          "guilds": []
+        },
+        {
+          "type": "CHANGE",
+          "text": "Cricket: England beat Australia by 135 runs on a Tom Banton century to level the one-day series, and India beat New Zealand by 22 runs for New Zealand's first home ODI series loss since 2019.",
+          "sources": [
+            "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o?at_medium=RSS&at_campaign=rss",
+            "https://www.skysports.com/cricket/news/12040/13612461/india-fight-back-to-end-new-zealands-long-unbeaten-run-in-home-odi-series-with-22-run-victory-at-mount-maunganui"
+          ],
+          "places": [
+            "AU",
+            "UK",
+            "NZ",
+            "IN"
+          ],
+          "guilds": []
+        }
+      ]
+    }
+  ]
+}
